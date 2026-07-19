@@ -111,7 +111,7 @@ if not AI_MODEL:
 
 def load_phrase_history():
     if PHRASE_HISTORY_FILE.exists():
-        with open(PHRASE_HISTORY_FILE, "r", encoding="utf-8") as f:
+        with open(PHRASE_HISTORY_FILE, "r", encoding="utf-8-sig") as f:
             return json.load(f)
     return {"phrases": [], "last_updated": None}
 
@@ -214,6 +214,17 @@ def generate_phrases_for_longform(category_english: str, num_phrases: int) -> li
 
 Style: Make each phrase feel like a {viral_style} - something people would want to share!
 
+CRITICAL RULE - STRICTLY ENFORCE:
+The "english" field must contain PURE ENGLISH words only. ZERO Georgian/Mkhedruli.
+The "georgian" field contains the Georgian translation in Mkhedruli script.
+The "pronunciation" field is phonetic English spelling.
+
+WRONG (mixed language): {{"english": "Sheni otsneba aaket, believe in yourself", ...}}
+WRONG (Georgian in english): {{"english": "Follow your otsnebi and success will come", ...}}
+CORRECT: {{"english": "Make your dreams come true, believe in yourself.", "georgian": "გაახდენე შენი ოცნებები, გჯეროდეს საკუთარი თავის.", "pronunciation": "ga-akh-de-ne she-ni ots-ne-be-bi, gje-ro-des sa-ku-ta-ri ta-vis."}}
+
+The english field MUST be 100% English words only. NO Georgian words allowed.
+
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
 2. Add NATURAL PAUSES using commas (e.g., "Dream big, start small")
@@ -225,9 +236,9 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 8. Vary sentence structure for natural flow
 
 For each phrase:
-1. English phrase (with commas for natural pauses)
-2. Georgian translation (Mkhedruli script)
-3. Pronunciation guide (phonetic spelling for English speakers)
+1. English phrase (pure English, zero Georgian) with commas for natural pauses
+2. Georgian translation (Mkhedruli script only)
+3. Pronunciation guide (phonetic English spelling)
 
 Return as JSON array:
 [{{"english": "...", "georgian": "...", "pronunciation": "..."}}]
@@ -237,7 +248,7 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
                 payload = {
                     "model": AI_MODEL,
                     "messages": [
-                        {"role": "system", "content": "You are a viral Georgian teacher creating engaging educational content for YouTube. Create short, natural phrases with pauses."},
+                        {"role": "system", "content": "You are a viral Georgian teacher. CRITICAL: The 'english' field must contain PURE ENGLISH words ONLY. NO Georgian in english field. Georgian goes in the 'georgian' field. This is strictly enforced."},
                         {"role": "user", "content": prompt}
                     ],
                     "temperature": 1.0
