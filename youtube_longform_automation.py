@@ -239,6 +239,7 @@ For each phrase:
 1. English phrase (pure English, zero Georgian) with commas for natural pauses
 2. Georgian translation (Mkhedruli script only)
 3. Pronunciation guide (phonetic English spelling)
+CRITICAL: Every translation MUST be in Georgian. NEVER use German, Spanish, or any other language. Only Georgian.
 
 Return as JSON array:
 [{{"english": "...", "georgian": "...", "pronunciation": "..."}}]
