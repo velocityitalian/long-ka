@@ -837,6 +837,9 @@ def generate_title_description(category_english: str, category_georgian: str, ph
         f"Speak Georgian Fluently | {category_english} Phrases | English + Georgian + Pronunciation",
     ]
 
+    # YouTube title limit is 100 chars - truncate any overlong title safely
+    titles = [t if len(t) <= 100 else (t[:97] + "...") for t in titles]
+
     description = f"""🇬🇪 Learn Georgian with Velocity Georgian! 🇬🇪
 
 In this video, you'll learn 60 essential Georgian phrases about {category_english} ({category_georgian}).
