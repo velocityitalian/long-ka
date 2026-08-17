@@ -3,6 +3,7 @@ YouTube Upload Script for Velocity Georgian
 """
 
 import os, sys, json, time
+import time
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -36,7 +37,7 @@ def get_latest_video():
 
 
 
-def ensure_playlist(youtube, title="Velocity Georgian - Georgian Phrases", description="All Georgian phrases videos in one playlist. Learn Georgian with Velocity Georgian!"):
+def ensure_playlist(youtube, title="Learn Georgian Phrases for Beginners | Velocity Georgian", description="All georgian phrases videos in one playlist. 🇬🇪 Learn Georgian with Velocity Georgian!"):
     """Find an existing playlist by title or create a new one. Returns playlist_id."""
     try:
         req = youtube.playlists().list(part="snippet", mine=True, maxResults=50)
