@@ -78,7 +78,7 @@ CATEGORIES_GEORGIAN = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 LANG_VOICE = "ka-GE-EkaNeural"
 
 # Phrase history file
