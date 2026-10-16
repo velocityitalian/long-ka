@@ -40,7 +40,6 @@ TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases wit
 TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names
-CATEGORIES_ENGLISH = list(CATEGORIES_GEORGIAN.keys())
 
 # Georgian translations (Mkhedruli script)
 CATEGORIES_GEORGIAN = {
@@ -98,6 +97,9 @@ CATEGORIES_GEORGIAN = {
     "Cultural Traditions": "კულტურული ტრადიციები",
 }
 
+
+# English category names (dynamic)
+CATEGORIES_ENGLISH = list(CATEGORIES_GEORGIAN.keys())
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
 LANG_VOICE = "ka-GE-EkaNeural"
