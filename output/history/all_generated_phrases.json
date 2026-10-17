@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "Wisdom comes, with time.",
+      "georgian": "სიბრძნე მოდის, დროთა განმავლობაში.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672432"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "georgian": "მოუსმინე მეტს, ილაპარაკე ნაკლებს.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672448"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "georgian": "მოთმინება, დიდი სათნოებაა.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672452"
+    },
+    {
+      "english": "Learn from mistakes, always.",
+      "georgian": "ისწავლე შეცდომებისგან, ყოველთვის.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672455"
+    },
+    {
+      "english": "True friends, are rare.",
+      "georgian": "ნამდვილი მეგობრები, იშვიათია.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672458"
+    },
+    {
+      "english": "Think before, you speak.",
+      "georgian": "დაფიქრდი სანამ, იტყვი.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672461"
+    },
+    {
+      "english": "A quiet mind, hears all.",
+      "georgian": "მშვიდი გონება, ყველაფერს ისმენს.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672463"
+    },
+    {
+      "english": "Humility, is strength.",
+      "georgian": "თავმდაბლობა, ძალაა.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672469"
+    },
+    {
+      "english": "Kindness, costs nothing.",
+      "georgian": "გულმოწყალება, არაფერი ღირს.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672472"
+    },
+    {
+      "english": "Seek truth, always.",
+      "georgian": "ეძებნე სიმართლე, ყოველთვის.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672475"
+    },
+    {
+      "english": "Understand first, then speak.",
+      "georgian": "გაიგე ჯერ, მერე ილაპარაკე.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672477"
+    },
+    {
+      "english": "Experience, teaches best.",
+      "georgian": "გამოცდილება, საუკეთესოდ ასწავლის.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672480"
+    },
+    {
+      "english": "Be present, in the moment.",
+      "georgian": "იყავი აწმყოში, ამ წამს.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672482"
+    },
+    {
+      "english": "Forgiveness, sets you free.",
+      "georgian": "პატიება, გაგათავისუფლებს.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672484"
+    },
+    {
+      "english": "A calm sea, never made a skilled sailor.",
+      "georgian": "მშვიდმა ზღვამ, გამოცდილი მეზღვაური, არასდროს შექმნა.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672487"
+    },
+    {
+      "english": "Wisdom is knowing, you know nothing.",
+      "georgian": "სიბრძნეა იმის ცოდნა, რომ არაფერი იცი.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672502"
+    },
+    {
+      "english": "Observe everything, react little.",
+      "georgian": "დააკვირდი ყველაფერს, იმოქმედე ცოტა.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672504"
+    },
+    {
+      "english": "Silence, speaks volumes.",
+      "georgian": "სიჩუმე, ბევრს ამბობს.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672507"
+    },
+    {
+      "english": "Learn from elders, respect them.",
+      "georgian": "ისწავლე მოხუცებისგან, პატივი ეცი მათ.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672511"
+    },
+    {
+      "english": "A wise person, asks questions.",
+      "georgian": "ბრძენი ადამიანი, კითხვებს სვამს.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672513"
+    },
+    {
+      "english": "Truth, hurts sometimes.",
+      "georgian": "სიმართლე, ზოგჯერ მტკივნეულია.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672515"
+    },
+    {
+      "english": "Inner peace, is wealth.",
+      "georgian": "შინაგანი სიმშვიდე, სიმდიდრეა.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672517"
+    },
+    {
+      "english": "Listen to your heart, it knows.",
+      "georgian": "მოუსმინე შენს გულს, მან იცის.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672519"
+    },
+    {
+      "english": "Knowledge is power, wisdom is action.",
+      "georgian": "ცოდნა ძალაა, სიბრძნე მოქმედებაა.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672522"
+    },
+    {
+      "english": "Don't rush, life is long.",
+      "georgian": "ნუ იჩქარებ, ცხოვრება გრძელია.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672524"
+    },
+    {
+      "english": "Wisdom is seeing, the whole picture.",
+      "georgian": "სიბრძნეა, მთლიანი სურათის დანახვა.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672529"
+    },
+    {
+      "english": "A moment of anger, costs dearly.",
+      "georgian": "ერთი წუთი ბრაზი, ძვირადღირებულია.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672531"
+    },
+    {
+      "english": "Be humble, when you succeed.",
+      "georgian": "იყავი თავმდაბალი, როცა წარმატებას მიაღწევ.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672533"
+    },
+    {
+      "english": "Wisdom is sharing, your knowledge.",
+      "georgian": "სიბრძნეა, შენი ცოდნის გაზიარება.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672535"
+    },
+    {
+      "english": "What do you think, about this?",
+      "georgian": "ამაზე, რას ფიქრობ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672538"
+    },
+    {
+      "english": "Can you explain, more clearly?",
+      "georgian": "უფრო ნათლად, შეგიძლია ამიხსნა?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672540"
+    },
+    {
+      "english": "What's your advice, for me?",
+      "georgian": "შენი რჩევა, ჩემთვის რა არის?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672543"
+    },
+    {
+      "english": "Did you consider, other options?",
+      "georgian": "სხვა ვარიანტები, გაითვალისწინე?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672548"
+    },
+    {
+      "english": "How did you learn, that?",
+      "georgian": "როგორ ისწავლე, ეგ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672550"
+    },
+    {
+      "english": "What's the wise way, to proceed?",
+      "georgian": "ბრძნული გზა, როგორ მივიდეთ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672553"
+    },
+    {
+      "english": "Do you agree, with this idea?",
+      "georgian": "ეთანხმები, ამ აზრს?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672556"
+    },
+    {
+      "english": "Tell me your perspective, please.",
+      "georgian": "მითხარი შენი ხედვა, გეთაყვა.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672558"
+    },
+    {
+      "english": "What lesson, did you take away?",
+      "georgian": "რა გაკვეთილი, მიიღე?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672560"
+    },
+    {
+      "english": "Is there a better, approach?",
+      "georgian": "უკეთესი, მიდგომა თუ არის?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672563"
+    },
+    {
+      "english": "How do you handle, difficult situations?",
+      "georgian": "რთულ სიტუაციებს, როგორ უმკლავდები?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672565"
+    },
+    {
+      "english": "What makes you say, that?",
+      "georgian": "რატომ ამბობ, ამას?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672567"
+    },
+    {
+      "english": "Can we discuss, this further?",
+      "georgian": "შეგვიძლია, ამაზე კიდევ ვისაუბროთ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672570"
+    },
+    {
+      "english": "What's your opinion, on this matter?",
+      "georgian": "შენი აზრი, ამ საკითხზე რა არის?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672573"
+    },
+    {
+      "english": "Have you faced, similar challenges?",
+      "georgian": "მსგავსი სირთულეები, გქონია?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672575"
+    },
+    {
+      "english": "What's the key, takeaway here?",
+      "georgian": "მთავარი, დასკვნა აქ რა არის?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672577"
+    },
+    {
+      "english": "Could you elaborate, a little?",
+      "georgian": "ოდნავ, დაწვრილებით შეგიძლია?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672579"
+    },
+    {
+      "english": "What guiding principle, do you follow?",
+      "georgian": "რა მამოძრავებელი პრინციპი, გაქვს?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672581"
+    },
+    {
+      "english": "How do you find, balance?",
+      "georgian": "როგორ პოულობ, ბალანსს?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672583"
+    },
+    {
+      "english": "What have you learned, recently?",
+      "georgian": "რაც ახლახან, ისწავლე?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672585"
+    },
+    {
+      "english": "Do you see, another solution?",
+      "georgian": "ხედავ, სხვა გამოსავალს?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672587"
+    },
+    {
+      "english": "What wisdom, do you share?",
+      "georgian": "რა სიბრძნეს, იზიარებ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672589"
+    },
+    {
+      "english": "Are we on the, same page?",
+      "georgian": "ერთი და იგივე, აზრზე ვართ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672592"
+    },
+    {
+      "english": "What's your take, on this?",
+      "georgian": "შენი დამოკიდებულება, ამაზე რა არის?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672594"
+    },
+    {
+      "english": "How do you stay, grounded?",
+      "georgian": "როგორ რჩები, ფეხზე მყარად?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672597"
+    },
+    {
+      "english": "What's your perspective, changed?",
+      "georgian": "შენი ხედვა, შეიცვალა?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672602"
+    },
+    {
+      "english": "Can you give an, example?",
+      "georgian": "შეგიძლია, მაგალითი მომცე?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672604"
+    },
+    {
+      "english": "What have you observed, lately?",
+      "georgian": "რას აკვირდები, ბოლო დროს?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672606"
+    },
+    {
+      "english": "Is there a simpler, way?",
+      "georgian": "უფრო მარტივი, გზა თუ არის?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672608"
+    },
+    {
+      "english": "What's your best, suggestion?",
+      "georgian": "შენი საუკეთესო, შემოთავაზება რა არის?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672611"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "georgian": "საკუთარ თავს, ენდე ყოველთვის.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672613"
+    },
+    {
+      "english": "Every day, a new chance.",
+      "georgian": "ყოველი დღე, ახალი შანსია.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672616"
+    },
+    {
+      "english": "Stay positive, think ahead.",
+      "georgian": "პოზიტიურად იყავი, იფიქრე მომავალზე.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672618"
+    },
+    {
+      "english": "Good job, well done!",
+      "georgian": "კარგია, კარგად გააკეთე!",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672620"
+    },
+    {
+      "english": "You can do it, try harder.",
+      "georgian": "შენ შეგიძლია, ეცადე მეტად.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672623"
+    },
+    {
+      "english": "Don't give up, keep going.",
+      "georgian": "არ დანებდე, გააგრძელე.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672628"
+    },
+    {
+      "english": "Your effort shows, great work.",
+      "georgian": "შენი ძალისხმევა ჩანს, მშვენიერია.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672631"
+    },
+    {
+      "english": "Be brave, face your fears.",
+      "georgian": "იყავი გაბედული, შეეჯახე შიშებს.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672633"
+    },
+    {
+      "english": "You're learning fast, impressive.",
+      "georgian": "სწრაფად სწავლობ, შთამბეჭდავია.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672636"
+    },
+    {
+      "english": "Keep a positive outlook.",
+      "georgian": "პოზიტიური დამოკიდებულება შეინარჩუნე.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672638"
+    },
+    {
+      "english": "Your mind is a garden.",
+      "georgian": "შენი გონება, ბაღია.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672640"
+    },
+    {
+      "english": "Plant good thoughts, always.",
+      "georgian": "დათესე კარგი ფიქრები, ყოველთვის.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672643"
+    },
+    {
+      "english": "Positive energy, attracts good.",
+      "georgian": "პოზიტიური ენერგია, კარგს იზიდავს.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672645"
+    },
+    {
+      "english": "You've got this, believe it.",
+      "georgian": "შენ შეგიძლია, დაიჯერე.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672648"
+    },
+    {
+      "english": "Small steps, big results.",
+      "georgian": "პატარა ნაბიჯები, დიდი შედეგები.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672650"
+    },
+    {
+      "english": "Your potential is limitless.",
+      "georgian": "შენი პოტენციალი, უსასრულოა.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672652"
+    },
+    {
+      "english": "Be proud of your progress.",
+      "georgian": "იამაყე შენი პროგრესით.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672654"
+    },
+    {
+      "english": "Never stop learning, grow.",
+      "georgian": "არასოდეს შეწყვიტო სწავლა, გაიზარდე.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672658"
+    },
+    {
+      "english": "Your attitude, is everything.",
+      "georgian": "შენი დამოკიდებულება, ყველაფერია.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672661"
+    },
+    {
+      "english": "Embrace challenges, grow stronger.",
+      "georgian": "მიიღე გამოწვევები, გახდი ძლიერი.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672664"
+    },
+    {
+      "english": "Focus on solutions, not problems.",
+      "georgian": "ფოკუსი გადაიტანე გადაწყვეტებზე, არა პრობლემებზე.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672668"
+    },
+    {
+      "english": "You are capable, believe it.",
+      "georgian": "შენ შეგიძლია, დაიჯერე.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672671"
+    },
+    {
+      "english": "Your mindset, shapes reality.",
+      "georgian": "შენი აზროვნება, რეალობას ქმნის.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672673"
+    },
+    {
+      "english": "Keep pushing forward, you'll get there.",
+      "georgian": "წინ იარე, იქ მიაღწევ.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672675"
+    },
+    {
+      "english": "Inspire others, with your actions.",
+      "georgian": "სხვებს შთააგონე, შენი ქმედებებით.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672677"
+    },
+    {
+      "english": "Every setback, is a setup.",
+      "georgian": "ყოველი მარცხი, მომზადებაა.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672679"
+    },
+    {
+      "english": "Stay resilient, bounce back.",
+      "georgian": "გამძლე იყავი, აღდექ.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672681"
+    },
+    {
+      "english": "Your determination, is key.",
+      "georgian": "შენი გადაწყვეტილება, მთავარია.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672683"
+    },
+    {
+      "english": "Think big, dream bigger.",
+      "georgian": "იფიქრე მასშტაბურად, იოცნებე უფრო მეტად.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672686"
+    },
+    {
+      "english": "Great effort, keep it up!",
+      "georgian": "დიდი ძალისხმევა, ასე გააგრძელე!",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672688"
+    },
+    {
+      "english": "True understanding, takes time.",
+      "georgian": "ნამდვილი გაგება, დროს ითხოვს.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672690"
+    },
+    {
+      "english": "Patience, brings reward.",
+      "georgian": "მომთმენობა, ჯილდოს მოიტანს.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672693"
+    },
+    {
+      "english": "Sometimes, silence speaks loudest.",
+      "georgian": "ზოგჯერ, სიჩუმე ყველაზე ხმამაღლა ამბობს.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672695"
+    },
+    {
+      "english": "Feel your emotions, don't hide.",
+      "georgian": "იგრძენი შენი ემოციები, ნუ დაიმალები.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672698"
+    },
+    {
+      "english": "Honesty, is the first step.",
+      "georgian": "პატიოსნება, პირველი ნაბიჯია.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672700"
+    },
+    {
+      "english": "Reflect often, on your path.",
+      "georgian": "ხშირად დაფიქრდი, შენს გზაზე.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672703"
+    },
+    {
+      "english": "Accept what is, find peace.",
+      "georgian": "მიიღე ის რაც არის, იპოვე სიმშვიდე.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672729"
+    },
+    {
+      "english": "Your feelings, are valid.",
+      "georgian": "შენი გრძნობები, ვალიდურია.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672735"
+    },
+    {
+      "english": "Speak your truth, kindly.",
+      "georgian": "თქვი შენი სიმართლე, კეთილად.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672737"
+    },
+    {
+      "english": "Vulnerability, is a strength.",
+      "georgian": "დაუცველობა, ძალაა.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672739"
+    },
+    {
+      "english": "Forgiveness, liberates the soul.",
+      "georgian": "პატიება, სულს ათავისუფლებს.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672742"
+    },
+    {
+      "english": "Let go, of what hurts.",
+      "georgian": "გაუშვი, ის რაც გტკივა.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672744"
+    },
+    {
+      "english": "Inner peace, is everything.",
+      "georgian": "შინაგანი სიმშვიდე, ყველაფერია.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672747"
+    },
+    {
+      "english": "Be kind, to yourself.",
+      "georgian": "იყავი კეთილი, შენს თავთან.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672749"
+    },
+    {
+      "english": "Observe people, learn their ways.",
+      "georgian": "დააკვირდი ხალხს, ისწავლე მათი გზები.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672751"
+    },
+    {
+      "english": "Ask for help, it's not weakness.",
+      "georgian": "დახმარება ითხოვე, ეს სისუსტე არ არის.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672753"
+    },
+    {
+      "english": "A good map, saves much trouble.",
+      "georgian": "კარგი რუკა, ბევრ უბედურებას დაგიზოგავს.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672755"
+    },
+    {
+      "english": "Learn basic phrases, they help a lot.",
+      "georgian": "ისწავლე ძირითადი ფრაზები, ძალიან გეხმარება.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672760"
+    },
+    {
+      "english": "Carry small cash, for small shops.",
+      "georgian": "იქონიე წვრილი თანხა, პატარა მაღაზიებისთვის.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672762"
+    },
+    {
+      "english": "Smile often, it opens doors.",
+      "georgian": "ხშირად გაიღიმე, კარს გვიღებს.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672764"
+    },
+    {
+      "english": "Be polite, always good manners.",
+      "georgian": "იყავი თავაზიანი, ყოველთვის კარგი მანერები.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672767"
+    },
+    {
+      "english": "Try local food, it's delicious.",
+      "georgian": "სცადე ადგილობრივი საჭმელი, გემრიელია.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672769"
+    },
+    {
+      "english": "Respect customs, understand their roots.",
+      "georgian": "პატივი ეცი წეს-ჩვეულებებს, გაიგე მათი ფესვები.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672771"
+    },
+    {
+      "english": "Trust your instincts, they are wise.",
+      "georgian": "ენდე შენს ინსტინქტებს, ბრძენები არიან.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672773"
+    },
+    {
+      "english": "Patience is a virtue, worth practicing.",
+      "georgian": "მოთმინება არის სათნოება, ღირს ვარჯიში.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672775"
+    },
+    {
+      "english": "Be open-minded, accept differences.",
+      "georgian": "იყავი ღია გონებით, მიიღე განსხვავებები.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672778"
+    },
+    {
+      "english": "Learn from mistakes, they teach us.",
+      "georgian": "ისწავლე შეცდომებისგან, გვასწავლიან.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672780"
+    },
+    {
+      "english": "Adapt to situations, stay flexible.",
+      "georgian": "მოერგე სიტუაციებს, იყავი მოქნილი.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672782"
+    },
+    {
+      "english": "Gratitude changes perspective, daily.",
+      "georgian": "მადლიერება ცვლის ხედვას, ყოველდღე.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672784"
+    },
+    {
+      "english": "Ask questions, never assume.",
+      "georgian": "დაისვი კითხვები, არასდროს დაუშვა.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672786"
+    },
+    {
+      "english": "Slow down, enjoy the journey.",
+      "georgian": "აუჩქარებლად, ისიამოვნე მოგზაურობით.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-17T07:20:07.672788"
+    }
+  ],
+  "last_updated": "2026-10-17T07:20:07.672790"
+}
