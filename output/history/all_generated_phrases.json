@@ -719,7 +719,727 @@
       "georgian": "აუჩქარებლად, ისიამოვნე მოგზაურობით.",
       "category": "Wisdom",
       "generated_at": "2026-10-17T07:20:07.672788"
+    },
+    {
+      "english": "Good morning, everyone.",
+      "georgian": "დილა მშვიდობისა, ყველას.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061324"
+    },
+    {
+      "english": "How was your sleep?",
+      "georgian": "როგორ გეძინა?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061340"
+    },
+    {
+      "english": "I slept well, thanks.",
+      "georgian": "კარგად მეძინა, მადლობა.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061343"
+    },
+    {
+      "english": "Let's start the day.",
+      "georgian": "დავიწყოთ დღე.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061347"
+    },
+    {
+      "english": "What's for breakfast?",
+      "georgian": "რა არის საუზმეზე?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061350"
+    },
+    {
+      "english": "I need coffee, urgently.",
+      "georgian": "ყავა მჭირდება, სასწრაფოდ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061355"
+    },
+    {
+      "english": "Time to get ready.",
+      "georgian": "მოსამზადებელი დროა.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061358"
+    },
+    {
+      "english": "Where are my keys?",
+      "georgian": "სად არის ჩემი გასაღებები?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061364"
+    },
+    {
+      "english": "Don't forget your bag.",
+      "georgian": "ჩანთა არ დაგავიწყდეს.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061368"
+    },
+    {
+      "english": "I'm leaving now.",
+      "georgian": "მივდივარ ახლა.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061373"
+    },
+    {
+      "english": "Have a good day!",
+      "georgian": "კარგ დღეს გისურვებ!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061376"
+    },
+    {
+      "english": "See you later.",
+      "georgian": "მოვალ მერე.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061410"
+    },
+    {
+      "english": "What time is it?",
+      "georgian": "რამდენი საათია?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061413"
+    },
+    {
+      "english": "It's almost noon.",
+      "georgian": "შუადღე თითქმის არის.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061418"
+    },
+    {
+      "english": "Time for lunch.",
+      "georgian": "სადილი სჯობს.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061421"
+    },
+    {
+      "english": "What are you eating?",
+      "georgian": "რას ჭამ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061424"
+    },
+    {
+      "english": "This is delicious!",
+      "georgian": "ეს გემრიელია!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061427"
+    },
+    {
+      "english": "I'm full, thank you.",
+      "georgian": "გა-ძე-ღე-ბუ-ლი ვარ, მადლობა.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061431"
+    },
+    {
+      "english": "Back to work.",
+      "georgian": "უკან სამუშაოდ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061433"
+    },
+    {
+      "english": "Feeling tired already.",
+      "georgian": "უკვე დაღლილობის შეგრძნება მაქვს.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061436"
+    },
+    {
+      "english": "Need a short break.",
+      "georgian": "მოკლე შესვენება მჭირდება.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061439"
+    },
+    {
+      "english": "Almost done for today.",
+      "georgian": "დღეს თითქმის დამთავრებულია.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061442"
+    },
+    {
+      "english": "What's for dinner?",
+      "georgian": "რა არის ვახშამზე?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061445"
+    },
+    {
+      "english": "Let's relax a bit.",
+      "georgian": "ცოტა დავისვენოთ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061448"
+    },
+    {
+      "english": "Watching some TV.",
+      "georgian": "ტელევიზორს ვუყურებ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061451"
+    },
+    {
+      "english": "Time for bed soon.",
+      "georgian": "მალე დასაძინებელი დროა.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061454"
+    },
+    {
+      "english": "Good night, sleep tight.",
+      "georgian": "ღამე მშვიდობისა, კარგად დაიძინე.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061458"
+    },
+    {
+      "english": "Sweet dreams.",
+      "georgian": "ტკბილი სიზმრები.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061460"
+    },
+    {
+      "english": "Ready for tomorrow.",
+      "georgian": "ხვალისთვის მზადა ვარ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061463"
+    },
+    {
+      "english": "Another day begins.",
+      "georgian": "კიდევ ერთი დღე იწყება.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061467"
+    },
+    {
+      "english": "What are you up to, early bird?",
+      "georgian": "რას შვრები, ადრეულო?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061471"
+    },
+    {
+      "english": "Did you catch any good dreams?",
+      "georgian": "ხომ არ გესიზმრა რამე კარგი?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061476"
+    },
+    {
+      "english": "How do you usually start your morning?",
+      "georgian": "დილაობით, როგორ იწყებ ხოლმე?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061479"
+    },
+    {
+      "english": "Any plans for today, friend?",
+      "georgian": "დღეისთვის, რამე გეგმები გაქვს, მეგობარო?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061483"
+    },
+    {
+      "english": "What's the first thing you do?",
+      "georgian": "პირველ რიგში, რას აკეთებ ხოლმე?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061486"
+    },
+    {
+      "english": "Are you a morning person, or night owl?",
+      "georgian": "დილის ადამიანი ხარ, თუ ღამის?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061490"
+    },
+    {
+      "english": "Mind if I join you for a bit?",
+      "georgian": "ხელს ხომ არ შევუგდებ ცოტა ხნით?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061493"
+    },
+    {
+      "english": "Can you remind me later?",
+      "georgian": "მოგვიანებით, ხომ არ გამახსენებ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061498"
+    },
+    {
+      "english": "What advice do you have for me?",
+      "georgian": "შენ, რა რჩევას მომცემდი?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061501"
+    },
+    {
+      "english": "Is this the right way to do it?",
+      "georgian": "ამას, სწორად ვაკეთებ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061504"
+    },
+    {
+      "english": "Shall we tackle this together?",
+      "georgian": "ერთად, ამას მივხედოთ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061507"
+    },
+    {
+      "english": "How much time do we have left?",
+      "georgian": "რამდენი დრო გვრჩება კიდევ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061510"
+    },
+    {
+      "english": "Is there anything else I should know?",
+      "georgian": "კიდევ, რამე უნდა ვიცოდე?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061514"
+    },
+    {
+      "english": "Can you help me with this task?",
+      "georgian": "ამ საქმეში, დამეხმარები?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061517"
+    },
+    {
+      "english": "What are your usual evening activities?",
+      "georgian": "საღამოს, რას აკეთებ ხოლმე ჩვეულებრივ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061520"
+    },
+    {
+      "english": "Do you prefer to unwind alone or with others?",
+      "georgian": "მარტო, თუ სხვებთან ერთად, გირჩევნია მოდუნება?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061523"
+    },
+    {
+      "english": "When do you usually go to bed?",
+      "georgian": "როდის, იძინებ ხოლმე ჩვეულებრივ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061526"
+    },
+    {
+      "english": "Any tips for a better night's rest?",
+      "georgian": "უკეთესი ძილისთვის, რამე ხერხი ხომ არ იცი?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061530"
+    },
+    {
+      "english": "Are you feeling productive today?",
+      "georgian": "დღეს, პროდუქტიულად გრძნობ თავს?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061533"
+    },
+    {
+      "english": "What motivates you in the morning?",
+      "georgian": "დილით, რა გაძლევს მოტივაციას?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061536"
+    },
+    {
+      "english": "Did something interesting happen today?",
+      "georgian": "დღეს, რამე საინტერესო მოხდა?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061539"
+    },
+    {
+      "english": "How do you manage your time so well?",
+      "georgian": "დროის, ამხელა მართვა, როგორ შეგიძლია?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061541"
+    },
+    {
+      "english": "Is there anything I can do for you?",
+      "georgian": "შენთვის, რამე შემიძლია გავაკეთო?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061544"
+    },
+    {
+      "english": "What's on your mind right now?",
+      "georgian": "ამ წუთას, რაზე ფიქრობ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061548"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "georgian": "გაიმეორებ, რა, თუ შეიძლება?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061552"
+    },
+    {
+      "english": "Do you need any help with that?",
+      "georgian": "მაგაში, დახმარება ხომ არ გინდა?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061555"
+    },
+    {
+      "english": "What are your plans after this?",
+      "georgian": "ამის მერე, რა გაქვს გეგმაში?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061558"
+    },
+    {
+      "english": "Should we take a quick break?",
+      "georgian": "ცოტა, შესვენება არ ავიღოთ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061561"
+    },
+    {
+      "english": "Today is a good day, go for it!",
+      "georgian": "დღეს კარგი დღეა, გააკეთე!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061564"
+    },
+    {
+      "english": "You can do it, believe in yourself.",
+      "georgian": "შენ ეს შეგიძლია, გჯეროდეს შენი თავის.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061568"
+    },
+    {
+      "english": "Keep pushing forward, don't give up.",
+      "georgian": "წინ წაიწიე, არ დანებდე.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061571"
+    },
+    {
+      "english": "Your effort matters, it truly does.",
+      "georgian": "შენი ძალისხმევა მნიშვნელოვანია, მართლა.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061575"
+    },
+    {
+      "english": "Stay positive, it's all good.",
+      "georgian": "იყავი პოზიტიური, ყველაფერი კარგად იქნება.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061578"
+    },
+    {
+      "english": "Every moment counts, use it well.",
+      "georgian": "ყოველი წუთი მნიშვნელოვანია, კარგად გამოიყენე.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061581"
+    },
+    {
+      "english": "You're doing great, keep it up!",
+      "georgian": "ბრწყინვალედ აკეთებ, ასე გააგრძელე!",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061587"
+    },
+    {
+      "english": "Positive thoughts, positive life.",
+      "georgian": "პოზიტიური ფიქრები, პოზიტიური ცხოვრება.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061590"
+    },
+    {
+      "english": "Focus on the good, always.",
+      "georgian": "კარგზე გაამახვილე ყურადღება, სულ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061593"
+    },
+    {
+      "english": "You've got this, no doubt.",
+      "georgian": "შენ ეს შეგიძლია, ეჭვგარეშე.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061597"
+    },
+    {
+      "english": "Make today amazing, your choice.",
+      "georgian": "გააკეთე დღე საოცარი, შენი არჩევანი.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061600"
+    },
+    {
+      "english": "Believe in your potential.",
+      "georgian": "გჯეროდეს შენი პოტენციალის.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061605"
+    },
+    {
+      "english": "Your progress is visible.",
+      "georgian": "შენი პროგრესი ჩანს.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061608"
+    },
+    {
+      "english": "Embrace the challenge, grow stronger.",
+      "georgian": "გაუძელი გამოწვევას, გაძლიერდი.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061611"
+    },
+    {
+      "english": "You are capable of great things.",
+      "georgian": "დიდი საქმეების უნარი გაქვს.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061615"
+    },
+    {
+      "english": "Keep your spirit high.",
+      "georgian": "სული მაღლა გეჭიროს.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061618"
+    },
+    {
+      "english": "This is your time to shine.",
+      "georgian": "ეს შენი დროა, რომ გაბრწყინდე.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061621"
+    },
+    {
+      "english": "You're inspiring, keep going.",
+      "georgian": "შენ შთამაგონებელი ხარ, გააგრძელე.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061626"
+    },
+    {
+      "english": "Success is within reach.",
+      "georgian": "წარმატება ხელმისაწვდომია.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061629"
+    },
+    {
+      "english": "Make good choices today.",
+      "georgian": "გააკეთე კარგი არჩევანი დღეს.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061632"
+    },
+    {
+      "english": "Be proud of your journey.",
+      "georgian": "იამაყე შენი მოგზაურობით.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061635"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "georgian": "შენ უფრო ძლიერი ხარ, ვიდრე ფიქრობ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061638"
+    },
+    {
+      "english": "Good vibes only, my friend.",
+      "georgian": "მხოლოდ კარგი განწყობა, ჩემო მეგობარო.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061641"
+    },
+    {
+      "english": "Stay focused, stay motivated.",
+      "georgian": "იყავი კონცენტრირებული, იყავი მოტივირებული.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061645"
+    },
+    {
+      "english": "Your future self will thank you.",
+      "georgian": "შენი მომავალი შენ მადლობას გეტყვის.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061648"
+    },
+    {
+      "english": "Don't underestimate your power.",
+      "georgian": "ნუ შეაფასებ შენს ძალას.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061651"
+    },
+    {
+      "english": "Today is a new beginning.",
+      "georgian": "დღეს ახალი დასაწყისია.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061654"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "georgian": "შენ საკმარისი ხარ, ზუსტად ისეთი, როგორიც ხარ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061658"
+    },
+    {
+      "english": "Keep shining, you're a star.",
+      "georgian": "განაგრძე ბრწყინვალება, ვარსკვლავი ხარ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061661"
+    },
+    {
+      "english": "This morning felt a bit slow.",
+      "georgian": "ეს დილა ცოტა ნელა გავიდა.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061664"
+    },
+    {
+      "english": "I'm reflecting on yesterday's events.",
+      "georgian": "გუშინდელ მოვლენებს ვფიქრობ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061668"
+    },
+    {
+      "english": "Feeling calm, ready for the day.",
+      "georgian": "მშვიდად ვარ, დღისთვის მზად ვარ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061671"
+    },
+    {
+      "english": "Sometimes, I just need quiet time.",
+      "georgian": "ზოგჯერ, უბრალოდ სიმშვიდე მჭირდება.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061674"
+    },
+    {
+      "english": "Patience is key, I remind myself.",
+      "georgian": "მოთმინება მთავარია, თავს ვახსენებ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061679"
+    },
+    {
+      "english": "What deeper meaning does this hold?",
+      "georgian": "რა უფრო ღრმა აზრი აქვს ამას?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061682"
+    },
+    {
+      "english": "I need to be honest with myself.",
+      "georgian": "ჩემს თავს უნდა ვიყო გულწრფელი.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061685"
+    },
+    {
+      "english": "This routine brings me inner peace.",
+      "georgian": "ეს რუტინა შინაგან სიმშვიდეს მანიჭებს.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061688"
+    },
+    {
+      "english": "Thinking about what truly matters.",
+      "georgian": "ვფიქრობ იმაზე, რაც მართლა მნიშვნელოვანია.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061692"
+    },
+    {
+      "english": "It's okay to feel uncertain sometimes.",
+      "georgian": "შეიძლება ზოგჯერ გაურკვევლად გრძნობდე თავს.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061695"
+    },
+    {
+      "english": "My thoughts are wandering a bit.",
+      "georgian": "ფიქრები ცოტა მეფანტება.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061698"
+    },
+    {
+      "english": "Finding gratitude in small moments.",
+      "georgian": "მადლიერებას ვპოულობ პატარა მომენტებში.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061701"
+    },
+    {
+      "english": "This requires a lot of thought.",
+      "georgian": "ეს ბევრ ფიქრს მოითხოვს.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061704"
+    },
+    {
+      "english": "My heart feels heavy today.",
+      "georgian": "გული მიმძიმს დღეს.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061709"
+    },
+    {
+      "english": "Accepting things as they are.",
+      "georgian": "ყველაფერს ისე ვიღებ, როგორც არის.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061712"
+    },
+    {
+      "english": "What lessons am I learning?",
+      "georgian": "რა გაკვეთილებს ვიღებ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061715"
+    },
+    {
+      "english": "I need a moment to myself.",
+      "georgian": "მჭირდება მომენტი ჩემთვის.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061718"
+    },
+    {
+      "english": "This feeling is temporary, I know.",
+      "georgian": "ეს გრძნობა დროებითია, ვიცი.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061721"
+    },
+    {
+      "english": "Looking inward for answers.",
+      "georgian": "პასუხებს შიგნით ვეძებ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061724"
+    },
+    {
+      "english": "My mind is racing, gently.",
+      "georgian": "გონება ნელა მირბის.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061727"
+    },
+    {
+      "english": "What is my true intention?",
+      "georgian": "რა არის ჩემი ნამდვილი განზრახვა?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061730"
+    },
+    {
+      "english": "Feeling a sense of deep calm.",
+      "georgian": "დიდი სიმშვიდის შეგრძნება მაქვს.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061733"
+    },
+    {
+      "english": "This path requires sincerity.",
+      "georgian": "ამ გზას გულწრფელობა სჭირდება.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061736"
+    },
+    {
+      "english": "I hope for a peaceful outcome.",
+      "georgian": "მშვიდობიან შედეგს ველოდები.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061739"
+    },
+    {
+      "english": "Reflecting on my personal growth.",
+      "georgian": "ჩემს პირად ზრდაზე ვფიქრობ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061742"
+    },
+    {
+      "english": "Letting go of what doesn't serve.",
+      "georgian": "ვუშვებ იმას, რაც არ მადგება.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061745"
+    },
+    {
+      "english": "My energy feels very balanced.",
+      "georgian": "ჩემი ენერგია ძალიან დაბალანსებულია.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061748"
+    },
+    {
+      "english": "What wisdom can I find here?",
+      "georgian": "რა სიბრძნეს შეიძლება აქ აღმოვაჩინო?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061751"
+    },
+    {
+      "english": "Trusting the process, day by day.",
+      "georgian": "პროცესს ვენდობი, დღითი დღე.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061754"
+    },
+    {
+      "english": "This moment brings true contentment.",
+      "georgian": "ეს მომენტი ნამდვილ კმაყოფილებას მოაქვს.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061757"
+    },
+    {
+      "english": "I always check my phone first.",
+      "georgian": "ყოველთვის ჯერ ტელეფონს ვნახულობ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061760"
+    },
+    {
+      "english": "I need to hurry, a bit.",
+      "georgian": "ცოტა უნდა ვიჩქარო.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061764"
+    },
+    {
+      "english": "Plan your tasks, for the day.",
+      "georgian": "დღის საქმეები დაგეგმე.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-18T07:34:05.061767"
     }
   ],
-  "last_updated": "2026-10-17T07:20:07.672790"
+  "last_updated": "2026-10-18T07:34:05.061769"
 }
