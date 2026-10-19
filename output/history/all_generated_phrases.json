@@ -1439,7 +1439,727 @@
       "georgian": "დღის საქმეები დაგეგმე.",
       "category": "Daily Routine",
       "generated_at": "2026-10-18T07:34:05.061767"
+    },
+    {
+      "english": "Do you have cash, or card?",
+      "georgian": "ნაღდი გაქვთ, თუ ბარათი?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400119"
+    },
+    {
+      "english": "I need to withdraw money.",
+      "georgian": "ფულის გამოტანა მინდა.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400134"
+    },
+    {
+      "english": "Where is the nearest ATM?",
+      "georgian": "უახლოესი ბანკომატი სად არის?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400138"
+    },
+    {
+      "english": "I want to deposit this check.",
+      "georgian": "ამ ჩეკის შეტანა მინდა.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400143"
+    },
+    {
+      "english": "What's the exchange rate today?",
+      "georgian": "დღევანდელი კურსი რა არის?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400147"
+    },
+    {
+      "english": "Can I pay with my phone?",
+      "georgian": "ტელეფონით შემიძლია გადახდა?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400150"
+    },
+    {
+      "english": "My card was declined.",
+      "georgian": "ჩემი ბარათი არ მიიღეს.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400152"
+    },
+    {
+      "english": "I need to open an account.",
+      "georgian": "ანგარიშის გახსნა მჭირდება.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400158"
+    },
+    {
+      "english": "How much does this cost?",
+      "georgian": "რამდენი დაჯდება ეს?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400161"
+    },
+    {
+      "english": "Can I get a receipt, please?",
+      "georgian": "ქვითარი, თუ შეიძლება?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400165"
+    },
+    {
+      "english": "I'm short on cash.",
+      "georgian": "ცოტა ფული მაკლდება.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400170"
+    },
+    {
+      "english": "Is this a good deal?",
+      "georgian": "ეს კარგი შენაძენია?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400173"
+    },
+    {
+      "english": "Can I have a discount?",
+      "georgian": "ფასდაკლება შეიძლება?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400176"
+    },
+    {
+      "english": "This is too expensive.",
+      "georgian": "ძალიან ძვირია.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400179"
+    },
+    {
+      "english": "I'll take it, thanks.",
+      "georgian": "წავიღებ, მადლობა.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400182"
+    },
+    {
+      "english": "Let me check my balance.",
+      "georgian": "ბალანსი უნდა შევამოწმო.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400184"
+    },
+    {
+      "english": "Do you accept foreign currency?",
+      "georgian": "უცხო ვალუტას იღებთ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400187"
+    },
+    {
+      "english": "I need to send money.",
+      "georgian": "ფულის გაგზავნა მინდა.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400190"
+    },
+    {
+      "english": "This is a great price!",
+      "georgian": "ძალიან კარგი ფასია!",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400192"
+    },
+    {
+      "english": "I lost my wallet.",
+      "georgian": "საფულე დავკარგე.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400195"
+    },
+    {
+      "english": "Can I pay in installments?",
+      "georgian": "განვადებით გადახდა შემიძლია?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400197"
+    },
+    {
+      "english": "What's your commission fee?",
+      "georgian": "რა არის თქვენი საკომისიო?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400200"
+    },
+    {
+      "english": "I need to exchange currency.",
+      "georgian": "ვალუტის გადაცვლა მინდა.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400203"
+    },
+    {
+      "english": "This is a rip-off!",
+      "georgian": "ეს ხომ გაძარცვაა!",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400206"
+    },
+    {
+      "english": "I'm just looking, thanks.",
+      "georgian": "მხოლოდ ვათვალიერებ, მადლობა.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400209"
+    },
+    {
+      "english": "Can you break a large bill?",
+      "georgian": "დიდი კუპიურის დაშლა შეგიძლიათ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400211"
+    },
+    {
+      "english": "I'm on a tight budget.",
+      "georgian": "ძალიან მცირე ბიუჯეტი მაქვს.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400214"
+    },
+    {
+      "english": "This is unbelievable value.",
+      "georgian": "ეს ფასდაუდებელი ღირებულებაა.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400217"
+    },
+    {
+      "english": "Can I get a loan?",
+      "georgian": "სესხის აღება შემიძლია?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400219"
+    },
+    {
+      "english": "Where can I exchange money?",
+      "georgian": "სად შეიძლება ფულის გადაცვლა?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400225"
+    },
+    {
+      "english": "Could you help me, please?",
+      "georgian": "შეიძლება, დამეხმაროთ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400228"
+    },
+    {
+      "english": "What's the current interest rate?",
+      "georgian": "რა არის დღევანდელი საპროცენტო განაკვეთი?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400232"
+    },
+    {
+      "english": "Do you offer any special deals?",
+      "georgian": "რომელიმე სპეციალურ შემოთავაზებას ხომ არ სთავაზობთ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400235"
+    },
+    {
+      "english": "Can I speak to a manager?",
+      "georgian": "შეიძლება მენეჯერთან საუბარი?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400238"
+    },
+    {
+      "english": "Is this the right queue?",
+      "georgian": "ეს სწორი რიგია?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400240"
+    },
+    {
+      "english": "What are your opening hours?",
+      "georgian": "რა არის თქვენი სამუშაო საათები?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400243"
+    },
+    {
+      "english": "I'd like to inquire about a service.",
+      "georgian": "მომსახურებაზე მინდა გკითხოთ.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400246"
+    },
+    {
+      "english": "Are there any fees involved?",
+      "georgian": "არის თუ არა რაიმე საკომისიო?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400249"
+    },
+    {
+      "english": "Could you explain this charge?",
+      "georgian": "ამ გადასახადის ახსნა შეგიძლიათ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400252"
+    },
+    {
+      "english": "What's the procedure for this?",
+      "georgian": "რა არის ამისთვის პროცედურა?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400255"
+    },
+    {
+      "english": "I need some financial advice.",
+      "georgian": "ფინანსური რჩევა მჭირდება.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400258"
+    },
+    {
+      "english": "How do I transfer money internationally?",
+      "georgian": "როგორ გადავრიცხო ფული საერთაშორისო?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400263"
+    },
+    {
+      "english": "Can you recommend a good bank?",
+      "georgian": "კარგ ბანკს ხომ ვერ მირჩევთ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400266"
+    },
+    {
+      "english": "What's the minimum balance required?",
+      "georgian": "მინიმალური ნაშთი რა არის საჭირო?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400361"
+    },
+    {
+      "english": "Is there an app for that?",
+      "georgian": "არის თუ არა ამისთვის აპლიკაცია?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400364"
+    },
+    {
+      "english": "I'm looking for a credit card.",
+      "georgian": "საკრედიტო ბარათს ვეძებ.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400367"
+    },
+    {
+      "english": "What are the requirements for a loan?",
+      "georgian": "სესხის აღების პირობები რა არის?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400370"
+    },
+    {
+      "english": "Could you check my transaction history?",
+      "georgian": "ტრანზაქციების ისტორიის შემოწმება შეგიძლიათ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400373"
+    },
+    {
+      "english": "I have a problem with my account.",
+      "georgian": "ანგარიშთან პრობლემა მაქვს.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400394"
+    },
+    {
+      "english": "Where can I find a currency exchange?",
+      "georgian": "სად ვიპოვო ვალუტის გადამცვლელი?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400397"
+    },
+    {
+      "english": "Do you have a business account?",
+      "georgian": "საბიზნესო ანგარიში გაქვთ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400400"
+    },
+    {
+      "english": "What's the limit for daily withdrawals?",
+      "georgian": "დღიური განაღდების ლიმიტი რა არის?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400403"
+    },
+    {
+      "english": "Can I get a statement, please?",
+      "georgian": "ამონაწერი ხომ არ შეიძლება?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400409"
+    },
+    {
+      "english": "I need to update my details.",
+      "georgian": "დეტალების განახლება მჭირდება.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400411"
+    },
+    {
+      "english": "Is online banking available?",
+      "georgian": "ონლაინ ბანკინგი ხელმისაწვდომია?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400414"
+    },
+    {
+      "english": "How long does a wire transfer take?",
+      "georgian": "რამდენი დრო სჭირდება ფულის გადარიცხვას?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400417"
+    },
+    {
+      "english": "Can I use my card abroad?",
+      "georgian": "ბარათის გამოყენება საზღვარგარეთ შემიძლია?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400420"
+    },
+    {
+      "english": "What's the best savings account?",
+      "georgian": "საუკეთესო შემნახველი ანგარიში რა არის?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400423"
+    },
+    {
+      "english": "I'd like to report a lost card.",
+      "georgian": "დაკარგული ბარათის შეტყობინება მინდა.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400426"
+    },
+    {
+      "english": "Can you provide a bank reference?",
+      "georgian": "ბანკის რეკომენდაცია შეგიძლიათ მომცეთ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400428"
+    },
+    {
+      "english": "Money talks, silence listens.",
+      "georgian": "ფულს, თავისი ენა აქვს.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400433"
+    },
+    {
+      "english": "Every penny, counts.",
+      "georgian": "ყოველი თეთრი, დაფასებულია.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400436"
+    },
+    {
+      "english": "Save for a rainy day.",
+      "georgian": "გადადე, მომავალი დღისთვის.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400439"
+    },
+    {
+      "english": "Don't put all eggs, in one basket.",
+      "georgian": "ყველა კვერცხი, ერთ კალათში ნუ ჩაყრი.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400442"
+    },
+    {
+      "english": "A penny saved, is a penny earned.",
+      "georgian": "დაზოგილი თეთრი, ნაშოვნია.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400446"
+    },
+    {
+      "english": "Cash is king.",
+      "georgian": "ნაღდი ფული, მეფეა.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400448"
+    },
+    {
+      "english": "Time is money.",
+      "georgian": "დრო, ფულია.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400454"
+    },
+    {
+      "english": "Lend money, lose a friend.",
+      "georgian": "ფული გაასესხე, მეგობარი დაკარგე.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400457"
+    },
+    {
+      "english": "Money doesn't grow, on trees.",
+      "georgian": "ფული, ხეზე არ ამოდის.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400461"
+    },
+    {
+      "english": "Easy come, easy go.",
+      "georgian": "ადვილად მოსული, ადვილად წასული.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400464"
+    },
+    {
+      "english": "A fool and his money, are soon parted.",
+      "georgian": "სულელი, ფულს მალე გაუშვებს.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400467"
+    },
+    {
+      "english": "To live beyond your means.",
+      "georgian": "შესაძლებლობაზე მეტი, რომ ცხოვრობ.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400470"
+    },
+    {
+      "english": "To make ends meet.",
+      "georgian": "თავი, რომ გაიტანო.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400473"
+    },
+    {
+      "english": "To be rolling in money.",
+      "georgian": "ფული, რომ გიდევს.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400478"
+    },
+    {
+      "english": "To be broke.",
+      "georgian": "ჯიბე, რომ ცარიელი გაქვს.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400481"
+    },
+    {
+      "english": "To be in the red.",
+      "georgian": "ვალში, რომ ხარ.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400483"
+    },
+    {
+      "english": "To cut corners.",
+      "georgian": "გზის, დამოკლება.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400486"
+    },
+    {
+      "english": "To tighten your belt.",
+      "georgian": "ყველაფერი, უნდა შეიზღუდო.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400489"
+    },
+    {
+      "english": "To live hand to mouth.",
+      "georgian": "დღეიდან, დღეზე ცხოვრება.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400491"
+    },
+    {
+      "english": "To save money.",
+      "georgian": "ფულის, დაგროვება.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400494"
+    },
+    {
+      "english": "To spend money wisely.",
+      "georgian": "გონივრულად, ფულის ხარჯვა.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400496"
+    },
+    {
+      "english": "To borrow money.",
+      "georgian": "ფულის, სესხება.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400499"
+    },
+    {
+      "english": "To pay back a debt.",
+      "georgian": "ვალი, რომ დაფარო.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400501"
+    },
+    {
+      "english": "To be worth it.",
+      "georgian": "ღირს, რომ იყო.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400504"
+    },
+    {
+      "english": "To be overcharged.",
+      "georgian": "ზედმეტს, რომ გიხდი.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400506"
+    },
+    {
+      "english": "To get a good deal.",
+      "georgian": "კარგი, გარიგება.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400509"
+    },
+    {
+      "english": "To be frugal.",
+      "georgian": "ზომიერი, რომ იყო.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400511"
+    },
+    {
+      "english": "To splash out.",
+      "georgian": "უხვად, რომ ხარჯავ.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400514"
+    },
+    {
+      "english": "A fortune.",
+      "georgian": "ქონების, დიდი ნაწილი.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400516"
+    },
+    {
+      "english": "This feels like a good investment, truly.",
+      "georgian": "ეს ნამდვილად კარგი ინვესტიცია მგონია.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400520"
+    },
+    {
+      "english": "I'm worried, about our future finances.",
+      "georgian": "ჩემი მომავალი ფინანსების მეშინია.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400523"
+    },
+    {
+      "english": "Patience, is key with these markets.",
+      "georgian": "მოთმინება, ამ ბაზრებზე მთავარია.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400526"
+    },
+    {
+      "english": "It takes time, to build real wealth.",
+      "georgian": "დიდი სიმდიდრის ასაშენებლად დრო უნდა.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400535"
+    },
+    {
+      "english": "I feel relieved, after this transaction.",
+      "georgian": "ამ ტრანზაქციის შემდეგ შვება ვიგრძენი.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400538"
+    },
+    {
+      "english": "Sometimes, less is more with money.",
+      "georgian": "ხანდახან, ნაკლები მეტია ფულთან.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400543"
+    },
+    {
+      "english": "I'm reflecting, on my spending habits.",
+      "georgian": "ჩემს ხარჯებს დავფიქრდი, ახლა.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400547"
+    },
+    {
+      "english": "This debt, weighs heavily on me.",
+      "georgian": "ეს ვალი, ძალიან მძიმეა ჩემთვის.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400550"
+    },
+    {
+      "english": "Honesty, in financial dealings is vital.",
+      "georgian": "პატიოსნება, ფინანსურ გარიგებებში მნიშვნელოვანია.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400553"
+    },
+    {
+      "english": "I trust, this financial advisor completely.",
+      "georgian": "სრულად ვენდობი, ამ ფინანსურ მრჩეველს.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400556"
+    },
+    {
+      "english": "It's hard, to stay motivated sometimes.",
+      "georgian": "ზოგჯერ, მოტივირებული ყოფნა რთულია.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400559"
+    },
+    {
+      "english": "I learned a valuable lesson, here.",
+      "georgian": "აქ ძვირფასი გაკვეთილი ვისწავლე.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400562"
+    },
+    {
+      "english": "This situation, makes me feel anxious.",
+      "georgian": "ეს სიტუაცია, მაღელვებს ძალიან.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400565"
+    },
+    {
+      "english": "My financial goals, seem distant now.",
+      "georgian": "ჩემი ფინანსური მიზნები, ახლა შორს ჩანს.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400568"
+    },
+    {
+      "english": "I need to be more disciplined, honestly.",
+      "georgian": "უფრო დისციპლინებული უნდა ვიყო, მართლა.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400571"
+    },
+    {
+      "english": "This feels unfair, financially.",
+      "georgian": "ეს ფინანსურად, უსამართლოდ მიმაჩნია.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400574"
+    },
+    {
+      "english": "I’m hopeful, about future earnings.",
+      "georgian": "მომავალი შემოსავლის იმედი მაქვს.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400584"
+    },
+    {
+      "english": "Understanding this, took me a while.",
+      "georgian": "ამას, რომ მივმხვდარიყავი, დრო დამჭირდა.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400587"
+    },
+    {
+      "english": "I regret, not starting sooner.",
+      "georgian": "ვინანე, რომ უფრო ადრე არ დავიწყე.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400590"
+    },
+    {
+      "english": "This is a moment, for careful thought.",
+      "georgian": "ეს არის მომენტი, ფრთხილად მოსაფიქრებლად.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400593"
+    },
+    {
+      "english": "My perspective, has really changed.",
+      "georgian": "ჩემი დამოკიდებულება, მართლა შეიცვალა.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400596"
+    },
+    {
+      "english": "I’m grateful, for this opportunity.",
+      "georgian": "ამ შესაძლებლობისთვის, მადლობელი ვარ.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400600"
+    },
+    {
+      "english": "We need more transparency, frankly.",
+      "georgian": "უფრო მეტი გამჭვირვალობა გვჭირდება, გულწრფელად.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400603"
+    },
+    {
+      "english": "This is my deepest concern.",
+      "georgian": "ეს ჩემი ყველაზე ღრმა საზრუნავია.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400606"
+    },
+    {
+      "english": "I’m considering, long-term stability.",
+      "georgian": "გრძელვადიან სტაბილურობაზე, ვფიქრობ.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400611"
+    },
+    {
+      "english": "This reminds me, of past struggles.",
+      "georgian": "ეს მახსენებს, წარსულ ბრძოლებს.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400614"
+    },
+    {
+      "english": "I find peace, in financial control.",
+      "georgian": "ფინანსურ კონტროლში, სიმშვიდეს ვპოულობ.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400616"
+    },
+    {
+      "english": "It's a tough decision, truly.",
+      "georgian": "ეს რთული გადაწყვეტილებაა, ნამდვილად.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400620"
+    },
+    {
+      "english": "My feelings, are mixed about this.",
+      "georgian": "ჩემი გრძნობები, შერეულია ამაზე.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400622"
+    },
+    {
+      "english": "We must be realistic, always.",
+      "georgian": "რეალისტები უნდა ვიყოთ, სულ.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400625"
+    },
+    {
+      "english": "Check your balance, often.",
+      "georgian": "ხშირად, შეამოწმე ბალანსი.",
+      "category": "Banking & Money",
+      "generated_at": "2026-10-19T08:17:40.400628"
     }
   ],
-  "last_updated": "2026-10-18T07:34:05.061769"
+  "last_updated": "2026-10-19T08:17:40.400630"
 }
