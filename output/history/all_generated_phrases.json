@@ -2159,7 +2159,727 @@
       "georgian": "ხშირად, შეამოწმე ბალანსი.",
       "category": "Banking & Money",
       "generated_at": "2026-10-19T08:17:40.400628"
+    },
+    {
+      "english": "Hello, what do you recommend?",
+      "georgian": "გამარჯობა, რას მირჩევთ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015147"
+    },
+    {
+      "english": "I would like to order, please.",
+      "georgian": "მინდა შევუკვეთო, თუ შეიძლება.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015156"
+    },
+    {
+      "english": "What is today's special?",
+      "georgian": "დღევანდელი კერძი რა არის?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015158"
+    },
+    {
+      "english": "Can I see the menu, please?",
+      "georgian": "შეიძლება მენიუ ვნახო, გთხოვთ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015160"
+    },
+    {
+      "english": "One of those, please.",
+      "georgian": "ერთი მაგდაგვარი, მადლობა.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015162"
+    },
+    {
+      "english": "This looks delicious!",
+      "georgian": "ეს ძალიან გემრიელად გამოიყურება!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015163"
+    },
+    {
+      "english": "How much is this?",
+      "georgian": "რა ღირს ეს?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015165"
+    },
+    {
+      "english": "Is it spicy?",
+      "georgian": "ეს ცხარეა?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015168"
+    },
+    {
+      "english": "I am vegetarian.",
+      "georgian": "მე ვარ ვეგეტარიანელი.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015170"
+    },
+    {
+      "english": "Could I have some water?",
+      "georgian": "წყალი მექნება, თუ შეიძლება?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015172"
+    },
+    {
+      "english": "We are ready to order.",
+      "georgian": "ჩვენ მზად ვართ შევუკვეთოთ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015174"
+    },
+    {
+      "english": "I'll have the soup.",
+      "georgian": "მე სუპს ავიღებ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015175"
+    },
+    {
+      "english": "Just a little bit, please.",
+      "georgian": "ცოტა, გთხოვთ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015177"
+    },
+    {
+      "english": "It's too salty.",
+      "georgian": "ძალიან მარილიანია.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015179"
+    },
+    {
+      "english": "Can I get the bill?",
+      "georgian": "ანგარიში მომიტანეთ, გთხოვთ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015180"
+    },
+    {
+      "english": "Everything was great!",
+      "georgian": "ყველაფერი შესანიშნავი იყო!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015182"
+    },
+    {
+      "english": "Thank you for the meal.",
+      "georgian": "მადლობა საჭმლისთვის.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015183"
+    },
+    {
+      "english": "It's not what I expected.",
+      "georgian": "ეს არ არის, რასაც ველოდი.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015185"
+    },
+    {
+      "english": "Can we get separate checks?",
+      "georgian": "ცალ-ცალკე ანგარიშები შეგვიძლია?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015186"
+    },
+    {
+      "english": "This is very good.",
+      "georgian": "ეს ძალიან კარგია.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015187"
+    },
+    {
+      "english": "I need a table for two.",
+      "georgian": "ორზე მაგიდა მინდა.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015189"
+    },
+    {
+      "english": "Do you have Wi-Fi?",
+      "georgian": "Wi-Fi გაქვთ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015190"
+    },
+    {
+      "english": "I'm allergic to nuts.",
+      "georgian": "მე მაქვს კაკლის ალერგია.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015193"
+    },
+    {
+      "english": "Can I have a doggy bag?",
+      "georgian": "დარჩენილი საჭმელი წასაღებად შემიძლია?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015196"
+    },
+    {
+      "english": "What's in this dish?",
+      "georgian": "რა ინგრედიენტებია ამ კერძში?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015198"
+    },
+    {
+      "english": "I'm not very hungry.",
+      "georgian": "დიდი მადა არ მაქვს.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015220"
+    },
+    {
+      "english": "Another one, please.",
+      "georgian": "კიდევ ერთი, გთხოვთ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015222"
+    },
+    {
+      "english": "It's a bit bland.",
+      "georgian": "ცოტა უგემურია.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015224"
+    },
+    {
+      "english": "Excuse me, waiter!",
+      "georgian": "უკაცრავად, მიმტანო!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015226"
+    },
+    {
+      "english": "We'll have the house wine.",
+      "georgian": "ჩვენ სახლის ღვინოს ავიღებთ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015228"
+    },
+    {
+      "english": "What's popular here, generally?",
+      "georgian": "აქ რა არის ხოლმე პოპულარული, ზოგადად?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015230"
+    },
+    {
+      "english": "Could you explain this dish, please?",
+      "georgian": "შეგიძლიათ ეს კერძი ამიხსნათ, გთხოვთ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015232"
+    },
+    {
+      "english": "What do you suggest for a beginner?",
+      "georgian": "რაას მირჩევდით დამწყებისთვის?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015234"
+    },
+    {
+      "english": "Is this a local specialty?",
+      "georgian": "ეს ადგილობრივი სპეციალობაა?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015236"
+    },
+    {
+      "english": "Can I get a recommendation, perhaps?",
+      "georgian": "შემოთავაზებას ხომ არ გამიკეთებთ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015238"
+    },
+    {
+      "english": "How is this prepared, typically?",
+      "georgian": "როგორ ამზადებენ ამას, ჩვეულებრივ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015239"
+    },
+    {
+      "english": "Is it possible to share plates?",
+      "georgian": "შესაძლებელია თეფშების გაზიარება?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015241"
+    },
+    {
+      "english": "What's good for a light lunch?",
+      "georgian": "რა არის კარგი მსუბუქი ლანჩისთვის?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015243"
+    },
+    {
+      "english": "Do you have any recommendations for drinks?",
+      "georgian": "სასმელებში რამეს ხომ არ მირჩევთ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015245"
+    },
+    {
+      "english": "Could you bring another napkin?",
+      "georgian": "კიდევ ერთი ხელსახოცი ხომ არ მოიტანთ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015247"
+    },
+    {
+      "english": "Is this spicy, or just flavorful?",
+      "georgian": "ეს ცხარეა, თუ უბრალოდ გემრიელი?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015248"
+    },
+    {
+      "english": "What's your favorite item on the menu?",
+      "georgian": "მენიუში თქვენი ფავორიტი რა არის?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015250"
+    },
+    {
+      "english": "Could you check on our order?",
+      "georgian": "ჩვენს შეკვეთას ხომ ვერ შეამოწმებთ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015252"
+    },
+    {
+      "english": "Is there a vegetarian option?",
+      "georgian": "არსებობს ვეგეტარიანული ვარიანტი?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015253"
+    },
+    {
+      "english": "What's the daily catch, if any?",
+      "georgian": "დღის თევზი თუ გაქვთ, თუ შეიძლება?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015255"
+    },
+    {
+      "english": "Can we try a small sample?",
+      "georgian": "პატარა ნიმუშის გასინჯვა შეგვიძლია?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015257"
+    },
+    {
+      "english": "Is this dish very filling?",
+      "georgian": "ეს კერძი ძალიან გულიანია?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015258"
+    },
+    {
+      "english": "What kind of bread is this?",
+      "georgian": "ეს რა პურია?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015260"
+    },
+    {
+      "english": "Could you heat this up slightly?",
+      "georgian": "ამას ცოტა ხომ ვერ გაათბობთ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015261"
+    },
+    {
+      "english": "What is this sauce made of?",
+      "georgian": "რაშია ეს სოუსი გაკეთებული?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015263"
+    },
+    {
+      "english": "Is this a traditional recipe?",
+      "georgian": "ეს ტრადიციული რეცეპტია?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015265"
+    },
+    {
+      "english": "How do you usually serve this?",
+      "georgian": "როგორ სთავაზობთ ამას ხოლმე?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015268"
+    },
+    {
+      "english": "Can I have a recommendation for dessert?",
+      "georgian": "დესერტისთვის რამეს ხომ მირჩევთ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015269"
+    },
+    {
+      "english": "Is this gluten-free, by chance?",
+      "georgian": "ეს უგლუტენოა, შემთხვევით?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015273"
+    },
+    {
+      "english": "What's the most authentic dish?",
+      "georgian": "ყველაზე ავთენტური კერძი რა არის?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015274"
+    },
+    {
+      "english": "Could you bring the oil, perhaps?",
+      "georgian": "ზეთი ხომ არ მოგვეძებნება?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015277"
+    },
+    {
+      "english": "Is it possible to have less salt?",
+      "georgian": "შესაძლებელია ნაკლები მარილი?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015279"
+    },
+    {
+      "english": "What’s the best way to eat this?",
+      "georgian": "როგორ ჯობია ამის ჭამა?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015281"
+    },
+    {
+      "english": "Can you tell me about the wine list?",
+      "georgian": "ღვინის სიის შესახებ რამე ხომ არ გვეტყვით?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015283"
+    },
+    {
+      "english": "Is this served hot or cold?",
+      "georgian": "ეს ცხლად მიირთმევა, თუ ცივად?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015284"
+    },
+    {
+      "english": "Eat well, live long, my friend.",
+      "georgian": "კარგად ჭამე, კარგად იცოცხლე, მეგობარო.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015286"
+    },
+    {
+      "english": "Taste it, your mouth will thank you.",
+      "georgian": "გასინჯე, პირს ეგებ ამოგაყოლებს.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015288"
+    },
+    {
+      "english": "This is food, for the soul, you see.",
+      "georgian": "ეს საჭმელია, სულისთვის, იცი?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015290"
+    },
+    {
+      "english": "Don't rush, savor every bite.",
+      "georgian": "ნუ იჩქარებ, დატკბი ყოველი ლუკმით.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015292"
+    },
+    {
+      "english": "The real taste, is in the tradition.",
+      "georgian": "ნამდვილი გემო, ტრადიციაშია.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015294"
+    },
+    {
+      "english": "A little bit of heaven, on a plate.",
+      "georgian": "ცოტაოდენი სამოთხე, თეფშზე.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015296"
+    },
+    {
+      "english": "This is how we do it, here.",
+      "georgian": "ასე ვაკეთებთ, ჩვენ აქ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015298"
+    },
+    {
+      "english": "Eat with friends, it tastes better.",
+      "georgian": "მეგობრებთან ერთად ჭამე, გემრიელია.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015300"
+    },
+    {
+      "english": "Good food, good mood, always.",
+      "georgian": "კარგი საჭმელი, კარგი ხასიათი, ყოველთვის.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015302"
+    },
+    {
+      "english": "This is a taste, of home, basically.",
+      "georgian": "ეს გემოა, სახლის, საბოლოოდ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015304"
+    },
+    {
+      "english": "Try this, it's a real gem.",
+      "georgian": "ესეც სცადე, ნამდვილი განძია.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015306"
+    },
+    {
+      "english": "The best meals, are shared, with love.",
+      "georgian": "საუკეთესო კერძები, იზიარება, სიყვარულით.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015308"
+    },
+    {
+      "english": "This dish tells a story, really.",
+      "georgian": "ეს კერძი ყვება ისტორიას, მართლა.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015310"
+    },
+    {
+      "english": "Let's eat like kings, for a night.",
+      "georgian": "ვივახშმოთ მეფურად, ერთი ღამე.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015311"
+    },
+    {
+      "english": "This is the heart, of Georgian cooking.",
+      "georgian": "ეს არის გული, ქართული სამზარეულოს.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015313"
+    },
+    {
+      "english": "Eat heartily, drink deeply, be happy.",
+      "georgian": "გემრიელად ჭამე, კარგად დალიე, ბედნიერი იყავი.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015315"
+    },
+    {
+      "english": "This flavor explosion, is just amazing.",
+      "georgian": "ეს გემოთა აფეთქება, უბრალოდ საოცარია.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015317"
+    },
+    {
+      "english": "A true taste, of our land.",
+      "georgian": "ნამდვილი გემო, ჩვენი მიწის.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015318"
+    },
+    {
+      "english": "This is more than food, it's culture.",
+      "georgian": "ეს საჭმელზე მეტია, ეს კულტურაა.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015320"
+    },
+    {
+      "english": "Enjoy this feast, it's made with care.",
+      "georgian": "ისიამოვნე ამ ნადიმით, სიყვარულით არის მომზადებული.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015322"
+    },
+    {
+      "english": "This is the kind of meal, that warms you.",
+      "georgian": "ასეთი კერძი, გაგათბობს.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015324"
+    },
+    {
+      "english": "Let the flavors, dance on your tongue.",
+      "georgian": "მიეცი საშუალება გემოვნებას, იცეკვოს ენაზე.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015325"
+    },
+    {
+      "english": "A truly unforgettable taste, indeed.",
+      "georgian": "მართლაც დაუვიწყარი გემო, მართლა.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015327"
+    },
+    {
+      "english": "This is real Georgian hospitality, on a plate.",
+      "georgian": "ეს არის ნამდვილი ქართული სტუმართმოყვარეობა, თეფშზე.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015329"
+    },
+    {
+      "english": "Savor the moment, savor the food.",
+      "georgian": "დატკბი მომენტით, დატკბი საჭმლით.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015331"
+    },
+    {
+      "english": "This recipe, is a family secret, perhaps.",
+      "georgian": "ეს რეცეპტი, საოჯახო საიდუმლოა, ალბათ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015333"
+    },
+    {
+      "english": "The best way to connect, is through food.",
+      "georgian": "საუკეთესო გზა დასაკავშირებლად, არის საჭმელი.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015334"
+    },
+    {
+      "english": "This dish has character, I feel it.",
+      "georgian": "ამ კერძს აქვს ხასიათი, ვგრძნობ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015338"
+    },
+    {
+      "english": "A taste of tradition, for you.",
+      "georgian": "ტრადიციის გემო, თქვენთვის.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015341"
+    },
+    {
+      "english": "Let's make memories, over this meal.",
+      "georgian": "შევქმნათ მოგონებები, ამ კერძის მიღმა.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015343"
+    },
+    {
+      "english": "I'm really looking forward to this, honestly.",
+      "georgian": "ძალიან მოუთმენლად ველი ამას, გულწრფელად.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015345"
+    },
+    {
+      "english": "This looks incredibly comforting, somehow.",
+      "georgian": "ეს, რატომღაც, საოცრად დამამშვიდებლად გამოიყურება.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015347"
+    },
+    {
+      "english": "It’s okay if it takes a little longer.",
+      "georgian": "არაუშავს, ცოტა მეტი დრო რომ დასჭირდეს.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015349"
+    },
+    {
+      "english": "I feel like I can really relax here.",
+      "georgian": "ვგრძნობ, რომ აქ მართლა შემიძლია დავისვენო.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015351"
+    },
+    {
+      "english": "This reminds me of my grandmother's cooking.",
+      "georgian": "ეს ბებიაჩემის სამზარეულოს მახსენებს.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015352"
+    },
+    {
+      "english": "I appreciate the quiet atmosphere, very much.",
+      "georgian": "ძალიან ვაფასებ ამ მშვიდ ატმოსფეროს.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015354"
+    },
+    {
+      "english": "Do you mind if I just sit for a while?",
+      "georgian": "ხელს ხომ არ მიშლის, თუ ცოტა ხანს აქ დავჯდები?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015356"
+    },
+    {
+      "english": "This dish has a really interesting history, I bet.",
+      "georgian": "ამ კერძს, ალბათ, მართლა საინტერესო ისტორია აქვს.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015358"
+    },
+    {
+      "english": "I'm trying to be more mindful with my choices.",
+      "georgian": "ვცდილობ, უფრო ყურადღებით ვაკეთო არჩევანი.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015360"
+    },
+    {
+      "english": "It’s nice to slow down and just enjoy.",
+      "georgian": "კარგია, რომ ნელა ვაკეთებ და უბრალოდ ვისვენებ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015362"
+    },
+    {
+      "english": "This food brings back fond memories, you know.",
+      "georgian": "ეს საჭმელი სასიამოვნო მოგონებებს აღძრავს, იცი?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015363"
+    },
+    {
+      "english": "I'm feeling quite nostalgic, actually.",
+      "georgian": "სიმართლე გითხრა, საკმაოდ ნოსტალგიურად ვგრძნობ თავს.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015365"
+    },
+    {
+      "english": "Could I possibly have a glass of water, please?",
+      "georgian": "შემიძლია, გთხოვთ, ერთი ჭიქა წყალი მითხოვა?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015367"
+    },
+    {
+      "english": "This is exactly what I needed, today.",
+      "georgian": "ზუსტად ეს მჭირდებოდა, დღეს.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015368"
+    },
+    {
+      "english": "I'm learning so much about Georgian culture.",
+      "georgian": "ქართულ კულტურაზე ძალიან ბევრს ვსწავლობ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015370"
+    },
+    {
+      "english": "This quiet moment, is quite precious.",
+      "georgian": "ეს ჩუმი მომენტი, საკმაოდ ძვირფასია.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015371"
+    },
+    {
+      "english": "I hope the chef enjoyed making this.",
+      "georgian": "იმედია, მზარეულს სიამოვნება მიანიჭა ამის მომზადებამ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015373"
+    },
+    {
+      "english": "It's a good feeling, to be so welcomed.",
+      "georgian": "კარგი გრძნობაა, ასეთი დახვედრა რომ მხვდება.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015375"
+    },
+    {
+      "english": "I'm trying to appreciate simple pleasures.",
+      "georgian": "ვცდილობ, უბრალო სიამოვნებებს ვაფასებდე.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015377"
+    },
+    {
+      "english": "This is a peaceful, end to my day.",
+      "georgian": "ეს ჩემი დღის მშვიდობიანი დასასრულია.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015378"
+    },
+    {
+      "english": "It's lovely to see local families eating here.",
+      "georgian": "მშვენიერია, რომ აქ ადგილობრივი ოჯახები სავაჭრობენ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015380"
+    },
+    {
+      "english": "I'm really reflecting on my journey, lately.",
+      "georgian": "ბოლო დროს, ჩემს მოგზაურობაზე ბევრს ვფიქრობ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015382"
+    },
+    {
+      "english": "This feels like a very authentic experience.",
+      "georgian": "ეს, ძალიან ავთენტურ გამოცდილებად მიმაჩნია.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015384"
+    },
+    {
+      "english": "Don't worry about the wait, it's fine.",
+      "georgian": "ლოდინზე ნუ ინერვიულებთ, ყველაფერი რიგზეა.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015385"
+    },
+    {
+      "english": "I'm just happy to be here, truly.",
+      "georgian": "მართლა ბედნიერი ვარ, რომ აქ ვარ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015387"
+    },
+    {
+      "english": "This inspires me to cook more at home.",
+      "georgian": "ეს მე შთამაგონებს, რომ სახლში უფრო მეტს მოვამზადო.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015389"
+    },
+    {
+      "english": "It's important to have good conversations.",
+      "georgian": "მნიშვნელოვანია კარგი საუბრების ქონა.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015390"
+    },
+    {
+      "english": "This has been a really fulfilling meal.",
+      "georgian": "ეს, მართლა დამაკმაყოფილებელი კერძი იყო.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015392"
+    },
+    {
+      "english": "I feel a sense of connection, eating this.",
+      "georgian": "ამას რომ ვჭამ, რაღაც კავშირის გრძნობა მეუფლება.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015396"
+    },
+    {
+      "english": "Is service included, by chance?",
+      "georgian": "მომსახურება შედის ფასში, შემთხვევით?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-20T08:02:51.015397"
     }
   ],
-  "last_updated": "2026-10-19T08:17:40.400630"
+  "last_updated": "2026-10-20T08:02:51.015398"
 }
