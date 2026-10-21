@@ -2879,7 +2879,727 @@
       "georgian": "მომსახურება შედის ფასში, შემთხვევით?",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-10-20T08:02:51.015397"
+    },
+    {
+      "english": "Take a deep breath, relax.",
+      "georgian": "ღრმად ამოისუნთქე, დაისვენე.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948547"
+    },
+    {
+      "english": "Everything will be alright, don't worry.",
+      "georgian": "ყველაფერი კარგად იქნება, ნუ იდარდებ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948561"
+    },
+    {
+      "english": "Just be calm, stay peaceful.",
+      "georgian": "უბრალოდ იყავი მშვიდად, იყავი წყნარი.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948564"
+    },
+    {
+      "english": "Find your inner quiet space.",
+      "georgian": "იპოვე შენი შინაგანი სიმშვიდე.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948566"
+    },
+    {
+      "english": "Let go of stress, breathe easy.",
+      "georgian": "აუშვი სტრესი, ისუნთქე თავისუფლად.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948568"
+    },
+    {
+      "english": "This moment is all we have.",
+      "georgian": "ეს წამია, რაც გვაქვს.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948570"
+    },
+    {
+      "english": "Peace starts from within you.",
+      "georgian": "სიმშვიდე შენში იწყება.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948572"
+    },
+    {
+      "english": "What a peaceful feeling, wow!",
+      "georgian": "რა მშვიდი შეგრძნებაა, ვაუ!",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948576"
+    },
+    {
+      "english": "It's okay, go with the flow.",
+      "georgian": "ყველაფერი რიგზეა, მიჰყევი დინებას.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948578"
+    },
+    {
+      "english": "Just listen to your heart.",
+      "georgian": "უბრალოდ გულს დაუგდე ყური.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948580"
+    },
+    {
+      "english": "Embrace stillness, find your center.",
+      "georgian": "ჩაეხუტე სიჩუმეს, იპოვე შენი ცენტრი.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948582"
+    },
+    {
+      "english": "No need to rush, take your time.",
+      "georgian": "არ იჩქარო, დაისვენე.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948584"
+    },
+    {
+      "english": "Serenity now, please.",
+      "georgian": "სიმშვიდე ახლა, გთხოვ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948586"
+    },
+    {
+      "english": "Everything unfolds as it should.",
+      "georgian": "ყველაფერი ისე ვითარდება, როგორც უნდა.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948588"
+    },
+    {
+      "english": "Feel the calm, soak it in.",
+      "georgian": "იგრძენი სიმშვიდე, შეიგრძენი.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948589"
+    },
+    {
+      "english": "Let go, be free.",
+      "georgian": "გაუშვი, იყავი თავისუფალი.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948591"
+    },
+    {
+      "english": "Quiet the mind, open the heart.",
+      "georgian": "გააჩუმე გონება, გახსენი გული.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948593"
+    },
+    {
+      "english": "This is my happy place.",
+      "georgian": "ეს ჩემი ბედნიერი ადგილია.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948594"
+    },
+    {
+      "english": "Just breathe, everything's okay.",
+      "georgian": "უბრალოდ ისუნთქე, ყველაფერი კარგადაა.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948677"
+    },
+    {
+      "english": "Find peace in simple things.",
+      "georgian": "სიმშვიდე იპოვე მარტივ საგნებში.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948679"
+    },
+    {
+      "english": "A moment of pure bliss.",
+      "georgian": "წმინდა ნეტარების მომენტი.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948681"
+    },
+    {
+      "english": "Settle down, be present.",
+      "georgian": "დამშვიდდი, იყავი აქ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948682"
+    },
+    {
+      "english": "Inner calm is the true wealth.",
+      "georgian": "შინაგანი სიმშვიდეა ნამდვილი სიმდიდრე.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948684"
+    },
+    {
+      "english": "Let worries drift away, like clouds.",
+      "georgian": "დაე, დარდები გაიფანტონ, ღრუბლებივით.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948686"
+    },
+    {
+      "english": "Your peace is your power.",
+      "georgian": "შენი სიმშვიდეა შენი ძალა.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948687"
+    },
+    {
+      "english": "Just be, no judgment.",
+      "georgian": "უბრალოდ იყავი, ნუ განსჯი.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948689"
+    },
+    {
+      "english": "Find joy in the quiet.",
+      "georgian": "სიხარული იპოვე სიჩუმეში.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948690"
+    },
+    {
+      "english": "Breathe in peace, breathe out tension.",
+      "georgian": "ისუნთქე სიმშვიდე, ამოისუნთქე დაძაბულობა.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948692"
+    },
+    {
+      "english": "Everything is unfolding perfectly.",
+      "georgian": "ყველაფერი იდეალურად ვითარდება.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948694"
+    },
+    {
+      "english": "May you find your peace today.",
+      "georgian": "იპოვე შენი სიმშვიდე დღეს.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948695"
+    },
+    {
+      "english": "How do you find calm, friend?",
+      "georgian": "როგორ პოულობ სიმშვიდეს, მეგობარო?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948698"
+    },
+    {
+      "english": "What helps you relax, truly?",
+      "georgian": "რა გეხმარება მოდუნებაში, მართლა?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948701"
+    },
+    {
+      "english": "Can you share your peaceful routine?",
+      "georgian": "გაუზიარებ მშვიდობიან რუტინას?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948703"
+    },
+    {
+      "english": "Where do you seek inner balance?",
+      "georgian": "სად ეძებ შინაგან წონასწორობას?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948705"
+    },
+    {
+      "english": "What if I feel overwhelmed, what then?",
+      "georgian": "რა ვქნა, თუ გადატვირთული ვარ?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948707"
+    },
+    {
+      "english": "Do you ever feel restless, like me?",
+      "georgian": "გიჩნდება მოუსვენრობა, ჩემსავით?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948709"
+    },
+    {
+      "english": "How do you manage difficult emotions?",
+      "georgian": "როგორ უმკლავდები რთულ ემოციებს?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948710"
+    },
+    {
+      "english": "Is quiet contemplation beneficial for you?",
+      "georgian": "სასარგებლოა თუ არა ჩუმი ფიქრი?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948712"
+    },
+    {
+      "english": "What small steps lead to peace?",
+      "georgian": "რა მცირე ნაბიჯები მიდის სიმშვიდისკენ?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948714"
+    },
+    {
+      "english": "Could you explain your perspective?",
+      "georgian": "შეგიძლია აზრი ამიხსნა?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948715"
+    },
+    {
+      "english": "What inspires your inner serenity?",
+      "georgian": "რა შთა-გაგონებს შინაგან სიმშვიდეს?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948717"
+    },
+    {
+      "english": "When you doubt, what do you do?",
+      "georgian": "როცა ეჭვი გეპარება, რას აკეთებ?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948719"
+    },
+    {
+      "english": "Do you practice mindfulness daily?",
+      "georgian": "ყოველდღე მედიტირებ?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948721"
+    },
+    {
+      "english": "What advice would you give someone struggling?",
+      "georgian": "რა რჩევას მისცემდი ვინმეს, ვისაც უჭირს?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948722"
+    },
+    {
+      "english": "How do you reconnect with yourself?",
+      "georgian": "როგორ უბრუნდები თავს?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948724"
+    },
+    {
+      "english": "Does nature bring you peace?",
+      "georgian": "ბუნება განიჭებს სიმშვიდეს?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948726"
+    },
+    {
+      "english": "What are your thoughts on acceptance?",
+      "georgian": "რას ფიქრობ მიღებაზე?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948727"
+    },
+    {
+      "english": "How can I cultivate patience?",
+      "georgian": "როგორ გავზარდო მოთმინება?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948729"
+    },
+    {
+      "english": "Do you find peace in solitude?",
+      "georgian": "მარტოობაში პოულობ სიმშვიდეს?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948730"
+    },
+    {
+      "english": "What's your secret to a calm mind?",
+      "georgian": "რა არის შენი საიდუმლო, მშვიდი გონებისთვის?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948732"
+    },
+    {
+      "english": "Can we discuss inner peace further?",
+      "georgian": "შეგვიძლია განვიხილოთ შინაგანი სიმშვიდე?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948733"
+    },
+    {
+      "english": "What does inner peace mean to you?",
+      "georgian": "რას ნიშნავს შინაგანი სიმშვიდე შენთვის?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948735"
+    },
+    {
+      "english": "How do you overcome inner conflict?",
+      "georgian": "როგორ იპყრობ შინაგან კონფლიქტს?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948736"
+    },
+    {
+      "english": "What brings you genuine contentment?",
+      "georgian": "რა განიჭებს ნამდვილ კმაყოფილებას?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948738"
+    },
+    {
+      "english": "Are you open to sharing experiences?",
+      "georgian": "გამოცდილების გაზიარებისთვის მზად ხარ?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948739"
+    },
+    {
+      "english": "How do you handle setbacks gracefully?",
+      "georgian": "როგორ უძლებ წარუმატებლობებს მადლით?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948740"
+    },
+    {
+      "english": "What practice grounds you, consistently?",
+      "georgian": "რა პრაქტიკა გმატებს ძალას, თანმიმდევრულად?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948742"
+    },
+    {
+      "english": "Do you believe in self-compassion?",
+      "georgian": "გჯერა თვით-თანაგრძნობის?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948744"
+    },
+    {
+      "english": "What nourishes your spirit, ultimately?",
+      "georgian": "რა კვებავს შენს სულს, საბოლოოდ?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948745"
+    },
+    {
+      "english": "Could we explore this further, maybe?",
+      "georgian": "შეგვიძლია შევისწავლოთ ეს უფრო მეტად?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948747"
+    },
+    {
+      "english": "Let your heart sing, freely.",
+      "georgian": "გაუშვით გული, იმღეროს თავისუფლად.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948749"
+    },
+    {
+      "english": "Mind like water, clear and still.",
+      "georgian": "გონება წყალივით, ნათელი და მშვიდი.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948752"
+    },
+    {
+      "english": "Worry less, live more, simply.",
+      "georgian": "ნაკლებად იდარდო, მეტად იცოცხლე, უბრალოდ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948754"
+    },
+    {
+      "english": "Peace is found, on the path.",
+      "georgian": "სიმშვიდე იპოვნება, გზაზე.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948756"
+    },
+    {
+      "english": "Stillness speaks, listen closely.",
+      "georgian": "სიჩუმე ლაპარაკობს, ყურადღებით მოუსმინე.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948758"
+    },
+    {
+      "english": "Today's a gift, unwrap it.",
+      "georgian": "დღევანდელი საჩუქარია, გახსენი.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948760"
+    },
+    {
+      "english": "Accept what is, release the rest.",
+      "georgian": "მიიღე რაც არის, გაუშვი დანარჩენი.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948761"
+    },
+    {
+      "english": "Find your center, in the chaos.",
+      "georgian": "იპოვე შენი ცენტრი, ქაოსში.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948763"
+    },
+    {
+      "english": "Quiet mind, happy heart.",
+      "georgian": "მშვიდი გონება, ბედნიერი გული.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948765"
+    },
+    {
+      "english": "Let go of control, gently.",
+      "georgian": "გაუშვი კონტროლი, ნაზად.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948767"
+    },
+    {
+      "english": "Every breath, a fresh start.",
+      "georgian": "ყოველი ამოსუნთქვა, ახალი დასაწყისი.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948769"
+    },
+    {
+      "english": "Gratitude blooms, from within.",
+      "georgian": "მადლიერება ყვავის, შიგნიდან.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948771"
+    },
+    {
+      "english": "Surrender to the flow, naturally.",
+      "georgian": "შეეყარე დინებას, ბუნებრივად.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948773"
+    },
+    {
+      "english": "Your inner world, reflects outwards.",
+      "georgian": "შენი შინაგანი სამყარო, გარეს აირეკლავს.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948774"
+    },
+    {
+      "english": "Find silence, in the noise.",
+      "georgian": "იპოვე სიჩუმე, ხმაურში.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948777"
+    },
+    {
+      "english": "Be here now, truly present.",
+      "georgian": "იყავი აქ ახლა, ნამდვილად აქ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948778"
+    },
+    {
+      "english": "Peace is a choice, make it.",
+      "georgian": "სიმშვიდე არჩევანია, გააკეთე.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948780"
+    },
+    {
+      "english": "Let your spirit, be light.",
+      "georgian": "დაე შენი სული, იყოს მსუბუქი.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948782"
+    },
+    {
+      "english": "Embrace the calm, within you.",
+      "georgian": "ჩაეხუტე სიმშვიდეს, შენში.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948783"
+    },
+    {
+      "english": "Contentment grows, in stillness.",
+      "georgian": "კმაყოფილება იზრდება, სიჩუმეში.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948785"
+    },
+    {
+      "english": "Trust the process, patiently.",
+      "georgian": "ენდე პროცესს, მომთმენად.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948786"
+    },
+    {
+      "english": "Find your quiet place, always.",
+      "georgian": "იპოვე შენი წყნარი ადგილი, ყოველთვის.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948788"
+    },
+    {
+      "english": "Inner peace, is home.",
+      "georgian": "შინაგანი სიმშვიდე, სახლია.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948790"
+    },
+    {
+      "english": "Let go of the past, gently.",
+      "georgian": "გაუშვი წარსული, ნაზად.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948791"
+    },
+    {
+      "english": "Be the calm, you seek.",
+      "georgian": "იყავი სიმშვიდე, რომელსაც ეძებ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948793"
+    },
+    {
+      "english": "Your mind is a garden, tend it.",
+      "georgian": "შენი გონება ბაღია, მიხედე.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948795"
+    },
+    {
+      "english": "Stillness is a treasure, guard it.",
+      "georgian": "სიჩუმე საგანძურია, დაიცავი.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948796"
+    },
+    {
+      "english": "One deep breath, changes everything.",
+      "georgian": "ერთი ღრმა ჩასუნთქვა, ყველაფერს ცვლის.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948799"
+    },
+    {
+      "english": "My feelings are valid, always.",
+      "georgian": "ჩემი გრძნობები, მართებულია, ყოველთვის.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948801"
+    },
+    {
+      "english": "I listen, to my heart's whisper.",
+      "georgian": "ვუსმენ, ჩემი გულის ჩურჩულს.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948803"
+    },
+    {
+      "english": "Patience brings, its own reward.",
+      "georgian": "მოთმინება მოაქვს, თავისი ჯილდო.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948804"
+    },
+    {
+      "english": "This moment, is enough for me.",
+      "georgian": "ეს წამი, ჩემთვის საკმარისია.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948806"
+    },
+    {
+      "english": "I accept, my imperfections.",
+      "georgian": "ვიღებ, ჩემს ნაკლს.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948808"
+    },
+    {
+      "english": "True reflection, brings clarity.",
+      "georgian": "ჭეშმარიტი ანარეკლი, მოაქვს სიცხადე.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948811"
+    },
+    {
+      "english": "My thoughts, do not define me.",
+      "georgian": "ჩემი აზრები, არ მაDefining.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948813"
+    },
+    {
+      "english": "I breathe deep, and let go.",
+      "georgian": "ღრმად ვსუნთქავ, და ვუშვებ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948815"
+    },
+    {
+      "english": "Kindness to self, is essential.",
+      "georgian": "სიკეთე საკუთარი თავისადმი, აუცილებელია.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948819"
+    },
+    {
+      "english": "I trust, my inner wisdom.",
+      "georgian": "ვენდობი, ჩემს შინაგან სიბრძნეს.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948821"
+    },
+    {
+      "english": "Emotional honesty, builds bridges.",
+      "georgian": "ემოციური გულწრფელობა, ხიდებს აშენებს.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948822"
+    },
+    {
+      "english": "I am learning, to be patient.",
+      "georgian": "ვსწავლობ, ვიყო მომთმენი.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948824"
+    },
+    {
+      "english": "Peace is, a quiet knowing.",
+      "georgian": "სიმშვიდეა, ჩუმი ცოდნა.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948826"
+    },
+    {
+      "english": "My feelings, change like seasons.",
+      "georgian": "ჩემი გრძნობები, იცვლება სეზონებივით.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948828"
+    },
+    {
+      "english": "I allow myself, to feel fully.",
+      "georgian": "ნება მყოფნის, ვიგრძნო სრულად.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948829"
+    },
+    {
+      "english": "Stillness, offers deep comfort.",
+      "georgian": "სიჩუმე, სთავაზობს ღრმა ნუგეშს.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948831"
+    },
+    {
+      "english": "I honor, my vulnerability.",
+      "georgian": "პატივს ვცემ, ჩემს სისუსტეს.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948833"
+    },
+    {
+      "english": "My breath, is my anchor.",
+      "georgian": "ჩემი სუნთქვა, ჩემი წამყვანია.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948835"
+    },
+    {
+      "english": "I cultivate, inner calm.",
+      "georgian": "ვუვლი, შინაგან სიმშვიდეს.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948836"
+    },
+    {
+      "english": "This journey, is for me.",
+      "georgian": "ეს მოგზაურობა, ჩემთვის არის.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948838"
+    },
+    {
+      "english": "I release, what no longer serves.",
+      "georgian": "ვუშვებ, რაც აღარ მჭირდება.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948841"
+    },
+    {
+      "english": "Peace resides, in acceptance.",
+      "georgian": "სიმშვიდე ბინადრობს, მიღებაში.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948842"
+    },
+    {
+      "english": "My heart, holds its truth.",
+      "georgian": "ჩემი გული, თავის სიმართლეს ინახავს.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948844"
+    },
+    {
+      "english": "I flow, with life's rhythm.",
+      "georgian": "ვდინები, ცხოვრების რიტმთან.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948845"
+    },
+    {
+      "english": "Quiet contemplation, brings insight.",
+      "georgian": "ჩუმი ფიქრი, მოაქვს შეხედულება.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948847"
+    },
+    {
+      "english": "I am, where I need to be.",
+      "georgian": "ვარ, სადაც უნდა ვიყო.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948849"
+    },
+    {
+      "english": "Self-awareness, is my guide.",
+      "georgian": "თვითშეგნება, ჩემი გზამკვლევია.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948851"
+    },
+    {
+      "english": "Gratitude, fills my soul.",
+      "georgian": "მადლიერება, ავსებს ჩემს სულს.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948852"
+    },
+    {
+      "english": "I trust, the unfolding.",
+      "georgian": "ვენდობი, გამჟღავნებას.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948854"
+    },
+    {
+      "english": "My inner peace, is my strength.",
+      "georgian": "ჩემი შინაგანი სიმშვიდე, ჩემი ძალაა.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948855"
+    },
+    {
+      "english": "Start small, achieve big.",
+      "georgian": "პატარას დაიწყე, დიდს მიაღწევ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948857"
+    },
+    {
+      "english": "Talk it out, when worried.",
+      "georgian": "ილაპარაკე, როცა ნერვიულობ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T08:07:50.948859"
     }
   ],
-  "last_updated": "2026-10-20T08:02:51.015398"
+  "last_updated": "2026-10-21T08:07:50.948861"
 }
