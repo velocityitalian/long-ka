@@ -3599,7 +3599,727 @@
       "georgian": "ილაპარაკე, როცა ნერვიულობ.",
       "category": "Inner Peace",
       "generated_at": "2026-10-21T08:07:50.948859"
+    },
+    {
+      "english": "Welcome, guest, to our home.",
+      "georgian": "გამარჯობა, სტუმარო, ჩვენს სახლში.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581691"
+    },
+    {
+      "english": "Please, have some wine.",
+      "georgian": "ბატონო, ღვინო დალიეთ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581705"
+    },
+    {
+      "english": "This is a toast, to health!",
+      "georgian": "ეს სადღეგრძელოა, ჯანმრთელობისთვის!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581708"
+    },
+    {
+      "english": "What a beautiful tradition!",
+      "georgian": "რა ლამაზი ტრადიციაა!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581710"
+    },
+    {
+      "english": "Tell me more, please.",
+      "georgian": "მომიყევით მეტი, გთხოვთ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581712"
+    },
+    {
+      "english": "I love Georgian hospitality.",
+      "georgian": "მიყვარს ქართული სტუმართმოყვარეობა.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581714"
+    },
+    {
+      "english": "May your year be bright.",
+      "georgian": "წელიწადი თქვენი ნათელი იყოს.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581716"
+    },
+    {
+      "english": "Happy New Year, friends!",
+      "georgian": "გილოცავთ ახალ წელს, მეგობრებო!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581720"
+    },
+    {
+      "english": "Easter greetings to all.",
+      "georgian": "აღდგომის მოლოცვა ყველას.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581723"
+    },
+    {
+      "english": "Let's celebrate together.",
+      "georgian": "ვიზეიმოთ ერთად.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581726"
+    },
+    {
+      "english": "This song is very old.",
+      "georgian": "ეს სიმღერა ძალიან ძველია.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581733"
+    },
+    {
+      "english": "Dance with us, why not?",
+      "georgian": "იხეკლავეთ ჩვენთან, რატომაც არა?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581737"
+    },
+    {
+      "english": "This is a special day.",
+      "georgian": "ეს განსაკუთრებული დღეა.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581739"
+    },
+    {
+      "english": "We respect our elders.",
+      "georgian": "ჩვენ პატივს ვცემთ უხუცესებს.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581741"
+    },
+    {
+      "english": "Family is very important.",
+      "georgian": "ოჯახი ძალიან მნიშვნელოვანია.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581743"
+    },
+    {
+      "english": "What a lovely custom!",
+      "georgian": "რა საყვარელი ჩვეულებაა!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581745"
+    },
+    {
+      "english": "Let's share our stories.",
+      "georgian": "მოდი, ჩვენი ამბები გავუზიაროთ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581747"
+    },
+    {
+      "english": "This wine is homemade.",
+      "georgian": "ეს ღვინო სახლშია გაკეთებული.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581749"
+    },
+    {
+      "english": "Taste this delicious khachapuri.",
+      "georgian": "დააგემოვნეთ ეს გემრიელი ხაჭაპური.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581751"
+    },
+    {
+      "english": "This is a true Georgian feast.",
+      "georgian": "ეს ნამდვილი ქართული ნადიმია.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581753"
+    },
+    {
+      "english": "The Supra is legendary.",
+      "georgian": "სუფრა ლეგენდარულია.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581755"
+    },
+    {
+      "english": "Every guest is a gift.",
+      "georgian": "ყოველი სტუმარი საჩუქარია.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581757"
+    },
+    {
+      "english": "We value good company.",
+      "georgian": "ჩვენ ვაფასებთ კარგ კომპანიას.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581758"
+    },
+    {
+      "english": "This is our ancient way.",
+      "georgian": "ეს ჩვენი უძველესი გზაა.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581760"
+    },
+    {
+      "english": "May peace be with you.",
+      "georgian": "მშვიდობა თქვენთან იყოს.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581762"
+    },
+    {
+      "english": "Let's raise a glass.",
+      "georgian": "მოვუმატოთ ჭიქა.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581764"
+    },
+    {
+      "english": "This tradition lives on.",
+      "georgian": "ეს ტრადიცია გრძელდება.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581766"
+    },
+    {
+      "english": "You are most welcome.",
+      "georgian": "თქვენ ყველაზე კარგად ხართ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581769"
+    },
+    {
+      "english": "Thank you for sharing.",
+      "georgian": "მადლობა გაზიარებისთვის.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581771"
+    },
+    {
+      "english": "What is this called, exactly?",
+      "georgian": "ამას ზუსტად რა ჰქვია?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581774"
+    },
+    {
+      "english": "Can you explain this ritual?",
+      "georgian": "ამ რიტუალის ახსნა შეგიძლია?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581776"
+    },
+    {
+      "english": "Why do you do this, traditionally?",
+      "georgian": "ტრადიციულად, ამას რატომ აკეთებთ?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581778"
+    },
+    {
+      "english": "How long has this been practiced?",
+      "georgian": "რამდენი ხანია ამას აკეთებენ?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581781"
+    },
+    {
+      "english": "Is this a common celebration?",
+      "georgian": "ეს ხშირი დღესასწაულია?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581783"
+    },
+    {
+      "english": "Who usually participates in this?",
+      "georgian": "ვინ მონაწილეობს ხოლმე ამაში?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581785"
+    },
+    {
+      "english": "What does this symbol represent?",
+      "georgian": "ეს სიმბოლო რას ნიშნავს?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581787"
+    },
+    {
+      "english": "Where did this custom originate?",
+      "georgian": "სადაურია ეს ჩვეულება?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581789"
+    },
+    {
+      "english": "Can I observe this ceremony?",
+      "georgian": "შემიძლია ამ ცერემონიას დავაკვირდე?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581794"
+    },
+    {
+      "english": "What is the significance of the music?",
+      "georgian": "რა მნიშვნელობა აქვს მუსიკას?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581796"
+    },
+    {
+      "english": "Is there a specific prayer here?",
+      "georgian": "აქ კონკრეტული ლოცვა არის?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581798"
+    },
+    {
+      "english": "How do you prepare the food for this?",
+      "georgian": "ამისთვის საჭმელს როგორ ამზადებთ?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581799"
+    },
+    {
+      "english": "What gifts are customary for this event?",
+      "georgian": "ამ ღონისძიებისთვის რა საჩუქრებია ჩვეულებრივი?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581802"
+    },
+    {
+      "english": "Can you teach me a phrase, please?",
+      "georgian": "ერთი ფრაზა მასწავლე, რა?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581806"
+    },
+    {
+      "english": "What is the proper etiquette here?",
+      "georgian": "აქ როგორი ეტიკეტია?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581811"
+    },
+    {
+      "english": "Do you have similar traditions elsewhere?",
+      "georgian": "სხვაგანაც მსგავსი ტრადიციები გაქვთ?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581813"
+    },
+    {
+      "english": "What's the story behind this dance?",
+      "georgian": "ამ ცეკვას რა ისტორია აქვს?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581815"
+    },
+    {
+      "english": "Is this a religious observance?",
+      "georgian": "ეს რელიგიური მსახურებაა?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581817"
+    },
+    {
+      "english": "What's the most important aspect?",
+      "georgian": "ყველაზე მნიშვნელოვანი რა არის?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581819"
+    },
+    {
+      "english": "How do younger generations view this?",
+      "georgian": "ახალგაზრდები ამას როგორ უყურებენ?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581821"
+    },
+    {
+      "english": "Can you share a personal memory?",
+      "georgian": "პირადი მოგონება გაგვიზიარე?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581823"
+    },
+    {
+      "english": "What makes this day unique?",
+      "georgian": "რის გამოა ეს დღე განსაკუთრებული?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581825"
+    },
+    {
+      "english": "Is there a special greeting for this?",
+      "georgian": "ამისთვის განსაკუთრებული მისალმება არსებობს?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581827"
+    },
+    {
+      "english": "Can you tell me about the clothing?",
+      "georgian": "ამ სამოსზე რამე მითხარი?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581829"
+    },
+    {
+      "english": "What is the role of the Tamada?",
+      "georgian": "თამადას რა როლი აქვს?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581831"
+    },
+    {
+      "english": "How is hospitality shown here?",
+      "georgian": "აქ სტუმართმოყვარეობას როგორ ავლენთ?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581833"
+    },
+    {
+      "english": "Is there a specific blessing associated?",
+      "georgian": "განსაკუთრებული კურთხევა უკავშირდება?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581835"
+    },
+    {
+      "english": "What should I avoid doing?",
+      "georgian": "რა არ უნდა გავაკეთო?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581837"
+    },
+    {
+      "english": "Can we try this, together?",
+      "georgian": "ვცადოთ ეს, ერთად?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581839"
+    },
+    {
+      "english": "Your effort is inspiring.",
+      "georgian": "შენი ძალისხმევა შთამბეჭდავია.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581841"
+    },
+    {
+      "english": "Keep pushing forward, you can.",
+      "georgian": "წინ წადი, შეგიძლია.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581843"
+    },
+    {
+      "english": "Embrace the journey, learn much.",
+      "georgian": "მიიღე მოგზაურობა, ბევრი ისწავლე.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581845"
+    },
+    {
+      "english": "Every step counts, don't doubt.",
+      "georgian": "ყოველი ნაბიჯი მნიშვნელოვანია, ნუ დაეჭვდები.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581848"
+    },
+    {
+      "english": "Positive thoughts create positive results.",
+      "georgian": "პოზიტიური ფიქრები პოზიტიურ შედეგებს ქმნის.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581850"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "georgian": "ფოკუსი პროგრესზე, არა სრულყოფილებაზე.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581853"
+    },
+    {
+      "english": "You have the strength within.",
+      "georgian": "შენში ძალაა.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581855"
+    },
+    {
+      "english": "Try your best, that's enough.",
+      "georgian": "ეცადე მაქსიმალურად, ეს საკმარისია.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581857"
+    },
+    {
+      "english": "Embrace challenges with courage.",
+      "georgian": "შეხვდი გამოწვევებს გამბედაობით.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581859"
+    },
+    {
+      "english": "Your spirit shines brightly.",
+      "georgian": "შენი სული კაშკაშებს.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581861"
+    },
+    {
+      "english": "Never give up on your dreams.",
+      "georgian": "არასოდეს დანებდე შენს ოცნებებს.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581863"
+    },
+    {
+      "english": "Cultivate a thankful heart.",
+      "georgian": "განავითარე მადლიერი გული.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581867"
+    },
+    {
+      "english": "See the good in every day.",
+      "georgian": "დაინახე სიკეთე ყოველ დღეს.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581869"
+    },
+    {
+      "english": "Your perspective matters greatly.",
+      "georgian": "შენი შეხედულება ძალიან მნიშვნელოვანია.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581871"
+    },
+    {
+      "english": "Growth comes from discomfort.",
+      "georgian": "ზრდა დისკომფორტისგან მოდის.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581874"
+    },
+    {
+      "english": "Stay curious, keep learning.",
+      "georgian": "დარჩი ცნობისმოყვარე, სწავლა გააგრძელე.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581877"
+    },
+    {
+      "english": "You radiate positive energy.",
+      "georgian": "პოზიტიურ ენერგიას ასხივებ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581879"
+    },
+    {
+      "english": "Your presence is a blessing.",
+      "georgian": "შენი ყოფნა კურთხევაა.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581884"
+    },
+    {
+      "english": "Let optimism guide you.",
+      "georgian": "დაე, ოპტიმიზმმა გიხელმძღვანელოს.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581885"
+    },
+    {
+      "english": "Celebrate small victories.",
+      "georgian": "აღნიშნე მცირე გამარჯვებები.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581887"
+    },
+    {
+      "english": "Your kindness makes a difference.",
+      "georgian": "შენი სიკეთე ცვლილებას იწვევს.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581889"
+    },
+    {
+      "english": "Stay grounded, stay humble.",
+      "georgian": "დარჩი ფეხზე მყარად, თავმდაბლად.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581891"
+    },
+    {
+      "english": "Believe in the power of community.",
+      "georgian": "გჯეროდეს საზოგადოების ძალა.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581893"
+    },
+    {
+      "english": "May your spirit be uplifted.",
+      "georgian": "შენი სული ამაღლდეს.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581895"
+    },
+    {
+      "english": "It feels deeply meaningful, doesn't it?",
+      "georgian": "ძალიან აზრობრივად ჟღერს, არა?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581897"
+    },
+    {
+      "english": "I'm reflecting on my own feelings.",
+      "georgian": "ჩემს გრძნობებზე ვფიქრობ ახლა.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581900"
+    },
+    {
+      "english": "This requires true patience, I see.",
+      "georgian": "ამას ნამდვილი მოთმინება უნდა, ვხედავ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581902"
+    },
+    {
+      "english": "My heart feels quite full now.",
+      "georgian": "გული სავსე მაქვს ამ წუთას.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581904"
+    },
+    {
+      "english": "Let's think about its deeper meaning.",
+      "georgian": "მის შინაარსზე ვიფიქროთ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581906"
+    },
+    {
+      "english": "This tradition touches my soul.",
+      "georgian": "ეს ტრადიცია სულს მეხება.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581908"
+    },
+    {
+      "english": "I'm honestly impressed by this.",
+      "georgian": "გულწრფელად მომხიბლა ამან.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581910"
+    },
+    {
+      "english": "What emotions does this evoke for you?",
+      "georgian": "რა ემოციებს იწვევს შენში?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581913"
+    },
+    {
+      "english": "It makes me feel very connected.",
+      "georgian": "თავს ძალიან დაკავშირებულად ვგრძნობ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581915"
+    },
+    {
+      "english": "This is a moment for honest reflection.",
+      "georgian": "ეს გულწრფელი დაფიქრების მომენტია.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581917"
+    },
+    {
+      "english": "I'm finding peace in this moment.",
+      "georgian": "ამ წუთში სიმშვიდეს ვპოულობ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581919"
+    },
+    {
+      "english": "How does this make you feel inside?",
+      "georgian": "როგორ გაგრძნობინებს თავს ეს?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581921"
+    },
+    {
+      "english": "This requires deep understanding.",
+      "georgian": "ამას ღრმა გაგება სჭირდება.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581923"
+    },
+    {
+      "english": "My thoughts are very sincere right now.",
+      "georgian": "ჩემი ფიქრები ახლა ძალიან გულწრფელია.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581925"
+    },
+    {
+      "english": "It inspires a lot of inner thought.",
+      "georgian": "ბევრ შინაგან ფიქრს აღძრავს.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581927"
+    },
+    {
+      "english": "I'm learning to be more patient.",
+      "georgian": "მეტი მოთმინების სწავლას ვიწყებ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581929"
+    },
+    {
+      "english": "This experience is quite moving.",
+      "georgian": "ეს გამოცდილება ძალიან ამაღელვებელია.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581931"
+    },
+    {
+      "english": "My spirit feels truly touched.",
+      "georgian": "ჩემი სული ნამდვილად შეეხო.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581933"
+    },
+    {
+      "english": "Let's contemplate its significance.",
+      "georgian": "მის მნიშვნელობაზე ვიფიქროთ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581935"
+    },
+    {
+      "english": "I appreciate this sincerity.",
+      "georgian": "ამ გულწრფელობას ვაფასებ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581939"
+    },
+    {
+      "english": "This has a profound emotional impact.",
+      "georgian": "მას ღრმა ემოციური გავლენა აქვს.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581941"
+    },
+    {
+      "english": "I'm processing these feelings slowly.",
+      "georgian": "ამ გრძნობებს ნელ-ნელა ვიაზრებ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581944"
+    },
+    {
+      "english": "This encourages introspection.",
+      "georgian": "ეს თვითშემეცნებას უწყობს ხელს.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581946"
+    },
+    {
+      "english": "What unspoken emotions arise?",
+      "georgian": "რა დაუფარავი გრძნობები იბადება?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581948"
+    },
+    {
+      "english": "I feel a sense of inner peace.",
+      "georgian": "შინაგანი სიმშვიდის შეგრძნება მაქვს.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581953"
+    },
+    {
+      "english": "This requires quiet contemplation.",
+      "georgian": "ამას ჩუმი დაფიქრება უნდა.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581955"
+    },
+    {
+      "english": "My soul resonates with this.",
+      "georgian": "ჩემი სული ამას ეხმიანება.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581957"
+    },
+    {
+      "english": "This speaks to my deepest self.",
+      "georgian": "ეს ჩემს ყველაზე ღრმა მეს ესაუბრება.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581959"
+    },
+    {
+      "english": "Let's pause and feel this.",
+      "georgian": "დავისვენოთ და ეს ვიგრძნოთ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581961"
+    },
+    {
+      "english": "Such honesty is very valuable.",
+      "georgian": "ასეთი გულწრფელობა ძალიან ფასეულია.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581963"
+    },
+    {
+      "english": "Don't forget, the host always offers first.",
+      "georgian": "არ დაგავიწყდეთ, მასპინძელი ყოველთვის პირველს სთავაზობს.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581966"
+    },
+    {
+      "english": "Yes, it's polite to bring a small gift.",
+      "georgian": "კი, მოკრძალებული საჩუქრის მოტანა მისასალმებელია.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581969"
+    },
+    {
+      "english": "When visiting, always bring wine or sweets.",
+      "georgian": "სტუმრობისას, ყოველთვის თან იქონიეთ ღვინო ან ტკბილეული.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581971"
+    },
+    {
+      "english": "Wait for the toast, don't start eating yet.",
+      "georgian": "დაელოდეთ სადღეგრძელოს, ჯერ ჭამას ნუ დაიწყებთ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581973"
+    },
+    {
+      "english": "Always accept food, even a little bite.",
+      "georgian": "ყოველთვის მიიღეთ საჭმელი, თუნდაც პატარა ლუკმა.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581976"
+    },
+    {
+      "english": "It's rude to refuse a drink, take a sip.",
+      "georgian": "სასმელზე უარის თქმა უზრდელობაა, ერთი ყლუპი მაინც დალიეთ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581978"
+    },
+    {
+      "english": "Let the elders speak first, listen respectfully.",
+      "georgian": "უფროსებს ჯერ ელაპარაკეთ, პატივისცემით მოუსმინეთ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581981"
+    },
+    {
+      "english": "Thank you for the hospitality, it was wonderful.",
+      "georgian": "მადლობა სტუმართმოყვარეობისთვის, შესანიშნავი იყო.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-22T08:17:33.581983"
     }
   ],
-  "last_updated": "2026-10-21T08:07:50.948861"
+  "last_updated": "2026-10-22T08:17:33.581985"
 }
