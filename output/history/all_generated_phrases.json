@@ -4319,7 +4319,727 @@
       "georgian": "მადლობა სტუმართმოყვარეობისთვის, შესანიშნავი იყო.",
       "category": "Cultural Traditions",
       "generated_at": "2026-10-22T08:17:33.581983"
+    },
+    {
+      "english": "Hello, how are you?",
+      "georgian": "გამარჯობა, როგორ ხარ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143116"
+    },
+    {
+      "english": "Nice to meet you.",
+      "georgian": "სასიამოვნოა თქვენი გაცნობა.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143129"
+    },
+    {
+      "english": "Thank you very much.",
+      "georgian": "ძალიან დიდი მადლობა.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143133"
+    },
+    {
+      "english": "You're welcome.",
+      "georgian": "არაფრის.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143136"
+    },
+    {
+      "english": "Excuse me, please.",
+      "georgian": "უკაცრავად, ბატონო/ქალბატონო.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143139"
+    },
+    {
+      "english": "I don't understand.",
+      "georgian": "ვერ გავიგე.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143142"
+    },
+    {
+      "english": "Can you repeat that?",
+      "georgian": "შეგიძლიათ გაიმეოროთ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143146"
+    },
+    {
+      "english": "Where is the restroom?",
+      "georgian": "საპირფარეშო სად არის?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143152"
+    },
+    {
+      "english": "Yes, please.",
+      "georgian": "კი, თუ შეიძლება.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143155"
+    },
+    {
+      "english": "No, thank you.",
+      "georgian": "არა, მადლობა.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143158"
+    },
+    {
+      "english": "It's beautiful here.",
+      "georgian": "აქ მშვენიერია.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143161"
+    },
+    {
+      "english": "I need help.",
+      "georgian": "დახმარება მჭირდება.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143163"
+    },
+    {
+      "english": "Have a nice day!",
+      "georgian": "კარგ დღეს გისურვებთ!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143166"
+    },
+    {
+      "english": "Where is the airport?",
+      "georgian": "აეროპორტი სად არის?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143168"
+    },
+    {
+      "english": "I have a reservation.",
+      "georgian": "დაჯავშნა მაქვს.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143171"
+    },
+    {
+      "english": "My flight is delayed.",
+      "georgian": "ჩემი რეისი დაგვიანდა.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143173"
+    },
+    {
+      "english": "What gate is it?",
+      "georgian": "რომელი კარიბჭეა?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143176"
+    },
+    {
+      "english": "Where can I find a taxi?",
+      "georgian": "ტაქსი სად ვიპოვო?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143178"
+    },
+    {
+      "english": "This is my passport.",
+      "georgian": "ეს ჩემი პასპორტია.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143183"
+    },
+    {
+      "english": "I need to check in.",
+      "georgian": "რეგისტრაცია უნდა გავიარო.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143185"
+    },
+    {
+      "english": "What time is boarding?",
+      "georgian": "როდის იწყება ბორტზე ასვლა?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143188"
+    },
+    {
+      "english": "Is my luggage okay?",
+      "georgian": "ჩემი ბარგი წესრიგშია?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143192"
+    },
+    {
+      "english": "Where is baggage claim?",
+      "georgian": "ბარგის აღება სად არის?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143194"
+    },
+    {
+      "english": "I am going on vacation.",
+      "georgian": "შვებულებაში მივდივარ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143197"
+    },
+    {
+      "english": "It's a long flight.",
+      "georgian": "ეს ხანგრძლივი ფრენაა.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143200"
+    },
+    {
+      "english": "Enjoy your trip!",
+      "georgian": "კარგად იმგზავრეთ!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143202"
+    },
+    {
+      "english": "See you soon.",
+      "georgian": "მალე შევხვდებით.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143205"
+    },
+    {
+      "english": "Where can I get coffee, please?",
+      "georgian": "სად შეიძლება ყავა ავიღო, გეთაყვა?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143208"
+    },
+    {
+      "english": "Is this the correct line, maybe?",
+      "georgian": "ეს სწორი რიგია, იქნებ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143211"
+    },
+    {
+      "english": "Can you show me on the map, please?",
+      "georgian": "რუკაზე თუ შეგიძლია მაჩვენო, გთხოვ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143214"
+    },
+    {
+      "english": "Do you speak English, by any chance?",
+      "georgian": "ინგლისურად თუ საუბრობ, შემთხვევით?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143217"
+    },
+    {
+      "english": "How much is this ticket, approximately?",
+      "georgian": "რა ღირს ეს ბილეთი, დაახლოებით?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143220"
+    },
+    {
+      "english": "Could you help me with this bag?",
+      "georgian": "ამ ჩემოდანში თუ დამეხმარები?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143222"
+    },
+    {
+      "english": "What's the best way to the city?",
+      "georgian": "რა არის საუკეთესო გზა ქალაქამდე?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143225"
+    },
+    {
+      "english": "Is there Wi-Fi available here?",
+      "georgian": "აქ ინტერნეტი თუ არის ხელმისაწვდომი?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143228"
+    },
+    {
+      "english": "How long does it take to get there?",
+      "georgian": "რამდენი დრო უნდა იქ მისასვლელად?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143231"
+    },
+    {
+      "english": "Can I change my seat, please?",
+      "georgian": "შემიძლია ადგილის შეცვლა, გთხოვ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143234"
+    },
+    {
+      "english": "What time does the next bus leave?",
+      "georgian": "როდის მიდის შემდეგი ავტობუსი?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143238"
+    },
+    {
+      "english": "Is this gate still open, do you know?",
+      "georgian": "ეს კარი ჯერ კიდევ ღიაა, იცი?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143241"
+    },
+    {
+      "english": "Could you recommend a good restaurant?",
+      "georgian": "კარგ რესტორანს თუ მირჩევ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143244"
+    },
+    {
+      "english": "Where can I buy a local SIM card?",
+      "georgian": "სად ვიყიდო ადგილობრივი სიმ-ბარათი?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143246"
+    },
+    {
+      "english": "Is my connection tight, do you think?",
+      "georgian": "ჩემი რეისი თუ არის დროული, ვფიქრობ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143249"
+    },
+    {
+      "english": "What currency do you accept here?",
+      "georgian": "რა ვალუტას იღებთ აქ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143252"
+    },
+    {
+      "english": "Can I have some water, please?",
+      "georgian": "შემიძლია ცოტა წყალი, გთხოვ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143255"
+    },
+    {
+      "english": "Where do I go for customs, please?",
+      "georgian": "საბაჟოში სად მივიდე, გეთაყვა?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143258"
+    },
+    {
+      "english": "Is there a shuttle to the hotel?",
+      "georgian": "სასტუმრომდე შატლი თუ არის?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143260"
+    },
+    {
+      "english": "Can you call me a taxi, please?",
+      "georgian": "ტაქსი თუ შეგიძლია ამიხმო, გთხოვ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143263"
+    },
+    {
+      "english": "What's the baggage allowance, exactly?",
+      "georgian": "ბარგის ნორმა რა არის, ზუსტად?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143267"
+    },
+    {
+      "english": "Is this the right terminal, perhaps?",
+      "georgian": "ეს სწორი ტერმინალია, იქნებ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143269"
+    },
+    {
+      "english": "Where can I find lost and found?",
+      "georgian": "სად ვიპოვო დაკარგული ნივთების ბიურო?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143272"
+    },
+    {
+      "english": "Could you help me with directions?",
+      "georgian": "მიმართულებებში თუ დამეხმარები?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143274"
+    },
+    {
+      "english": "Is there a smoking area nearby?",
+      "georgian": "მოწევის ადგილი თუ არის ახლოს?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143277"
+    },
+    {
+      "english": "What's the weather like today?",
+      "georgian": "როგორი ამინდია დღეს?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143280"
+    },
+    {
+      "english": "Can I get a boarding pass printed?",
+      "georgian": "ბორტ-ბილეთის ამობეჭდვა თუ შეიძლება?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143282"
+    },
+    {
+      "english": "How far is the departure gate?",
+      "georgian": "რა არის გასასვლელი კარიდან დაშორებული?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143285"
+    },
+    {
+      "english": "Is there a place to exchange money?",
+      "georgian": "ფულის გასაცვლელი ადგილი თუ არის?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143287"
+    },
+    {
+      "english": "You've got this, believe in yourself.",
+      "georgian": "შენ ეს შეგიძლია, გჯეროდეს საკუთარი თავის.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143290"
+    },
+    {
+      "english": "Every step forward, is progress.",
+      "georgian": "ყოველი წინ გადადგმული ნაბიჯი, წინსვლაა.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143295"
+    },
+    {
+      "english": "Just breathe, and stay calm.",
+      "georgian": "უბრალოდ ისუნთქე, და მშვიდად იყავი.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143299"
+    },
+    {
+      "english": "This experience will be amazing.",
+      "georgian": "ეს გამოცდილება საოცარი იქნება.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143301"
+    },
+    {
+      "english": "You are doing great, keep going.",
+      "georgian": "შესანიშნავად აკეთებ, გააგრძელე.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143304"
+    },
+    {
+      "english": "Embrace the adventure, it's exciting.",
+      "georgian": "ჩაეხუტე თავგადასავალს, ეს ამაღელვებელია.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143307"
+    },
+    {
+      "english": "Don't worry too much, it's fine.",
+      "georgian": "ნუ იდარდებ ძალიან, ყველაფერი კარგად იქნება.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143310"
+    },
+    {
+      "english": "Trust the process, you'll manage.",
+      "georgian": "ენდე პროცესს, შენ გაართმევ თავს.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143313"
+    },
+    {
+      "english": "This journey, is a gift.",
+      "georgian": "ეს მოგზაურობა, საჩუქარია.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143316"
+    },
+    {
+      "english": "Stay positive, think good thoughts.",
+      "georgian": "იყავი პოზიტიური, იფიქრე კარგზე.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143319"
+    },
+    {
+      "english": "Let go of stress, enjoy now.",
+      "georgian": "გაუშვი სტრესი, ისიამოვნე აწმყოთი.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143322"
+    },
+    {
+      "english": "Everything will work out perfectly.",
+      "georgian": "ყველაფერი იდეალურად მოგვარდება.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143324"
+    },
+    {
+      "english": "Your efforts are truly commendable.",
+      "georgian": "შენი ძალისხმევა მართლაც დასაფასებელია.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143327"
+    },
+    {
+      "english": "Be open to new possibilities.",
+      "georgian": "იყავი ღია ახალი შესაძლებლობებისთვის.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143331"
+    },
+    {
+      "english": "You are strong, and resilient.",
+      "georgian": "შენ ხარ ძლიერი, და გამძლე.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143334"
+    },
+    {
+      "english": "Take a deep breath, you'll be fine.",
+      "georgian": "ღრმად ამოისუნთქე, თავს კარგად იგრძნობ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143337"
+    },
+    {
+      "english": "This is a moment to cherish.",
+      "georgian": "ეს არის მომენტი, რომელსაც დააფასებ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143340"
+    },
+    {
+      "english": "You are handling this very well.",
+      "georgian": "ძალიან კარგად უმკლავდები ამას.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143342"
+    },
+    {
+      "english": "Adventure awaits, be brave.",
+      "georgian": "თავგადასავალი გელოდება, იყავი მამაცი.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143345"
+    },
+    {
+      "english": "Believe in your travel plans.",
+      "georgian": "გჯეროდეს შენი სამოგზაურო გეგმების.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143348"
+    },
+    {
+      "english": "You're making excellent choices.",
+      "georgian": "შენ აკეთებ შესანიშნავ არჩევანს.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143350"
+    },
+    {
+      "english": "Let the journey inspire you.",
+      "georgian": "ნება მიეცი მოგზაურობას, რომ შთაგაგონოს.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143353"
+    },
+    {
+      "english": "You are ready for this adventure.",
+      "georgian": "მზად ხარ ამ თავგადასავლისთვის.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143356"
+    },
+    {
+      "english": "Focus on the good times ahead.",
+      "georgian": "ფოკუსირდი მომავალ კარგ დროზე.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143360"
+    },
+    {
+      "english": "You are navigating this smoothly.",
+      "georgian": "ამას შეუფერხებლად ართმევ თავს.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143362"
+    },
+    {
+      "english": "Every challenge, is a lesson learned.",
+      "georgian": "ყოველი გამოწვევა, არის ნასწავლი გაკვეთილი.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143365"
+    },
+    {
+      "english": "Your attitude is fantastic, keep it.",
+      "georgian": "შენი დამოკიდებულება ფანტასტიურია, შეინარჩუნე.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143368"
+    },
+    {
+      "english": "This trip will be memorable.",
+      "georgian": "ეს მოგზაურობა დასამახსოვრებელი იქნება.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143370"
+    },
+    {
+      "english": "You are doing wonderfully, bravo!",
+      "georgian": "შესანიშნავად აკეთებ, ბრავო!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143373"
+    },
+    {
+      "english": "This feeling, it's quite overwhelming.",
+      "georgian": "ეს გრძნობა, საკმაოდ დიდია.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143376"
+    },
+    {
+      "english": "I'm trying to stay patient here.",
+      "georgian": "ვცდილობ, აქ ვიყო მომთმენი.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143379"
+    },
+    {
+      "english": "Just reflecting, on the journey so far.",
+      "georgian": "უბრალოდ ვფიქრობ, აქამდე მოგზაურობაზე.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143381"
+    },
+    {
+      "english": "Honestly, I miss my quiet mornings.",
+      "georgian": "გულწრფელად, მომენატრა ჩემი წყნარი დილა.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143386"
+    },
+    {
+      "english": "This place, it sparks so much thought.",
+      "georgian": "ეს ადგილი, ძალიან ბევრს ფიქრობს.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143389"
+    },
+    {
+      "english": "A little tired, but feeling hopeful.",
+      "georgian": "ცოტა დაღლილი, მაგრამ იმედიანად ვგრძნობ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143392"
+    },
+    {
+      "english": "It's good to finally slow down.",
+      "georgian": "კარგია, რომ საბოლოოდ დავმშვიდდი.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143394"
+    },
+    {
+      "english": "I appreciate this moment of peace.",
+      "georgian": "ვაფასებ ამ სიმშვიდის მომენტს.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143397"
+    },
+    {
+      "english": "My heart is full, traveling alone.",
+      "georgian": "გული ამევსო, მარტო მოგზაურობით.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143400"
+    },
+    {
+      "english": "Thinking about home, with fondness.",
+      "georgian": "სახლზე ვფიქრობ, სითბოთი.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143403"
+    },
+    {
+      "english": "This view, it truly touches me.",
+      "georgian": "ეს ხედი, ნამდვილად მეხება.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143406"
+    },
+    {
+      "english": "Hoping for a smooth continuation.",
+      "georgian": "ვიმედოვნებ გლუვ გაგრძელებას.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143408"
+    },
+    {
+      "english": "This journey, it changes perspective.",
+      "georgian": "ეს მოგზაურობა, ცვლის პერსპექტივას.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143411"
+    },
+    {
+      "english": "I feel a sense of deep gratitude.",
+      "georgian": "ვგრძნობ ღრმა მადლიერებას.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143415"
+    },
+    {
+      "english": "It's okay to feel a little lost.",
+      "georgian": "ნორმალურია, ცოტა დაიკარგო.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143418"
+    },
+    {
+      "english": "Cherishing these quiet, introspective hours.",
+      "georgian": "ვაფასებ ამ წყნარ, შინაგან საათებს.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143421"
+    },
+    {
+      "english": "My spirit feels lighter now.",
+      "georgian": "ჩემი სული ახლა უფრო მსუბუქია.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143425"
+    },
+    {
+      "english": "A moment to just be present.",
+      "georgian": "მომენტი, უბრალოდ ახლა ყოფნის.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143427"
+    },
+    {
+      "english": "This adventure, requires real patience.",
+      "georgian": "ეს თავგადასავალი, ნამდვილ მოთმინებას მოითხოვს.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143430"
+    },
+    {
+      "english": "Feeling surprisingly calm, despite it all.",
+      "georgian": "გამაოცრად მშვიდად ვგრძნობ, ამ ყველაფრის მიუხედავად.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143433"
+    },
+    {
+      "english": "I'm learning to trust the unknown.",
+      "georgian": "ვსწავლობ უცნობის ნდობას.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143436"
+    },
+    {
+      "english": "This travel, it's good for the soul.",
+      "georgian": "ეს მოგზაურობა, კარგად მოქმედებს სულზე.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143438"
+    },
+    {
+      "english": "Just taking it all in, slowly.",
+      "georgian": "უბრალოდ ყველაფერს ვიღებ, ნელა.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143441"
+    },
+    {
+      "english": "It's a strange, beautiful kind of freedom.",
+      "georgian": "ეს არის უცნაური, ლამაზი თავისუფლება.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143444"
+    },
+    {
+      "english": "My heart aches, with longing for home.",
+      "georgian": "გული მტკივა, სახლის მონატრებით.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143447"
+    },
+    {
+      "english": "I'm finding beauty, in the chaos.",
+      "georgian": "სილამაზეს ვპოულობ, ქაოსში.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143450"
+    },
+    {
+      "english": "This waiting, makes me thoughtful.",
+      "georgian": "ეს ლოდინი, ფიქრს მაჩენს.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143453"
+    },
+    {
+      "english": "Deep breaths, to center myself.",
+      "georgian": "ღრმა ჩასუნთქვა, საკუთარ თავს ვაკონტროლებ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143456"
+    },
+    {
+      "english": "Feeling quite content, right now.",
+      "georgian": "ძალიან კმაყოფილი ვარ, ახლა.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143458"
+    },
+    {
+      "english": "This journey, is a lesson in itself.",
+      "georgian": "ეს მოგზაურობა, თავისთავად გაკვეთილია.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143461"
+    },
+    {
+      "english": "Where is the check-in counter?",
+      "georgian": "სად არის რეგისტრაციის დახლი?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143464"
+    },
+    {
+      "english": "Do you have a boarding pass?",
+      "georgian": "ბორტ-ბილეთი გაქვთ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143467"
+    },
+    {
+      "english": "Can you help me with my luggage?",
+      "georgian": "შემიძლია, რომ დამეხმაროთ ბარგით?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143469"
+    },
+    {
+      "english": "What gate does my flight leave from?",
+      "georgian": "რომელი კარიბჭიდან მიფრინავს ჩემი რეისი?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143472"
+    },
+    {
+      "english": "I need to find the restroom.",
+      "georgian": "ტუალეტი უნდა ვიპოვო.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-23T08:07:26.143475"
     }
   ],
-  "last_updated": "2026-10-22T08:17:33.581985"
+  "last_updated": "2026-10-23T08:07:26.143477"
 }
