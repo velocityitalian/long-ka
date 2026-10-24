@@ -5039,7 +5039,727 @@
       "georgian": "ტუალეტი უნდა ვიპოვო.",
       "category": "Travel & Airport",
       "generated_at": "2026-10-23T08:07:26.143475"
+    },
+    {
+      "english": "Be brave, my friend.",
+      "georgian": "გამბედავი იყავი, ჩემო მეგობარო.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474867"
+    },
+    {
+      "english": "You have courage.",
+      "georgian": "შენ გაქვს ვაჟკაცობა.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474879"
+    },
+    {
+      "english": "Show some courage!",
+      "georgian": "გამოაჩინე სიმამაცე!",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474883"
+    },
+    {
+      "english": "That took guts.",
+      "georgian": "იმას გამბედაობა დასჭირდა.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474885"
+    },
+    {
+      "english": "Don't be afraid.",
+      "georgian": "ნუ გეშინია.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474888"
+    },
+    {
+      "english": "Face your fears.",
+      "georgian": "შეხვდი შენს შიშებს.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474891"
+    },
+    {
+      "english": "Stay strong.",
+      "georgian": "იყავი ძლიერი.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474894"
+    },
+    {
+      "english": "You can do it.",
+      "georgian": "შენ შეგიძლია ამის გაკეთება.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474899"
+    },
+    {
+      "english": "Have faith.",
+      "georgian": "გქონდეს რწმენა.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474902"
+    },
+    {
+      "english": "Be bold.",
+      "georgian": "იყავი გაბედული.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474904"
+    },
+    {
+      "english": "Take a chance.",
+      "georgian": "გაბედე რისკი.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474907"
+    },
+    {
+      "english": "It's worth a try.",
+      "georgian": "ღირს ცდად.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474910"
+    },
+    {
+      "english": "I admire your bravery.",
+      "georgian": "შენი სიმამაცე აღფრთოვანებული ვარ.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474912"
+    },
+    {
+      "english": "Courage is key.",
+      "georgian": "სიმამაცეა მთავარი.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474915"
+    },
+    {
+      "english": "Let's be courageous.",
+      "georgian": "ვიყოთ მამაცები.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474917"
+    },
+    {
+      "english": "What a brave soul!",
+      "georgian": "რა მამაცი სული!",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474920"
+    },
+    {
+      "english": "Embrace the challenge.",
+      "georgian": "მიიღე გამოწვევა.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474922"
+    },
+    {
+      "english": "Never give up.",
+      "georgian": "არასოდეს დანებდე.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474924"
+    },
+    {
+      "english": "Be fearless.",
+      "georgian": "იყავი უშიშარი.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474927"
+    },
+    {
+      "english": "That's true courage.",
+      "georgian": "ეს არის ნამდვილი სიმამაცე.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474930"
+    },
+    {
+      "english": "You're so brave.",
+      "georgian": "ძალიან მამაცი ხარ.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474934"
+    },
+    {
+      "english": "Dare to be different.",
+      "georgian": "გაბედე განსხვავებული იყო.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474937"
+    },
+    {
+      "english": "Stand your ground.",
+      "georgian": "გაუძელი წინააღმდეგობას.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474940"
+    },
+    {
+      "english": "Have a brave heart.",
+      "georgian": "გქონდეს მამაცი გული.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474942"
+    },
+    {
+      "english": "This requires courage.",
+      "georgian": "ამას სიმამაცე სჭირდება.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474946"
+    },
+    {
+      "english": "Act with courage.",
+      "georgian": "იმოქმედე ვაჟკაცურად.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474949"
+    },
+    {
+      "english": "Your courage inspires me.",
+      "georgian": "შენი სიმამაცე მე შთამაგონებს.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474951"
+    },
+    {
+      "english": "Go for it!",
+      "georgian": "წადი ამისთვის!",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474954"
+    },
+    {
+      "english": "Show some backbone.",
+      "georgian": "გამოაჩინე ხერხემალი.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474956"
+    },
+    {
+      "english": "A moment of courage.",
+      "georgian": "სიმამაცის მომენტი.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474959"
+    },
+    {
+      "english": "What if I try, and fail?",
+      "georgian": "თუ ვცდი, და ვერაფერს გავხდები?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474962"
+    },
+    {
+      "english": "How to find inner strength?",
+      "georgian": "შიდა ძალა, როგორ ვიპოვო?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474964"
+    },
+    {
+      "english": "Is it okay to be scared sometimes?",
+      "georgian": "შეიძლება, ცოტა შემეშინდეს?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474967"
+    },
+    {
+      "english": "Can you help me be braver?",
+      "georgian": "უფრო ვაჟკაცურად, დამეხმარები?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474970"
+    },
+    {
+      "english": "What's the first step, really?",
+      "georgian": "პირველი ნაბიჯი, მართლა რა არის?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474973"
+    },
+    {
+      "english": "Do you think I can handle this?",
+      "georgian": "ფიქრობ, ამას გავუმკლავდები?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474976"
+    },
+    {
+      "english": "Where does true bravery come from?",
+      "georgian": "სიმამაცე, საიდან მოდის?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474978"
+    },
+    {
+      "english": "What if everyone laughs at me?",
+      "georgian": "თუ ყველა დამცინის, რა ვქნა?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474981"
+    },
+    {
+      "english": "Should I speak up now?",
+      "georgian": "ხმა ამოვიღო, ახლა?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474984"
+    },
+    {
+      "english": "How do you stay motivated?",
+      "georgian": "მოტივაცია, როგორ ინარჩუნო?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474986"
+    },
+    {
+      "english": "Is it brave to ask for help?",
+      "georgian": "დახმარების თხოვნა, ვაჟკაცობაა?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474989"
+    },
+    {
+      "english": "What if the outcome is bad?",
+      "georgian": "თუ შედეგი ცუდი იქნება?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474991"
+    },
+    {
+      "english": "How to overcome self-doubt?",
+      "georgian": "თვითეულება, როგორ დავძლიო?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474994"
+    },
+    {
+      "english": "Can I be courageous, starting today?",
+      "georgian": "დღეიდან, ვაჟკაცი ვიქნები?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474996"
+    },
+    {
+      "english": "What's a small act of courage?",
+      "georgian": "პატარა ვაჟკაცობა, რა არის?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.474999"
+    },
+    {
+      "english": "Do you believe in my potential?",
+      "georgian": "ჩემს შესაძლებლობებში, გჯერა?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475002"
+    },
+    {
+      "english": "How do you decide when to act?",
+      "georgian": "როდის ვიმოქმედო, როგორ გადავწყვიტო?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475004"
+    },
+    {
+      "english": "Is persistence a form of courage?",
+      "georgian": "ჟინი, ვაჟკაცობის ფორმაა?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475007"
+    },
+    {
+      "english": "What if I regret not trying?",
+      "georgian": "თუ ვნანობ, რომ არ ვცადე?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475011"
+    },
+    {
+      "english": "How to stay calm under pressure?",
+      "georgian": "სტრესის დროს, სიმშვიდე როგორ შევინარჩუნო?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475013"
+    },
+    {
+      "english": "Can you give me advice?",
+      "georgian": "რჩევა, შეგიძლია მომცე?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475016"
+    },
+    {
+      "english": "What if it's too difficult?",
+      "georgian": "თუ ძალიან ძნელია?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475018"
+    },
+    {
+      "english": "How did you face your fear?",
+      "georgian": "შენი შიში, როგორ დაძლიე?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475021"
+    },
+    {
+      "english": "Is it worth the risk?",
+      "georgian": "რისკად, ღირს?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475023"
+    },
+    {
+      "english": "What if I make a mistake?",
+      "georgian": "თუ შეცდომა დავუშვი?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475027"
+    },
+    {
+      "english": "How to find courage in darkness?",
+      "georgian": "ბნელეთში, სიმამაცე, როგორ ვიპოვო?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475030"
+    },
+    {
+      "english": "Do you need courage to start?",
+      "georgian": "დაწყებისთვის, ვაჟკაცობა საჭიროა?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475034"
+    },
+    {
+      "english": "What if I change my mind?",
+      "georgian": "თუ აზრი შევიცვალე?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475037"
+    },
+    {
+      "english": "How to be strong when weak?",
+      "georgian": "როცა სუსტი ვარ, ძლიერი როგორ ვიყო?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475039"
+    },
+    {
+      "english": "Can you share a story?",
+      "georgian": "ამბავი, შეგიძლია მიამბო?",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475042"
+    },
+    {
+      "english": "Don't shy away, face it.",
+      "georgian": "ნუ მოერიდები, შეეჩეხე.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475045"
+    },
+    {
+      "english": "The lion's heart beats within you.",
+      "georgian": "ლომის გული შენში ძგერს.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475048"
+    },
+    {
+      "english": "Even a small spark, can start a fire.",
+      "georgian": "პატარა ნაპერწკალმაც, ცეცხლი იცის.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475051"
+    },
+    {
+      "english": "Be bold like a hawk, in the sky.",
+      "georgian": "იყავი მამაცი, არწივივით, ცაში.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475054"
+    },
+    {
+      "english": "When the path is tough, your spirit lifts.",
+      "georgian": "როცა გზა ძნელია, სული ამაღლდი.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475059"
+    },
+    {
+      "english": "Don't count the sheep, jump the fence.",
+      "georgian": "ნუ დაითვლი ცხვრებს, გადმოხტი ღობე.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475062"
+    },
+    {
+      "english": "Fear is a shadow, step into light.",
+      "georgian": "შიში ჩრდილია, სინათლეში შედგი.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475064"
+    },
+    {
+      "english": "A determined step, conquers mountains.",
+      "georgian": "გადამწყვეტი ნაბიჯი, მთებს დაიპყრობს.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475067"
+    },
+    {
+      "english": "True strength, is facing the unknown.",
+      "georgian": "ნამდვილი ძალა, უცნობს შეხვედრაა.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475070"
+    },
+    {
+      "english": "Let your voice, echo bravely.",
+      "georgian": "შენი ხმა, მამაცურად აგუგუნდეს.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475072"
+    },
+    {
+      "english": "Don't wait for courage, create it.",
+      "georgian": "ნუ ელოდები გამბედაობას, შექმენი.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475075"
+    },
+    {
+      "english": "The river flows, onward it goes.",
+      "georgian": "მდინარე მიედინება, წინ მიდის.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475078"
+    },
+    {
+      "english": "A single brave word, can change everything.",
+      "georgian": "ერთი მამაცი სიტყვა, ყველაფერს შეცვლის.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475081"
+    },
+    {
+      "english": "Plant seeds of boldness, reap rewards.",
+      "georgian": "დათესე სიმამაცის თესლი, მოიმკე ჯილდო.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475083"
+    },
+    {
+      "english": "The storm passes, the strong remain.",
+      "georgian": "ქარიშხალი გაივლის, ძლიერნი დარჩებიან.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475086"
+    },
+    {
+      "english": "Don't be a spectator, be the player.",
+      "georgian": "ნუ იქნები მაყურებელი, იყავი მოთამაშე.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475089"
+    },
+    {
+      "english": "Your spirit is tougher, than you think.",
+      "georgian": "შენი სული უფრო მაგარია, ვიდრე ფიქრობ.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475092"
+    },
+    {
+      "english": "When in doubt, just push forward.",
+      "georgian": "ეჭვის დროს, უბრალოდ წინ წაწიე.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475094"
+    },
+    {
+      "english": "The darkest night, precedes dawn.",
+      "georgian": "ყველაზე ბნელი ღამე, განთიადს უსწრებს.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475097"
+    },
+    {
+      "english": "Take the leap, trust your wings.",
+      "georgian": "გააკეთე ნახტომი, ენდე ფრთებს.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475100"
+    },
+    {
+      "english": "A fearless mind, finds a way.",
+      "georgian": "უშიშარი გონება, გზას იპოვის.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475104"
+    },
+    {
+      "english": "Don't let fear, paralyze action.",
+      "georgian": "ნუ მისცემ შიშს, მოქმედების პარალიზებას.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475107"
+    },
+    {
+      "english": "The will to try, is courage.",
+      "georgian": "მცდელობის სურვილი, გამბედაობაა.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475109"
+    },
+    {
+      "english": "Face the dragon, within your heart.",
+      "georgian": "შეეჩეხე დრაკონს, შენი გულის შიგნით.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475112"
+    },
+    {
+      "english": "Every challenge, is a chance to grow.",
+      "georgian": "ყოველი გამოწვევა, ზრდის შანსია.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475114"
+    },
+    {
+      "english": "Stand tall, even when small.",
+      "georgian": "იდექი მაღლა, მაშინაც როცა პატარა ხარ.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475117"
+    },
+    {
+      "english": "The first step, often the hardest.",
+      "georgian": "პირველი ნაბიჯი, ხშირად ყველაზე ძნელია.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475120"
+    },
+    {
+      "english": "Embrace the struggle, find your might.",
+      "georgian": "ჩაეხუტე ბრძოლას, იპოვე შენი ძალა.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475122"
+    },
+    {
+      "english": "When you fall down, get up higher.",
+      "georgian": "როცა დაეცემი, უფრო მაღლა ადექი.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475127"
+    },
+    {
+      "english": "A courageous soul, knows no limits.",
+      "georgian": "მამაც სულს, ლიმიტი არ აქვს.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475130"
+    },
+    {
+      "english": "Be patient, the right moment comes.",
+      "georgian": "იყავი მომთმენი, სწორი მომენტი დადგება.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475133"
+    },
+    {
+      "english": "Sometimes, silence speaks louder.",
+      "georgian": "ზოგჯერ, სიჩუმე უფრო ხმამაღლა ამბობს.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475135"
+    },
+    {
+      "english": "Feel your feelings, don't hide them.",
+      "georgian": "იგრძენი შენი გრძნობები, ნუ დაფარავ.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475138"
+    },
+    {
+      "english": "Honesty with yourself, is true strength.",
+      "georgian": "სიმართლე საკუთარ თავთან, ნამდვილი ძალაა.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475141"
+    },
+    {
+      "english": "A quiet mind, finds its courage.",
+      "georgian": "მშვიდი გონება, თავის სიმამაცეს პოულობს.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475144"
+    },
+    {
+      "english": "Deeper reflection, brings clearer sight.",
+      "georgian": "უფრო ღრმა ფიქრი, უფრო ნათელ ხედვას მოაქვს.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475146"
+    },
+    {
+      "english": "Trust your inner voice, it knows.",
+      "georgian": "ენდე შენს შინაგან ხმას, მან იცის.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475149"
+    },
+    {
+      "english": "Vulnerability, is not weakness.",
+      "georgian": "სისუსტე, სისუსტე არ არის.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475152"
+    },
+    {
+      "english": "Accept imperfection, find peace.",
+      "georgian": "მიიღე ნაკლოვანება, იპოვე სიმშვიდე.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475155"
+    },
+    {
+      "english": "Your feelings matter, acknowledge them.",
+      "georgian": "შენი გრძნობები მნიშვნელოვანია, აღიარე.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475157"
+    },
+    {
+      "english": "True courage, is gentle understanding.",
+      "georgian": "ნამდვილი სიმამაცე, არის ნაზი გაგება.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475160"
+    },
+    {
+      "english": "Let go, of what you can't control.",
+      "georgian": "გაუშვი, ის რასაც ვერ აკონტროლებ.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475163"
+    },
+    {
+      "english": "Self-compassion, fuels resilience.",
+      "georgian": "საკუთარი თავის მიმართ თანაგრძნობა, გამძლეობას კვებავს.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475166"
+    },
+    {
+      "english": "Breathe deeply, find your center.",
+      "georgian": "ისუნთქე ღრმად, იპოვე შენი ცენტრი.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475168"
+    },
+    {
+      "english": "Embrace the quiet moments, they teach.",
+      "georgian": "ჩაეხუტე მშვიდ მომენტებს, ისინი ასწავლიან.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475171"
+    },
+    {
+      "english": "Kindness to others, starts within.",
+      "georgian": "სხვების მიმართ სიკეთე, შიგნიდან იწყება.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475174"
+    },
+    {
+      "english": "It's okay, to not have all answers.",
+      "georgian": "დასაშვებია, რომ არ გქონდეს ყველა პასუხი.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475176"
+    },
+    {
+      "english": "Humility, opens new doors.",
+      "georgian": "თავმდაბლობა, ახალ კარებს აღებს.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475179"
+    },
+    {
+      "english": "Reflect honestly, on your journey.",
+      "georgian": "არეფლექტირე გულწრფელად, შენს მოგზაურობაზე.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475182"
+    },
+    {
+      "english": "Be present, in this very moment.",
+      "georgian": "იყავი აწმყოში, ამ კონკრეტულ მომენტში.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475184"
+    },
+    {
+      "english": "A calm heart, makes brave choices.",
+      "georgian": "მშვიდი გული, ვაჟკაცურ არჩევნებს აკეთებს.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475187"
+    },
+    {
+      "english": "Seek understanding, before judgment.",
+      "georgian": "ეძიე გაგება, განკითხვის წინ.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475189"
+    },
+    {
+      "english": "Your quiet strength, is powerful.",
+      "georgian": "შენი მშვიდი ძალა, ძლიერია.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475192"
+    },
+    {
+      "english": "Patience with process, yields results.",
+      "georgian": "პროცესისადმი მოთმინება, შედეგებს იძლევა.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475194"
+    },
+    {
+      "english": "Feel deeply, act thoughtfully.",
+      "georgian": "იგრძენი ღრმად, იმოქმედე დაფიქრებით.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475197"
+    },
+    {
+      "english": "Admit when you are wrong, it's wisdom.",
+      "georgian": "აღიარე, როცა ცდები, ეს სიბრძნეა.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475201"
+    },
+    {
+      "english": "Inner peace, is a great courage.",
+      "georgian": "შინაგანი სიმშვიდე, დიდი სიმამაცეა.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475206"
+    },
+    {
+      "english": "Let empathy guide, your actions.",
+      "georgian": "მიეცი თანაგრძნობას, შენი მოქმედებების წარმართვა.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475209"
+    },
+    {
+      "english": "Start small, dare greatly.",
+      "georgian": "პატარა დაიწყე, გაბედულად იმოქმედე.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475212"
+    },
+    {
+      "english": "Ask for help, it's smart.",
+      "georgian": "დახმარება ითხოვე, ეს ჭკვიანურია.",
+      "category": "Courage",
+      "generated_at": "2026-10-24T07:45:59.475217"
     }
   ],
-  "last_updated": "2026-10-23T08:07:26.143477"
+  "last_updated": "2026-10-24T07:45:59.475218"
 }
