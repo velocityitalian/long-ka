@@ -5759,7 +5759,727 @@
       "georgian": "დახმარება ითხოვე, ეს ჭკვიანურია.",
       "category": "Courage",
       "generated_at": "2026-10-24T07:45:59.475217"
+    },
+    {
+      "english": "Thanks, I appreciate it.",
+      "georgian": "მადლობა, ვაფასებ.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.784944"
+    },
+    {
+      "english": "That's so kind, of you.",
+      "georgian": "ძალიან კეთილი, ხარ.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.784957"
+    },
+    {
+      "english": "You're a lifesaver, truly.",
+      "georgian": "გადამრჩენელი, ხარ ნამდვილად.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.784961"
+    },
+    {
+      "english": "I owe you, one.",
+      "georgian": "მადლობელი, დავრჩები.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.784964"
+    },
+    {
+      "english": "Bless you, for that.",
+      "georgian": "დალოცვილი, იყავი მაგისთვის.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.784969"
+    },
+    {
+      "english": "What a help, that was.",
+      "georgian": "რა დახმარება, იყო ეს.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.784972"
+    },
+    {
+      "english": "So thoughtful, of you.",
+      "georgian": "ძალიან ყურადღებით, მოქცეული.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.784975"
+    },
+    {
+      "english": "I can't thank, you enough.",
+      "georgian": "ვერასდროს, გმადლობთ საკმარისად.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.784981"
+    },
+    {
+      "english": "You saved, my day.",
+      "georgian": "შენ გადამარჩინე, დღე.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.784984"
+    },
+    {
+      "english": "That means, a lot.",
+      "georgian": "ეს ბევრს, ნიშნავს.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.784987"
+    },
+    {
+      "english": "I'm so thankful, honestly.",
+      "georgian": "ძალიან მადლობელი, ვარ გულწრფელად.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.784990"
+    },
+    {
+      "english": "You're the best, really.",
+      "georgian": "საუკეთესო, ხარ მართლა.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.784993"
+    },
+    {
+      "english": "Cheers, to you.",
+      "georgian": "გაუმარჯოს, შენ.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.784995"
+    },
+    {
+      "english": "Much appreciated, friend.",
+      "georgian": "დიდი მადლობა, მეგობარო.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785000"
+    },
+    {
+      "english": "How thoughtful, of you.",
+      "georgian": "რა ყურადღებით, მოგექეცი.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785002"
+    },
+    {
+      "english": "You're too good, to me.",
+      "georgian": "ზედმეტად, კარგი ხარ ჩემთვის.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785005"
+    },
+    {
+      "english": "I'm in your debt.",
+      "georgian": "შენი ვალი, მაქვს.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785008"
+    },
+    {
+      "english": "Thanks for everything.",
+      "georgian": "მადლობა, ყველაფრისთვის.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785010"
+    },
+    {
+      "english": "You're a treasure, truly.",
+      "georgian": "საგანძური, ხარ ნამდვილად.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785013"
+    },
+    {
+      "english": "This is wonderful, thank you.",
+      "georgian": "ეს შესანიშნავია, მადლობა.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785016"
+    },
+    {
+      "english": "I'm truly thankful.",
+      "georgian": "ჭეშმარიტად, მადლობელი ვარ.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785018"
+    },
+    {
+      "english": "You're amazing, thanks.",
+      "georgian": "საოცარი, ხარ მადლობა.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785021"
+    },
+    {
+      "english": "My gratitude, is immense.",
+      "georgian": "ჩემი მადლიერება, დიდია.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785024"
+    },
+    {
+      "english": "Thanks for your help.",
+      "georgian": "მადლობა, დახმარებისთვის.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785026"
+    },
+    {
+      "english": "I really appreciate, this.",
+      "georgian": "მართლა ვაფასებ, ამას.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785031"
+    },
+    {
+      "english": "You're too kind.",
+      "georgian": "ზედმეტად, კეთილი ხარ.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785033"
+    },
+    {
+      "english": "God bless, you.",
+      "georgian": "ღმერთმა, დაგლოცოს.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785036"
+    },
+    {
+      "english": "I'm so glad, you did.",
+      "georgian": "ძალიან მიხარია, რომ, გააკეთე.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785039"
+    },
+    {
+      "english": "Can I help you, with anything?",
+      "georgian": "შემიძლია, დაგეხმარო რამეში?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785042"
+    },
+    {
+      "english": "Did you need something, from me?",
+      "georgian": "ხომ არაფერი გჭირდებოდა, ჩემგან?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785045"
+    },
+    {
+      "english": "What can I do, for you?",
+      "georgian": "რით შემიძლია, დაგეხმარო?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785048"
+    },
+    {
+      "english": "Are you sure, it's no trouble?",
+      "georgian": "დარწმუნებული ხარ, რომ არ შეგაწუხებ?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785051"
+    },
+    {
+      "english": "Should I return the favor, someday?",
+      "georgian": "უნდა დაგიბრუნო, სამაგიერო ოდესმე?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785054"
+    },
+    {
+      "english": "How did you know, I needed this?",
+      "georgian": "საიდან იცოდი, რომ ეს მჭირდებოდა?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785057"
+    },
+    {
+      "english": "Was it difficult, to find?",
+      "georgian": "რთული იყო, ამის პოვნა?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785059"
+    },
+    {
+      "english": "Do you have time, to chat?",
+      "georgian": "ხომ არ გაქვს დრო, სასაუბროდ?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785067"
+    },
+    {
+      "english": "Can we discuss, this later?",
+      "georgian": "შეგვიძლია, ამაზე მოგვიანებით ვისაუბროთ?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785070"
+    },
+    {
+      "english": "Could you explain, that again?",
+      "georgian": "შეგიძლია, ამიხსნა ეგ კიდევ ერთხელ?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785073"
+    },
+    {
+      "english": "Where can I learn, more about this?",
+      "georgian": "სად შემიძლია, ვისწავლო მეტი ამაზე?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785076"
+    },
+    {
+      "english": "Who can guide me, in this?",
+      "georgian": "ვინ დამეხმარება, ამ საქმეში?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785080"
+    },
+    {
+      "english": "Is there a better way, to do this?",
+      "georgian": "არის თუ არა უკეთესი გზა, ამის გასაკეთებლად?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785085"
+    },
+    {
+      "english": "Would you recommend, someone?",
+      "georgian": "ხომ არ მირჩევ, ვინმეს?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785088"
+    },
+    {
+      "english": "Can you give me, some tips?",
+      "georgian": "შეგიძლია, მომცე რჩევები?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785090"
+    },
+    {
+      "english": "Did you enjoy, the experience?",
+      "georgian": "მოგეწონა, ეს გამოცდილება?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785093"
+    },
+    {
+      "english": "What was your favorite, part?",
+      "georgian": "რა იყო შენი, საყვარელი ნაწილი?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785096"
+    },
+    {
+      "english": "Is everything okay, now?",
+      "georgian": "ყველაფერი რიგზეა, ახლა?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785098"
+    },
+    {
+      "english": "Do you need, anything else?",
+      "georgian": "ხომ არ გჭირდება, კიდევ რამე?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785101"
+    },
+    {
+      "english": "Are you happy, with the result?",
+      "georgian": "კმაყოფილი ხარ, შედეგით?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785104"
+    },
+    {
+      "english": "How was your day, overall?",
+      "georgian": "როგორი იყო შენი, დღე, საერთოდ?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785106"
+    },
+    {
+      "english": "Did we finish, on time?",
+      "georgian": "დროულად, დავასრულეთ?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785109"
+    },
+    {
+      "english": "What’s the plan, for tomorrow?",
+      "georgian": "რა არის გეგმა, ხვალინდელი დღისთვის?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785113"
+    },
+    {
+      "english": "Can you show me, how?",
+      "georgian": "შეგიძლია, მიჩვენო, როგორ?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785116"
+    },
+    {
+      "english": "Are you free, this weekend?",
+      "georgian": "ხარ თავისუფალი, ამ შაბათ-კვირას?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785120"
+    },
+    {
+      "english": "Would you like to join, us?",
+      "georgian": "შემოუერთდები, ჩვენს?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785123"
+    },
+    {
+      "english": "Is this a good time, to talk?",
+      "georgian": "ხომ კარგი დროა, სალაპარაკოდ?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785125"
+    },
+    {
+      "english": "Do you have a moment, please?",
+      "georgian": "ხომ გაქვს ერთი წუთი, გეთაყვა?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785128"
+    },
+    {
+      "english": "Keep up the great work, friend.",
+      "georgian": "განაგრძე ასე, მეგობარო.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785131"
+    },
+    {
+      "english": "Your positive energy, is inspiring.",
+      "georgian": "შენი პოზიტიური ენერგია, შთამაგონებელია.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785133"
+    },
+    {
+      "english": "You always see, the good side.",
+      "georgian": "შენ ყოველთვის, კარგ მხარეს ხედავ.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785136"
+    },
+    {
+      "english": "This mindset shift, is amazing.",
+      "georgian": "ეს ცვლილება აზროვნებაში, საოცრებაა.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785139"
+    },
+    {
+      "english": "What a wonderful outlook, you have.",
+      "georgian": "რა შესანიშნავი შეხედულება, გაქვს.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785142"
+    },
+    {
+      "english": "You spread so much, positivity.",
+      "georgian": "ამდენ პოზიტიურ განწყობას, ავრცელებ.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785145"
+    },
+    {
+      "english": "Your encouragement, means a lot.",
+      "georgian": "შენი წახალისება, ბევრს ნიშნავს.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785147"
+    },
+    {
+      "english": "You make things, feel possible.",
+      "georgian": "შენ გვაძლევ იმის შეგრძნებას, რომ ყველაფერი შესაძლებელია.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785150"
+    },
+    {
+      "english": "That's a brilliant, idea.",
+      "georgian": "ეს ბრწყინვალე, აზრია.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785153"
+    },
+    {
+      "english": "You always find, the silver lining.",
+      "georgian": "შენ ყოველთვის პოულობ, იმედის სხივს.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785155"
+    },
+    {
+      "english": "Your strength, is admirable.",
+      "georgian": "შენი ძალა, აღფრთოვანებას იწვევს.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785158"
+    },
+    {
+      "english": "Thank you for your, optimism.",
+      "georgian": "მადლობა შენი, ოპტიმიზმისთვის.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785163"
+    },
+    {
+      "english": "You uplift, everyone around.",
+      "georgian": "შენ ყველას, შენს გარშემო ამაღლებ.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785165"
+    },
+    {
+      "english": "What a positive, attitude.",
+      "georgian": "რა პოზიტიური, დამოკიდებულებაა.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785168"
+    },
+    {
+      "english": "This perspective, is valuable.",
+      "georgian": "ეს პერსპექტივა, ძალიან ღირებულია.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785170"
+    },
+    {
+      "english": "You inspire, me to be better.",
+      "georgian": "შენ მაძლევ შთაგონებას, უკეთესი ვიყო.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785173"
+    },
+    {
+      "english": "Your belief, is contagious.",
+      "georgian": "შენი რწმენა, გადამდებია.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785176"
+    },
+    {
+      "english": "You handle challenges, with grace.",
+      "georgian": "შენ პრობლემებს, მადლით უმკლავდები.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785178"
+    },
+    {
+      "english": "Such a hopeful, outlook.",
+      "georgian": "ასეთი იმედისმომცემი, შეხედულება.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785181"
+    },
+    {
+      "english": "You have a gift, for encouragement.",
+      "georgian": "შენ გაქვს ნიჭი, წასახალისებლად.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785184"
+    },
+    {
+      "english": "Your bright spirit, shines through.",
+      "georgian": "შენი ნათელი სული, ჩანს.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785186"
+    },
+    {
+      "english": "This positive outlook, helps so much.",
+      "georgian": "ეს პოზიტიური ხედვა, ძალიან მეხმარება.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785189"
+    },
+    {
+      "english": "You're a beacon, of hope.",
+      "georgian": "შენ ხარ იმედის, შუქურა.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785192"
+    },
+    {
+      "english": "Your determination, is motivating.",
+      "georgian": "შენი გადაწყვეტილება, მაბედნიერებს.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785194"
+    },
+    {
+      "english": "You make the world, brighter.",
+      "georgian": "შენ სამყაროს, უფრო ნათელს ხდი.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785197"
+    },
+    {
+      "english": "Your encouragement, fuels me.",
+      "georgian": "შენი წახალისება, მმუხტავს.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785201"
+    },
+    {
+      "english": "You have a way, of seeing good.",
+      "georgian": "შენ გაქვს უნარი, დაინახო კარგი.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785204"
+    },
+    {
+      "english": "This positive vibe, is fantastic.",
+      "georgian": "ეს პოზიტიური აურა, ფანტასტიურია.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785207"
+    },
+    {
+      "english": "You make a real, difference.",
+      "georgian": "შენ რეალურ, განსხვავებას ქმნი.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785209"
+    },
+    {
+      "english": "I feel a deep peace, now.",
+      "georgian": "ახლა, დიდ სიმშვიდეს ვგრძნობ.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785212"
+    },
+    {
+      "english": "This patience, is a gift.",
+      "georgian": "ეს მოთმინება, საჩუქარია.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785215"
+    },
+    {
+      "english": "I'm grateful for, this moment.",
+      "georgian": "მადლობელი ვარ, ამ წამისთვის.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785218"
+    },
+    {
+      "english": "My heart feels, so full.",
+      "georgian": "გული, ძალიან ამევსო.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785220"
+    },
+    {
+      "english": "Understanding comes, slowly.",
+      "georgian": "გაგება, ნელ-ნელა მოდის.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785223"
+    },
+    {
+      "english": "Thank you, for the quiet.",
+      "georgian": "მადლობა, ამ სიმშვიდისთვის.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785226"
+    },
+    {
+      "english": "I appreciate, this honesty.",
+      "georgian": "ვაფასებ, ამ გულწრფელობას.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785229"
+    },
+    {
+      "english": "It’s okay, to feel this.",
+      "georgian": "კარგია, ასე რომ ვგრძნობ.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785232"
+    },
+    {
+      "english": "This reflection, is helpful.",
+      "georgian": "ეს ჩაფიქრება, მეხმარება.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785235"
+    },
+    {
+      "english": "I accept, what is.",
+      "georgian": "ვიღებ, იმას რაც არის.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785237"
+    },
+    {
+      "english": "This feeling, is precious.",
+      "georgian": "ეს გრძნობა, ძვირფასია.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785240"
+    },
+    {
+      "english": "I’m learning, to let go.",
+      "georgian": "ვსწავლობ, რომ გავუშვა.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785243"
+    },
+    {
+      "english": "This calm, is needed.",
+      "georgian": "ეს სიმშვიდე, აუცილებელია.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785246"
+    },
+    {
+      "english": "My gratitude, runs deep.",
+      "georgian": "ჩემი მადლიერება, ღრმად მიდის.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785249"
+    },
+    {
+      "english": "I feel truly, seen.",
+      "georgian": "თავს, ნამდვილად ვხედავ.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785253"
+    },
+    {
+      "english": "This understanding, heals.",
+      "georgian": "ეს გაგება, კურნავს.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785256"
+    },
+    {
+      "english": "I embrace, this change.",
+      "georgian": "მივიღებ, ამ ცვლილებას.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785259"
+    },
+    {
+      "english": "This acceptance, is peace.",
+      "georgian": "ეს მიღება, სიმშვიდეა.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785264"
+    },
+    {
+      "english": "I’m finding, my center.",
+      "georgian": "ჩემს ცენტრს, ვპოულობ.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785267"
+    },
+    {
+      "english": "This stillness, nourishes.",
+      "georgian": "ეს სიჩუმე, კვებავს.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785270"
+    },
+    {
+      "english": "My soul, feels at home.",
+      "georgian": "სულს, სახლში ვგრძნობ.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785272"
+    },
+    {
+      "english": "This gentle strength, is enough.",
+      "georgian": "ეს ნაზი ძალა, საკმარისია.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785275"
+    },
+    {
+      "english": "Everyday, small kindnesses, matter so much.",
+      "georgian": "ყოველდღიური, პატარა კეთილი საქმეები, ძალიან მნიშვნელოვანია.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785278"
+    },
+    {
+      "english": "I'm thankful for, a warm cup of tea.",
+      "georgian": "მადლობელი ვარ, თბილი ჩაის ფინჯნისთვის.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785283"
+    },
+    {
+      "english": "This shared meal, brings us closer.",
+      "georgian": "ეს გაზიარებული სადილი, გვაახლოებს.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785286"
+    },
+    {
+      "english": "Thank you, for listening, without judgment.",
+      "georgian": "მადლობა, რომ მისმენთ, განსჯის გარეშე.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785289"
+    },
+    {
+      "english": "Finding good, in the routine, is key.",
+      "georgian": "რუტინაში, სიკეთის პოვნა, მთავარია.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785292"
+    },
+    {
+      "english": "Your advice, was truly helpful, thank you.",
+      "georgian": "თქვენი რჩევა, მართლა დამეხმარა, მადლობა.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785295"
+    },
+    {
+      "english": "I appreciate, your practical help.",
+      "georgian": "ვაფასებ, თქვენს პრაქტიკულ დახმარებას.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785297"
+    },
+    {
+      "english": "This quiet moment, is a blessing.",
+      "georgian": "ეს მშვიდი მომენტი, ნამდვილი წყალობაა.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785300"
+    },
+    {
+      "english": "Let's practice, patience, with each other.",
+      "georgian": "მოდით, ერთმანეთის მიმართ, მოთმინებას, ვივარჯიშოთ.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785303"
+    },
+    {
+      "english": "Thank you for, explaining that clearly.",
+      "georgian": "მადლობა, რომ ესე გასაგებად ამიხსენით.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785306"
+    },
+    {
+      "english": "I'm grateful for, simple solutions.",
+      "georgian": "მადლობელი ვარ, მარტივი გადაწყვეტილებებისთვის.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785309"
+    },
+    {
+      "english": "Your clear thinking, helps me.",
+      "georgian": "თქვენი მკაფიო აზროვნება, მეხმარება.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785311"
+    },
+    {
+      "english": "This understanding, makes things easier.",
+      "georgian": "ეს გაგება, ყველაფერს ამარტივებს.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-25T07:56:57.785314"
     }
   ],
-  "last_updated": "2026-10-24T07:45:59.475218"
+  "last_updated": "2026-10-25T07:56:57.785316"
 }
