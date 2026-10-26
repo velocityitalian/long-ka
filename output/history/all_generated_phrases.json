@@ -6479,7 +6479,727 @@
       "georgian": "ეს გაგება, ყველაფერს ამარტივებს.",
       "category": "Gratitude",
       "generated_at": "2026-10-25T07:56:57.785314"
+    },
+    {
+      "english": "How are you doing?",
+      "georgian": "როგორ ხართ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216798"
+    },
+    {
+      "english": "I'm doing well, thanks.",
+      "georgian": "კარგად ვარ, მადლობა.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216812"
+    },
+    {
+      "english": "And you?",
+      "georgian": "და თქვენ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216816"
+    },
+    {
+      "english": "What's your name?",
+      "georgian": "რა გქვიათ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216819"
+    },
+    {
+      "english": "My name is [Name].",
+      "georgian": "მე მქვია [სახელი].",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216822"
+    },
+    {
+      "english": "Pleased to meet you, [Name].",
+      "georgian": "ძალიან სასიამოვნოა, [სახელი].",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216826"
+    },
+    {
+      "english": "Where are you from?",
+      "georgian": "სადაური ხართ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216828"
+    },
+    {
+      "english": "I'm from [Country].",
+      "georgian": "მე [ქვეყანა] ვარ.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216834"
+    },
+    {
+      "english": "Welcome to Georgia!",
+      "georgian": "კეთილი იყოს თქვენი მობრძანება საქართველოში!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216837"
+    },
+    {
+      "english": "Can I help you?",
+      "georgian": "შემიძლია დაგეხმაროთ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216840"
+    },
+    {
+      "english": "Good morning.",
+      "georgian": "დილა მშვიდობისა.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216843"
+    },
+    {
+      "english": "Good afternoon.",
+      "georgian": "შუადღე მშვიდობისა.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216845"
+    },
+    {
+      "english": "Good evening.",
+      "georgian": "საღამო მშვიდობისა.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216848"
+    },
+    {
+      "english": "What are you doing?",
+      "georgian": "რას აკეთებთ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216850"
+    },
+    {
+      "english": "I'm just looking.",
+      "georgian": "უბრალოდ ვიყურები.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216853"
+    },
+    {
+      "english": "It's a pleasure.",
+      "georgian": "სიამოვნებაა.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216855"
+    },
+    {
+      "english": "How was your trip?",
+      "georgian": "როგორი იყო თქვენი მგზავრობა?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216860"
+    },
+    {
+      "english": "It was great, thanks.",
+      "georgian": "ძალიან კარგი იყო, მადლობა.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216875"
+    },
+    {
+      "english": "Can we be friends?",
+      "georgian": "შეიძლება მეგობრები ვიყოთ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216878"
+    },
+    {
+      "english": "I'd love to.",
+      "georgian": "ძალიან სიამოვნებით.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216880"
+    },
+    {
+      "english": "Let's keep in touch.",
+      "georgian": "კონტაქტზე დავრჩეთ.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216883"
+    },
+    {
+      "english": "Nice talking to you.",
+      "georgian": "კარგი იყო თქვენთან საუბარი.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216887"
+    },
+    {
+      "english": "What brings you here today?",
+      "georgian": "რა გა Định?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216890"
+    },
+    {
+      "english": "Are you visiting, or do you live here?",
+      "georgian": "სტუმრად ხართ, თუ აქ ცხოვრობთ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216893"
+    },
+    {
+      "english": "How long have you been in Tbilisi?",
+      "georgian": "რამდენი ხანია თბილისში ხართ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216896"
+    },
+    {
+      "english": "What do you think of Georgia so far?",
+      "georgian": "როგორ მოგწონთ საქართველო აქამდე?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216899"
+    },
+    {
+      "english": "Did you find everything okay?",
+      "georgian": "ყველაფერი იპოვეთ, რაც გინდოდათ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216902"
+    },
+    {
+      "english": "Can I offer you something to drink?",
+      "georgian": "შემოგთავაზოთ რამე დასალევი?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216907"
+    },
+    {
+      "english": "Do you speak any other languages?",
+      "georgian": "სხვა ენებსაც ფლობთ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216909"
+    },
+    {
+      "english": "Is this your first time in Europe?",
+      "georgian": "ევროპაში პირველად ხართ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216912"
+    },
+    {
+      "english": "What are your plans for the weekend?",
+      "georgian": "რა გეგმები გაქვთ შაბათ-კვირას?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216914"
+    },
+    {
+      "english": "Have you tried Georgian food yet?",
+      "georgian": "ქართული სამზარეულო დაგიგემოვნებიათ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216917"
+    },
+    {
+      "english": "What's your favorite Georgian dish?",
+      "georgian": "რა არის თქვენი საყვარელი ქართული კერძი?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216920"
+    },
+    {
+      "english": "Would you like a recommendation?",
+      "georgian": "ხომ არ გსურთ რეკომენდაცია?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216923"
+    },
+    {
+      "english": "Where do you usually hang out?",
+      "georgian": "სად ატარებთ ჩვეულებრივ დროს?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216926"
+    },
+    {
+      "english": "What do you enjoy doing in your free time?",
+      "georgian": "რითი ხართ დაკავებული თავისუფალ დროს?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216928"
+    },
+    {
+      "english": "Tell me more about yourself.",
+      "georgian": "თქვენზე მეტი მომიყევით.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216931"
+    },
+    {
+      "english": "How did you learn Georgian?",
+      "georgian": "როგორ ისწავლეთ ქართული?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216934"
+    },
+    {
+      "english": "That's interesting, tell me more.",
+      "georgian": "საინტერესოა, კიდევ მომიყევით.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216937"
+    },
+    {
+      "english": "What are you passionate about?",
+      "georgian": "რა გატაცებთ ყველაზე მეტად?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216939"
+    },
+    {
+      "english": "Can you recommend a good restaurant?",
+      "georgian": "კარგ რესტორანს მირჩევთ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216942"
+    },
+    {
+      "english": "What's the best way to get there?",
+      "georgian": "რა არის საუკეთესო გზა იქ მისასვლელად?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216945"
+    },
+    {
+      "english": "Could you say that again, please?",
+      "georgian": "გაიმეორეთ, თუ შეიძლება?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216948"
+    },
+    {
+      "english": "What's the local customs here?",
+      "georgian": "რა არის აქაური ჩვეულებები?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216951"
+    },
+    {
+      "english": "What are you up to later?",
+      "georgian": "რას აპირებთ მოგვიანებით?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216953"
+    },
+    {
+      "english": "Do you have any siblings?",
+      "georgian": "და-ძმა გყავთ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216956"
+    },
+    {
+      "english": "What kind of music do you like?",
+      "georgian": "როგორი მუსიკა მოგწონთ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216958"
+    },
+    {
+      "english": "Have you seen any good movies lately?",
+      "georgian": "ბოლო დროს კარგი ფილმები გინახავთ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216961"
+    },
+    {
+      "english": "What's your favorite season?",
+      "georgian": "რომელია თქვენი საყვარელი სეზონი?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216965"
+    },
+    {
+      "english": "Do you prefer mountains or the sea?",
+      "georgian": "მთებს ანიჭებთ უპირატესობას თუ ზღვას?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216968"
+    },
+    {
+      "english": "Believe in yourself, you'll shine.",
+      "georgian": "საკუთარ თავში ირწმუნე, გაბრწყინდები.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216971"
+    },
+    {
+      "english": "Your positive energy is contagious.",
+      "georgian": "შენი პოზიტიური ენერგია გადამდებია.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216974"
+    },
+    {
+      "english": "Keep smiling, it's your best accessory.",
+      "georgian": "გააგრძელე ღიმილი, ეს შენი საუკეთესო აქსესუარია.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216977"
+    },
+    {
+      "english": "Every conversation is a new chance.",
+      "georgian": "ყოველი საუბარი, ახალი შანსია.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216980"
+    },
+    {
+      "english": "You have a wonderful way of connecting.",
+      "georgian": "შესანიშნავად ახერხებ დაკავშირებას.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216983"
+    },
+    {
+      "english": "Be open, opportunities await.",
+      "georgian": "იყავი ღია, შესაძლებლობები გელოდება.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216985"
+    },
+    {
+      "english": "Your confidence is inspiring.",
+      "georgian": "შენი თავდაჯერებულობა შთამბეჭდავია.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216988"
+    },
+    {
+      "english": "Let your kindness lead the way.",
+      "georgian": "შენი სიკეთე მიგატაროს.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216991"
+    },
+    {
+      "english": "You make people feel welcome.",
+      "georgian": "ადამიანებს თავს კარგად აგრძნობინებ.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216993"
+    },
+    {
+      "english": "Keep that brilliant smile going.",
+      "georgian": "შენი ბრწყინვალე ღიმილი არ მოიშორო.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.216998"
+    },
+    {
+      "english": "Every interaction matters, make it count.",
+      "georgian": "ყოველი ურთიერთობა მნიშვნელოვანია, დააფასე.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217003"
+    },
+    {
+      "english": "Your outlook is truly refreshing.",
+      "georgian": "შენი ხედვა მართლა გამამხნევებელია.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217007"
+    },
+    {
+      "english": "Don't be afraid, just be you.",
+      "georgian": "ნუ შეგეშინდება, უბრალოდ იყავი საკუთარი თავი.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217010"
+    },
+    {
+      "english": "You have a gift for conversation.",
+      "georgian": "საუბრის ნიჭი გაქვს.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217012"
+    },
+    {
+      "english": "Embrace new connections, it’s good for you.",
+      "georgian": "გაიჩინე ახალი მეგობრები, სასარგებლოა.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217017"
+    },
+    {
+      "english": "Your curiosity is admirable.",
+      "georgian": "შენი ცნობისმოყვარეობა დასაფასებელია.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217020"
+    },
+    {
+      "english": "You make connecting easy for others.",
+      "georgian": "სხვებისთვის ადვილად გიცნობენ.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217023"
+    },
+    {
+      "english": "Keep radiating that positive vibe.",
+      "georgian": "განაგრძე ეს პოზიტიური აურა.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217025"
+    },
+    {
+      "english": "Believe in the magic of meeting people.",
+      "georgian": "იწამე ხალხთან შეხვედრის ჯადოსნობაში.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217028"
+    },
+    {
+      "english": "Your authentic self is your strength.",
+      "georgian": "შენი ნამდვილი მე, შენი ძალაა.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217031"
+    },
+    {
+      "english": "You have a knack for making friends.",
+      "georgian": "მეგობრების შეძენის ნიჭი გაქვს.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217033"
+    },
+    {
+      "english": "Stay open, stay friendly, you'll do great.",
+      "georgian": "იყავი ღია, მეგობრული, ყველაფერი კარგად იქნება.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217036"
+    },
+    {
+      "english": "Your optimism is a treasure.",
+      "georgian": "შენი ოპტიმიზმი საგანძურია.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217039"
+    },
+    {
+      "english": "You bring out the best in people.",
+      "georgian": "ადამიანებში საუკეთესოს იწვევ.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217041"
+    },
+    {
+      "english": "Keep that warm welcome coming.",
+      "georgian": "შენი თბილი მისალმება არ შეწყვიტო.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217044"
+    },
+    {
+      "english": "Every new person is a learning opportunity.",
+      "georgian": "ყოველი ახალი ადამიანი, სწავლის საშუალებაა.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217047"
+    },
+    {
+      "english": "You make others feel heard.",
+      "georgian": "სხვებს აგრძნობინებ, რომ გისმენ.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217049"
+    },
+    {
+      "english": "Your approachable nature is wonderful.",
+      "georgian": "შენი ხელმისაწვდომი ბუნება საოცარია.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217052"
+    },
+    {
+      "english": "Dare to connect, it's rewarding.",
+      "georgian": "გაბედე დაკავშირება, ღირსეულია.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217054"
+    },
+    {
+      "english": "Your positive attitude is infectious.",
+      "georgian": "შენი პოზიტიური დამოკიდებულება გადამდებია.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217057"
+    },
+    {
+      "english": "I'm really enjoying our chat.",
+      "georgian": "ძალიან მომწონს ჩვენი საუბარი.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217060"
+    },
+    {
+      "english": "You've given me something to think about.",
+      "georgian": "რაღაცა მაფიქრებინე.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217062"
+    },
+    {
+      "english": "It's nice to see genuine kindness.",
+      "georgian": "სასიამოვნოა გულწრფელი სიკეთის დანახვა.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217065"
+    },
+    {
+      "english": "I appreciate your patience with me.",
+      "georgian": "მადლობთ მოთმინებისთვის.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217068"
+    },
+    {
+      "english": "This has been a surprisingly good meeting.",
+      "georgian": "ეს მოულოდნელად კარგი შეხვედრა იყო.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217071"
+    },
+    {
+      "english": "I feel understood, thank you.",
+      "georgian": "თავს მესმის, მადლობა.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217074"
+    },
+    {
+      "english": "Your perspective is really interesting.",
+      "georgian": "თქვენი შეხედულება ძალიან საინტერესოა.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217076"
+    },
+    {
+      "english": "I'm glad we had this chance.",
+      "georgian": "მიხარია, რომ ეს შანსი გვქონდა.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217081"
+    },
+    {
+      "english": "You listen so well, it's rare.",
+      "georgian": "კარგად უსმენ, იშვიათია.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217084"
+    },
+    {
+      "english": "My initial impression was right.",
+      "georgian": "ჩემი პირველი შთაბეჭდილება სწორი იყო.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217087"
+    },
+    {
+      "english": "It’s okay to take our time.",
+      "georgian": "ნება მომეცით, დრო დაგვჭირდეს.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217092"
+    },
+    {
+      "english": "This conversation feels very real.",
+      "georgian": "ეს საუბარი ძალიან რეალურია.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217095"
+    },
+    {
+      "english": "I feel a genuine connection here.",
+      "georgian": "აქ ნამდვილ კავშირს ვგრძნობ.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217098"
+    },
+    {
+      "english": "Thank you for being so open.",
+      "georgian": "გმადლობთ, რომ ასეთი ღია ხართ.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217100"
+    },
+    {
+      "english": "I needed this honest talk.",
+      "georgian": "მე ეს მჭირდებოდა გულწრფელი საუბარი.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217103"
+    },
+    {
+      "english": "Your thoughtful words mean a lot.",
+      "georgian": "თქვენი გააზრებული სიტყვები ბევრს ნიშნავს.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217106"
+    },
+    {
+      "english": "It’s refreshing to be this understood.",
+      "georgian": "განმანახლებელი, როცა ასე გესმით.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217109"
+    },
+    {
+      "english": "I'm learning a lot from you.",
+      "georgian": "ბევრ რამეს ვსწავლობ თქვენგან.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217112"
+    },
+    {
+      "english": "This connection feels special.",
+      "georgian": "ეს კავშირი განსაკუთრებულია.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217114"
+    },
+    {
+      "english": "I value this sincere exchange.",
+      "georgian": "ვაფასებ ამ გულწრფელ გაცვლას.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217117"
+    },
+    {
+      "english": "You make difficult topics easy.",
+      "georgian": "რთულ თემებს ამარტივებთ.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217119"
+    },
+    {
+      "english": "Thank you for your empathy.",
+      "georgian": "მადლობა თქვენი თანაგრძნობისთვის.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217122"
+    },
+    {
+      "english": "I'm reflecting on what you said.",
+      "georgian": "ვფიქრობ იმაზე, რაც თქვით.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217124"
+    },
+    {
+      "english": "This feels like a meaningful encounter.",
+      "georgian": "ეს მნიშვნელოვან შეხვედრას ჰგავს.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217127"
+    },
+    {
+      "english": "I appreciate your honest feelings.",
+      "georgian": "ვაფასებ თქვენს გულწრფელ გრძნობებს.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217129"
+    },
+    {
+      "english": "Your insights are very valuable.",
+      "georgian": "თქვენი შეხედულებები ძალიან ფასეულია.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217132"
+    },
+    {
+      "english": "Let's continue this later, okay?",
+      "georgian": "შემდეგ გავაგრძელოთ, კარგი?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217135"
+    },
+    {
+      "english": "It’s good to feel heard.",
+      "georgian": "კარგია, როცა გისმენენ.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217138"
+    },
+    {
+      "english": "This has been a truly enlightening talk.",
+      "georgian": "ეს მართლაც გამაანათლებელი საუბარი იყო.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217140"
+    },
+    {
+      "english": "Let's grab coffee, sometime soon?",
+      "georgian": "кафе მოგვიანებით დავლიოთ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217144"
+    },
+    {
+      "english": "It was nice meeting you, truly.",
+      "georgian": "ძალიან სასიამოვნო იყო თქვენი გაცნობა.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217146"
+    },
+    {
+      "english": "This is a great spot, right?",
+      "georgian": "ეს მშვენიერი ადგილია, ხომ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217149"
+    },
+    {
+      "english": "I'm new here, can you help?",
+      "georgian": "აქ ახალი ვარ, თუ შეგიძლიათ დამეხმაროთ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217152"
+    },
+    {
+      "english": "Do you know any good local spots?",
+      "georgian": "იცი კარგი ადგილობრივი ადგილები?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217155"
+    },
+    {
+      "english": "We should exchange numbers, maybe.",
+      "georgian": "ალბათ ნომრები უნდა გავცვალოთ.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217157"
+    },
+    {
+      "english": "What do you think of this place?",
+      "georgian": "რას ფიქრობ ამ ადგილზე?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217160"
+    },
+    {
+      "english": "I'm trying to practice Georgian.",
+      "georgian": "ქართულის პრაქტიკას ვცდილობ.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217164"
+    },
+    {
+      "english": "Your English is very good.",
+      "georgian": "შენი ინგლისური ძალიან კარგია.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217168"
+    },
+    {
+      "english": "Can I get your recommendation?",
+      "georgian": "შემიძლია თქვენი რეკომენდაცია მივიღო?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217170"
+    },
+    {
+      "english": "Have you lived here long?",
+      "georgian": "აქ დიდი ხანია ცხოვრობ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-26T08:17:26.217173"
     }
   ],
-  "last_updated": "2026-10-25T07:56:57.785316"
+  "last_updated": "2026-10-26T08:17:26.217175"
 }
