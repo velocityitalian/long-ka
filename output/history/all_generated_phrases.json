@@ -7919,7 +7919,727 @@
       "georgian": "თანმიმდევრობა ამარცხებს ინტენსივობას, გახსოვდეთ.",
       "category": "Motivation",
       "generated_at": "2026-10-27T08:31:12.217505"
+    },
+    {
+      "english": "I believe in myself, always.",
+      "georgian": "მე მჯერა ჩემი თავის, ყოველთვის.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453497"
+    },
+    {
+      "english": "Speak up, no fear.",
+      "georgian": "ილაპარაკე ხმამაღლა, შიშის გარეშე.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453508"
+    },
+    {
+      "english": "You've got this, go!",
+      "georgian": "შენ ეს შეგიძლია, წადი!",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453513"
+    },
+    {
+      "english": "Be brave, try it.",
+      "georgian": "იყავი მამაცი, სცადე.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453516"
+    },
+    {
+      "english": "Stand tall, proud.",
+      "georgian": "იდექი ამაყად, თავაწეული.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453519"
+    },
+    {
+      "english": "My voice matters, hear me.",
+      "georgian": "ჩემს ხმას აქვს მნიშვნელობა, მომისმინე.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453522"
+    },
+    {
+      "english": "Don't doubt yourself, ever.",
+      "georgian": "ნუ იეჭვებ შენს თავს, არასდროს.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453525"
+    },
+    {
+      "english": "I am capable, truly.",
+      "georgian": "მე შემიძლია, მართლა.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453531"
+    },
+    {
+      "english": "Take the lead, confidently.",
+      "georgian": "გაუძეხი, თავდაჯერებულად.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453534"
+    },
+    {
+      "english": "Your opinion is valid.",
+      "georgian": "შენი აზრი ღირებულია.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453538"
+    },
+    {
+      "english": "I can handle this, yes.",
+      "georgian": "მე ამას გავუმკლავდები, დიახ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453540"
+    },
+    {
+      "english": "Be bold, take risks.",
+      "georgian": "იყავი თამამი, გარისკე.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453543"
+    },
+    {
+      "english": "My strength is real.",
+      "georgian": "ჩემი ძალა ნამდვილია.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453548"
+    },
+    {
+      "english": "You are enough, believe.",
+      "georgian": "შენ საკმარისი ხარ, დაიჯერე.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453551"
+    },
+    {
+      "english": "Step forward, bravely.",
+      "georgian": "გადადგით ნაბიჯი წინ, მამაცურად.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453553"
+    },
+    {
+      "english": "I trust my intuition.",
+      "georgian": "მე ვენდობი ჩემს ინტუიციას.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453556"
+    },
+    {
+      "english": "Show your true self.",
+      "georgian": "აჩვენე შენი ნამდვილი მეს.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453558"
+    },
+    {
+      "english": "You deserve success.",
+      "georgian": "შენ იმსახურებ წარმატებას.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453561"
+    },
+    {
+      "english": "Act with conviction.",
+      "georgian": "იმოქმედე რწმენით.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453563"
+    },
+    {
+      "english": "I am ready, bring it.",
+      "georgian": "მე მზად ვარ, მომიტანე.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453566"
+    },
+    {
+      "english": "Don't hold back, please.",
+      "georgian": "ნუ შეიკავებ თავს, გთხოვ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453569"
+    },
+    {
+      "english": "Your potential is huge.",
+      "georgian": "შენი პოტენციალი უზარმაზარია.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453573"
+    },
+    {
+      "english": "I stand firm, solid.",
+      "georgian": "მე მყარად ვდგავარ, მაგარი.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453576"
+    },
+    {
+      "english": "Embrace challenges, smile.",
+      "georgian": "შეეჭიდე გამოწვევებს, გაიღიმე.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453579"
+    },
+    {
+      "english": "My confidence grows daily.",
+      "georgian": "ჩემი თავდაჯერებულობა იზრდება ყოველდღე.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453581"
+    },
+    {
+      "english": "I lead with purpose.",
+      "georgian": "მე მიზანმიმართულად ვლიდერობ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453584"
+    },
+    {
+      "english": "Trust your abilities, now.",
+      "georgian": "ენდე შენს შესაძლებლობებს, ახლა.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453586"
+    },
+    {
+      "english": "Be unapologetically you.",
+      "georgian": "იყავი უეჭველი შენ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453589"
+    },
+    {
+      "english": "I achieve my goals.",
+      "georgian": "მე მივაღწევ ჩემს მიზნებს.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453591"
+    },
+    {
+      "english": "What do you think, friend?",
+      "georgian": "რას ფიქრობ, მეგობარო?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453594"
+    },
+    {
+      "english": "Can I ask your advice?",
+      "georgian": "შეგიძლია რჩევა მკითხო?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453597"
+    },
+    {
+      "english": "How would you approach this?",
+      "georgian": "როგორ მიუდგებოდი ამას?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453599"
+    },
+    {
+      "english": "Do you have any suggestions?",
+      "georgian": "ხომ არ გაქვს რაიმე შემოთავაზება?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453602"
+    },
+    {
+      "english": "What's your perspective on this?",
+      "georgian": "რა არის შენი ხედვა ამ საკითხზე?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453605"
+    },
+    {
+      "english": "Could you explain that further?",
+      "georgian": "შეგიძლია ეს უფრო დაწვრილებით აგვიხსნა?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453608"
+    },
+    {
+      "english": "Are you comfortable with this plan?",
+      "georgian": "კმაყოფილი ხარ ამ გეგმით?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453616"
+    },
+    {
+      "english": "What are your thoughts, please?",
+      "georgian": "რა აზრები გაქვს, გთხოვ?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453619"
+    },
+    {
+      "english": "Shall we discuss it together?",
+      "georgian": "განვიხილოთ ერთად?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453621"
+    },
+    {
+      "english": "Tell me your honest opinion.",
+      "georgian": "მითხარი შენი გულწრფელი აზრი.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453624"
+    },
+    {
+      "english": "How can I help you better?",
+      "georgian": "როგორ შემიძლია უკეთ დაგეხმარო?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453626"
+    },
+    {
+      "english": "Is there anything I missed?",
+      "georgian": "ხომ არ გამომრჩა რამე?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453629"
+    },
+    {
+      "english": "What's the best way forward?",
+      "georgian": "რა არის საუკეთესო გზა წინსვლისთვის?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453632"
+    },
+    {
+      "english": "Would you agree with that?",
+      "georgian": "თუ დაეთანხმები ამას?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453634"
+    },
+    {
+      "english": "What is your feeling about it?",
+      "georgian": "როგორი განცდა გაქვს ამასთან დაკავშირებით?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453636"
+    },
+    {
+      "english": "Can we brainstorm some ideas?",
+      "georgian": "შეგვიძლია ერთად მოვიფიქროთ იდეები?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453641"
+    },
+    {
+      "english": "What outcomes do you expect?",
+      "georgian": "როგორი შედეგების მოლოდინი გაქვს?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453643"
+    },
+    {
+      "english": "Do you need any clarification?",
+      "georgian": "გჭირდება რაიმე განმარტება?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453647"
+    },
+    {
+      "english": "What challenges do you foresee?",
+      "georgian": "რომელ გამოწვევებს ხედავ?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453650"
+    },
+    {
+      "english": "Can you share your experience?",
+      "georgian": "შეგიძლია შენი გამოცდილება გაგვიზიარო?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453653"
+    },
+    {
+      "english": "What are your reservations?",
+      "georgian": "რა გაშინებს?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453655"
+    },
+    {
+      "english": "How does that sound to you?",
+      "georgian": "როგორ გეჩვენება ეს?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453657"
+    },
+    {
+      "english": "What's your immediate reaction?",
+      "georgian": "რა არის შენი მყისი რეაქცია?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453660"
+    },
+    {
+      "english": "Can we work on this together?",
+      "georgian": "შეგვიძლია ერთად ვიმუშაოთ ამაზე?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453663"
+    },
+    {
+      "english": "What are your expectations now?",
+      "georgian": "რა მოლოდინები გაქვს ახლა?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453665"
+    },
+    {
+      "english": "What feedback can you offer?",
+      "georgian": "როგორი უკუკავშირის მიცემა შეგიძლია?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453667"
+    },
+    {
+      "english": "What's your overall assessment?",
+      "georgian": "როგორია შენი საერთო შეფასება?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453670"
+    },
+    {
+      "english": "Can we agree on this point?",
+      "georgian": "შეგვიძლია შევთანხმდეთ ამ საკითხზე?",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453673"
+    },
+    {
+      "english": "Go for it, no regrets.",
+      "georgian": "წადი მაგას, სინანული არ იქნება.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453676"
+    },
+    {
+      "english": "Your effort shines through.",
+      "georgian": "შენი ძალისხმევა ჩანს.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453678"
+    },
+    {
+      "english": "Believe in your own power.",
+      "georgian": "საკუთარ ძალებში ირწმუნე.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453681"
+    },
+    {
+      "english": "You are capable, truly.",
+      "georgian": "შენ შეგიძლია, ნამდვილად.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453683"
+    },
+    {
+      "english": "Stay positive, always win.",
+      "georgian": "იყავი პოზიტიური, ყოველთვის იმარჯვებ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453686"
+    },
+    {
+      "english": "Your journey, your victory.",
+      "georgian": "შენი გზა, შენი გამარჯვება.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453689"
+    },
+    {
+      "english": "Shine brightly, my friend.",
+      "georgian": "მზე ანათებ, ჩემო მეგობარო.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453691"
+    },
+    {
+      "english": "Let your confidence bloom.",
+      "georgian": "დაე, შენმა თავდაჯერებულობამ აყვავდეს.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453694"
+    },
+    {
+      "english": "You have inner strength, use.",
+      "georgian": "შენ გაქვს შინაგანი ძალა, გამოიყენე.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453697"
+    },
+    {
+      "english": "Face the day, bravely.",
+      "georgian": "შეხვდი დღეს, მამაცურად.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453699"
+    },
+    {
+      "english": "Your spirit is unbroken.",
+      "georgian": "შენი სული ურყევია.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453702"
+    },
+    {
+      "english": "Dare to be bold now.",
+      "georgian": "გაბედე, რომ გაბედული იყო ახლა.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453704"
+    },
+    {
+      "english": "You're unstoppable, truly.",
+      "georgian": "შენ შეუქცევადი ხარ, ნამდვილად.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453709"
+    },
+    {
+      "english": "Embrace your power, fully.",
+      "georgian": "მოიცავი შენი ძალა, მთლიანად.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453712"
+    },
+    {
+      "english": "Believe in your vision.",
+      "georgian": "შენი ხედვის გჯეროდეს.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453714"
+    },
+    {
+      "english": "You radiate pure strength.",
+      "georgian": "შენ სუფთა ძალას ასხივებ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453719"
+    },
+    {
+      "english": "Every step counts, forward.",
+      "georgian": "ყოველი ნაბიჯი მნიშვნელოვანია, წინ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453721"
+    },
+    {
+      "english": "Your courage is inspiring.",
+      "georgian": "შენი სიმამაცე შთამაგონებელია.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453724"
+    },
+    {
+      "english": "You are a true winner.",
+      "georgian": "შენ ნამდვილი გამარჯვებული ხარ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453726"
+    },
+    {
+      "english": "Let your light shine, please.",
+      "georgian": "დაე, შენი სინათლე ანათებდეს, გეთაყვა.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453731"
+    },
+    {
+      "english": "Trust the process, always.",
+      "georgian": "პროცესს ენდე, ყოველთვის.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453734"
+    },
+    {
+      "english": "You are stronger than you know.",
+      "georgian": "შენ უფრო ძლიერი ხარ, ვიდრე ფიქრობ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453736"
+    },
+    {
+      "english": "Keep shining, your time.",
+      "georgian": "განაგრძე ბრწყინვალება, შენი დროა.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453738"
+    },
+    {
+      "english": "Your presence makes a difference.",
+      "georgian": "შენი არსებობა ცვლილებას იწვევს.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453741"
+    },
+    {
+      "english": "Today, I feel deeply peaceful.",
+      "georgian": "დღეს, ძალიან მშვიდად ვარ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453744"
+    },
+    {
+      "english": "My honest thoughts are important.",
+      "georgian": "ჩემი გულწრფელი აზრები მნიშვნელოვანია.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453747"
+    },
+    {
+      "english": "Reflecting on past successes, humbly.",
+      "georgian": "წარსულ წარმატებებზე ვფიქრობ, მოკრძალებით.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453749"
+    },
+    {
+      "english": "What truly matters, is inner peace.",
+      "georgian": "რაც ნამდვილად მნიშვნელოვანია, შინაგანი სიმშვიდეა.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453752"
+    },
+    {
+      "english": "My feelings guide me, gently.",
+      "georgian": "ჩემი გრძნობები მეხმარებიან, ნაზად.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453756"
+    },
+    {
+      "english": "This moment holds deep meaning.",
+      "georgian": "ამ წამს, დიდი მნიშვნელობა აქვს.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453759"
+    },
+    {
+      "english": "I embrace my vulnerability, openly.",
+      "georgian": "ჩემს სისუსტეს, ღიად ვიღებ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453762"
+    },
+    {
+      "english": "Self-awareness brings true confidence.",
+      "georgian": "საკუთარი თავის შეცნობა, ნამდვილ თავდაჯერებას მოაქვს.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453764"
+    },
+    {
+      "english": "My intuition is usually correct.",
+      "georgian": "ჩემი ინტუიცია, ხშირად მართალია.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453767"
+    },
+    {
+      "english": "Learning takes time, and that's fine.",
+      "georgian": "სწავლას დრო სჭირდება, და ეს კარგია.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453770"
+    },
+    {
+      "english": "I am grateful for this growth.",
+      "georgian": "მადლიერი ვარ ამ ზრდისთვის.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453773"
+    },
+    {
+      "english": "My inner voice speaks truth.",
+      "georgian": "ჩემი შინაგანი ხმა, სიმართლეს ამბობს.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453775"
+    },
+    {
+      "english": "Accepting imperfection, brings freedom.",
+      "georgian": "არასრულყოფილების მიღება, თავისუფლებას მოაქვს.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453778"
+    },
+    {
+      "english": "Slow progress, is still progress.",
+      "georgian": "ნელი წინსვლა, მაინც წინსვლაა.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453781"
+    },
+    {
+      "english": "My emotional honesty, is key.",
+      "georgian": "ჩემი ემოციური გულწრფელობა, მთავარია.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453784"
+    },
+    {
+      "english": "I listen to my heart's wisdom.",
+      "georgian": "ჩემი გულის სიბრძნეს, ვუსმენ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453786"
+    },
+    {
+      "english": "This journey, is uniquely mine.",
+      "georgian": "ეს მოგზაურობა, მხოლოდ ჩემია.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453789"
+    },
+    {
+      "english": "Finding calm, within the chaos.",
+      "georgian": "ქაოსის შიგნით, სიმშვიდის პოვნა.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453792"
+    },
+    {
+      "english": "My authentic self, is enough.",
+      "georgian": "ჩემი ნამდვილი მე, საკმარისია.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453794"
+    },
+    {
+      "english": "Deep breaths, help me focus.",
+      "georgian": "ღრმა ჩასუნთქვები, მეხმარებიან ფოკუსირებაში.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453797"
+    },
+    {
+      "english": "Understanding myself, is vital.",
+      "georgian": "ჩემი თავის გაგება, სასიცოცხლოდ მნიშვნელოვანია.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453800"
+    },
+    {
+      "english": "I trust my own judgment, finally.",
+      "georgian": "ჩემს საკუთარ განსჯას, ბოლოს ვენდობი.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453804"
+    },
+    {
+      "english": "This quiet confidence, feels right.",
+      "georgian": "ეს წყნარი თავდაჯერება, სწორად მიმაჩნია.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453807"
+    },
+    {
+      "english": "My thoughts evolve, naturally.",
+      "georgian": "ჩემი ფიქრები, ბუნებრივად ვითარდება.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453810"
+    },
+    {
+      "english": "Kindness to myself, is crucial.",
+      "georgian": "საკუთარი თავის მიმართ სიკეთე, აუცილებელია.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453813"
+    },
+    {
+      "english": "I learn from every experience.",
+      "georgian": "ყოველი გამოცდილებიდან, ვსწავლობ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453815"
+    },
+    {
+      "english": "My inner strength grows daily.",
+      "georgian": "ჩემი შინაგანი ძალა, ყოველდღე იზრდება.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453819"
+    },
+    {
+      "english": "This reflection brings me clarity.",
+      "georgian": "ეს ანარეკლი, სიცხადეს მანიჭებს.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453822"
+    },
+    {
+      "english": "I honor my authentic feelings.",
+      "georgian": "ჩემს ნამდვილ გრძნობებს, პატივს ვცემ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453825"
+    },
+    {
+      "english": "Ask for help, when needed.",
+      "georgian": "როცა საჭიროა, დახმარება ითხოვე.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453827"
+    },
+    {
+      "english": "Try new things, bravely.",
+      "georgian": "ახალი რამეები, გაბედულად სცადე.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453830"
+    },
+    {
+      "english": "Speak your mind, clearly.",
+      "georgian": "შენი აზრი, მკაფიოდ თქვი.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453832"
+    },
+    {
+      "english": "Handle problems, step by step.",
+      "georgian": "პრობლემებს, ნაბიჯ-ნაბიჯ მიხედე.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453835"
+    },
+    {
+      "english": "Don't fear mistakes, learn.",
+      "georgian": "შეცდომების, ნუ შეგეშინდება, ისწავლე.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453838"
+    },
+    {
+      "english": "Be patient, with yourself.",
+      "georgian": "მოთმინება გქონდეს, შენს თავთან.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453840"
+    },
+    {
+      "english": "Set small goals, achieve them.",
+      "georgian": "პატარა მიზნები, დაისახე, მიაღწიე.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453843"
+    },
+    {
+      "english": "Ask good questions, always.",
+      "georgian": "კარგი კითხვები, ყოველთვის დასვი.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453845"
+    },
+    {
+      "english": "Stay calm, under pressure.",
+      "georgian": "დამშვიდდი, წნეხის ქვეშ.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453848"
+    },
+    {
+      "english": "Adapt to changes, quickly.",
+      "georgian": "ცვლილებებს, სწრაფად მოერგე.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T09:08:57.453850"
     }
   ],
-  "last_updated": "2026-10-27T08:31:12.217507"
+  "last_updated": "2026-10-28T09:08:57.453852"
 }
