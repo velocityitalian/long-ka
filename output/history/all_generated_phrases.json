@@ -8639,7 +8639,727 @@
       "georgian": "ცვლილებებს, სწრაფად მოერგე.",
       "category": "Confidence",
       "generated_at": "2026-10-28T09:08:57.453850"
+    },
+    {
+      "english": "Hello, good morning, I'd like coffee.",
+      "georgian": "გამარჯობა, დილა მშვიდობისა, ყავა მინდა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831168"
+    },
+    {
+      "english": "What do you recommend, please?",
+      "georgian": "რას მირჩევთ, თუ შეიძლება?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831179"
+    },
+    {
+      "english": "One croissant, and a black coffee.",
+      "georgian": "ერთი კრუასანი, და ერთი შავი ყავა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831183"
+    },
+    {
+      "english": "Do you have fresh bread?",
+      "georgian": "ახალი პური გაქვთ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831189"
+    },
+    {
+      "english": "This smells amazing!",
+      "georgian": "ეს საოცრად ყნოსავს!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831192"
+    },
+    {
+      "english": "Just for here, thank you.",
+      "georgian": "აქ დასალევად, მადლობა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831194"
+    },
+    {
+      "english": "To go, please, quickly.",
+      "georgian": "წასაღებად, გთხოვთ, სწრაფად.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831197"
+    },
+    {
+      "english": "That looks delicious!",
+      "georgian": "ეს ძალიან გემრიელად გამოიყურება!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831202"
+    },
+    {
+      "english": "Can I have milk with that?",
+      "georgian": "შეიძლება რძე დავუმატოთ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831206"
+    },
+    {
+      "english": "A little sugar, please.",
+      "georgian": "ცოტა შაქარი, გთხოვთ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831209"
+    },
+    {
+      "english": "No sugar for me, thanks.",
+      "georgian": "მე შაქარი არ მინდა, მადლობა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831212"
+    },
+    {
+      "english": "I'll take this cake.",
+      "georgian": "ამ ნამცხვარს ავიღებ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831215"
+    },
+    {
+      "english": "It's very busy today.",
+      "georgian": "დღეს ძალიან ხალხმრავლობაა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831217"
+    },
+    {
+      "english": "Can I sit here?",
+      "georgian": "აქ შემიძლია დავჯდე?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831220"
+    },
+    {
+      "english": "Enjoy your meal!",
+      "georgian": "გემრიელად მიირთვით!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831222"
+    },
+    {
+      "english": "That's perfect, thank you.",
+      "georgian": "ეს მშვენიერია, მადლობა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831225"
+    },
+    {
+      "english": "Just water, please.",
+      "georgian": "უბრალოდ წყალი, გთხოვთ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831228"
+    },
+    {
+      "english": "What's the password?",
+      "georgian": "პაროლი რა არის?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831230"
+    },
+    {
+      "english": "I need a napkin.",
+      "georgian": "საწმენდი მჭირდება.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831235"
+    },
+    {
+      "english": "This is my usual.",
+      "georgian": "ეს ჩემი ჩვეულებრივია.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831238"
+    },
+    {
+      "english": "Can I have a receipt?",
+      "georgian": "ქვითარი შეიძლება?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831240"
+    },
+    {
+      "english": "It's a bit cold in here.",
+      "georgian": "აქ ცოტა ცივა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831243"
+    },
+    {
+      "english": "I'll have a cappuccino.",
+      "georgian": "კაპუჩინოს დავლევ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831245"
+    },
+    {
+      "english": "Just a small one.",
+      "georgian": "მხოლოდ პატარა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831247"
+    },
+    {
+      "english": "What kind of tea?",
+      "georgian": "როგორი ჩაი გაქვთ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831250"
+    },
+    {
+      "english": "Thanks for the help.",
+      "georgian": "დახმარებისთვის მადლობა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831252"
+    },
+    {
+      "english": "What's new today, guys?",
+      "georgian": "რა ხდება დღეს, ბიჭებო?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831255"
+    },
+    {
+      "english": "Anything special on the menu?",
+      "georgian": "მენიუში რამე განსაკუთრებული გაქვთ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831260"
+    },
+    {
+      "english": "How's your morning going?",
+      "georgian": "როგორ ჩაივლის თქვენი დილა?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831263"
+    },
+    {
+      "english": "Could you tell me, what's this?",
+      "georgian": "შეგიძლიათ მითხრათ, რა არის ეს?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831266"
+    },
+    {
+      "english": "Is it very sweet, this pastry?",
+      "georgian": "ძალიან ტკბილია, ეს საკონდიტრო?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831270"
+    },
+    {
+      "english": "How long does it take, to bake this?",
+      "georgian": "რამდენი ხანი უნდა, ამის გამომცხვარს?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831273"
+    },
+    {
+      "english": "Can I try, a little sample?",
+      "georgian": "შემიძლია ვცადო, პატარა ნიმუში?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831276"
+    },
+    {
+      "english": "Is there a quiet corner, to sit?",
+      "georgian": "არის თუ არა წყნარი კუთხე, დასაჯდომი?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831279"
+    },
+    {
+      "english": "What's the special offer, today?",
+      "georgian": "რა არის დღევანდელი სპეციალური შემოთავაზება?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831282"
+    },
+    {
+      "english": "Do you have, any gluten-free options?",
+      "georgian": "გაქვთ თუ არა, გლუტენ-ფრი ვარიანტები?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831285"
+    },
+    {
+      "english": "Can I get, a doggy bag, for this?",
+      "georgian": "შემიძლია ავიღო, ძაღლის პარკი, ამისთვის?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831288"
+    },
+    {
+      "english": "How much is it, with everything?",
+      "georgian": "რამდენი ჯდება, ყველაფერთან ერთად?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831291"
+    },
+    {
+      "english": "Is the Wi-Fi working, okay?",
+      "georgian": "Wi-Fi მუშაობს, ნორმალურად?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831294"
+    },
+    {
+      "english": "What time do you close, tonight?",
+      "georgian": "რომელ საათზე იკეტებით, დღეს საღამოს?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831296"
+    },
+    {
+      "english": "Can I order, something to share?",
+      "georgian": "შემიძლია შევუკვეთო, რამე გასაზიარებელი?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831299"
+    },
+    {
+      "english": "Is this cake, homemade, today?",
+      "georgian": "ეს ნამცხვარი, შინაურია, დღევანდელი?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831302"
+    },
+    {
+      "english": "Could you warm this up, please?",
+      "georgian": "შეგიძლიათ გაათბოთ, ეს, გთხოვთ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831305"
+    },
+    {
+      "english": "What's the strongest coffee, you have?",
+      "georgian": "ყველაზე ძლიერი ყავა, რა გაქვთ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831308"
+    },
+    {
+      "english": "Do you take, card payments?",
+      "georgian": "იღებთ, ბარათით გადახდას?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831310"
+    },
+    {
+      "english": "Is there, a loyalty program?",
+      "georgian": "არის თუ არა, ლოიალურობის პროგრამა?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831313"
+    },
+    {
+      "english": "Can I get, a glass of water?",
+      "georgian": "შემიძლია ერთი ჭიქა, წყალი?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831316"
+    },
+    {
+      "english": "What's the busiest time, of day?",
+      "georgian": "დღის რომელი საათია, ყველაზე დატვირთული?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831318"
+    },
+    {
+      "english": "Could I have, the wifi password?",
+      "georgian": "შემიძლია ავიღო, wifi პაროლი?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831321"
+    },
+    {
+      "english": "Is this seat, taken?",
+      "georgian": "ეს ადგილი, დაკავებულია?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831324"
+    },
+    {
+      "english": "Do you have, sugar-free syrup?",
+      "georgian": "შაქრის გარეშე სიროფი, გაქვთ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831326"
+    },
+    {
+      "english": "Can I get, a dog bowl, outside?",
+      "georgian": "შემიძლია ავიღო, ძაღლის თასი, გარეთ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831329"
+    },
+    {
+      "english": "What's the local specialty?",
+      "georgian": "რა არის ადგილობრივი სპეციალობა?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831332"
+    },
+    {
+      "english": "Could you write, that down, please?",
+      "georgian": "შეგიძლიათ დაწეროთ, ეს, გთხოვთ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831335"
+    },
+    {
+      "english": "Great job, that looks delicious!",
+      "georgian": "დიდი მადლობა, ეს გემრიელად გამოიყურება!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831337"
+    },
+    {
+      "english": "Believe in your taste, it's unique.",
+      "georgian": "გაიხსენე შენი გემოვნება, ეს განსაკუთრებულია.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831340"
+    },
+    {
+      "english": "This coffee is made with love.",
+      "georgian": "ეს ყავა სიყვარულით არის გაკეთებული.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831343"
+    },
+    {
+      "english": "Your smile, brightens my day.",
+      "georgian": "შენი ღიმილი, ანათებს ჩემს დღეს.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831345"
+    },
+    {
+      "english": "You are an amazing baker!",
+      "georgian": "შენ ხარ საოცარი მეცხრე!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831350"
+    },
+    {
+      "english": "This pastry, has magic inside.",
+      "georgian": "ამ საკონდიტროს, შიგნით ჯადოქრობა აქვს.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831355"
+    },
+    {
+      "english": "Positive vibes, only here.",
+      "georgian": "პოზიტიური ვიბრები, მხოლოდ აქ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831358"
+    },
+    {
+      "english": "Small steps, big dreams.",
+      "georgian": "პატარა ნაბიჯები, დიდი ოცნებები.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831360"
+    },
+    {
+      "english": "This cake, is a masterpiece.",
+      "georgian": "ეს ნამცხვარი, შედევრია.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831363"
+    },
+    {
+      "english": "Don't give up, you're close.",
+      "georgian": "ნუ დანებდები, ახლოს ხარ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831366"
+    },
+    {
+      "english": "This aroma, is pure bliss.",
+      "georgian": "ეს არომატი, სუფთა ნეტარებაა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831369"
+    },
+    {
+      "english": "Keep shining, bright star.",
+      "georgian": "განაგრძე ბრწყინვალება, კაშკაშა ვარსკვლავო.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831371"
+    },
+    {
+      "english": "One perfect sip, at a time.",
+      "georgian": "ერთი იდეალური ყლუპი, ყოველ ჯერზე.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831374"
+    },
+    {
+      "english": "This moment, is yours.",
+      "georgian": "ეს მომენტი, შენია.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831376"
+    },
+    {
+      "english": "You create beauty, with flour.",
+      "georgian": "შენ ქმნი სილამაზეს, ფქვილით.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831379"
+    },
+    {
+      "english": "Never stop, dreaming big.",
+      "georgian": "არასდროს შეწყვიტო, დიდი ოცნება.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831382"
+    },
+    {
+      "english": "You make people happy.",
+      "georgian": "შენ ხალხს ახარებ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831384"
+    },
+    {
+      "english": "This warmth, feels like home.",
+      "georgian": "ეს სითბო, სახლს მაგონებს.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831387"
+    },
+    {
+      "english": "Your passion, is evident.",
+      "georgian": "შენი ვნება, აშკარაა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831390"
+    },
+    {
+      "english": "Keep shining, your light.",
+      "georgian": "განაგრძე ბრწყინვალება, შენი სინათლე.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831393"
+    },
+    {
+      "english": "Every detail, matters here.",
+      "georgian": "ყოველი დეტალი, აქ მნიშვნელოვანია.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831395"
+    },
+    {
+      "english": "You are a true artist.",
+      "georgian": "შენ ხარ ნამდვილი მხატვარი.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831398"
+    },
+    {
+      "english": "This joy, is contagious.",
+      "georgian": "ეს სიხარული, გადამდებია.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831400"
+    },
+    {
+      "english": "Keep pushing, your limits.",
+      "georgian": "გააგრძელე ბიძგი, შენი საზღვრები.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831403"
+    },
+    {
+      "english": "Your dedication, is amazing.",
+      "georgian": "შენი ერთგულება, საოცარია.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831406"
+    },
+    {
+      "english": "This taste, is perfection.",
+      "georgian": "ეს გემო, სრულყოფილებაა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831408"
+    },
+    {
+      "english": "This quiet moment, feels so calming.",
+      "georgian": "ეს მშვიდი მომენტი, ძალიან დამამშვიდებელია.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831411"
+    },
+    {
+      "english": "I needed this peace, truly.",
+      "georgian": "მჭირდებოდა ეს სიმშვიდე, მართლა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831413"
+    },
+    {
+      "english": "Your craft, is deeply inspiring.",
+      "georgian": "შენი ოსტატობა, ძალიან შთამაგონებელია.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831418"
+    },
+    {
+      "english": "This simple joy, means a lot.",
+      "georgian": "ეს მარტივი სიხარული, ბევრს ნიშნავს.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831421"
+    },
+    {
+      "english": "I feel understood, here.",
+      "georgian": "აქ თავს, კარგად ვგრძნობ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831424"
+    },
+    {
+      "english": "This atmosphere, heals the soul.",
+      "georgian": "ეს ატმოსფერო, სულს კურნავს.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831428"
+    },
+    {
+      "english": "Thinking deeply, about this taste.",
+      "georgian": "ამ გემოზე, ღრმად ვფიქრობ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831431"
+    },
+    {
+      "english": "Every detail, tells a story.",
+      "georgian": "ყოველი დეტალი, ამბავს ჰყვება.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831434"
+    },
+    {
+      "english": "This sincerity, is refreshing.",
+      "georgian": "ეს გულწრფელობა, გამამხნევებელია.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831436"
+    },
+    {
+      "english": "I’m grateful, for this feeling.",
+      "georgian": "მადლობელი ვარ, ამ შეგრძნებისთვის.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831440"
+    },
+    {
+      "english": "Your dedication, shines through.",
+      "georgian": "შენი თავდადება, ჩანს.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831443"
+    },
+    {
+      "english": "This thoughtful touch, noticed.",
+      "georgian": "ეს ყურადღებიანი შეხება, შევნიშნე.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831447"
+    },
+    {
+      "english": "This is more than coffee, it’s art.",
+      "georgian": "ეს ყავაზე მეტია, ეს ხელოვნებაა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831451"
+    },
+    {
+      "english": "I reflect, on simple pleasures.",
+      "georgian": "ვფიქრობ, მარტივ სიამოვნებებზე.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831454"
+    },
+    {
+      "english": "Your kindness, is truly appreciated.",
+      "georgian": "შენი სიკეთე, ნამდვილად დასაფასებელია.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831456"
+    },
+    {
+      "english": "This place, holds special meaning.",
+      "georgian": "ამ ადგილს, განსაკუთრებული მნიშვნელობა აქვს.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831459"
+    },
+    {
+      "english": "I savor this moment, slowly.",
+      "georgian": "ამ მომენტს, ნელა ვაფასებ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831461"
+    },
+    {
+      "english": "Your passion, is infectious.",
+      "georgian": "შენი ვნება, გადამდებია.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831464"
+    },
+    {
+      "english": "I feel genuinely welcome, here.",
+      "georgian": "აქ ნამდვილად, მომფერად გრძნობა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831466"
+    },
+    {
+      "english": "This honest effort, is visible.",
+      "georgian": "ეს გულწრფელი ძალისხმევა, ჩანს.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831469"
+    },
+    {
+      "english": "My thoughts drift, peacefully.",
+      "georgian": "ჩემი ფიქრები, მშვიდად მიედინება.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831472"
+    },
+    {
+      "english": "Your creative spirit, is lovely.",
+      "georgian": "შენი შემოქმედებითი სული, საყვარელია.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831474"
+    },
+    {
+      "english": "I appreciate, this calm energy.",
+      "georgian": "ვაფასებ, ამ სიმშვიდეს.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831477"
+    },
+    {
+      "english": "This is a space, for reflection.",
+      "georgian": "ეს არის სივრცე, მოსაფიქრებლად.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831480"
+    },
+    {
+      "english": "Your warmth, makes it special.",
+      "georgian": "შენი სითბო, მას განსაკუთრებულს ხდის.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831482"
+    },
+    {
+      "english": "I’m taking this feeling, with me.",
+      "georgian": "ამ გრძნობას, წავიღებ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831485"
+    },
+    {
+      "english": "This genuine care, is rare.",
+      "georgian": "ეს ნამდვილი ზრუნვა, იშვიათია.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831488"
+    },
+    {
+      "english": "You’ve created, a haven.",
+      "georgian": "თქვენ შექმენით, თავშესაფარი.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831491"
+    },
+    {
+      "english": "Can I get that to go, please?",
+      "georgian": "შეფუთული მომეცით, რა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831494"
+    },
+    {
+      "english": "Is there Wi-Fi here, by chance?",
+      "georgian": "აქ ინტერნეტი თუა, შემთხვევით?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831497"
+    },
+    {
+      "english": "Could I have a refill, when you have time?",
+      "georgian": "როცა მოიცლი, ამიგავს?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831499"
+    },
+    {
+      "english": "Excuse me, how much is this one?",
+      "georgian": "უკაცრავად, ეს რა ღირს?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831502"
+    },
+    {
+      "english": "I'll take a small, black coffee.",
+      "georgian": "პატარა, შავი ყავა მინდა.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831505"
+    },
+    {
+      "english": "This pastry is incredibly fresh.",
+      "georgian": "ეს ფუნთუშა საოცრად ახალია.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831509"
+    },
+    {
+      "english": "I'm meeting a friend here soon.",
+      "georgian": "მეგობარს ველოდები აქ მალე.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831512"
+    },
+    {
+      "english": "Is this seat taken, by any chance?",
+      "georgian": "ეს ადგილი თუ დაკავებულია?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831515"
+    },
+    {
+      "english": "What's your most popular cake?",
+      "georgian": "თქვენი ყველაზე პოპულარული ტორტი?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831518"
+    },
+    {
+      "english": "I'm just browsing for now.",
+      "georgian": "ჯერ მხოლოდ ვათვალიერებ.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831520"
+    },
+    {
+      "english": "Can I have extra napkins, please?",
+      "georgian": "დამატებითი ხელსახოცები, რა?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831523"
+    },
+    {
+      "english": "This is a good spot to relax.",
+      "georgian": "სასვენებლად კარგი ადგილია.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-30T09:22:16.831525"
     }
   ],
-  "last_updated": "2026-10-28T09:08:57.453852"
+  "last_updated": "2026-10-30T09:22:16.831527"
 }
