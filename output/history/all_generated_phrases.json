@@ -9359,7 +9359,727 @@
       "georgian": "სასვენებლად კარგი ადგილია.",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-10-30T09:22:16.831525"
+    },
+    {
+      "english": "Hello, I have a reservation.",
+      "georgian": "გამარჯობა, მაქვს ჯავშანი.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501055"
+    },
+    {
+      "english": "Can I see the room, please?",
+      "georgian": "შემიძლია ოთახის ნახვა, გთხოვთ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501067"
+    },
+    {
+      "english": "This is perfect, thank you.",
+      "georgian": "ეს არის იდეალური, მადლობა.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501071"
+    },
+    {
+      "english": "When is breakfast served?",
+      "georgian": "როდის არის საუზმე?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501074"
+    },
+    {
+      "english": "Where is the Wi-Fi password?",
+      "georgian": "სად არის Wi-Fi-ს პაროლი?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501077"
+    },
+    {
+      "english": "Is breakfast included?",
+      "georgian": "საუზმე შედის ფასში?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501080"
+    },
+    {
+      "english": "I need an extra towel.",
+      "georgian": "დამატებითი პირსახოცი მინდა.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501083"
+    },
+    {
+      "english": "Can I have a late checkout?",
+      "georgian": "შემიძლია გვიან გასვლა?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501088"
+    },
+    {
+      "english": "How do I get to the city center?",
+      "georgian": "როგორ მივიდე ქალაქის ცენტრში?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501091"
+    },
+    {
+      "english": "This room is too small.",
+      "georgian": "ეს ოთახი ძალიან პატარაა.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501094"
+    },
+    {
+      "english": "The air conditioning doesn't work.",
+      "georgian": "კონდიციონერი არ მუშაობს.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501100"
+    },
+    {
+      "english": "I would like to check out.",
+      "georgian": "მინდა გასვლა.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501103"
+    },
+    {
+      "english": "What time is checkout?",
+      "georgian": "რა დროს არის გასვლა?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501107"
+    },
+    {
+      "english": "Is there a gym here?",
+      "georgian": "აქ არის სპორტული დარბაზი?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501110"
+    },
+    {
+      "english": "I lost my key card.",
+      "georgian": "საკვანძე ბარათი დავკარგე.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501112"
+    },
+    {
+      "english": "This view is amazing.",
+      "georgian": "ეს ხედი საოცარია.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501115"
+    },
+    {
+      "english": "Do you have a map?",
+      "georgian": "ხელთ გაქვთ რუკა?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501117"
+    },
+    {
+      "english": "My room number is 305.",
+      "georgian": "ჩემი ოთახის ნომერია 305.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501120"
+    },
+    {
+      "english": "This is very clean.",
+      "georgian": "ეს ძალიან სუფთაა.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501122"
+    },
+    {
+      "english": "Can I leave my luggage?",
+      "georgian": "შემიძლია ჩემი ბარგი დავტოვო?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501125"
+    },
+    {
+      "english": "What is the hotel's address?",
+      "georgian": "რა არის სასტუმროს მისამართი?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501127"
+    },
+    {
+      "english": "I need help, please.",
+      "georgian": "დახმარება მჭირდება, გთხოვთ.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501130"
+    },
+    {
+      "english": "The bed is comfortable.",
+      "georgian": "საწოლი კომფორტულია.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501134"
+    },
+    {
+      "english": "Is there a pool?",
+      "georgian": "აქ არის აუზი?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501137"
+    },
+    {
+      "english": "Thank you for everything.",
+      "georgian": "მადლობა ყველაფრისთვის.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501140"
+    },
+    {
+      "english": "Have a nice stay!",
+      "georgian": "კარგად დაისვენეთ!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501142"
+    },
+    {
+      "english": "Do you have any available rooms?",
+      "georgian": "ხომ არ გაქვთ თავისუფალი ნომრები?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501145"
+    },
+    {
+      "english": "Could you tell me the price, please?",
+      "georgian": "შეგიძლიათ ფასი მითხრათ, გეთაყოთ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501148"
+    },
+    {
+      "english": "What kind of rooms do you offer?",
+      "georgian": "როგორი ტიპის ნომრები გაქვთ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501151"
+    },
+    {
+      "english": "Is there a discount for longer stays?",
+      "georgian": "უფრო ხანგრძლივი სტუმრობისთვის ფასდაკლება თუა?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501154"
+    },
+    {
+      "english": "Can I book a room for tonight?",
+      "georgian": "დღევანდელი ღამისთვის შემიძლია ნომრის დაჯავშნა?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501156"
+    },
+    {
+      "english": "What amenities are included in the room?",
+      "georgian": "ნომერში რა მო सुविधा მოყვება?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501159"
+    },
+    {
+      "english": "Is the hotel pet-friendly?",
+      "georgian": "სასტუმრო ცხოველებთან ერთად ყოფნის უფლებას იძლევა?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501162"
+    },
+    {
+      "english": "How far is it to the nearest metro station?",
+      "georgian": "უახლოეს მეტროსადგურამდე რამდენი ხანია?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501165"
+    },
+    {
+      "english": "Can I get a room with a balcony?",
+      "georgian": "შემიძლია აივნით ნომერი ავიღო?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501167"
+    },
+    {
+      "english": "What are the check-in and check-out times?",
+      "georgian": "როდის ხდება რეგისტრაცია და გასვლა?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501170"
+    },
+    {
+      "english": "Is there parking available for guests?",
+      "georgian": "სტუმრებისთვის არის თუ არა პარკინგი?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501173"
+    },
+    {
+      "english": "Does the room have a private bathroom?",
+      "georgian": "ნომერს აქვს საკუთარი სააბაზანო?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501175"
+    },
+    {
+      "english": "How do I connect to the Wi-Fi network?",
+      "georgian": "როგორ დავუკავშირდე Wi-Fi ქსელს?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501178"
+    },
+    {
+      "english": "Can I get a wake-up call tomorrow?",
+      "georgian": "ხვალ დილით გამომაღვიძებელი ზარი მომივიდეს?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501181"
+    },
+    {
+      "english": "Is there a taxi service available?",
+      "georgian": "ტაქსის მომსახურება ხელმისაწვდომია?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501183"
+    },
+    {
+      "english": "What's the best way to reach the airport?",
+      "georgian": "აეროპორტამდე მისასვლელად რა გზაა საუკეთესო?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501186"
+    },
+    {
+      "english": "Are there any tours you can arrange?",
+      "georgian": "რაიმე ექსკურსიას თუ მოაწყობთ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501188"
+    },
+    {
+      "english": "Can I have breakfast delivered to my room?",
+      "georgian": "შემიძლია ოთახში საუზმის მოტანა?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501191"
+    },
+    {
+      "english": "Is there a safe in the room?",
+      "georgian": "ოთახში სეიფი არის?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501193"
+    },
+    {
+      "english": "What is the policy on smoking?",
+      "georgian": "მოწევასთან დაკავშირებით რა პოლიტიკაა?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501198"
+    },
+    {
+      "english": "Can I change my reservation dates?",
+      "georgian": "შემიძლია ჯავშნის თარიღების შეცვლა?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501200"
+    },
+    {
+      "english": "Is there a shuttle service to downtown?",
+      "georgian": "ქალაქის ცენტრამდე შატლის მომსახურება არის?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501203"
+    },
+    {
+      "english": "What are the operating hours for the pool?",
+      "georgian": "აუზის მუშაობის საათები რა არის?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501205"
+    },
+    {
+      "english": "Can I extend my stay by one night?",
+      "georgian": "ერთი ღამით შემიძლია დარჩენა?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501208"
+    },
+    {
+      "english": "Where can I find an ATM?",
+      "georgian": "სად შეიძლება ბანკომატი ვიპოვო?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501210"
+    },
+    {
+      "english": "Is there a doctor on call?",
+      "georgian": "ექიმი გამოძახებით არის?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501213"
+    },
+    {
+      "english": "You've got this, just try!",
+      "georgian": "შენ ეს შეგიძლია, უბრალოდ სცადე!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501216"
+    },
+    {
+      "english": "Every little bit counts.",
+      "georgian": "ყოველი წვრილმანი მნიშვნელოვანია.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501218"
+    },
+    {
+      "english": "Keep practicing, you're improving.",
+      "georgian": "განაგრძე ვარჯიში, იხვეწები.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501226"
+    },
+    {
+      "english": "Don't be afraid to ask.",
+      "georgian": "ნუ შეგეშინდებათ კითხვის.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501230"
+    },
+    {
+      "english": "Mistakes are part of learning.",
+      "georgian": "შეცდომები სწავლის ნაწილია.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501233"
+    },
+    {
+      "english": "Your effort is admirable.",
+      "georgian": "შენი ძალისხმევა აღფრთოვანებულია.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501254"
+    },
+    {
+      "english": "Slow and steady wins.",
+      "georgian": "ნელა და სტაბილურად იმარჯვებ.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501257"
+    },
+    {
+      "english": "You are doing great!",
+      "georgian": "შესანიშნავად აკეთებ!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501259"
+    },
+    {
+      "english": "Just breathe, you'll manage.",
+      "georgian": "უბრალოდ ისუნთქე, გაართმევ თავს.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501262"
+    },
+    {
+      "english": "Believe in your progress.",
+      "georgian": "გჯეროდეს შენი პროგრესის.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501265"
+    },
+    {
+      "english": "You can handle this.",
+      "georgian": "შენ ამას გაუმკლავდები.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501267"
+    },
+    {
+      "english": "Keep your chin up!",
+      "georgian": "თავი მაღლა ასწიე!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501270"
+    },
+    {
+      "english": "Positive thoughts, positive outcomes.",
+      "georgian": "პოზიტიური აზრები, პოზიტიური შედეგები.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501273"
+    },
+    {
+      "english": "You're almost there.",
+      "georgian": "თითქმის მიაღწიე.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501275"
+    },
+    {
+      "english": "This is a good start.",
+      "georgian": "ეს კარგი დასაწყისია.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501278"
+    },
+    {
+      "english": "Stay calm, think clearly.",
+      "georgian": "დამშვიდდი, იფიქრე ნათლად.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501280"
+    },
+    {
+      "english": "You learn by doing.",
+      "georgian": "საქმით სწავლობ.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501283"
+    },
+    {
+      "english": "It's okay to stumble.",
+      "georgian": "დასაშვებია წაბორძიკება.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501286"
+    },
+    {
+      "english": "You've made good progress.",
+      "georgian": "კარგი პროგრესი გაქვს.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501291"
+    },
+    {
+      "english": "You are doing well.",
+      "georgian": "კარგად აკეთებ.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501294"
+    },
+    {
+      "english": "Focus on the goal.",
+      "georgian": "მიზანზე ფოკუსირდი.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501296"
+    },
+    {
+      "english": "This is achievable.",
+      "georgian": "ეს მიღწევადია.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501300"
+    },
+    {
+      "english": "Good evening, I have a reservation.",
+      "georgian": "საღამო მშვიდობისა, მაქვს დაჯავშნა.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501303"
+    },
+    {
+      "english": "My name is, David Smith.",
+      "georgian": "ჩემი სახელია, დავით სმიტი.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501305"
+    },
+    {
+      "english": "Where is the elevator?",
+      "georgian": "სად არის ლიფტი?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501308"
+    },
+    {
+      "english": "What time does breakfast start?",
+      "georgian": "როდის იწყება საუზმე?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501310"
+    },
+    {
+      "english": "We need extra towels, please.",
+      "georgian": "დაგვჭირდება დამატებითი პირსახოცები, გთხოვთ.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501313"
+    },
+    {
+      "english": "Is there a gym in the hotel?",
+      "georgian": "არის სასტუმროში სპორტული დარბაზი?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501316"
+    },
+    {
+      "english": "The air conditioning is not working.",
+      "georgian": "კონდიციონერი არ მუშაობს.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501318"
+    },
+    {
+      "english": "Could you send someone up, please?",
+      "georgian": "შეგიძლიათ ვინმე გამოაგზავნოთ, გთხოვთ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501321"
+    },
+    {
+      "english": "We'd like to check out now.",
+      "georgian": "გვსურს ახლა გასვლა.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501324"
+    },
+    {
+      "english": "How much is the total bill?",
+      "georgian": "რა არის ჯამური ანგარიში?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501327"
+    },
+    {
+      "english": "Can I pay by credit card?",
+      "georgian": "შემიძლია გადავიხადო საკრედიტო ბარათით?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501329"
+    },
+    {
+      "english": "Where can I get a taxi?",
+      "georgian": "სად შემიძლია ტაქსის აღება?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501334"
+    },
+    {
+      "english": "The room is a bit cold.",
+      "georgian": "ოთახი ცოტა ცივია.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501336"
+    },
+    {
+      "english": "Do you have a luggage storage?",
+      "georgian": "გაქვთ ბარგის შესანახი ადგილი?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501339"
+    },
+    {
+      "english": "The view from the window is amazing.",
+      "georgian": "ხედი ფანჯრიდან საოცარია.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501341"
+    },
+    {
+      "english": "Could you call a taxi for me?",
+      "georgian": "შეგიძლიათ ტაქსის გამოძახება ჩემთვის?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501344"
+    },
+    {
+      "english": "I need a quiet room.",
+      "georgian": "მჭირდება წყნარი ოთახი.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501346"
+    },
+    {
+      "english": "We would like to extend our stay.",
+      "georgian": "გვსურს ჩვენი სტუმრობის გაგრძელება.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501349"
+    },
+    {
+      "english": "What time is reception open until?",
+      "georgian": "რომელ საათამდე მუშაობს მიმღები?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501351"
+    },
+    {
+      "english": "This is a very comfortable bed.",
+      "georgian": "ეს ძალიან კომფორტული საწოლია.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501354"
+    },
+    {
+      "english": "Can I have an extra pillow?",
+      "georgian": "შემიძლია დამატებითი ბალიში?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501356"
+    },
+    {
+      "english": "The Wi-Fi is quite fast.",
+      "georgian": "Wi-Fi საკმაოდ სწრაფია.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501359"
+    },
+    {
+      "english": "Is there a hairdryer in the bathroom?",
+      "georgian": "არის აბაზანაში ფენი?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501361"
+    },
+    {
+      "english": "This area is very safe.",
+      "georgian": "ეს ტერიტორია ძალიან უსაფრთხოა.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501363"
+    },
+    {
+      "english": "Thank you for your hospitality.",
+      "georgian": "მადლობა თქვენი სტუმართმოყვარეობისთვის.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501366"
+    },
+    {
+      "english": "This place feels like home, really.",
+      "georgian": "ეს ადგილი, სახლს მაგონებს, მართლა.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501369"
+    },
+    {
+      "english": "I'm so grateful for the peace here.",
+      "georgian": "ძალიან მადლობელი ვარ, ამ სიმშვიდისთვის.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501371"
+    },
+    {
+      "english": "A moment of true relaxation, finally.",
+      "georgian": "ნამდვილი დასვენების მომენტი, ბოლოს და ბოლოს.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501374"
+    },
+    {
+      "english": "It's nice to feel so welcome.",
+      "georgian": "კარგია, ასე სტუმართმოყვარეობით რომ ვგრძნობ თავს.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501377"
+    },
+    {
+      "english": "I'm reflecting on my travels here.",
+      "georgian": "ჩემს მოგზაურობებზე ვფიქრობ, აქ.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501380"
+    },
+    {
+      "english": "This view inspires deep thoughts.",
+      "georgian": "ეს ხედი, ღრმა ფიქრებს აღძრავს.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501382"
+    },
+    {
+      "english": "I appreciate the genuine kindness shown.",
+      "georgian": "ვაფასებ, გულწრფელ სიკეთეს, რაც გამოავლინეს.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501385"
+    },
+    {
+      "english": "Sometimes, simplicity is truly luxurious.",
+      "georgian": "ზოგჯერ, სიმარტივე, ნამდვილად ფუფუნებაა.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501390"
+    },
+    {
+      "english": "Lost in thought, but in a good way.",
+      "georgian": "ფიქრებში დავკარგულვარ, მაგრამ კარგად.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501393"
+    },
+    {
+      "english": "It's comforting to be so well cared for.",
+      "georgian": "მშვიდდება, ასე კარგად რომ მითვალთვალებენ.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501396"
+    },
+    {
+      "english": "This moment feels quite special.",
+      "georgian": "ეს მომენტი, საკმაოდ განსაკუთრებულია.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501398"
+    },
+    {
+      "english": "I feel a sense of deep contentment.",
+      "georgian": "დიდი კმაყოფილების გრძნობა მაქვს.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501401"
+    },
+    {
+      "english": "It's good to disconnect and just be.",
+      "georgian": "კარგია, რომ გათიშო და უბრალოდ იყო.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501403"
+    },
+    {
+      "english": "My mind is finally at ease here.",
+      "georgian": "ჩემი გონება, საბოლოოდ მშვიდად არის აქ.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501406"
+    },
+    {
+      "english": "What a reflective atmosphere this is.",
+      "georgian": "რა ამრეკლავი ატმოსფეროა აქ.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501408"
+    },
+    {
+      "english": "I'm cherishing these quiet moments.",
+      "georgian": "ვაფასებ, ამ ჩუმ მომენტებს.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501411"
+    },
+    {
+      "english": "This trip has been emotionally rewarding.",
+      "georgian": "ეს მოგზაურობა, ემოციურად დამაჯილდოებელი იყო.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501413"
+    },
+    {
+      "english": "It's rare to find such genuine hospitality.",
+      "georgian": "იშვიათია, ასეთი გულწრფელი სტუმართმოყვარეობა.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501416"
+    },
+    {
+      "english": "I feel truly recharged and centered.",
+      "georgian": "თავს ნამდვილად დამუხტულად და ცენტრში ვგრძნობ.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501420"
+    },
+    {
+      "english": "This quiet time is a true gift.",
+      "georgian": "ეს მშვიდი დრო, ნამდვილი საჩუქარია.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501423"
+    },
+    {
+      "english": "I'm leaving with a grateful heart.",
+      "georgian": "მადლიერი გულით მივდივარ.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-31T09:04:54.501425"
     }
   ],
-  "last_updated": "2026-10-30T09:22:16.831527"
+  "last_updated": "2026-10-31T09:04:54.501427"
 }
