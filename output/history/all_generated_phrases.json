@@ -10799,7 +10799,727 @@
       "georgian": "ჩემი გზა, ნელ-ნელა იშლება.",
       "category": "Self Improvement",
       "generated_at": "2026-11-01T09:55:06.974533"
+    },
+    {
+      "english": "Hello, can you hear me?",
+      "georgian": "გამარჯობა, გესმით?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113403"
+    },
+    {
+      "english": "Yes, I can hear you well.",
+      "georgian": "დიახ, კარგად გესმით.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113416"
+    },
+    {
+      "english": "I'm calling about the meeting.",
+      "georgian": "შეხვედრასთან დაკავშირებით ვრეკავ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113420"
+    },
+    {
+      "english": "What time is good for you?",
+      "georgian": "რომელ საათზე გაგიხარდებათ?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113422"
+    },
+    {
+      "english": "I'll call you back later.",
+      "georgian": "მოგვიანებით დაგირეკავ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113424"
+    },
+    {
+      "english": "Is this a good time?",
+      "georgian": "ახლა კარგი დროა?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113426"
+    },
+    {
+      "english": "I'm on my way now.",
+      "georgian": "უკვე გზაში ვარ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113429"
+    },
+    {
+      "english": "Where are you right now?",
+      "georgian": "სად ხარ ახლა?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113433"
+    },
+    {
+      "english": "I've arrived, I'm here.",
+      "georgian": "მოსული ვარ, აქ ვარ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113436"
+    },
+    {
+      "english": "Did you get my message?",
+      "georgian": "მიიღე ჩემი შეტყობინება?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113438"
+    },
+    {
+      "english": "Yes, I just saw it.",
+      "georgian": "კი, ახლახან ვნახე.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113441"
+    },
+    {
+      "english": "I'll text you the address.",
+      "georgian": "მისამართს მოგწერ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113443"
+    },
+    {
+      "english": "Don't worry about it.",
+      "georgian": "ნუ ღელავ მაგაზე.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113444"
+    },
+    {
+      "english": "Everything is fine.",
+      "georgian": "ყველაფერი რიგზეა.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113446"
+    },
+    {
+      "english": "Let me know if you need help.",
+      "georgian": "მითხარი, თუ დახმარება გჭირდება.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113448"
+    },
+    {
+      "english": "I'm looking forward to it.",
+      "georgian": "ველოდები ამას.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113450"
+    },
+    {
+      "english": "Can you send me the link?",
+      "georgian": "ლინკი გამომიგზავნე?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113454"
+    },
+    {
+      "english": "I'm having trouble with my phone.",
+      "georgian": "ტელეფონთან პრობლემა მაქვს.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113457"
+    },
+    {
+      "english": "My battery is low.",
+      "georgian": "ბატარეა მეცლება.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113459"
+    },
+    {
+      "english": "Can you charge your phone?",
+      "georgian": "შეგიძლია ტელეფონი დატენო?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113461"
+    },
+    {
+      "english": "I'm almost there.",
+      "georgian": "თითქმის მივედი.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113463"
+    },
+    {
+      "english": "Just a moment, please.",
+      "georgian": "ერთი წუთი, გთხოვთ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113467"
+    },
+    {
+      "english": "I'll be there soon.",
+      "georgian": "მალე მოვალ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113469"
+    },
+    {
+      "english": "Are you free now?",
+      "georgian": "ახლა თავისუფალი ხარ?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113471"
+    },
+    {
+      "english": "I'll send you a message.",
+      "georgian": "შეტყობინებას გამოგიგზავნი.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113473"
+    },
+    {
+      "english": "Call me when you arrive.",
+      "georgian": "როცა ჩამოხვალ, დამირეკე.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113475"
+    },
+    {
+      "english": "I'm having connection issues.",
+      "georgian": "კავშირთან პრობლემა მაქვს.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113477"
+    },
+    {
+      "english": "What's your number again?",
+      "georgian": "შენი ნომერი კიდევ რა იყო?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113479"
+    },
+    {
+      "english": "Let's talk later.",
+      "georgian": "მოგვიანებით ვისაუბროთ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113481"
+    },
+    {
+      "english": "What are you doing, my dear?",
+      "georgian": "რას შვრები, ჩემო ძვირფასო?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113483"
+    },
+    {
+      "english": "Can I interrupt you for a second?",
+      "georgian": "შემიძლია წამით შეგაწყვეტინო?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113488"
+    },
+    {
+      "english": "What's on your mind, darling?",
+      "georgian": "რა გაწუხებს, საყვარელო?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113490"
+    },
+    {
+      "english": "Thinking of me, perhaps?",
+      "georgian": "ჩემზე ფიქრობ, ალბათ?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113493"
+    },
+    {
+      "english": "Did you miss my call, sweetheart?",
+      "georgian": "გამოგრჩა ჩემი ზარი, საყვარელო?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113495"
+    },
+    {
+      "english": "What's the latest news, my love?",
+      "georgian": "რა ხდება ახალი, ჩემო სიყვარულო?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113498"
+    },
+    {
+      "english": "Tell me something interesting, please.",
+      "georgian": "მითხარი რამე საინტერესო, გთხოვ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113500"
+    },
+    {
+      "english": "Why the silence, my handsome one?",
+      "georgian": "რატომ დუმიხარ, ჩემო ლამაზო?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113503"
+    },
+    {
+      "english": "Are you playing hard to get?",
+      "georgian": "თავს ისე ართმევ, თითქოს გაგიჭირდეს?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113505"
+    },
+    {
+      "english": "Is your day going well, dear?",
+      "georgian": "კარგად მიდის შენი დღე, ძვირფასო?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113507"
+    },
+    {
+      "english": "I was hoping to hear from you.",
+      "georgian": "იმედი მქონდა, რომ დაგირეკავდი.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113509"
+    },
+    {
+      "english": "What are your plans for tonight?",
+      "georgian": "რა გეგმები გაქვს დღევანდელი საღამოსთვის?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113511"
+    },
+    {
+      "english": "I need your opinion on something.",
+      "georgian": "შენი აზრი მჭირდება რაღაცაზე.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113513"
+    },
+    {
+      "english": "What's your favorite thing today?",
+      "georgian": "რა არის შენი ფავორიტი დღეს?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113516"
+    },
+    {
+      "english": "Are you thinking about me too?",
+      "georgian": "შენც ჩემზე ფიქრობ?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113518"
+    },
+    {
+      "english": "What's the signal like there?",
+      "georgian": "როგორი სიგნალია მანდ?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113524"
+    },
+    {
+      "english": "What's your current mood, darling?",
+      "georgian": "რა განწყობაზე ხარ ახლა, საყვარელო?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113526"
+    },
+    {
+      "english": "Is everything okay with you?",
+      "georgian": "ყველაფერი რიგზეა შენთან?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113528"
+    },
+    {
+      "english": "Can you hear the background noise?",
+      "georgian": "გესმის ფონის ხმაური?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113530"
+    },
+    {
+      "english": "What do you want to talk about?",
+      "georgian": "რაზე გინდა საუბარი?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113532"
+    },
+    {
+      "english": "Are you busy with something important?",
+      "georgian": "მნიშვნელოვან საქმეში ხარ დაკავებული?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113534"
+    },
+    {
+      "english": "What's your favorite emoji right now?",
+      "georgian": "რა არის შენი საყვარელი ემოჯი ახლა?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113536"
+    },
+    {
+      "english": "Tell me a secret, if you dare.",
+      "georgian": "მითხარი საიდუმლო, თუ გაბედავ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113538"
+    },
+    {
+      "english": "What's the most exciting thing today?",
+      "georgian": "რა არის ყველაზე ამაღელვებელი დღეს?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113542"
+    },
+    {
+      "english": "Are you ready for our talk?",
+      "georgian": "მზად ხარ ჩვენი საუბრისთვის?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113544"
+    },
+    {
+      "english": "Keep pushing forward, you're strong.",
+      "georgian": "წინ წაიწიე, შენ ძლიერი ხარ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113547"
+    },
+    {
+      "english": "Amazing progress, truly impressed!",
+      "georgian": "საოცარი წინსვლა, მართლა გაოცებული ვარ!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113549"
+    },
+    {
+      "english": "Your effort shows, well done!",
+      "georgian": "შენი ძალისხმევა ჩანს, კარგად ხარ!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113551"
+    },
+    {
+      "english": "Stay positive, brighter days await.",
+      "georgian": "პოზიტიურად იყავი, ნათელი დღეები გელოდება.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113553"
+    },
+    {
+      "english": "Sending good vibes your way.",
+      "georgian": "სიკეთეს გგზავნი შენკენ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113555"
+    },
+    {
+      "english": "Never doubt your abilities.",
+      "georgian": "შენი შესაძლებლობების არასდროს ეჭვი შეიტანო.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113558"
+    },
+    {
+      "english": "That's brilliant, what a thought!",
+      "georgian": "ეს ბრწყინვალეა, რა აზრია!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113560"
+    },
+    {
+      "english": "You're a star, shining bright.",
+      "georgian": "შენ ვარსკვლავი ხარ, კაშკაშებ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113562"
+    },
+    {
+      "english": "Every step counts, keep going.",
+      "georgian": "ყოველი ნაბიჯი მნიშვნელოვანია, გააგრძელე.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113564"
+    },
+    {
+      "english": "You handle things so well.",
+      "georgian": "ყველაფერს ასე კარგად უმკლავდები.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113566"
+    },
+    {
+      "english": "Your positivity is infectious.",
+      "georgian": "შენი პოზიტიურობა გადამდებია.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113569"
+    },
+    {
+      "english": "That's a fantastic idea!",
+      "georgian": "ეს შესანიშნავი იდეაა!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113571"
+    },
+    {
+      "english": "You're making great strides.",
+      "georgian": "დიდ ნაბიჯებს დგამ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113573"
+    },
+    {
+      "english": "Keep that spirit alive!",
+      "georgian": "შეინარჩუნე ეს სული!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113575"
+    },
+    {
+      "english": "Embrace the challenge, you can.",
+      "georgian": "გაუძელი გამოწვევას, შეგიძლია.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113577"
+    },
+    {
+      "english": "Your hard work will pay off.",
+      "georgian": "შენი შრომა ანაზღაურდება.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113579"
+    },
+    {
+      "english": "Stay focused, almost there.",
+      "georgian": "ფოკუსირებული იყავი, თითქმის იქ ხარ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113582"
+    },
+    {
+      "english": "You inspire me, honestly.",
+      "georgian": "შენ მე შთამაგონებ, გულწრფელად.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113584"
+    },
+    {
+      "english": "Keep believing, it's working.",
+      "georgian": "გააგრძელე რწმენა, მუშაობს.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113586"
+    },
+    {
+      "english": "You're a true gem.",
+      "georgian": "ნამდვილი საგანძური ხარ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113593"
+    },
+    {
+      "english": "That's excellent news!",
+      "georgian": "ეს შესანიშნავი ამბავია!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113596"
+    },
+    {
+      "english": "Your resilience is admirable.",
+      "georgian": "შენი გამძლეობა აღფრთოვანებას იწვევს.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113598"
+    },
+    {
+      "english": "You make things happen.",
+      "georgian": "შენ საქმეებს აკეთებ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113600"
+    },
+    {
+      "english": "Keep up the fantastic work!",
+      "georgian": "განაგრძე შესანიშნავი მუშაობა!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113601"
+    },
+    {
+      "english": "Hello, friend, what's up?",
+      "georgian": "გამარჯობა მეგობარო, რა ხდება?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113604"
+    },
+    {
+      "english": "Just calling to say hi.",
+      "georgian": "დაგირეკე, რომ მოგესალმო.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113606"
+    },
+    {
+      "english": "Can you talk now, briefly?",
+      "georgian": "შეგიძლია ახლა, მოკლედ ისაუბრო?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113608"
+    },
+    {
+      "english": "My signal is bad here.",
+      "georgian": "ჩემი სიგნალი აქ ცუდია.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113610"
+    },
+    {
+      "english": "Let's catch up soon, okay?",
+      "georgian": "მალე შევხვდეთ, ხომ?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113612"
+    },
+    {
+      "english": "I'm a bit tied up.",
+      "georgian": "ცოტა საქმეები მაქვს.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113614"
+    },
+    {
+      "english": "Call me back when free.",
+      "georgian": "დამირეკე, როცა თავისუფალი იქნები.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113618"
+    },
+    {
+      "english": "Are you on your way?",
+      "georgian": "გზაში ხარ?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113620"
+    },
+    {
+      "english": "Don't hang up, please.",
+      "georgian": "არ გათიშო, გთხოვ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113622"
+    },
+    {
+      "english": "I'll text you later.",
+      "georgian": "მოგვიანებით მოგწერ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113623"
+    },
+    {
+      "english": "The line is busy now.",
+      "georgian": "ხაზი დაკავებულია ახლა.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113625"
+    },
+    {
+      "english": "Lost connection, again.",
+      "georgian": "კავშირი გაწყდა, ისევ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113627"
+    },
+    {
+      "english": "Send me the location.",
+      "georgian": "გამომიგზავნე ლოკაცია.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113629"
+    },
+    {
+      "english": "Is your phone charged?",
+      "georgian": "დამუხტულია შენი ტელეფონი?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113631"
+    },
+    {
+      "english": "I'm on mute, sorry.",
+      "georgian": "დამუნჯებული ვარ, ბოდიში.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113634"
+    },
+    {
+      "english": "I'm out of battery.",
+      "georgian": "ბატარეა მეწურება.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113636"
+    },
+    {
+      "english": "What's happening there?",
+      "georgian": "რა ხდება იქ?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113638"
+    },
+    {
+      "english": "Leave a voicemail, please.",
+      "georgian": "დატოვე ხმოვანი შეტყობინება, გთხოვ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113640"
+    },
+    {
+      "english": "The call dropped unexpectedly.",
+      "georgian": "ზარი მოულოდნელად გაითიშა.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113642"
+    },
+    {
+      "english": "Is this a wrong number?",
+      "georgian": "ეს არასწორი ნომერია?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113644"
+    },
+    {
+      "english": "Just checking in briefly.",
+      "georgian": "მხოლოდ მოკლედ გიკითხავ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113648"
+    },
+    {
+      "english": "Talk soon, bye!",
+      "georgian": "მალე ვისაუბროთ, ნახვამდის!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113650"
+    },
+    {
+      "english": "Are you online now?",
+      "georgian": "ახლა ონლაინ ხარ?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113652"
+    },
+    {
+      "english": "Send me a quick message.",
+      "georgian": "მომწერე სწრაფი შეტყობინება.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113654"
+    },
+    {
+      "english": "What is your current status?",
+      "georgian": "რა არის შენი ახლანდელი მდგომარეობა?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113656"
+    },
+    {
+      "english": "I'll be there in five.",
+      "georgian": "ხუთში ვიქნები მანდ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113658"
+    },
+    {
+      "english": "Do you have signal now?",
+      "georgian": "ახლა სიგნალი გაქვს?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113660"
+    },
+    {
+      "english": "My reception is poor, sorry.",
+      "georgian": "კავშირი ცუდი მაქვს, ბოდიში.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113664"
+    },
+    {
+      "english": "What time can you call back?",
+      "georgian": "როდის შეგიძლია დარეკვა?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113666"
+    },
+    {
+      "english": "Is this message urgent?",
+      "georgian": "ეს შეტყობინება გადაუდებელია?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113668"
+    },
+    {
+      "english": "I missed your call, sorry.",
+      "georgian": "შენი ზარი გამომრჩა, ბოდიში.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113671"
+    },
+    {
+      "english": "I'm in a meeting, briefly.",
+      "georgian": "შეხვედრაზე ვარ, მოკლედ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113673"
+    },
+    {
+      "english": "I'm having trouble connecting.",
+      "georgian": "კავშირის პრობლემა მაქვს.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113675"
+    },
+    {
+      "english": "Please mute your microphone.",
+      "georgian": "გთხოვ, გამორთე მიკროფონი.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113677"
+    },
+    {
+      "english": "Is this a landline number?",
+      "georgian": "ეს სახლის ნომერია?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113679"
+    },
+    {
+      "english": "I'll send a text right away.",
+      "georgian": "მაგას ტექსტად მოგწერთ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113681"
+    },
+    {
+      "english": "The call quality is poor.",
+      "georgian": "კავშირი უხარისხოა.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113683"
+    },
+    {
+      "english": "Let's switch to video call.",
+      "georgian": "ვიდეო ზარზე გადავიდეთ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113685"
+    },
+    {
+      "english": "Can you confirm receipt?",
+      "georgian": "დაადასტურებ მიღებას?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113689"
+    },
+    {
+      "english": "I'm having network issues.",
+      "georgian": "ქსელური პრობლემები მაქვს.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113691"
+    },
+    {
+      "english": "Please save this contact.",
+      "georgian": "ეს ნომერი შეინახე.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113692"
+    },
+    {
+      "english": "I'm currently driving now.",
+      "georgian": "ახლა მანქანას ვატარებ.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-02T10:17:49.113694"
     }
   ],
-  "last_updated": "2026-11-01T09:55:06.974535"
+  "last_updated": "2026-11-02T10:17:49.113696"
 }
