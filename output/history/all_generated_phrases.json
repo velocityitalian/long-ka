@@ -11519,7 +11519,727 @@
       "georgian": "ახლა მანქანას ვატარებ.",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-11-02T10:17:49.113694"
+    },
+    {
+      "english": "Excuse me, where is the nearest bus stop?",
+      "georgian": "მაპატიეთ, სად არის უახლოესი ავტობუსის გაჩერება?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.622963"
+    },
+    {
+      "english": "Hi, can you help me find this place?",
+      "georgian": "გამარჯობა, შეგიძლიათ დამეხმაროთ აქამდე მისვლაში?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.622977"
+    },
+    {
+      "english": "Sorry, do you know where the bank is?",
+      "georgian": "მაპატიეთ, იცით ბანკი სად არის?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.622981"
+    },
+    {
+      "english": "Quick question, how do I get downtown?",
+      "georgian": "ერთი კითხვა, როგორ მივიდე ქალაქის ცენტრში?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.622984"
+    },
+    {
+      "english": "Thanks! Is it near here, or far?",
+      "georgian": "გმადლობთ! აქ ახლოსაა, თუ შორსაა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.622986"
+    },
+    {
+      "english": "Excuse me, which way is the pharmacy?",
+      "georgian": "მაპატიეთ, რომელი გზაა აფთიაქისკენ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.622989"
+    },
+    {
+      "english": "Sorry, I’m lost, where should I go?",
+      "georgian": "მაპატიეთ, დავიკარგე, სად უნდა წავიდე?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.622995"
+    },
+    {
+      "english": "Can you say it again, slowly please?",
+      "georgian": "შეგიძლიათ ისევ გაიმეოროთ, ნელა, გთხოვთ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623002"
+    },
+    {
+      "english": "Great, so it’s straight ahead, right?",
+      "georgian": "კარგია, პირდაპირ ხომ მიდის, არა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623006"
+    },
+    {
+      "english": "Wait, what street is that called?",
+      "georgian": "მოიცადეთ, რა ქუჩას ჰქვია?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623009"
+    },
+    {
+      "english": "I mean the red building, is it close?",
+      "georgian": "ანუ წითელი შენობა, ახლოა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623011"
+    },
+    {
+      "english": "Do I go left, or right, at the corner?",
+      "georgian": "მარცხნივ წავიდე, თუ მარჯვნივ, კუთხეში?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623013"
+    },
+    {
+      "english": "Can I walk there, or should I take a taxi?",
+      "georgian": "იქ ფეხით წავიდე, თუ ტაქსი ჯობს?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623015"
+    },
+    {
+      "english": "How long does it take from here?",
+      "georgian": "აქედან რამდენ ხანშია?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623017"
+    },
+    {
+      "english": "Is there a landmark nearby, for example a church?",
+      "georgian": "ახლოს რაიმე ნიშნული ხომ არ არის, მაგალითად ეკლესია?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623020"
+    },
+    {
+      "english": "Oh, okay, thanks a lot, I understand.",
+      "georgian": "ოო, კარგი, დიდი მადლობა, მივხვდი.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623025"
+    },
+    {
+      "english": "Sorry, what did you say, exactly?",
+      "georgian": "მაპატიეთ, რას ამბობთ, ზუსტად?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623028"
+    },
+    {
+      "english": "Where’s the nearest metro station, please?",
+      "georgian": "სად არის უახლოესი მეტროსადგური?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623030"
+    },
+    {
+      "english": "I’m just looking for the street name.",
+      "georgian": "უბრალოდ ქუჩის სახელი მინდა.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623033"
+    },
+    {
+      "english": "That’s helpful, thanks! Is it the second turn?",
+      "georgian": "ეს მეხმარება, მადლობა! მეორე მოხვევაა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623036"
+    },
+    {
+      "english": "Can I get directions to this address?",
+      "georgian": "ამ მისამართამდე როგორ მივიდე?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623039"
+    },
+    {
+      "english": "I need to go there now, is it close?",
+      "georgian": "ახლავე უნდა წავიდე, ახლოსაა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623041"
+    },
+    {
+      "english": "Excuse me, is this the right way?",
+      "georgian": "მაპატიეთ, ეს არის სწორი გზა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623043"
+    },
+    {
+      "english": "Okay, I’ll follow you, for a minute.",
+      "georgian": "კარგი, ერთი წუთით მოგყვებით.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623046"
+    },
+    {
+      "english": "Are we near yet, or not yet?",
+      "georgian": "უკვე ახლოს ვართ, თუ ჯერ არა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623048"
+    },
+    {
+      "english": "Wow, that’s far, is there a shortcut?",
+      "georgian": "ვაიმე, ეს შორია, არის გზა მოკლე?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623051"
+    },
+    {
+      "english": "Thanks, I’ll remember this, I think.",
+      "georgian": "მადლობა, დავიმახსოვრებ, მგონი.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623054"
+    },
+    {
+      "english": "Can you point there, please, with your hand?",
+      "georgian": "შეგიძლიათ ხელი დამანახვოთ, გთხოვთ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623056"
+    },
+    {
+      "english": "One last thing, what time is it there?",
+      "georgian": "ბოლოს ერთი რამ, რა საათია იქ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623058"
+    },
+    {
+      "english": "Which street is this, exactly, in Georgian?",
+      "georgian": "რომელი ქუჩაა ეს, ზუსტად, ქართულად?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623060"
+    },
+    {
+      "english": "Is there a sign for this station nearby?",
+      "georgian": "აქვე არის თუ არა ამ სადგურის ნიშანი?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623063"
+    },
+    {
+      "english": "How do locals usually get there from here?",
+      "georgian": "როგორ მიდიან აქედან იქ ადგილობრივები?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623065"
+    },
+    {
+      "english": "What’s the easiest route to the center?",
+      "georgian": "რა არის ყველაზე მარტივი გზა ცენტრისკენ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623067"
+    },
+    {
+      "english": "Can you tell me the quickest option, please?",
+      "georgian": "მითხარით, გთხოვთ, რა არის ყველაზე სწრაფი ვარიანტი?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623070"
+    },
+    {
+      "english": "Should I take the stairs, or the elevator?",
+      "georgian": "კიბეებს ავიღო, თუ ლიფტს?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623072"
+    },
+    {
+      "english": "Is this the bus that goes past the museum?",
+      "georgian": "ეს ავტობუსია, რომელიც მუზეუმთან ჩადის?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623074"
+    },
+    {
+      "english": "Which stop should I get off at?",
+      "georgian": "რომელ გაჩერებაზე უნდა ჩამოვიდე?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623076"
+    },
+    {
+      "english": "Do I need to transfer, or ride direct?",
+      "georgian": "გადაჯდომა ხომ არ დამჭირდება, პირდაპირ ხომ არ წავა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623078"
+    },
+    {
+      "english": "What direction is it, toward the river?",
+      "georgian": "რომელი მხარესაა, მდინარისკენ ხომ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623083"
+    },
+    {
+      "english": "Is it better to walk, or to take a ride?",
+      "georgian": "ჯობია ფეხით წავიდე, თუ მანქანით?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623085"
+    },
+    {
+      "english": "Where can I catch a taxi from here?",
+      "georgian": "საიდან ავიღო ტაქსი აქედან?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623087"
+    },
+    {
+      "english": "How many minutes is it from your place?",
+      "georgian": "რამდენ წუთშია, თქვენი ადგილიდან?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623089"
+    },
+    {
+      "english": "Is it on this street, or the next one?",
+      "georgian": "ამ ქუჩაზეა, თუ შემდეგ ქუჩაზე?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623091"
+    },
+    {
+      "english": "Do I stay on this road the whole way?",
+      "georgian": "მთელი გზით ამ გზაზე უნდა დავრჩე?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623093"
+    },
+    {
+      "english": "What’s the best landmark to look for?",
+      "georgian": "რომელი ცნობილი ადგილი ჯობს, რომ ვნახო?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623095"
+    },
+    {
+      "english": "Could you show me on the map, quickly?",
+      "georgian": "შეგიძლიათ სწრაფად მაჩვენოთ რუკაზე?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623097"
+    },
+    {
+      "english": "Is there a safe entrance from this side?",
+      "georgian": "ამ მხრიდან შესასვლელი ხომ არ არის?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623099"
+    },
+    {
+      "english": "If I miss it, what’s my backup plan?",
+      "georgian": "თუ გამომრჩა, რა არის ჩემი სარეზერვო გეგმა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623101"
+    },
+    {
+      "english": "Is it close enough to walk comfortably?",
+      "georgian": "ძალიან შორს ხომ არ არის, ფეხით ხომ გამოვა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623103"
+    },
+    {
+      "english": "What time does this route usually run?",
+      "georgian": "ამ მარშრუტს ჩვეულებრივ რა საათამდე აქვს მოძრაობა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623106"
+    },
+    {
+      "english": "Do you know if it’s open today?",
+      "georgian": "იცი, დღეს ღიაა თუ არა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623110"
+    },
+    {
+      "english": "How do I reach it by public transport?",
+      "georgian": "როგორ მივიდე იქ საზოგადოებრივი ტრანსპორტით?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623112"
+    },
+    {
+      "english": "Is there a shortcut through that alley?",
+      "georgian": "იმ ჩიხში ხომ არ არის მოკლე გზა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623114"
+    },
+    {
+      "english": "Which landmark is closest, the park or church?",
+      "georgian": "რომელია უფრო ახლოს, პარკი თუ ეკლესია?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623116"
+    },
+    {
+      "english": "Can I use my Google Maps here?",
+      "georgian": "აქ Google Maps მუშაობს ხომ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623118"
+    },
+    {
+      "english": "Where should I turn to get there faster?",
+      "georgian": "სად უნდა შევუარო, რომ უფრო მალე მივიდე?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623120"
+    },
+    {
+      "english": "If I follow this road, I’ll be okay, right?",
+      "georgian": "თუ ამ გზას მივყვები, კარგად ვიქნები, ხომ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623125"
+    },
+    {
+      "english": "What’s the next big intersection nearby?",
+      "georgian": "აქვე რა არის შემდეგი დიდი კვეთა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623128"
+    },
+    {
+      "english": "Do you mind repeating, but slower this time?",
+      "georgian": "შეგიძლია გამიმეორო, ამჯერად ცოტა ნელა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623132"
+    },
+    {
+      "english": "Stay calm, ask clearly, you’ll get there fast.",
+      "georgian": "დამშვიდდი, ნათლად იკითხე, სწრაფად მიხვალ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623135"
+    },
+    {
+      "english": "You’ve got this, one turn at a time.",
+      "georgian": "შენ შეგიძლია, ერთი მოსახვევი ერთდროულად.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623137"
+    },
+    {
+      "english": "Perfect, I’ll listen, then I’ll follow safely.",
+      "georgian": "სუპერ, მოვუსმენ, მერე უსაფრთხოდ მივყვები.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623141"
+    },
+    {
+      "english": "Mindset matters, directions get easier every try.",
+      "georgian": "განწყობა მნიშვნელოვანია, მიმართულებები ყოველ ჯერზე იოლდება.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623143"
+    },
+    {
+      "english": "Thanks again, your help makes me confident.",
+      "georgian": "კიდევ ერთხელ, შენი დახმარება მმატებს თავდაჯერებას.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623146"
+    },
+    {
+      "english": "I can do this, just need the route.",
+      "georgian": "მე შევძლებ, უბრალოდ მჭირდება მარშრუტი.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623148"
+    },
+    {
+      "english": "Small steps, big progress, tell me nearby options.",
+      "georgian": "პატარა ნაბიჯები, დიდი წინსვლა, მითხარი ახლომდებარე ვარიანტები.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623150"
+    },
+    {
+      "english": "Great, I’m learning fast, show me how.",
+      "georgian": "კარგია, სწრაფად ვსწავლობ, მაჩვენე როგორ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623153"
+    },
+    {
+      "english": "Ask, pause, check, then move—easy.",
+      "georgian": "იკითხე, გაჩერდი, გადაამოწმე, მერე მიდი—მარტივია.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623157"
+    },
+    {
+      "english": "I appreciate you, I’ll remember this clearly.",
+      "georgian": "გმადლობ, ზუსტად მახსოვს ეს.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623160"
+    },
+    {
+      "english": "No worries, I’ll confirm the turn before walking.",
+      "georgian": "არ ინერვიულო, შევამოწმებ მოსახვევს სანამ წავალ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623163"
+    },
+    {
+      "english": "Positive energy, tell me the simplest way, please.",
+      "georgian": "პოზიტივი მაქვს, მითხარი ყველაზე მარტივი გზა.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623167"
+    },
+    {
+      "english": "You’re a lifesaver, what’s the easiest landmark?",
+      "georgian": "სიცოცხლის გადამრჩენელი ხარ, რომელი ლოკაციაა ყველაზე მარტივი?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623170"
+    },
+    {
+      "english": "I’m not lost, I’m learning—help me pinpoint it.",
+      "georgian": "არ ვარ დაკარგული, ვსწავლობ—დამეხმარე ზუსტად მოვძებნო.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623173"
+    },
+    {
+      "english": "Cool, I’ll stay on track, what comes next?",
+      "georgian": "კარგი, სწორ გზას მივყვები, რა იქნება შემდეგ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623176"
+    },
+    {
+      "english": "You’ve got great directions, I’m ready to go.",
+      "georgian": "შენ კარგი მიმართულებები გაქვს, მზად ვარ წავიდე.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623179"
+    },
+    {
+      "english": "Confidence boost, can you repeat the key point?",
+      "georgian": "თავდაჯერება მომემატა, გაიმეორე ძირითადი ნაწილი?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623181"
+    },
+    {
+      "english": "Good vibes, where’s the best place to start?",
+      "georgian": "კარგი განწყობა, სად არის საუკეთესო ადგილი დასაწყებად?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623184"
+    },
+    {
+      "english": "I’m grateful, I’ll take it step by step.",
+      "georgian": "მადლობელი ვარ, ნაბიჯ-ნაბიჯ გავაკეთებ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623187"
+    },
+    {
+      "english": "Trust your guidance, I’m listening carefully.",
+      "georgian": "ენდეთ თქვენს რჩევას, მე ყურადღებით ვუსმენ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623189"
+    },
+    {
+      "english": "Great tip, I’ll use that landmark wisely.",
+      "georgian": "საუკეთესო რჩევაა, მე ამ ლოკაციას გონივრულად გამოვიყენებ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623193"
+    },
+    {
+      "english": "Stay curious, what’s the quickest turn here?",
+      "georgian": "იყავი გულწრფელი ცნობისმოყვარე, აქ რა არის ყველაზე სწრაფი მოსახვევი?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623195"
+    },
+    {
+      "english": "You’re doing great, just point me clearly.",
+      "georgian": "შენ კარგად აკეთებ, უბრალოდ ნათლად მიმითითე.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623198"
+    },
+    {
+      "english": "I’ll double-check, then I’ll walk with confidence.",
+      "georgian": "ორჯერ დავამოწმებ, მერე თავდაჯერებით ვივლი.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623201"
+    },
+    {
+      "english": "Hope helps, tell me the direction, please.",
+      "georgian": "იმედი მეხმარება, მითხარი მიმართულება, გთხოვ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623203"
+    },
+    {
+      "english": "Thank you, I’ll keep a calm pace now.",
+      "georgian": "გმადლობ, ახლა მშვიდ ტემპს შევინარჩუნებ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623206"
+    },
+    {
+      "english": "Learning is progress, which street should I take?",
+      "georgian": "სწავლა პროგრესია, რომელი ქუჩა უნდა ავიღო?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623208"
+    },
+    {
+      "english": "Keep it simple, what’s the next step for me?",
+      "georgian": "გამარტივე, რა არის ჩემი შემდეგი ნაბიჯი?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623211"
+    },
+    {
+      "english": "I’m ready, tell me where to turn right.",
+      "georgian": "მზად ვარ, მითხარი სად შევმოვბრუნდე მარჯვნივ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623213"
+    },
+    {
+      "english": "You’ve got me, I’ll get there with ease.",
+      "georgian": "შენ მომიგვარებ, მარტივად მივალ იქამდე.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623216"
+    },
+    {
+      "english": "I’m nervous, can you guide me slowly, please?",
+      "georgian": "მეშინია, ნელა გამაგებინეთ, გთხოვთ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623219"
+    },
+    {
+      "english": "I’m not in a rush, tell me the calm way.",
+      "georgian": "ჩქარობაში არა ვარ, მშვიდად მითხარით გზა.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623222"
+    },
+    {
+      "english": "I really want to get it right, where turn?",
+      "georgian": "ძალიან მინდა სწორად გავიგო, სად გადავუხვიო?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623224"
+    },
+    {
+      "english": "I’m trying to learn, can you say it twice?",
+      "georgian": "ვისწავლი, მომიყევით ორჯერ, გთხოვთ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623227"
+    },
+    {
+      "english": "Take your time, I’m listening carefully, okay?",
+      "georgian": "დრო მოგვეცით, ყურადღებით ვუსმენ, ხომ ასეა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623230"
+    },
+    {
+      "english": "I’m a bit unsure, what’s the simplest route?",
+      "georgian": "ოდნავ არ ვარ დარწმუნებული, რა არის ყველაზე მარტივი გზა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623233"
+    },
+    {
+      "english": "Honestly, I get confused here, help me.",
+      "georgian": "მართლა მიჭირს აქ, დამეხმარეთ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623236"
+    },
+    {
+      "english": "Please be clear, I don’t want mistakes.",
+      "georgian": "გთხოვთ ზუსტად მითხარით, შეცდომა არ მინდა.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623239"
+    },
+    {
+      "english": "I’m focused on directions, point me step by step.",
+      "georgian": "მიმყავს გზა, მიმითითეთ ნაბიჯ-ნაბიჯ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623243"
+    },
+    {
+      "english": "I’m thinking, where’s the safest way through?",
+      "georgian": "ვფიქრობ, სად არის ყველაზე უსაფრთხო გზა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623246"
+    },
+    {
+      "english": "I want a real answer, not vague directions.",
+      "georgian": "ნამდვილი პასუხი მინდა, არა ბუნდოვანი მიმართულება.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623248"
+    },
+    {
+      "english": "I’m calm, just tell me what comes next.",
+      "georgian": "მშვიდად ვარ, უბრალოდ მითხარით შემდეგი.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623251"
+    },
+    {
+      "english": "My brain’s busy, can you simplify it for me?",
+      "georgian": "თავი მიჭირს, გამარტივეთ ჩემთვის, გთხოვთ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623254"
+    },
+    {
+      "english": "I’m learning slowly, which way is really correct?",
+      "georgian": "ნელა ვსწავლობ, რომელი მხარეა ნამდვილად სწორი?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623260"
+    },
+    {
+      "english": "I’m okay with walking, just give directions kindly.",
+      "georgian": "სიარულს ვერს ვუშვები, უბრალოდ კეთილად მითხარით გზა.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623263"
+    },
+    {
+      "english": "I feel lost, but I’m trying, where to go?",
+      "georgian": "დავიბენი, მაგრამ ვცდილობ, სად წავიდე?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623266"
+    },
+    {
+      "english": "Please repeat the关键 part, I’m still processing.",
+      "georgian": "გთხოვთ გაიმეორეთ მთავარი ნაწილი, ჯერ ვეწყობი.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623270"
+    },
+    {
+      "english": "I don’t want to bother you, but I need help.",
+      "georgian": "არ მინდა შეგაწუხოთ, მაგრამ დახმარება მჭირდება.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623272"
+    },
+    {
+      "english": "If I pause, will you wait, then tell me?",
+      "georgian": "თუ შევჩერდები, მომიცდით და მერე მითხრათ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623275"
+    },
+    {
+      "english": "I’m trying to stay confident, what’s the turning point?",
+      "georgian": "მინდა თავდაჯერებული ვიყო, სად არის საკვანძო შემობრუნება?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623278"
+    },
+    {
+      "english": "I’m honest, I keep missing the exits, which one?",
+      "georgian": "მართალი ვარ, ყოველთვის ვერ ვპოულობ გასასვლელს, რომელი?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623281"
+    },
+    {
+      "english": "I’ll remember this, just tell me the big landmark.",
+      "georgian": "დამამახსოვრდება, უბრალოდ ერთ მთავარ ობიექტს მითხარით.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623284"
+    },
+    {
+      "english": "I want to feel sure, can you point the street name?",
+      "georgian": "დარწმუნებული მინდა ვიყო, მომანიშნეთ ქუჩის სახელი.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623286"
+    },
+    {
+      "english": "I’m a little anxious, what direction is it from here?",
+      "georgian": "ცოტა ვნერვიულობ, აქედან რომელი მიმართულებაა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623289"
+    },
+    {
+      "english": "Just a feeling, but is it straight from here?",
+      "georgian": "როგორც ვხვდები, აქედან პირდაპირ მიდის?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623291"
+    },
+    {
+      "english": "I’ll take it step by step, what’s the first move?",
+      "georgian": "ნაბიჯ-ნაბიჯ ავალ, რა არის პირველი ნაბიჯი?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623294"
+    },
+    {
+      "english": "Please don’t rush, I want to understand, not just copy.",
+      "georgian": "არ იჩქაროთ, მინდა გავიგო, არა უბრალოდ გავიმეორო.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623299"
+    },
+    {
+      "english": "I’m reflecting, the right path should make sense—where?",
+      "georgian": "ვეფიქრები, სწორი გზა ლოგიკურია—სადაა?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623311"
+    },
+    {
+      "english": "I trust you, but tell me one clear direction, please.",
+      "georgian": "გენდობი, მაგრამ ერთი ნათელი მიმართულება მითხარი, გთხოვთ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623313"
+    },
+    {
+      "english": "Which street leads to the city center?",
+      "georgian": "რომელი ქუჩა მიდის ქალაქის ცენტრამდე?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623316"
+    },
+    {
+      "english": "Can you mark it on this map, please?",
+      "georgian": "შეგიძლიათ აქ ამ რუკაზე მონიშნოთ, გთხოვთ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-03T10:19:48.623318"
     }
   ],
-  "last_updated": "2026-11-02T10:17:49.113696"
+  "last_updated": "2026-11-03T10:19:48.623320"
 }
