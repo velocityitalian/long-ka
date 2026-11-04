@@ -12239,7 +12239,727 @@
       "georgian": "შეგიძლიათ აქ ამ რუკაზე მონიშნოთ, გთხოვთ?",
       "category": "Asking for Directions",
       "generated_at": "2026-11-03T10:19:48.623318"
+    },
+    {
+      "english": "I’m happy, finally, it’s working out.",
+      "georgian": "გახარებული ვარ, ბოლოს და ბოლოს, გამოგვივიდა.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951612"
+    },
+    {
+      "english": "Good news, I feel lighter today.",
+      "georgian": "კარგი ამბავი, დღეს უფრო მსუბუქად ვარ.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951626"
+    },
+    {
+      "english": "That made me smile, right away.",
+      "georgian": "ეს მაშინვე გამიღიმა, მართლა.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951630"
+    },
+    {
+      "english": "No worries, we’ll handle it together.",
+      "georgian": "არაფერი სანერვიულო, ერთად მოვაგვარებთ.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951634"
+    },
+    {
+      "english": "I’m in a good mood, truly.",
+      "georgian": "კარგ ხასიათზე ვარ, მართლა.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951637"
+    },
+    {
+      "english": "Feels great, I needed this.",
+      "georgian": "ძალიან კარგია, ეს მჭირდებოდა.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951640"
+    },
+    {
+      "english": "Nice, that’s exactly what I wanted.",
+      "georgian": "კარგია, ზუსტად ეს მინდოდა.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951644"
+    },
+    {
+      "english": "I’m proud of you, keep going.",
+      "georgian": "ამაყი ვარ შენით, გააგრძელე.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951650"
+    },
+    {
+      "english": "Let’s celebrate, even if it’s small.",
+      "georgian": "ვიზეიმოთ, თუნდაც პატარა მიზეზით.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951654"
+    },
+    {
+      "english": "I’m grateful, thank you for helping.",
+      "georgian": "მადლობელი ვარ, დამეხმარე.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951658"
+    },
+    {
+      "english": "Everything’s okay, breathe, relax.",
+      "georgian": "ყველაფერი კარგადაა, სუნთქე, მოდუნდი.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951661"
+    },
+    {
+      "english": "You got this, don’t doubt yourself.",
+      "georgian": "შენ შეძლებ, ნუ იეჭვიანებ.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951665"
+    },
+    {
+      "english": "I’m so relieved, it’s over now.",
+      "georgian": "ძალიან დამშვიდდა, ახლა დასრულდა.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951668"
+    },
+    {
+      "english": "Wait, that’s amazing, seriously!",
+      "georgian": "იცა, ეს საოცარია, სერიოზულად!",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951671"
+    },
+    {
+      "english": "I needed a win today, honestly.",
+      "georgian": "დღეს გამარჯვება მჭირდებოდა, გულწრფელად.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951674"
+    },
+    {
+      "english": "Cheers, this is a great moment.",
+      "georgian": "გაუმარჯოს, ეს შესანიშნავი მომენტია.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951677"
+    },
+    {
+      "english": "I feel good, it’s all coming together.",
+      "georgian": "კარგად ვარ, ყველაფერი ერთიანდება.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951680"
+    },
+    {
+      "english": "Lucky me, I found the right place.",
+      "georgian": "იღბლიანი ვარ, სწორ ადგილს მოვხვდი.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951685"
+    },
+    {
+      "english": "It’s a win, simple as that.",
+      "georgian": "გამოგვივიდა, მარტივად.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951689"
+    },
+    {
+      "english": "Let it be, I’m at peace now.",
+      "georgian": "როგორცაა, ახლა მშვიდად ვარ.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951692"
+    },
+    {
+      "english": "That’s heartwarming, I really like this.",
+      "georgian": "გულს მახარებს, ძალიან მომწონს.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951695"
+    },
+    {
+      "english": "Good for you, you deserve it.",
+      "georgian": "კარგია, ამას იმსახურებ.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951698"
+    },
+    {
+      "english": "I’ll take it, that’s progress for me.",
+      "georgian": "ამას ვიღებ, ჩემთვის ეს წინსვლაა.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951701"
+    },
+    {
+      "english": "Happy day, let’s keep the vibe.",
+      "georgian": "ბედნიერი დღეა, მოდი ხასიათი შევინარჩუნოთ.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951704"
+    },
+    {
+      "english": "I’m smiling, things aren’t so bad.",
+      "georgian": "ვიღიმი, ისე ცუდად არაა.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951708"
+    },
+    {
+      "english": "Say that again, I love hearing it.",
+      "georgian": "კიდევ თქვი, მიყვარს რომ მესმის.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951710"
+    },
+    {
+      "english": "You made my day, seriously, thank you.",
+      "georgian": "დღე გამილამაზე, სერიოზულად, მადლობა.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951713"
+    },
+    {
+      "english": "I’m proud, we did it together.",
+      "georgian": "ამაყი ვარ, ერთად მოვახერხეთ.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951717"
+    },
+    {
+      "english": "Right on, that’s a perfect idea.",
+      "georgian": "ზუსტად, იდეა ბრწყინვალეა.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951722"
+    },
+    {
+      "english": "I’m feeling hopeful, tomorrow looks better.",
+      "georgian": "იმედიანი ვარ, ხვალ უკეთესია.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951725"
+    },
+    {
+      "english": "How are you feeling today, honestly?",
+      "georgian": "როგორ ხარ დღეს, მართლა?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951729"
+    },
+    {
+      "english": "What makes you feel calm, quickly?",
+      "georgian": "რა გაწყნარებს სწრაფად, შენ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951734"
+    },
+    {
+      "english": "Can I ask something, real quick?",
+      "georgian": "შემიძლია გკითხო, მართლა მოკლედ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951737"
+    },
+    {
+      "english": "Do you have a happy routine?",
+      "georgian": "გაქვს ბედნიერი რუტინა?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951740"
+    },
+    {
+      "english": "What should I try, for better days?",
+      "georgian": "რას მირჩევ, უკეთესი დღისთვის?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951743"
+    },
+    {
+      "english": "When you stress, what helps you most?",
+      "georgian": "როცა გეშლება, რა გიშველის ყველაზე?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951745"
+    },
+    {
+      "english": "Is it okay if I check in?",
+      "georgian": "კარგია თუ მოგიკითხავ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951748"
+    },
+    {
+      "english": "What’s your go-to thing, when down?",
+      "georgian": "რაზე ეყრდნობი, როცა ცუდად ხარ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951751"
+    },
+    {
+      "english": "How do you keep your mind light?",
+      "georgian": "როგორ ინარჩუნებ მსუბუქ ფიქრებს?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951754"
+    },
+    {
+      "english": "Tell me, what’s working for you?",
+      "georgian": "მითხარი, რა გამოგდის?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951757"
+    },
+    {
+      "english": "Do you want advice, or just listening?",
+      "georgian": "გინდა რჩევა, თუ უბრალოდ მოსმენა?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951760"
+    },
+    {
+      "english": "What’s one small win you had today?",
+      "georgian": "დღეს რა ერთი პატარა გამარჯვება გაქვს?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951763"
+    },
+    {
+      "english": "Where do you find joy, lately?",
+      "georgian": "სად გიპოვებია სიხარული, ბოლოს?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951765"
+    },
+    {
+      "english": "Could we talk, what’s on your mind?",
+      "georgian": "შეგვიძლია ვისაუბროთ, რას ფიქრობ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951769"
+    },
+    {
+      "english": "Do you feel better after a walk?",
+      "georgian": "სასეირნოდან უკეთ ხომ არ ხარ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951771"
+    },
+    {
+      "english": "Which habit makes you feel steady?",
+      "georgian": "რომელი ჩვევა გიჭერს მხარს?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951774"
+    },
+    {
+      "english": "How do you reset, when life hits hard?",
+      "georgian": "როგორ იბრუნებ თავს, როცა გიჭირს?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951776"
+    },
+    {
+      "english": "What’s your comfort food, for moods?",
+      "georgian": "რა არის შენი კომფორტული საჭმელი?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951780"
+    },
+    {
+      "english": "Do you have someone you can call?",
+      "georgian": "გყავს ვინმე, ვისაც დარეკავ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951782"
+    },
+    {
+      "english": "Can you share, what helped you smile?",
+      "georgian": "გაიზიარებ, რამ შეგაყენა ღიმილი?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951785"
+    },
+    {
+      "english": "What do you do first, to feel okay?",
+      "georgian": "რას აკეთებ თავიდან, რომ გიჯობდეს?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951787"
+    },
+    {
+      "english": "Want to plan something fun this week?",
+      "georgian": "გინდა ამ კვირას რამე სახალისო დავგეგმოთ?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951790"
+    },
+    {
+      "english": "How do you celebrate small things, quietly?",
+      "georgian": "როგორ აღნიშნავ პატარა რაღაცებს, მშვიდად?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951793"
+    },
+    {
+      "english": "What’s your favorite way to unwind?",
+      "georgian": "რომელია შენი საყვარელი გზა დასამშვიდებლად?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951796"
+    },
+    {
+      "english": "Do you journal, or talk it out?",
+      "georgian": "წერ დღიურს, თუ უბრალოდ ამ ლაპარაკით?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951800"
+    },
+    {
+      "english": "Can I help, what do you need?",
+      "georgian": "შემიძლია დაგეხმარო, რა გჭირდება?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951803"
+    },
+    {
+      "english": "What’s the kindest thing you can do?",
+      "georgian": "რა არის ყველაზე კეთილი საქმე დღეს?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951806"
+    },
+    {
+      "english": "How can we make this lighter together?",
+      "georgian": "როგორ გავხადოთ ეს უფრო მსუბუქი ერთად?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951809"
+    },
+    {
+      "english": "What advice would you give your friend?",
+      "georgian": "რას ურჩევდი შენს მეგობარს?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951811"
+    },
+    {
+      "english": "Are you ready to try something new?",
+      "georgian": "მზად ხარ რამე ახალი სცადო?",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951814"
+    },
+    {
+      "english": "Keep your chin up, it passes.",
+      "georgian": "თავი მაღლა გეჭიროს, გაივლის.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951817"
+    },
+    {
+      "english": "A little laughter, a big mood.",
+      "georgian": "ცოტა სიცილი, დიდი გუნება.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951820"
+    },
+    {
+      "english": "Don’t worry, God helps.",
+      "georgian": "ნუ ნერვიულობ, ღმერთი გიშველის.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951825"
+    },
+    {
+      "english": "Good things come, just wait a bit.",
+      "georgian": "კარგი ამბავი მოვა, ცოტა მოიცადე.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951830"
+    },
+    {
+      "english": "When it’s dark, hope is a lantern.",
+      "georgian": "როცა ბნელია, იმედი ლამპარია.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951833"
+    },
+    {
+      "english": "Everything works out, step by step.",
+      "georgian": "ყველაფერი გამოსდის, ნელ-ნელა.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951836"
+    },
+    {
+      "english": "Let it go, life moves on.",
+      "georgian": "გაუშვი, ცხოვრება მიდის.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951839"
+    },
+    {
+      "english": "Good vibes only, no negativity.",
+      "georgian": "მხოლოდ კარგი განწყობა, უარყოფა არა.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951841"
+    },
+    {
+      "english": "Count your blessings, not your problems.",
+      "georgian": "დალოცვები დათვალე, პრობლემები არა.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951844"
+    },
+    {
+      "english": "The sun will come out again.",
+      "georgian": "მზე ისევ გამოვა.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951847"
+    },
+    {
+      "english": "Simple joys, real happiness.",
+      "georgian": "უბრალო სიხარულია ნამდვილი ბედნიერება.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951849"
+    },
+    {
+      "english": "Better days are already on the way.",
+      "georgian": "კარგი დღეები გზაშია.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951852"
+    },
+    {
+      "english": "If it’s meant, you’ll get it.",
+      "georgian": "თუ გიწერია, მოგივა.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951855"
+    },
+    {
+      "english": "Take it easy, you’re not late.",
+      "georgian": "არ იჩქარო, არ ხარ გვიან.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951858"
+    },
+    {
+      "english": "Eat well, talk kindly, be happy.",
+      "georgian": "ჭამე კარგად, ილაპარაკე თბილად, ბედნიერდი.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951861"
+    },
+    {
+      "english": "A full heart makes everything better.",
+      "georgian": "სავსე გული ყველაფერს ამჩნევს.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951864"
+    },
+    {
+      "english": "Don’t chase, let it find you.",
+      "georgian": "არ დაედევნო, მოვა თავისით.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951867"
+    },
+    {
+      "english": "Happiness is, when you’re at home.",
+      "georgian": "ბედნიერება ისაა, როცა სახლში ხარ.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951870"
+    },
+    {
+      "english": "Keep the peace, joy stays longer.",
+      "georgian": "მშვიდობა დაიჭირე, სიხარული მეტხანს რჩება.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951873"
+    },
+    {
+      "english": "Small steps, big smiles, every day.",
+      "georgian": "პატარა ნაბიჯები, დიდი ღიმილები, ყოველდღე.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951876"
+    },
+    {
+      "english": "Good luck, everything will settle.",
+      "georgian": "ღმერთმა ხელი მოგიმართოს, ყველაფერი დალაგდება.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951878"
+    },
+    {
+      "english": "Smile first, even if it’s hard.",
+      "georgian": "ჯერ გაიღიმე, მერე ყველაფერი დალაგდება.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951882"
+    },
+    {
+      "english": "Make peace with yesterday, breathe.",
+      "georgian": "გააზავე გუშინდელი, დაისუნთქე.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951884"
+    },
+    {
+      "english": "Let the kettle sing, relax.",
+      "georgian": "ქვაბი თუ მღერის, მოდუნდი.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951887"
+    },
+    {
+      "english": "Dream, but live in the moment.",
+      "georgian": "იოცნებე, მაგრამ აქ და ახლა იცხოვრე.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951901"
+    },
+    {
+      "english": "When you help, you feel light.",
+      "georgian": "როცა ეხმარები, გული მსუბუქდება.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951904"
+    },
+    {
+      "english": "No drama, just breathe and go.",
+      "georgian": "დრამა არა, სუნთქე და მიდი.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951907"
+    },
+    {
+      "english": "Keep going, luck respects effort.",
+      "georgian": "იარე, იღბალი შრომას პატივს სცემს.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951909"
+    },
+    {
+      "english": "Gratitude turns small into great.",
+      "georgian": "მადლობა პატარას დიდად აქცევს.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951912"
+    },
+    {
+      "english": "Hold on, better is around the corner.",
+      "georgian": "გამაგრდი, უკეთესი კუთხეშია.",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951914"
+    },
+    {
+      "english": "I feel happy, even after a hard day",
+      "georgian": "ბედნიერი ვარ, რთული დღეც რომ მიდის",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951917"
+    },
+    {
+      "english": "I’m learning to be honest with joy",
+      "georgian": "ვსწავლობ სიხარულთან გულწრფელად ყოფნას",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951921"
+    },
+    {
+      "english": "Some days calm comes, not fast, but true",
+      "georgian": "ზოგჯერ სიმშვიდე მოდის, არა სწრაფად, მაგრამ ნამდვილი",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951924"
+    },
+    {
+      "english": "I don’t force happiness, I make room",
+      "georgian": "ბედნიერებას არ ვაიძულებ, ადგილს ვუთმობ",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951927"
+    },
+    {
+      "english": "Right now, I choose gentle thoughts",
+      "georgian": "ახლა ვარჩევ ნაზ ფიქრებს",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951932"
+    },
+    {
+      "english": "When I listen, my heart softens",
+      "georgian": "როცა ვუსმენ, გული მიბრკოლდება",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951935"
+    },
+    {
+      "english": "I forgive slowly, and I feel lighter",
+      "georgian": "ვპატიობ ნელა, მერე უფრო მსუბუქად ვგრძნობ",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951940"
+    },
+    {
+      "english": "My peace grows, when I stop comparing",
+      "georgian": "ჩემი სიმშვიდე იზრდება, როცა შევწყვეტ შედარებას",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951945"
+    },
+    {
+      "english": "I’m proud of small wins today, quietly",
+      "georgian": "დღეს ჩუმად პატარა გამარჯვებები მახარებს",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951948"
+    },
+    {
+      "english": "I let my feelings speak, softly",
+      "georgian": "ვუშვებ გრძნობებს ლაპარაკს, ნაზად",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951951"
+    },
+    {
+      "english": "Happiness comes when I take care of me",
+      "georgian": "ბედნიერება მოდის, როცა თავს ვუვლი",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951954"
+    },
+    {
+      "english": "I pause, breathe, then I choose again",
+      "georgian": "ვჩერდები, ვსუნთქავ, მერე თავიდან ვარჩევ",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951957"
+    },
+    {
+      "english": "I don’t need perfect, I need real",
+      "georgian": "სრულყოფილი არ მჭირდება, რეალური მჭირდება",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951960"
+    },
+    {
+      "english": "Even progress feels good, when I notice it",
+      "georgian": "თვით წინსვლაც კარგია, როცა ვამჩნევ",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951963"
+    },
+    {
+      "english": "I’m grateful, but I’m also allowed to miss",
+      "georgian": "მადლიერი ვარ, მაგრამ მენატრება კიდეც",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951966"
+    },
+    {
+      "english": "I stay patient, because my heart knows time",
+      "georgian": "ვრჩები მოთმინებით, რადგან გულს დრო ესმის",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951969"
+    },
+    {
+      "english": "I can be sad, and still hope",
+      "georgian": "შეიძლება მოწყენილი ვიყო, მაინც იმედი მქონდეს",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951972"
+    },
+    {
+      "english": "What I feel today, I respect",
+      "georgian": "რაც დღეს ვგრძნობ, პატივს ვცემ",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951974"
+    },
+    {
+      "english": "I talk to myself, kindly, not harshly",
+      "georgian": "მე ჩემთან ვლაპარაკობ, კეთილად, არა მკაცრად",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951977"
+    },
+    {
+      "english": "My joy grows, when I honor my pace",
+      "georgian": "ჩემი სიხარული იზრდება, როცა ჩემს ტემპს ვაფასებ",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951980"
+    },
+    {
+      "english": "I choose reflection, not rumination",
+      "georgian": "ვირჩევ დაფიქრებას, არა წუწუნს",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951983"
+    },
+    {
+      "english": "I’m learning to be okay with uncertainty",
+      "georgian": "ვსწავლობ გაურკვევლობაც დამამშვიდოს",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951986"
+    },
+    {
+      "english": "Small comfort reminds me I’m not alone",
+      "georgian": "პატარა კომფორტი მახსენებს, რომ მარტო არ ვარ",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951989"
+    },
+    {
+      "english": "I let good moments land, without rushing",
+      "georgian": "კარგ მომენტებს ვუშვებ დარჩენას, ნაჩქარევად არა",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951992"
+    },
+    {
+      "english": "I listen to my body, it tells truth",
+      "georgian": "ვუსმენ ჩემს სხეულს, ის სიმართლეს მეუბნება",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951994"
+    },
+    {
+      "english": "When I fall, I get back with care",
+      "georgian": "თუ დავეცი, უკან ვბრუნდები, ფრთხილად",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951997"
+    },
+    {
+      "english": "Happiness feels steady, not loud",
+      "georgian": "ბედნიერება მშვიდად იგრძნობა, არა ხმაურიანად",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.951999"
+    },
+    {
+      "english": "I share my truth, then I rest",
+      "georgian": "სიმართლეს ვამბობ, მერე ვისვენებ",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.952002"
+    },
+    {
+      "english": "Some feelings pass, like clouds moving",
+      "georgian": "ზოგი გრძნობა მიდის, როგორც ღრუბლები გადიან",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.952004"
+    },
+    {
+      "english": "I’m building a happy mind, daily",
+      "georgian": "ვაშენებ ბედნიერ გონებას, ყოველდღე",
+      "category": "Happiness",
+      "generated_at": "2026-11-04T10:14:36.952010"
     }
   ],
-  "last_updated": "2026-11-03T10:19:48.623320"
+  "last_updated": "2026-11-04T10:14:36.952011"
 }
