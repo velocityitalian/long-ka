@@ -12959,7 +12959,727 @@
       "georgian": "ვაშენებ ბედნიერ გონებას, ყოველდღე",
       "category": "Happiness",
       "generated_at": "2026-11-04T10:14:36.952010"
+    },
+    {
+      "english": "Hey, we should grab coffee later, okay?",
+      "georgian": "ჰეი, მოგვიანებით ყავა დავლიოთ, კარგი?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.014955"
+    },
+    {
+      "english": "Same here, I miss our talks already.",
+      "georgian": "იგივე აქაც, უკვე ჩვენი საუბრები მენატრება.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.014964"
+    },
+    {
+      "english": "No worries, I’ve got you, really.",
+      "georgian": "არც იდარდო, მე დაგეხმარები, მართლა.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.014966"
+    },
+    {
+      "english": "Tell me, what’s new with you today?",
+      "georgian": "მითხარი, შენთან რა ხდება დღეს?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.014969"
+    },
+    {
+      "english": "Wait, that’s actually a great idea!",
+      "georgian": "იცადე, ეს მართლა მაგარი იდეაა!",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.014970"
+    },
+    {
+      "english": "I’m listening, go on, I’m curious.",
+      "georgian": "გისმენ, თქვი, მაინტერესებს.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.014973"
+    },
+    {
+      "english": "Come on, let’s do it, today!",
+      "georgian": "კაი, მოდი, გავაკეთოთ დღეს!",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.014975"
+    },
+    {
+      "english": "Wow, you always know how to lift me.",
+      "georgian": "ვაუ, შენ მუდამ გვიწყობ კეთილ განწყობას.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.014979"
+    },
+    {
+      "english": "For sure, that plan sounds solid to me.",
+      "georgian": "ზუსტად, ეს გეგმა ჩემთვის ძალიან კარგია.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.014982"
+    },
+    {
+      "english": "Seriously, you’re the best friend.",
+      "georgian": "მართლა, შენ ყველაზე კარგი მეგობარი ხარ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.014984"
+    },
+    {
+      "english": "I’m down, when do we meet?",
+      "georgian": "მომწონს, როდის შევხვდეთ?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.014986"
+    },
+    {
+      "english": "Alright then, let’s keep it simple.",
+      "georgian": "კარგი მაშინ, მოდი მარტივად გავაკეთოთ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.014988"
+    },
+    {
+      "english": "That’s sweet, you remembered me!",
+      "georgian": "რა კარგია, გამახსენე კიდეც!",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.014992"
+    },
+    {
+      "english": "You’re right, I didn’t think of that.",
+      "georgian": "მართალი ხარ, არ მიფიქრია მაგაზე.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.014994"
+    },
+    {
+      "english": "Hold on, I’ll be there in ten.",
+      "georgian": "მომიცადე, ათ წუთში მოვალ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.014996"
+    },
+    {
+      "english": "Honestly, I needed this talk today.",
+      "georgian": "სიმართლე გითხრა, ეს საუბარი დღეს მჭირდებოდა.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.014998"
+    },
+    {
+      "english": "Good job, I’m proud of you, seriously.",
+      "georgian": "კარგია, შენით ვამაყობ, მართლა.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015001"
+    },
+    {
+      "english": "That’s me, always cheering you on.",
+      "georgian": "ეს მე ვარ, ყოველთვის გგულშემატკივრობ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015003"
+    },
+    {
+      "english": "Let’s text instead, it’s easier.",
+      "georgian": "სჯობს მესიჯით გავაგრძელოთ, უფრო მარტივია.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015005"
+    },
+    {
+      "english": "You got it, I’ll handle the details.",
+      "georgian": "კარგი, მე მოვაგვარებ დეტალებს.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015006"
+    },
+    {
+      "english": "No way, that sounds scary, are you okay?",
+      "georgian": "არ შეიძლება, ეს საშიშია, კარგად ხარ?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015008"
+    },
+    {
+      "english": "I’m here, even if it’s just a call.",
+      "georgian": "აქ ვარ, თუნდაც ერთი ზარისთვის.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015010"
+    },
+    {
+      "english": "Thanks for checking on me, really.",
+      "georgian": "მადლობა, რომ შემამოწმე, მართლა.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015012"
+    },
+    {
+      "english": "Bestie, you’re my safe place, always.",
+      "georgian": "ბესტი, შენ ჩემი უსაფრთხო თავშესაფარი ხარ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015014"
+    },
+    {
+      "english": "Cool, let’s meet where it’s less crowded.",
+      "georgian": "კაი, შევხვდეთ იქ, სადაც ნაკლებია ხალხი.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015016"
+    },
+    {
+      "english": "Wait—did you mean right now?",
+      "georgian": "იცადე, მართლა ახლა გულისხმობ?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015017"
+    },
+    {
+      "english": "I appreciate you, you make life lighter.",
+      "georgian": "გაფასებ, შენ ცხოვრებას უფრო ამსუბუქებ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015019"
+    },
+    {
+      "english": "Let me see, show me your plan.",
+      "georgian": "მოვიხედო, მაჩვენე შენი გეგმა.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015021"
+    },
+    {
+      "english": "You’re welcome, anytime, I’m your friend.",
+      "georgian": "მოგესალმები, ნებისმიერ დროს, მე შენი მეგობარი ვარ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015023"
+    },
+    {
+      "english": "That’s okay, we’ll fix it together.",
+      "georgian": "არაუშავს, ერთად მოვაგვარებთ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015025"
+    },
+    {
+      "english": "Can I ask you something, friend?",
+      "georgian": "შემიძლია გკითხოთ რამე, მეგობარო?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015027"
+    },
+    {
+      "english": "How was your day, what stood out?",
+      "georgian": "როგორ იყო დღე, რა დაგამახსოვრდა?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015030"
+    },
+    {
+      "english": "Do you have time to talk, today?",
+      "georgian": "დრო გაქვს, რომ ვისაუბროთ, დღეს?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015032"
+    },
+    {
+      "english": "What do you think, should we chat?",
+      "georgian": "როგორ ფიქრობ, შევხვდეთ და ვილაპარაკოთ?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015033"
+    },
+    {
+      "english": "Can you help me choose, please?",
+      "georgian": "მომეხმარები არჩევაში, გთხოვ?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015035"
+    },
+    {
+      "english": "What’s your plan for the weekend, by chance?",
+      "georgian": "კვირის ბოლოს რას აპირებ, შემთხვევით?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015037"
+    },
+    {
+      "english": "Should I bring anything, or just myself?",
+      "georgian": "რამე ხომ არ მოვიტანო, თუ მხოლოდ მე?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015039"
+    },
+    {
+      "english": "Do you feel better now, really?",
+      "georgian": "ახლა უკეთ ხარ, მართლა?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015040"
+    },
+    {
+      "english": "What was that story, tell me again?",
+      "georgian": "ის ამბავი რა იყო, კიდევ მომიყევი?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015042"
+    },
+    {
+      "english": "Can we walk a bit, after work?",
+      "georgian": "სამუშაოს მერე ცოტას ხომ ვივლით?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015043"
+    },
+    {
+      "english": "What’s bothering you, talk to me?",
+      "georgian": "რა გაწუხებს, მითხარი, რა ხდება?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015045"
+    },
+    {
+      "english": "How can I support you right now?",
+      "georgian": "ახლა როგორ დაგიჭერ მხარს?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015047"
+    },
+    {
+      "english": "What would you do in my situation?",
+      "georgian": "შენ რას იზამდი ჩემს ადგილზე?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015048"
+    },
+    {
+      "english": "Can we reschedule, if you’re busy?",
+      "georgian": "თუ გიჭირს, სხვა დროს შევხვდეთ, ხომ?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015050"
+    },
+    {
+      "english": "Are you free tonight, even for a bit?",
+      "georgian": "დღეს საღამოს თავისუფალი ხარ, ოდნავ მაინც?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015052"
+    },
+    {
+      "english": "What makes you happiest lately?",
+      "georgian": "ბოლოს რა გიხარია ყველაზე მეტად?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015053"
+    },
+    {
+      "english": "Do you trust my opinion, or not?",
+      "georgian": "გენდობი ჩემს აზრს, თუ არა?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015055"
+    },
+    {
+      "english": "I’m thinking of texting you, okay?",
+      "georgian": "მინდა გწერო მესიჯი, კარგია?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015057"
+    },
+    {
+      "english": "What time works best for you?",
+      "georgian": "რომელი საათი გამოგადგება შენთვის?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015060"
+    },
+    {
+      "english": "Can I borrow your charger for a minute?",
+      "georgian": "ერთი წუთით დამიქირავებ დამტენს?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015061"
+    },
+    {
+      "english": "Do you prefer sweet or salty snacks?",
+      "georgian": "ტკბილი გირჩევნია, თუ მარილიანი საჭმელი?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015063"
+    },
+    {
+      "english": "What did you learn lately, tell me!",
+      "georgian": "ბოლოს რა ისწავლე, მომიყევი!",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015064"
+    },
+    {
+      "english": "If I call, will you answer?",
+      "georgian": "თუ დაგირეკავ, მიპასუხებ?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015066"
+    },
+    {
+      "english": "Can we talk after dinner, please?",
+      "georgian": "ვახშმის შემდეგ შევილაპარაკოთ, გთხოვ?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015067"
+    },
+    {
+      "english": "Do you feel comfortable talking about it?",
+      "georgian": "ამაზე საუბარი გეხერხება, ხომ?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015069"
+    },
+    {
+      "english": "How do you want to handle it?",
+      "georgian": "როგორ გინდა, როგორ მოვაგვაროთ?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015071"
+    },
+    {
+      "english": "Can I join, or is it private?",
+      "georgian": "მოვალ მეც, თუ ეს პირადია?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015072"
+    },
+    {
+      "english": "What’s one thing you need from me?",
+      "georgian": "ერთი რამ მითხარი, რა გჭირდება?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015074"
+    },
+    {
+      "english": "You’re doing great, seriously, keep going.",
+      "georgian": "ძალიან კარგად ხარ, მართლა, განაგრძე.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015076"
+    },
+    {
+      "english": "I’m proud of you, even small wins count.",
+      "georgian": "ამაყი ვარ შენით, პატარა გამარჯვებებიც ითვლება.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015079"
+    },
+    {
+      "english": "Take a breath, we’ve got this together.",
+      "georgian": "ჩაისუნთქე, ერთად ამას გავუმკლავდებით.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015081"
+    },
+    {
+      "english": "Your effort shows, don’t doubt yourself, okay?",
+      "georgian": "შენი შრომა ჩანს, საკუთარ თავს ნუ ეჭვობ, კარგი?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015083"
+    },
+    {
+      "english": "When you stumble, I’ll hype you up.",
+      "georgian": "თუ წაიდები, დაგამხნევებ, კი არა და.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015085"
+    },
+    {
+      "english": "Let’s make today lighter, one joke at a time.",
+      "georgian": "დღეს მსუბუქად გავხადოთ, ერთი ხუმრობით მაინც.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015087"
+    },
+    {
+      "english": "You’re not alone, I’m right here with you.",
+      "georgian": "მარტო არ ხარ, აქვე ვარ შენთან.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015089"
+    },
+    {
+      "english": "Talk it out, your feelings matter, for real.",
+      "georgian": "გამომიყევი, შენი გრძნობები მნიშვნელოვანია, მართლა.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015091"
+    },
+    {
+      "english": "Slow is smooth, you’ve got time, trust me.",
+      "georgian": "ნელა თუ გინდა, მშვიდად გამოგივა, მენდობე.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015093"
+    },
+    {
+      "english": "You’re worth the effort, remember that.",
+      "georgian": "შენ ძალისხმევას იმსახურებ, დაიმახსოვრე.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015096"
+    },
+    {
+      "english": "Good vibes only, let’s keep it friendly.",
+      "georgian": "მხოლოდ კარგი ვაიბები, მეგობრულად გავაგრძელოთ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015098"
+    },
+    {
+      "english": "I’ve got your back, no drama, just love.",
+      "georgian": "ზურგი გაქვს, დრამის გარეშე, უბრალოდ სიყვარული.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015100"
+    },
+    {
+      "english": "When it’s hard, you’re still doing it.",
+      "georgian": "როცა რთულია, მაინც აგრძელებ, აი ხომ ხედავ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015102"
+    },
+    {
+      "english": "Let’s celebrate progress, not perfection, okay?",
+      "georgian": "ვაღიაროთ პროგრესი, არა სრულყოფილება, კარგი?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015104"
+    },
+    {
+      "english": "You bring calm to my chaos, thank you.",
+      "georgian": "შენ ჩემს ქაოსს სიმშვიდეს მოაქვს, გმადლობ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015106"
+    },
+    {
+      "english": "If you need a pep talk, I’m on it.",
+      "georgian": "თუ დაგჭირდება გამხნევება, მეც აქ ვარ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015108"
+    },
+    {
+      "english": "Bad day? We upgrade it with laughter.",
+      "georgian": "ცუდი დღეა? სიცილით გადავაკეთოთ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015109"
+    },
+    {
+      "english": "Stay kind, even when you’re tired.",
+      "georgian": "იყავი კეთილი, დაღლილიც რომ ხარ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015113"
+    },
+    {
+      "english": "Your worries make sense, but you’ll be okay.",
+      "georgian": "შენი საფიქრელები გასაგებია, მაგრამ კარგად იქნები.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015115"
+    },
+    {
+      "english": "I believe in you, like, a lot.",
+      "georgian": "შენში მჯერა, ძალიან, ძაან.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015117"
+    },
+    {
+      "english": "No pressure, just steady, one step at a time.",
+      "georgian": "ზეწოლა არაა, უბრალოდ სტაბილურად, ერთი ნაბიჯით.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015119"
+    },
+    {
+      "english": "You don’t have to do it all alone.",
+      "georgian": "ყველაფერი მარტო არ გჭირდება.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015122"
+    },
+    {
+      "english": "I’m rooting for you, loudly, quietly, either way.",
+      "georgian": "მე შენს წარმატებას ვუმხელს, ხმამაღლა თუ ჩუმად.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015124"
+    },
+    {
+      "english": "Let your mind chill, I’ll keep it simple.",
+      "georgian": "გონება მოისვენე, მე ყველაფერს მარტივად ვიტყვი.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015126"
+    },
+    {
+      "english": "You show up, that’s the real flex.",
+      "georgian": "გამოდიხარ, ესაა ნამდვილი ძალა.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015128"
+    },
+    {
+      "english": "Let’s rewrite the script, new day, same friends.",
+      "georgian": "სცენარი გადავწეროთ, ახალი დღე, ძველი მეგობრები.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015132"
+    },
+    {
+      "english": "I love your energy, keep it going.",
+      "georgian": "მიყვარს შენი ენერგია, გააგრძელე.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015134"
+    },
+    {
+      "english": "You can be honest here, I won’t judge.",
+      "georgian": "აქ გულწრფელად შეგიძლია, არ გაგიკრიტიკებ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015135"
+    },
+    {
+      "english": "We’ll figure it out, brains and hearts together.",
+      "georgian": "ყველაფერს გავარკვევთ, ტვინით და გულით ერთად.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015137"
+    },
+    {
+      "english": "Next time, you’ll crush it, I’m sure.",
+      "georgian": "შემდეგ ჯერზე, გაგიჟდება წარმატება, დარწმუნებული ვარ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015139"
+    },
+    {
+      "english": "I miss you, but I’m giving space.",
+      "georgian": "მენატრები, მაგრამ ადგილს ვაძლევ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015141"
+    },
+    {
+      "english": "Friendship feels better when we speak honestly.",
+      "georgian": "მეგობრობა უფრო თბილია, როცა გულწრფელად ვსაუბრობთ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015143"
+    },
+    {
+      "english": "I’m trying, even when it’s awkward.",
+      "georgian": "ვცდილობ, თუნდაც როცა მეჩქარება და რთულია.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015145"
+    },
+    {
+      "english": "Let’s be real, I needed your patience.",
+      "georgian": "გავიგოთ სიმართლე, შენი მოთმინება მჭირდებოდა.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015146"
+    },
+    {
+      "english": "I learned to slow down, with you.",
+      "georgian": "შენთან ერთად ვისწავლე შენელება.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015148"
+    },
+    {
+      "english": "Sometimes I’m quiet, because I’m processing.",
+      "georgian": "ხანდახან ჩუმად ვარ, რადგან ვალაგებ თავს.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015150"
+    },
+    {
+      "english": "I appreciate you, even in the small moments.",
+      "georgian": "გმადლობ, თუნდაც მცირე მომენტებში.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015152"
+    },
+    {
+      "english": "I don’t expect perfect, just effort.",
+      "georgian": "არ ველოდები სიზუსტეს, მხოლოდ ძალისხმევას.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015154"
+    },
+    {
+      "english": "Your words land softly, and they help.",
+      "georgian": "შენი სიტყვები ნაზად მოდის, და შველის.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015155"
+    },
+    {
+      "english": "I’m honest, and I’ll admit when I’m hurt.",
+      "georgian": "გულწრფელი ვარ, და ვიტყვი, როცა მტკივა.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015157"
+    },
+    {
+      "english": "I can wait, I care about us.",
+      "georgian": "შემიძლია დავიცადო, ჩვენზე ვზრუნავ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015159"
+    },
+    {
+      "english": "I respect your boundaries, they keep you safe.",
+      "georgian": "ვაფასებ შენს საზღვრებს, ისინი გიცავენ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015160"
+    },
+    {
+      "english": "When I get emotional, tell me gently.",
+      "georgian": "როცა ემოციური გავხდი, მითხარი ნაზად.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015162"
+    },
+    {
+      "english": "I’m choosing calm, not arguments.",
+      "georgian": "მშვიდობას ვირჩევ, კამათს არა.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015164"
+    },
+    {
+      "english": "We’ll talk later, but I mean it.",
+      "georgian": "მოგვიანებით ვისაუბროთ, მაგრამ მართლა ასეა.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015166"
+    },
+    {
+      "english": "I’m grateful you stay, even when it’s messy.",
+      "georgian": "მადლობ, რომ რჩები, როცა ყველაფერი ირევა.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015168"
+    },
+    {
+      "english": "Let’s check in, no hiding your feelings.",
+      "georgian": "მოდით გავიკითხოთ, ნუ დამალავ გრძნობებს.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015170"
+    },
+    {
+      "english": "I trust you, so I’ll be vulnerable.",
+      "georgian": "გენდობი, ამიტომაც გაგიზიარებ ჩემს სისუსტეს.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015171"
+    },
+    {
+      "english": "Your silence means thought, not distance.",
+      "georgian": "შენი სიჩუმე ნიშნავს ფიქრს, არა დისტანციას.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015173"
+    },
+    {
+      "english": "I’m not trying to win, I’m trying to connect.",
+      "georgian": "არ მინდა გამარჯვება, მინდა კავშირი.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015176"
+    },
+    {
+      "english": "If I mess up, I’ll own it.",
+      "georgian": "თუ რამეს ვაფუჭებ, საკუთარ თავს მივიღებ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015178"
+    },
+    {
+      "english": "I don’t need answers today, just warmth.",
+      "georgian": "დღეს პასუხები არ მჭირდება, უბრალოდ სითბო.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015180"
+    },
+    {
+      "english": "Some feelings take time, we wait together.",
+      "georgian": "ზოგი გრძნობა დროს ითხოვს, ერთად ველოდოთ.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015182"
+    },
+    {
+      "english": "I see your effort, and it matters.",
+      "georgian": "ვხედავ შენს ძალისხმევას, და ეს მნიშვნელოვანია.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015184"
+    },
+    {
+      "english": "I’m learning to talk through my fears.",
+      "georgian": "ვსწავლობ, შიშებს როგორ გავუზიარო.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015186"
+    },
+    {
+      "english": "Your honesty keeps me grounded, seriously.",
+      "georgian": "შენი გულწრფელობა მიწას მადგამს, სერიოზულად.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015188"
+    },
+    {
+      "english": "I’ll be patient, even if we’re slow.",
+      "georgian": "მოვითმენ, თუნდაც თუ ნელა მიდის ყველაფერი.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015190"
+    },
+    {
+      "english": "Let’s stay kind, even when we disagree.",
+      "georgian": "მოდით სიკეთე შევინარჩუნოთ, როცა არ გვეთანხმებით.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015192"
+    },
+    {
+      "english": "I’m here for the whole version of you.",
+      "georgian": "მე ვარ აქ შენი მთელი ვერსიისთვის.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015193"
+    },
+    {
+      "english": "Growing together means saying what’s true.",
+      "georgian": "ერთად ზრდა ნიშნავს სიმართლის თქმას.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015195"
+    },
+    {
+      "english": "Let’s grab coffee, talk, no stress, okay?",
+      "georgian": "ყავას დავლევთ, ვისაუბროთ, სტრესის გარეშე, კარგი?",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015197"
+    },
+    {
+      "english": "Text me when you’re free, I’ll match.",
+      "georgian": "მომწერე როცა თავისუფალი იქნები, მოვესწრები.",
+      "category": "Friendship",
+      "generated_at": "2026-11-05T10:03:58.015199"
     }
   ],
-  "last_updated": "2026-11-04T10:14:36.952011"
+  "last_updated": "2026-11-05T10:03:58.015200"
 }
