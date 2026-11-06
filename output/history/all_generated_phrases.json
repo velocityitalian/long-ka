@@ -13679,7 +13679,727 @@
       "georgian": "მომწერე როცა თავისუფალი იქნები, მოვესწრები.",
       "category": "Friendship",
       "generated_at": "2026-11-05T10:03:58.015199"
+    },
+    {
+      "english": "Got it, let’s think of a new twist.",
+      "georgian": "კარგი, დავფიქრდეთ და ახალი ირონია ვიპოვოთ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104621"
+    },
+    {
+      "english": "Wait, that idea is actually genius, wow!",
+      "georgian": "მოიცა, ეს იდეა მართლა გენიალურია, ვაუ!",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104638"
+    },
+    {
+      "english": "Hold on, try it a different way.",
+      "georgian": "მოიცა, სცადე სხვანაირად.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104642"
+    },
+    {
+      "english": "Nice, that could work for real.",
+      "georgian": "კარგია, ნამდვილად შეიძლება გამოგვადგეს.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104645"
+    },
+    {
+      "english": "Okay, let’s remix this idea quickly.",
+      "georgian": "კარგი, სწრაფად გადავაკეთოთ ეს იდეა.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104649"
+    },
+    {
+      "english": "Hmm, what if we turn it around?",
+      "georgian": "ჰმ, რა თუ პირიქით გავაკეთოთ?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104652"
+    },
+    {
+      "english": "Cool, I’m stealing that move, literally.",
+      "georgian": "ძალიან კაია, პირდაპირ ვიპარავ იმ ნაბიჯს.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104655"
+    },
+    {
+      "english": "No kidding, that’s a strong concept.",
+      "georgian": "სერიოზულად, ეს კარგი კონცეფციაა.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104661"
+    },
+    {
+      "english": "Great, now add one tiny surprise.",
+      "georgian": "მშვენიერია, ახლა ერთი პატარა სიურპრიზი დაამატე.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104666"
+    },
+    {
+      "english": "Listen, let’s brainstorm for five minutes.",
+      "georgian": "მოდი, ხუთ წუთში გავაკეთოთ ბრეინსტორმი.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104672"
+    },
+    {
+      "english": "Come on, we can make it better.",
+      "georgian": "აბა, უკეთესად მოვიფიქრებთ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104675"
+    },
+    {
+      "english": "That’s interesting, tell me the rest.",
+      "georgian": "საინტერესოა, მომიყევი მერე რა.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104678"
+    },
+    {
+      "english": "Wait, explain it simpler, please.",
+      "georgian": "მოიცა, უფრო მარტივად ამიხსენი, გთხოვ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104681"
+    },
+    {
+      "english": "Alright, let’s test this idea right now.",
+      "georgian": "კარგი, ახლავე ვცადოთ ეს იდეა.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104685"
+    },
+    {
+      "english": "Yes, that’s the vibe, I feel it!",
+      "georgian": "კი, ესაა ვაიბი, მეც ასე ვიგრძენი!",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104688"
+    },
+    {
+      "english": "Not bad, but we can make it fresher.",
+      "georgian": "ცუდი არაა, მაგრამ უფრო ახალი უნდა იყოს.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104691"
+    },
+    {
+      "english": "Seriously, how did you come up with that?",
+      "georgian": "სერიოზულად, როგორ მოიფიქრე ეს?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104694"
+    },
+    {
+      "english": "Okay, quick question, what’s your goal?",
+      "georgian": "კარგი, სწრაფად, რა არის შენი მიზანი?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104698"
+    },
+    {
+      "english": "Let’s switch gears, new plan, same dream.",
+      "georgian": "გადავრთოთ, ახალი გეგმა, იგივე ოცნება.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104702"
+    },
+    {
+      "english": "Wow, you nailed that creative twist.",
+      "georgian": "ვაუ, შენ ზუსტად დაიჭირე კრეატიული ირონია.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104704"
+    },
+    {
+      "english": "Hold up, that could be a game-changer.",
+      "georgian": "მოიცა, ეს შეიძლება ყველაფერს შეცვალოს.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104707"
+    },
+    {
+      "english": "That’s too perfect, try something wilder.",
+      "georgian": "ძალიან იდეალურია, უფრო თამამი სცადე.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104711"
+    },
+    {
+      "english": "I like it, keep going, don’t stop now.",
+      "georgian": "მომწონს, განაგრძე, ახლა არ გაჩერდე.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104714"
+    },
+    {
+      "english": "Hmm, I’m missing one key detail.",
+      "georgian": "ჰმ, რაღაც მთავარი დეტალი მენატრება.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104717"
+    },
+    {
+      "english": "Cool concept, but let’s add more energy.",
+      "georgian": "კაი კონცეფციაა, მაგრამ მეტი ენერგია ჩადე.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104720"
+    },
+    {
+      "english": "Not sure yet, give me your best try.",
+      "georgian": "ჯერ არ ვიცი, მომეცი შენი საუკეთესო ცდა.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104725"
+    },
+    {
+      "english": "Okay, what’s the hook, in one sentence?",
+      "georgian": "კარგი, რა არის მთავარი ხაზი, ერთ წინადადებაში?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104729"
+    },
+    {
+      "english": "Alright, let’s make it practical, not complicated.",
+      "georgian": "კარგი, გავხადოთ პრაქტიკული, არა რთული.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104732"
+    },
+    {
+      "english": "That’s a vibe, I’m in, let’s go!",
+      "georgian": "ესაა ვაიბი, მეც მოვდივარ, წავიდეთ!",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104736"
+    },
+    {
+      "english": "Nice, now repeat it, but with style.",
+      "georgian": "კარგი, ახლა გაიმეორე, მაგრამ სტილით.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104739"
+    },
+    {
+      "english": "What do you want to change, first?",
+      "georgian": "რას შეცვლით პირველ რიგში?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104742"
+    },
+    {
+      "english": "Can you tell me your main idea?",
+      "georgian": "მითხარი, რა არის მთავარი იდეა?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104745"
+    },
+    {
+      "english": "What’s your plan, step by step?",
+      "georgian": "რა არის შენი გეგმა, ნაბიჯ-ნაბიჯ?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104748"
+    },
+    {
+      "english": "Do you prefer simple or bold choices?",
+      "georgian": "მირჩევნია მარტივი თუ გაბედული არჩევანი?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104753"
+    },
+    {
+      "english": "Where can we make it more fun?",
+      "georgian": "სად გავხადოთ უფრო სახალისო?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104756"
+    },
+    {
+      "english": "Which detail should stand out most?",
+      "georgian": "რომელი დეტალი უნდა გამოიკვეთოს ყველაზე მეტად?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104759"
+    },
+    {
+      "english": "What’s the vibe you’re aiming for?",
+      "georgian": "რა განწყობას ეძებ, სწორედ?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104762"
+    },
+    {
+      "english": "Can I ask one quick question here?",
+      "georgian": "ერთ შეკითხვას დაგისვამ, შეიძლება?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104764"
+    },
+    {
+      "english": "What inspires you lately, honestly?",
+      "georgian": "ახლა რა გაძლიერებს, გულწრფელად?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104767"
+    },
+    {
+      "english": "How would you improve it in one day?",
+      "georgian": "როგორ გააუმჯობესებდი ერთ დღეში?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104770"
+    },
+    {
+      "english": "Do you want feedback, or just ideas?",
+      "georgian": "გინდა გამოხმაურება, თუ უბრალოდ იდეები?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104773"
+    },
+    {
+      "english": "Could you simplify your concept for me?",
+      "georgian": "შენს კონცეფციას გამარტივებ, გთხოვ?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104777"
+    },
+    {
+      "english": "What would happen if we go smaller?",
+      "georgian": "რა მოხდებოდა, თუ უფრო პატარად დავიწყოთ?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104780"
+    },
+    {
+      "english": "What if we ask the audience first?",
+      "georgian": "თუ პირველ რიგში მაყურებელს ვკითხოთ?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104783"
+    },
+    {
+      "english": "Which emotion should this piece deliver?",
+      "georgian": "რა ემოცია უნდა გადმოსცეს ამ ნამუშევარმა?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104785"
+    },
+    {
+      "english": "Can we connect this to a real story?",
+      "georgian": "ამას რეალურ ამბავთან დავაკავშიროთ?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104788"
+    },
+    {
+      "english": "What’s one constraint that helps creativity?",
+      "georgian": "რომელი შეზღუდვა ამაღლებს კრეატიულობას?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104791"
+    },
+    {
+      "english": "Do you want it playful, or professional?",
+      "georgian": "გინდა უფრო თამაშობადი, თუ პროფესიული?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104794"
+    },
+    {
+      "english": "Where does this idea feel strongest to you?",
+      "georgian": "სად გრძნობს ეს იდეა ყველაზე ძლიერად?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104796"
+    },
+    {
+      "english": "What’s your deadline, so we plan right?",
+      "georgian": "როდისაა ვადა, რომ სწორად ვგეგმოთ?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104799"
+    },
+    {
+      "english": "How do you know it’s working so far?",
+      "georgian": "სადამდე გრძნობ, რომ მუშაობს უკვე?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104803"
+    },
+    {
+      "english": "Should we add color, sound, or motion?",
+      "georgian": "დავამატოთ ფერი, ხმა, თუ მოძრაობა?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104806"
+    },
+    {
+      "english": "Who are you creating this for, exactly?",
+      "georgian": "ვისთვის ქმნი ამას, ზუსტად?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104808"
+    },
+    {
+      "english": "Can you share the best part first?",
+      "georgian": "საწყისი საუკეთესო ნაწილი ჯერ მომიყევი?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104811"
+    },
+    {
+      "english": "What’s the risk, and how will you handle it?",
+      "georgian": "რა არის რისკი, და როგორ მოიქცევი?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104815"
+    },
+    {
+      "english": "Do you want to brainstorm together, right now?",
+      "georgian": "ახლა ერთად მოვიფიქროთ იდეები?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104818"
+    },
+    {
+      "english": "If it fails, what will you try next?",
+      "georgian": "თუ არ გამოგვივა, მერე რას ეცდები?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104820"
+    },
+    {
+      "english": "What one change would make it click?",
+      "georgian": "რა ერთმა ცვლილებამ გახდის ამას ნათელს?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104823"
+    },
+    {
+      "english": "You’ve got ideas, just let them breathe.",
+      "georgian": "იდეები გაქვს, უბრალოდ გაათავე სუნთქვა.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104826"
+    },
+    {
+      "english": "Mistakes happen, creative magic starts after them.",
+      "georgian": "შეცდომები ხდება, შემოქმედებითი ჯადოქრობა მერე იწყება.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104829"
+    },
+    {
+      "english": "Keep going, your brain learns by doing.",
+      "georgian": "გააგრძელე, ტვინი სწავლობს მოქმედებით.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104832"
+    },
+    {
+      "english": "Trust the process, your taste will improve.",
+      "georgian": "ენდოს პროცესს, შენი გემოვნება გაიზრდება.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104835"
+    },
+    {
+      "english": "Small steps, big creative results, promise.",
+      "georgian": "პატარა ნაბიჯები, დიდი შედეგები, გპირდები.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104841"
+    },
+    {
+      "english": "Say yes to weird ideas, seriously.",
+      "georgian": "დიახ თქვი უცნაურ იდეებს, სერიოზულად.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104843"
+    },
+    {
+      "english": "Your confidence grows when you keep trying.",
+      "georgian": "ნდობა გიზრდება, როცა აგრძელებ ცდას.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104846"
+    },
+    {
+      "english": "Good enough today, better tomorrow, that’s it.",
+      "georgian": "დღეს საკმარისია, ხვალ უკეთესი, სულ ესაა.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104850"
+    },
+    {
+      "english": "Don’t judge fast, let ideas ripen first.",
+      "georgian": "ნუ განსჯი ჩქარად, იდეებს ჯერ მომწიფება სჭირდებათ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104854"
+    },
+    {
+      "english": "Give yourself credit, you’re building something real.",
+      "georgian": "თავი დააჯილდოვე, ნამდვილს აშენებ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104858"
+    },
+    {
+      "english": "Yes, it’s messy, that’s part of it.",
+      "georgian": "კი, ბინძურიცაა, ეგ არის ნაწილი.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104862"
+    },
+    {
+      "english": "One more draft, you’ll be surprised.",
+      "georgian": "კიდევ ერთი პროექტი, გაგიკვირდება.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104865"
+    },
+    {
+      "english": "Your imagination is stronger than your doubt.",
+      "georgian": "შენი ფანტაზია ეჭვს აჯობებს.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104874"
+    },
+    {
+      "english": "Make it fun first, polish can come later.",
+      "georgian": "ჯერ გართობა გააკეთე, გასაპრიალებლად მერე.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104893"
+    },
+    {
+      "english": "If it feels hard, you’re leveling up.",
+      "georgian": "თუ რთულია, დონის ზრდა გაქვს.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104902"
+    },
+    {
+      "english": "Speak kindly to your inner creator.",
+      "georgian": "გულითადად ელაპარაკე შენს შინაგან შემოქმედს.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104904"
+    },
+    {
+      "english": "You don’t need permission, just start.",
+      "georgian": "ნებართვა არ გჭირდება, უბრალოდ დაიწყე.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104908"
+    },
+    {
+      "english": "Today’s job, gather ideas, no pressure.",
+      "georgian": "დღევანდელი საქმე, იდეების მოგროვება, ზეწოლის გარეშე.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104911"
+    },
+    {
+      "english": "Let your curiosity drive, not fear.",
+      "georgian": "ცნობისმოყვარეობა მართავდეს, არა შიში.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104914"
+    },
+    {
+      "english": "Celebrate progress, even tiny wins count.",
+      "georgian": "აღნიშნე პროგრესი, პატარა გამარჯვებებიც ითვლება.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104917"
+    },
+    {
+      "english": "Say, “I’m learning,” and keep moving.",
+      "georgian": "თქვი, „ვსწავლობ“, და გააგრძელე სვლა.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104921"
+    },
+    {
+      "english": "Your best idea might be your next one.",
+      "georgian": "შენი საუკეთესო იდეა შეიძლება იყოს შემდეგი.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104923"
+    },
+    {
+      "english": "Try the opposite, and watch creativity spark.",
+      "georgian": "სცადე საპირისპირო, და კრეატიულობა აინთება.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104926"
+    },
+    {
+      "english": "You’re allowed to change your mind.",
+      "georgian": "უფლება გაქვს, აზრი შეგეცვალოს.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104930"
+    },
+    {
+      "english": "That’s not failure, it’s useful data.",
+      "georgian": "ეს არ არის მარცხი, სასარგებლო მონაცემია.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104933"
+    },
+    {
+      "english": "Aim for honest, not perfect, every time.",
+      "georgian": "ყოველ ჯერზე, ეცადე გულწრფელად, არა სრულყოფილად.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104938"
+    },
+    {
+      "english": "Give your idea water, it will grow.",
+      "georgian": "იდეას წყალი მიეცი, გაიზრდება.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104941"
+    },
+    {
+      "english": "Breathe, then start messy, you’ll refine later.",
+      "georgian": "ჩაისუნთქე, მერე დაიწყე ბინძურად, მერე დახვეწავ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104945"
+    },
+    {
+      "english": "Be proud, you’re making the blank page alive.",
+      "georgian": "გაიხარე, ცარიელ გვერდს აცოცხლებ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104948"
+    },
+    {
+      "english": "Keep it playful, your creativity will follow.",
+      "georgian": "გაიკეთე თამაში, კრეატიულობა მოგყვება.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104951"
+    },
+    {
+      "english": "I’m feeling stuck, so I slow down.",
+      "georgian": "გაჭედილი ვარ, ამიტომ ნელა ვიმცირებ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104954"
+    },
+    {
+      "english": "I notice my mood, then I create gently.",
+      "georgian": "ვაკვირდები ჩემს განწყობას, მერე ნაზად ვქმნი.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104957"
+    },
+    {
+      "english": "Some ideas need quiet, no forcing.",
+      "georgian": "ზოგ იდეას სჭირდება სიჩუმე, არ ვაიძულებ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104960"
+    },
+    {
+      "english": "Honestly, I’m scared, but I keep going.",
+      "georgian": "მართლა მეშინია, მაგრამ მაინც ვაგრძელებ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104965"
+    },
+    {
+      "english": "I check in with myself before I post.",
+      "georgian": "გამომქვეყნებამდე საკუთარ თავს ვეკითხები.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104969"
+    },
+    {
+      "english": "I want it real, not just impressive.",
+      "georgian": "მართალია მინდა, მხოლოდ შთამბეჭდავი არა.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104972"
+    },
+    {
+      "english": "I’m learning to be patient with ideas.",
+      "georgian": "ვსწავლობ, იდეებთან მოთმინება როგორ შევინარჩუნო.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104975"
+    },
+    {
+      "english": "Today, I listen first, then I act.",
+      "georgian": "დღეს ჯერ ვუსმენ, მერე ვიმოქმედებ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104978"
+    },
+    {
+      "english": "My best thoughts come after I breathe.",
+      "georgian": "ჩემი საუკეთესო აზრები სუნთქვის შემდეგ მოდის.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104981"
+    },
+    {
+      "english": "I don’t need perfection, I need honesty.",
+      "georgian": "სრულყოფილება არ მჭირდება, გულწრფელობა მჭირდება.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104984"
+    },
+    {
+      "english": "I feel proud, even if it’s small.",
+      "georgian": "ვამაყობ, მაშინაც კი, თუ პატარაა.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104988"
+    },
+    {
+      "english": "When I’m tired, I choose softer creativity.",
+      "georgian": "როცა დავიღალე, უფრო ნაზ შემოქმედებას ვარჩევ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104991"
+    },
+    {
+      "english": "I’m not overthinking, I’m reflecting.",
+      "georgian": "არ ვჭარბობ ფიქრით, ვიფიქრ<eb> მხოლოდ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104995"
+    },
+    {
+      "english": "I let the emotion guide my next step.",
+      "georgian": "ემოცია მმართავს, ჩემს შემდეგ ნაბიჯს.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.104997"
+    },
+    {
+      "english": "I admit what I want, without hiding.",
+      "georgian": "ვაღიარებ, რა მინდა, დამალვის გარეშე.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105002"
+    },
+    {
+      "english": "I’m okay with taking my time, really.",
+      "georgian": "კარგია, თუ დროს ვიღებ, მართლა.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105006"
+    },
+    {
+      "english": "This is personal, so I stay gentle.",
+      "georgian": "ეს პირადულია, ამიტომ ნაზად ვიქცევი.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105011"
+    },
+    {
+      "english": "I can feel resistance, and still create.",
+      "georgian": "წინააღმდეგობას ვგრძნობ, მაგრამ მაინც ვქმნი.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105014"
+    },
+    {
+      "english": "I trust my instincts, they know me.",
+      "georgian": "ვენდობ ჩემს ინსტინქტებს, ისინი მიცნობენ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105017"
+    },
+    {
+      "english": "I keep a journal, my ideas feel safer.",
+      "georgian": "დღიურს ვწერ, იდეები უფრო მეძერწება.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105020"
+    },
+    {
+      "english": "If I’m quiet, I’m gathering feelings.",
+      "georgian": "თუ მშვიდად ვარ, გრძნობებს ვაგროვებ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105024"
+    },
+    {
+      "english": "I’m honest about my limits, then I adjust.",
+      "georgian": "ჩემს ზღვარს გულწრფელად ვაღიარებ, მერე ვასწორებ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105027"
+    },
+    {
+      "english": "I stop comparing, and I start breathing.",
+      "georgian": "ვწყვეტ შედარებას, მერე უბრალოდ ვსუნთქავ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105030"
+    },
+    {
+      "english": "What I’m making, I’m also healing.",
+      "georgian": "რასაც ვქმნი, იმასვე ვიკურნები.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105033"
+    },
+    {
+      "english": "My thoughts get sharper when I slow down.",
+      "georgian": "ჩემი ფიქრები უფრო მკვეთრი ხდება, როცა ვანელებ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105036"
+    },
+    {
+      "english": "I don’t rush feelings, I let them arrive.",
+      "georgian": "არ ვჩქარობ გრძნობებს, ველოდები მოსვლას.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105039"
+    },
+    {
+      "english": "I can change plans, if my heart says.",
+      "georgian": "გეგმებს შევცვლი, თუ გულმა მითხრა.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105041"
+    },
+    {
+      "english": "I’m learning to be brave, in small ways.",
+      "georgian": "ვსწავლობ სიმამაცეს, პატარა ნაბიჯებით.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105045"
+    },
+    {
+      "english": "I keep the vibe kind, even during drafts.",
+      "georgian": "დრაფტებშიც კი, განწყობა კეთილად ვინარჩუნებ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105049"
+    },
+    {
+      "english": "I accept today’s emotion, then I create.",
+      "georgian": "დღევანდელ ემოციას ვიღებ, მერე ვქმნი.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105052"
+    },
+    {
+      "english": "Try a bold message, then soften it.",
+      "georgian": "გამოაგზავნე თამამი მესიჯი, მერე გაარბილე.",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105056"
+    },
+    {
+      "english": "Before you reply, ask, what tone works?",
+      "georgian": "პასუხამდე ჰკითხე საკუთარ თავს, რა ტონი ჯდება?",
+      "category": "Creativity",
+      "generated_at": "2026-11-06T10:08:45.105059"
     }
   ],
-  "last_updated": "2026-11-05T10:03:58.015200"
+  "last_updated": "2026-11-06T10:08:45.105061"
 }
