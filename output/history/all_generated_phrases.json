@@ -14399,7 +14399,727 @@
       "georgian": "პასუხამდე ჰკითხე საკუთარ თავს, რა ტონი ჯდება?",
       "category": "Creativity",
       "generated_at": "2026-11-06T10:08:45.105059"
+    },
+    {
+      "english": "You’ve got this, just breathe, now.",
+      "georgian": "შენ შეგიძლია, უბრალოდ ჩაისუნთქე, ახლა.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841291"
+    },
+    {
+      "english": "It’ll work out, one step at a time.",
+      "georgian": "ყველაფერი გამოვა, ნაბიჯ-ნაბიჯ, ნელა.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841305"
+    },
+    {
+      "english": "Wow, that’s amazing, I’m serious!",
+      "georgian": "ვაიმე, საოცარია, მე მართლა!",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841310"
+    },
+    {
+      "english": "Nice try, keep going, don’t stop.",
+      "georgian": "კარგი ცდაა, გააგრძელე, არ გაჩერდე.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841316"
+    },
+    {
+      "english": "Really? Tell me, I love this.",
+      "georgian": "მართლა? მითხარი, ძალიან მომწონს.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841319"
+    },
+    {
+      "english": "No worries, we’ll figure it out.",
+      "georgian": "არ ინერვიულო, ყველაფერს მოვაგვარებთ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841323"
+    },
+    {
+      "english": "Okay, let’s start simple, right now.",
+      "georgian": "კარგი, დავიწყოთ მარტივად, ახლა.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841328"
+    },
+    {
+      "english": "I’m proud of you, seriously.",
+      "georgian": "შენით ვამაყობ, მართლა.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841334"
+    },
+    {
+      "english": "That’s it, you nailed it, wow!",
+      "georgian": "აი ასე, ზუსტად დაარტყი, ვაიმე!",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841338"
+    },
+    {
+      "english": "Good idea, try it, you’ll see.",
+      "georgian": "კარგი აზრია, სცადე, ნახავ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841342"
+    },
+    {
+      "english": "Let’s go, quick win, then we rest.",
+      "georgian": "წავიდეთ, სწრაფი გამარჯვება, მერე დავისვენოთ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841345"
+    },
+    {
+      "english": "Honestly, you’re getting better, fast.",
+      "georgian": "მართალი გითხრა, სწრაფად უმჯობესდები.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841349"
+    },
+    {
+      "english": "Stop overthinking, just do it.",
+      "georgian": "ნუ გადაიფიქრებ, უბრალოდ გააკეთე.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841352"
+    },
+    {
+      "english": "That felt right, keep that energy.",
+      "georgian": "ეს მართლა მოგიხდა, შეინარჩუნე ეს ენერგია.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841354"
+    },
+    {
+      "english": "Wait, really? I didn’t expect that.",
+      "georgian": "მოიცა, მართლა? ეს არ მეგონა.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841358"
+    },
+    {
+      "english": "I needed that, thank you, for real.",
+      "georgian": "ეს მჭირდებოდა, გმადლობ, მართლა.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841361"
+    },
+    {
+      "english": "You’re closer than you think, trust me.",
+      "georgian": "უფრო ახლოს ხარ, ვიდრე გგონია.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841364"
+    },
+    {
+      "english": "Let it be, it’s okay, move on.",
+      "georgian": "მთავარია, ყველაფერი რიგზეა, გადადი.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841367"
+    },
+    {
+      "english": "That’s the spirit, seriously, keep trying.",
+      "georgian": "აი ასე, სულ ასე, გააგრძელე მცდელობა.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841371"
+    },
+    {
+      "english": "No problem, I’ve got you, today.",
+      "georgian": "პრობლემა არაა, შენს გვერდით ვარ, დღეს.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841374"
+    },
+    {
+      "english": "Respect, you’re handling it, well.",
+      "georgian": "პატივისცემა, კარგად ართმევ თავს.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841377"
+    },
+    {
+      "english": "Okay then, let’s make it happen.",
+      "georgian": "კარგი, მაშინ გავაკეთოთ, რაც საჭიროა.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841380"
+    },
+    {
+      "english": "Come on, you can do this, easy.",
+      "georgian": "აბა, შეგიძლია, ადვილია.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841383"
+    },
+    {
+      "english": "I like your vibe, it’s refreshing.",
+      "georgian": "მომწონს შენი ვაიბი, ძალიან გამამხნევებელია.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841387"
+    },
+    {
+      "english": "That’s inspiring, how did you do it?",
+      "georgian": "ეს შთამაგონებელია, როგორ გააკეთე?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841390"
+    },
+    {
+      "english": "I hear you, keep going, step by step.",
+      "georgian": "გისმენ, გააგრძელე, ნაბიჯ-ნაბიჯ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841395"
+    },
+    {
+      "english": "Quick check, are you okay right now?",
+      "georgian": "მომისმინე, კარგად ხარ, ახლა?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841397"
+    },
+    {
+      "english": "Dream big, but start with one small thing.",
+      "georgian": "დიდად იოცნებე, მაგრამ ერთი პატარა ნაბიჯით დაიწყე.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841400"
+    },
+    {
+      "english": "Let’s celebrate, you earned this win.",
+      "georgian": "ვიზეიმოთ, ეს გამარჯვება შენ დაიმსახურე.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841404"
+    },
+    {
+      "english": "Can you help me, how do you say this?",
+      "georgian": "მითხარი, როგორ ვთქვა ეს?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841407"
+    },
+    {
+      "english": "Quick question, what time does class start?",
+      "georgian": "მოკლე კითხვა, რა საათზე იწყება გაკვეთილი?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841409"
+    },
+    {
+      "english": "Where do you usually practice Georgian, online or in person?",
+      "georgian": "სად ვარჯიშობ ჩვეულებრივ ქართულს, ონლაინ თუ პირადად?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841412"
+    },
+    {
+      "english": "I’m new here, what’s the polite way to ask?",
+      "georgian": "ახალი ვარ აქ, როგორ ვიკითხო თავაზიანად?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841416"
+    },
+    {
+      "english": "If you have a moment, could you explain this?",
+      "georgian": "თუ შეგიძლია, ამიხსენი ეს, გთხოვ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841419"
+    },
+    {
+      "english": "What’s your advice for learning faster, honestly?",
+      "georgian": "რა რჩევა გაქვს, რომ უფრო სწრაფად ვისწავლო?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841423"
+    },
+    {
+      "english": "Which question should I practice first, daily ones?",
+      "georgian": "რომელი შეკითხვა ვივარჯიშო პირველ რიგში, ყოველდღიური?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841425"
+    },
+    {
+      "english": "Do you mind repeating that, just slower, please?",
+      "georgian": "გეწყინება თუ გაიმეორებ, ნელა, გთხოვ?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841428"
+    },
+    {
+      "english": "How do you answer, when people ask “Where from”?",
+      "georgian": "როგორ უპასუხებ, როცა გკითხავენ “საიდან ხარ”?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841433"
+    },
+    {
+      "english": "Can I ask one more thing, please?",
+      "georgian": "ერთი კიდევ თუ შემიძლია გკითხო, გთხოვ?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841439"
+    },
+    {
+      "english": "Is it better to speak first, or listen first?",
+      "georgian": "უკეთესია პირველად საუბარი, თუ პირველად მოსმენა?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841442"
+    },
+    {
+      "english": "What does “thank you” mean, in Georgian?",
+      "georgian": "რას ნიშნავს “მადლობა”, ქართულად?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841448"
+    },
+    {
+      "english": "Do people say this a lot, in everyday life?",
+      "georgian": "ამას ხშირად ამბობენ ყოველდღე, თუ არა?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841451"
+    },
+    {
+      "english": "Could you correct me, where did I mess up?",
+      "georgian": "შემისწორე, სად შევცდი?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841454"
+    },
+    {
+      "english": "What should I reply, when someone asks my name?",
+      "georgian": "რას ვუპასუხო, როცა მკითხავენ სახელს?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841456"
+    },
+    {
+      "english": "How do you make questions, do you change endings?",
+      "georgian": "როგორ აკეთებთ კითხვებს, ხომ არ იცვლება დაბოლოება?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841459"
+    },
+    {
+      "english": "I’m curious, what’s your favorite learning app?",
+      "georgian": "მაინტერესებს, რომელი სასწავლო აპი მოგწონს?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841463"
+    },
+    {
+      "english": "Do you study grammar, or only practice speaking?",
+      "georgian": "გასწავლი გრამატიკას, თუ მხოლოდ საუბარს ვარჯიშობ?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841465"
+    },
+    {
+      "english": "Can we switch roles, I ask, you answer?",
+      "georgian": "მოდით როლები შევცვალოთ, მე ვკითხავ, შენ მიპასუხე?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841468"
+    },
+    {
+      "english": "What’s the easiest daily phrase to start with?",
+      "georgian": "რომელი ყოველდღიური ფრაზა ჯობს, რომ დავიწყო?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841471"
+    },
+    {
+      "english": "When you’re stuck, what do you do next?",
+      "georgian": "როცა გაჩერდები, მერე რა ქნას?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841475"
+    },
+    {
+      "english": "Can you give me a real example sentence?",
+      "georgian": "მომეცი ერთი რეალური წინადადება, გთხოვ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841477"
+    },
+    {
+      "english": "What’s more polite, “excuse me” or “please”?",
+      "georgian": "რომელი უფრო თავაზიანია, “მაპატიე” თუ “გთხოვ”?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841481"
+    },
+    {
+      "english": "How can I sound natural, without memorizing everything?",
+      "georgian": "როგორ ვილაპარაკო ბუნებრივად, ყველაფრის დამახსოვრების გარეშე?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841484"
+    },
+    {
+      "english": "Do you have time for a quick conversation?",
+      "georgian": "დრო გაქვს მოკლე საუბრისთვის?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841487"
+    },
+    {
+      "english": "What’s a good question to keep practice going?",
+      "georgian": "რომელი შეკითხვა ეხმარება ვარჯიშს რომ არ გაჩერდეს?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841490"
+    },
+    {
+      "english": "Would you ask me something, so I reply?",
+      "georgian": "შეგიძლია რამე მკითხო, რომ მე ვუპასუხო?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841492"
+    },
+    {
+      "english": "If I say it wrong, will you be patient?",
+      "georgian": "თუ ცუდად ვიტყვი, მოთმინებით იქნები?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841495"
+    },
+    {
+      "english": "What should I do today, to improve a bit?",
+      "georgian": "დღეს რა გავაკეთო, რომ ცოტათი გავიუმჯობესო?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841498"
+    },
+    {
+      "english": "One last thing, where can I learn more vocab?",
+      "georgian": "ბოლოს ერთი კითხვა, სად ვისწავლო მეტი ლექსიკა?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841500"
+    },
+    {
+      "english": "You’re improving, even if it’s tiny today.",
+      "georgian": "შენ უმჯობესდები, თუნდაც ცოტა, დღესაც.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841504"
+    },
+    {
+      "english": "Breathe in, reset, then speak Georgian softly.",
+      "georgian": "ჩაისუნთქე, გადატვირთე და მერე ქართულად ნელა თქვი.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841507"
+    },
+    {
+      "english": "Mistakes are practice, not proof you failed.",
+      "georgian": "შეცდომები ვარჯიშია, არა შენი მარცხის მტკიცება.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841510"
+    },
+    {
+      "english": "Keep your goals simple, and you’ll stay consistent.",
+      "georgian": "მიზნები მარტივი გქონდეს, და თანმიმდევრული იქნები.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841514"
+    },
+    {
+      "english": "Say it anyway, your confidence grows fast.",
+      "georgian": "მაინც თქვი, თავდაჯერება სწრაფად მოდის.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841517"
+    },
+    {
+      "english": "Small wins, build big motivation, daily.",
+      "georgian": "პატარა გამარჯვებები, დიდი მოტივაციაა, ყოველდღე.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841520"
+    },
+    {
+      "english": "Listen closely, then answer with your own words.",
+      "georgian": "ყურადღებით მოუსმინე, მერე პასუხი შენი სიტყვებით თქვი.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841523"
+    },
+    {
+      "english": "You’re allowed to learn slowly, no rush.",
+      "georgian": "ნებადართულია ნელა სწავლა, ჩქარობა არ არის.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841526"
+    },
+    {
+      "english": "Today, choose courage, tomorrow you’ll notice growth.",
+      "georgian": "დღეს აირჩიე გამბედაობა, ხვალ ზრდას შენიშნავ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841531"
+    },
+    {
+      "english": "Be proud you tried, even with a messy sentence.",
+      "georgian": "ამაყი იყავი, რომ სცადე, თუნდაც ქაოსური წინადადებით.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841534"
+    },
+    {
+      "english": "Keep showing up, the language notices you back.",
+      "georgian": "გამოიჩინე თანმიმდევრობა, ენა პასუხობს შენთვის.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841538"
+    },
+    {
+      "english": "Your accent will soften with steady practice.",
+      "georgian": "აქცენტი დაგილაგდება სტაბილური ვარჯიშით.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841541"
+    },
+    {
+      "english": "Trust the process, you’re not starting from zero.",
+      "georgian": "ენდვე პროცესს, ნულიდან არ ხარ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841545"
+    },
+    {
+      "english": "Say short sentences, they’re powerful.",
+      "georgian": "მოკლე წინადადებები თქვი, ისინი ძლიერია.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841548"
+    },
+    {
+      "english": "Every repetition makes you braver, mentally.",
+      "georgian": "ყოველი გამეორება გხდის უფრო გაბედულს.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841565"
+    },
+    {
+      "english": "If it’s hard, you’re learning the right thing.",
+      "georgian": "თუ რთულია, სწორ რამეს სწავლობ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841570"
+    },
+    {
+      "english": "Celebrate effort, not just perfect outcomes.",
+      "georgian": "აღნიშნე ძალისხმევა, არა მარტო იდეალური შედეგები.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841572"
+    },
+    {
+      "english": "Stay curious, ask questions in your head first.",
+      "georgian": "იყავი ცნობისმოყვარე, ჯერ თავში დასვი კითხვები.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841575"
+    },
+    {
+      "english": "You’re building a habit, not chasing motivation.",
+      "georgian": "ჩვევას აშენებ, მოტივაციას არ მისდევ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841579"
+    },
+    {
+      "english": "Be gentle with yourself, progress takes time.",
+      "georgian": "ნუ მკაცრობ საკუთარ თავთან, პროგრესი დროს ითხოვს.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841582"
+    },
+    {
+      "english": "Your next try is always better.",
+      "georgian": "შემდეგი მცდელობა ყოველთვის უკეთესია.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841584"
+    },
+    {
+      "english": "Keep going, your brain loves routines.",
+      "georgian": "განაგრძე, ტვინს რუტინა უყვარს.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841587"
+    },
+    {
+      "english": "Say thank you to yourself, then practice again.",
+      "georgian": "თავადვე მადლობა თქვი, მერე კიდევ ივარჯიშე.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841590"
+    },
+    {
+      "english": "You don’t need confidence first, act first.",
+      "georgian": "პირველად რწმენა არ სჭირდება, ჯერ იაქტიურე.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841594"
+    },
+    {
+      "english": "Pick one phrase, repeat it until it feels natural.",
+      "georgian": "აირჩიე ერთი ფრაზა, გაიმეორე, სანამ ბუნებრივად იგრძნობა.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841597"
+    },
+    {
+      "english": "Your effort counts, even when you pause.",
+      "georgian": "შენი ძალისხმევა ითვლის, პაუზაშიც კი.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841599"
+    },
+    {
+      "english": "Stay positive, and corrections become helpful.",
+      "georgian": "დადებითად იფიქრე, და შენიშვნები გეხმარება.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841602"
+    },
+    {
+      "english": "Be bold, Georgian sounds amazing when you try.",
+      "georgian": "გამბედაობა გჭირდება, ქართული მაშინ ლამაზია, როცა ცდილობ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841605"
+    },
+    {
+      "english": "You’re closer than you think, one sentence at a time.",
+      "georgian": "უფრო ახლოს ხარ, ვიდრე ფიქრობ, ერთ წინადადებასთან ერთად.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841609"
+    },
+    {
+      "english": "I feel shy, but I keep speaking anyway.",
+      "georgian": "მრცხვენია, მაგრამ მაინც ვაგრძელებ საუბარს.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841612"
+    },
+    {
+      "english": "Honestly, I’m nervous, yet I won’t stop.",
+      "georgian": "მართლა მეშინია, მაგრამ არ გავჩერდები.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841618"
+    },
+    {
+      "english": "I’m learning slowly, and that’s okay with me.",
+      "georgian": "ნელა ვსწავლობ, და ჩემთვის ეს ნორმალურია.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841622"
+    },
+    {
+      "english": "Some days are heavy, still I try.",
+      "georgian": "ზოგი დღე მძიმეა, მაგრამ მაინც ვცდილობ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841624"
+    },
+    {
+      "english": "Patience, I tell myself, progress takes time.",
+      "georgian": "მშვიდობა, ვეუბნები თავს, წინსვლა დროს სჭირდება.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841628"
+    },
+    {
+      "english": "I listen first, then my words arrive.",
+      "georgian": "პირველად ვუსმენ, მერე სიტყვები მოდის.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841630"
+    },
+    {
+      "english": "I don’t need perfect, I need honest practice.",
+      "georgian": "სრულყოფილი არ მჭირდება, გულწრფელი ვარჯიში მჭირდება.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841634"
+    },
+    {
+      "english": "When I misspeak, I learn something real.",
+      "georgian": "როცა ვცდები, რაღაც ნამდვილს ვიგებ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841636"
+    },
+    {
+      "english": "I’m proud of myself, for trying again.",
+      "georgian": "ჩემს თავს ვამაყობ, ისევ რომ ვცადე.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841640"
+    },
+    {
+      "english": "I can be soft, while I keep working.",
+      "georgian": "მხოლოდ რბილი არ უნდა ვიყო, მაინც ვიმუშავო.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841643"
+    },
+    {
+      "english": "My heart is tense, but my effort stays.",
+      "georgian": "გული მეჭიმება, მაგრამ მცდელობა გრძელდება.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841646"
+    },
+    {
+      "english": "I’m not behind, I’m just moving steadily.",
+      "georgian": "ჩამოვრჩენილი არ ვარ, უბრალოდ სტაბილურად მივდივარ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841649"
+    },
+    {
+      "english": "I trust the small steps, they add up.",
+      "georgian": "მცირე ნაბიჯებს ვენდობი, ჯამდება ყველაფერი.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841652"
+    },
+    {
+      "english": "I feel closer, even if it’s messy.",
+      "georgian": "უფრო ახლოს ვგრძნობ თავს, თუნდაც აერია.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841659"
+    },
+    {
+      "english": "Today I choose calm, then speak clearly.",
+      "georgian": "დღეს სიმშვიდეს ვირჩევ, მერე ნათლად ვლაპარაკობ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841662"
+    },
+    {
+      "english": "I’ll take it one sentence, one breath at a time.",
+      "georgian": "ერთ წინადადებას, ერთ ამოსუნთქვას, ისე ვაკეთებ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841665"
+    },
+    {
+      "english": "I’m honest about my level, then I improve.",
+      "georgian": "ჩემს დონეს გულწრფელად ვაღიარებ, მერე ვუმჯობესდები.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841669"
+    },
+    {
+      "english": "Let my fear talk, I’ll still try.",
+      "georgian": "შიშმა რომ ილაპარაკოს, მაინც ვეცდები.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841672"
+    },
+    {
+      "english": "I don’t compare, I notice my own progress.",
+      "georgian": "არ ვადარებ თავს, ჩემს პროგრესს ვამჩნევ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841675"
+    },
+    {
+      "english": "I keep it real, practice beats perfection.",
+      "georgian": "რეალობას ვიტოვებ, ვარჯიში სჯობია სრულყოფას.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841678"
+    },
+    {
+      "english": "I reflect quietly, then I ask for corrections.",
+      "georgian": "ჩუმად ვფიქრდები, მერე ვთხოვ შესწორებას.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841681"
+    },
+    {
+      "english": "I’m okay with not knowing, I’ll build it.",
+      "georgian": "არ ვიცი, მაინც ნორმალურია, ავაშენებ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841684"
+    },
+    {
+      "english": "My motivation grows when I stay truthful.",
+      "georgian": "მოტივაცია მიძლიერდება, როცა გულწრფელი ვრჩები.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841687"
+    },
+    {
+      "english": "I write feelings in Georgian, short and simple.",
+      "georgian": "ვწერ ჩემს გრძნობებს ქართულად, მოკლედ და მარტივად.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841690"
+    },
+    {
+      "english": "I’m not rushing, I’m learning to breathe.",
+      "georgian": "არ ვჩქარობ, ვსწავლობ სუნთქვას.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841693"
+    },
+    {
+      "english": "I feel stuck, but my next step is small.",
+      "georgian": "ჩავეჭიდე, მაგრამ შემდეგი ნაბიჯი პატარაა.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841696"
+    },
+    {
+      "english": "I forgive myself, then I repeat the phrase.",
+      "georgian": "ვპატიობ თავს, მერე იმ ფრაზას ვიმეორებ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841698"
+    },
+    {
+      "english": "I keep my chin up, language takes courage.",
+      "georgian": "თავაწეულს ვინარჩუნებ, ენა გამბედაობას ითხოვს.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841701"
+    },
+    {
+      "english": "Even one sentence can change my day.",
+      "georgian": "ერთმა წინადადებამაც კი შეიძლება შეცვალოს დღე.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841704"
+    },
+    {
+      "english": "Morning note, write one Georgian sentence.",
+      "georgian": "დილით ჩანაწერი, დაწერე ერთი წინადადება ქართულად.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841706"
+    },
+    {
+      "english": "Before shopping, learn one useful phrase.",
+      "georgian": "სანამ იყიდი, ისწავლე ერთი სასარგებლო ფრაზა.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841709"
+    },
+    {
+      "english": "When someone asks, answer slowly, clearly.",
+      "georgian": "როცა გეკითხებიან, უპასუხე ნელა, მკაფიოდ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T09:26:46.841712"
     }
   ],
-  "last_updated": "2026-11-06T10:08:45.105061"
+  "last_updated": "2026-11-07T09:26:46.841714"
 }
