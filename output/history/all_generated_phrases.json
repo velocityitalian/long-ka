@@ -15119,7 +15119,727 @@
       "georgian": "როცა გეკითხებიან, უპასუხე ნელა, მკაფიოდ.",
       "category": "Inspiration",
       "generated_at": "2026-11-07T09:26:46.841712"
+    },
+    {
+      "english": "Yeah, that makes sense, I agree",
+      "georgian": "კი, ეგ მართლა ლოგიკურია, ვეთანხმები",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475578"
+    },
+    {
+      "english": "Exactly, you’re right on that",
+      "georgian": "ზუსტად, მაგაში მართალი ხარ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475596"
+    },
+    {
+      "english": "Sure, let’s do it, no problem",
+      "georgian": "კი რა, გავაკეთოთ, პრობლემა არაა",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475600"
+    },
+    {
+      "english": "Totally, that’s exactly how it feels",
+      "georgian": "სრულიად, ზუსტად ასე მიგრძნია",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475603"
+    },
+    {
+      "english": "Of course, I’m with you on this",
+      "georgian": "რა თქმა უნდა, ამაში შენთან ვარ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475607"
+    },
+    {
+      "english": "Absolutely, that’s the right move",
+      "georgian": "აბსოლუტურად, ეგ სწორი ნაბიჯია",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475610"
+    },
+    {
+      "english": "Maybe, but I’m not completely sure",
+      "georgian": "შეიძლება, მაგრამ ბოლომდე არ ვარ დარწმუნებული",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475615"
+    },
+    {
+      "english": "I think so, but let me double-check",
+      "georgian": "მგონია, მაგრამ შევამოწმებ ჯერ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475622"
+    },
+    {
+      "english": "I guess, that sounds reasonable",
+      "georgian": "ვფიქრობ, ეგ ლოგიკური ჟღერს",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475626"
+    },
+    {
+      "english": "Right, that’s what I was thinking",
+      "georgian": "კი, ეგ მომივიდა თავში",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475629"
+    },
+    {
+      "english": "Okay, I’m on board, let’s go",
+      "georgian": "კარგი, თანახმა ვარ, წავიდეთ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475633"
+    },
+    {
+      "english": "No way, I really don’t agree",
+      "georgian": "გამორიცხულია, ნამდვილად არ ვეთანხმები",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475636"
+    },
+    {
+      "english": "Not really, I see it differently",
+      "georgian": "ნამდვილად არა, სხვანაირად ვხედავ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475638"
+    },
+    {
+      "english": "I don’t think so, sorry",
+      "georgian": "არ მგონია, ბოდიში",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475642"
+    },
+    {
+      "english": "Hmm, I’m not sure about that",
+      "georgian": "ჰმ, მაგაში არ ვარ დარწმუნებული",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475645"
+    },
+    {
+      "english": "I’m not with you on that one",
+      "georgian": "ამაში ვერ დაგეთანხმები",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475648"
+    },
+    {
+      "english": "Actually, that’s not what I meant",
+      "georgian": "სინამდვილეში, ეს ის არ ვიგულისხმე",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475651"
+    },
+    {
+      "english": "I get it, but I still disagree",
+      "georgian": "მესმის, მაგრამ მაინც არ ვეთანხმები",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475653"
+    },
+    {
+      "english": "Yeah, but that’s not the whole story",
+      "georgian": "კი, მაგრამ ყველაფერი ასე არ არის",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475656"
+    },
+    {
+      "english": "Let’s be honest, I disagree",
+      "georgian": "დავაზუსტოთ, მართალი არ ხარ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475659"
+    },
+    {
+      "english": "That won’t work, trust me",
+      "georgian": "არ გამოდის, მომისმინე",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475663"
+    },
+    {
+      "english": "No, not like that, listen",
+      "georgian": "არა, ასე არა, მოუსმინე",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475665"
+    },
+    {
+      "english": "I hear you, but I’m cautious",
+      "georgian": "გესმის, მაგრამ ფრთხილად ვარ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475668"
+    },
+    {
+      "english": "I’m afraid, that’s not a good idea",
+      "georgian": "მეშინია, ეგ კარგი იდეა არ არის",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475671"
+    },
+    {
+      "english": "That’s true, I’ve noticed it too",
+      "georgian": "მართალია, მეც ასე შევამჩნიე",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475674"
+    },
+    {
+      "english": "True, but we should slow down",
+      "georgian": "კი, მაგრამ დრო ცოტა მივცეთ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475676"
+    },
+    {
+      "english": "Exactly, keep it simple",
+      "georgian": "ზუსტად, გამარტივე",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475678"
+    },
+    {
+      "english": "Come on, that’s not how it goes",
+      "georgian": "რა გინდა, ასე არ არის საქმე",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475681"
+    },
+    {
+      "english": "Agreed, that’s the best option",
+      "georgian": "ვეთანხმები, ეს საუკეთესო ვარიანტია",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475684"
+    },
+    {
+      "english": "Disagree, I’d rather wait a bit",
+      "georgian": "ვეთანხმები? არა, მე დაველოდები ცოტას",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475686"
+    },
+    {
+      "english": "Do you really think that’s the best idea?",
+      "georgian": "მართლა გგონია, რომ ეს საუკეთესო იდეაა?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475690"
+    },
+    {
+      "english": "I might be wrong, what do you think?",
+      "georgian": "შეიძლება ვცდები, შენ რას ფიქრობ?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475693"
+    },
+    {
+      "english": "Would you mind explaining why you disagree?",
+      "georgian": "მომიყევი, რატომ არ ეთანხმები, გთხოვ?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475695"
+    },
+    {
+      "english": "Honestly, I like your take on this.",
+      "georgian": "მართლა მომწონს შენი აზრი ამაზე.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475698"
+    },
+    {
+      "english": "Let’s hear you out, then I’ll respond.",
+      "georgian": "მოდი, მომისმინე, მერე მე ვუპასუხებ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475702"
+    },
+    {
+      "english": "I’m curious, is that what you usually do?",
+      "georgian": "ინტერესით, ამას ხომ ჩვეულებრივ აკეთებ?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475707"
+    },
+    {
+      "english": "I get your point, but I’m leaning no.",
+      "georgian": "ვხვდები რას ამბობ, მაგრამ უარს ვიხრები.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475710"
+    },
+    {
+      "english": "If we try it, will you support me?",
+      "georgian": "თუ შევცდით, დამიდგები გვერდით?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475712"
+    },
+    {
+      "english": "You’re not wrong, I just see it differently.",
+      "georgian": "შენც მართალი ხარ, უბრალოდ სხვანაირად ვუყურებ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475716"
+    },
+    {
+      "english": "Do you want my honest opinion, or just vibes?",
+      "georgian": "გინდა გულწრფელი აზრი, თუ უბრალოდ ატმოსფერო?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475718"
+    },
+    {
+      "english": "I’m into it, but I’d tweak one thing.",
+      "georgian": "მომწონს, მაგრამ ერთს შევცვლი.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475721"
+    },
+    {
+      "english": "Before you decide, can we talk it through?",
+      "georgian": "გადაწყვეტამდე, მოვილაპარაკოთ ბოლომდე?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475724"
+    },
+    {
+      "english": "You know, I agree, but not fully.",
+      "georgian": "იცი, ვეთანხმები, მაგრამ ბოლომდე არა.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475727"
+    },
+    {
+      "english": "Let me ask you this, what’s your reason?",
+      "georgian": "ერთი რამ გკითხო, რა არის შენი მიზეზი?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475730"
+    },
+    {
+      "english": "I hear you, and honestly, I’m tempted.",
+      "georgian": "გესმის შენსას, და მართლა მიმიზიდავს.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475733"
+    },
+    {
+      "english": "I’m not against it, I just need details.",
+      "georgian": "ამის წინააღმდეგი არ ვარ, უბრალოდ დეტალები მინდა.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475736"
+    },
+    {
+      "english": "Do you think we should move slower, tonight?",
+      "georgian": "დღეს ღამით, გგონია რომ ნელა წავიდეთ?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475738"
+    },
+    {
+      "english": "I totally see the appeal, but not for me.",
+      "georgian": "ვხედავ რატომაც მოგწონს, მაგრამ ჩემთვის არა.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475741"
+    },
+    {
+      "english": "Can I be honest, I don’t fully buy it.",
+      "georgian": "გულწრფელად გეტყვი, ბოლომდე ვერ ვიჯერებ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475744"
+    },
+    {
+      "english": "Your idea sounds fun, but I’m unsure.",
+      "georgian": "შენი იდეა სახალისოდ ჟღერს, მაგრამ მიჭირს.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475748"
+    },
+    {
+      "english": "What if we compromise, like half and half?",
+      "georgian": "თუ შევთანხმდეთ კომპრომისზე, ნახევარი-ნახევარი?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475750"
+    },
+    {
+      "english": "I agree with your vibe, but the plan?",
+      "georgian": "შენს ტონს ვეთანხმები, მაგრამ გეგმა როგორ?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475753"
+    },
+    {
+      "english": "Could you explain, why this doesn’t sit right?",
+      "georgian": "მომიყევი, რატომ არ გემოვნებათ ასე?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475756"
+    },
+    {
+      "english": "Let’s check facts first, then we decide.",
+      "georgian": "ჯერ ფაქტები შევამოწმოთ, მერე გადავწყვიტოთ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475759"
+    },
+    {
+      "english": "I’m with you on the goal, not the method.",
+      "georgian": "მიზანს გეთანხმები, მაგრამ მეთოდს არა.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475762"
+    },
+    {
+      "english": "So, you’re saying it’s a bad move?",
+      "georgian": "ანუ, შენ ამბობ, რომ ცუდი ნაბიჯია?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475765"
+    },
+    {
+      "english": "Would you be down to try my suggestion?",
+      "georgian": "შეგიძლია სცადო ჩემი წინადადება?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475767"
+    },
+    {
+      "english": "I’d rather not, but what’s your alternative?",
+      "georgian": "მე ასე არ მირჩევნია, მაგრამ რა გირჩევნია სხვას?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475771"
+    },
+    {
+      "english": "Can we keep it playful, but still respectful?",
+      "georgian": "ხალისიანად შევინარჩუნოთ, მაინც პატივისცემით?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475773"
+    },
+    {
+      "english": "Good call, I’m on the same page.",
+      "georgian": "კარგი აზრია, მე და შენ ერთ გვერდზე ვართ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475776"
+    },
+    {
+      "english": "That’s fair, I support the positive direction.",
+      "georgian": "სამართლიანია, მე მხარს ვუჭერ პოზიტიურ მიმართულებას.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475779"
+    },
+    {
+      "english": "I’m with you, this mindset feels strong.",
+      "georgian": "მე შენთან ვარ, ეს განწყობა ძლიერია.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475782"
+    },
+    {
+      "english": "Absolutely, small steps beat big talk.",
+      "georgian": "აბსოლუტურად, პატარა ნაბიჯები სჯობია დიდ ლაპარაკს.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475785"
+    },
+    {
+      "english": "I like your energy, and I agree.",
+      "georgian": "მომწონს შენი ენერგია, და ვეთანხმები.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475788"
+    },
+    {
+      "english": "Totally, confidence comes from trying first.",
+      "georgian": "ზუსტად, თავდაჯერება ჯერ ცდით მოდის.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475791"
+    },
+    {
+      "english": "You’re right, I’ll back that win.",
+      "georgian": "მართალი ხარ, მე ამას მხარს დავუჭერ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475794"
+    },
+    {
+      "english": "That sounds smart, I’m in.",
+      "georgian": "ეს ჭკვიანურად ჟღერს, მეც დავთანხმდები.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475798"
+    },
+    {
+      "english": "Yes, praise works, let’s do that.",
+      "georgian": "კი, ქება მუშაობს, გავაკეთოთ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475801"
+    },
+    {
+      "english": "I agree, even tough days can grow us.",
+      "georgian": "ვეთანხმები, რთული დღეც კი გვზრდის.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475804"
+    },
+    {
+      "english": "I’m not fully convinced, but I respect it.",
+      "georgian": "მთლად დარწმუნებული არ ვარ, მაგრამ პატივს ვცემ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475807"
+    },
+    {
+      "english": "I get the idea, I still disagree.",
+      "georgian": "იდეას ვხვდები, მაგრამ მაინც არ ვეთანხმები.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475809"
+    },
+    {
+      "english": "Not sure, I’d rather trust evidence.",
+      "georgian": "ეჭვი მაქვს, მირჩევნია ფაქტებს დავუჯერო.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475812"
+    },
+    {
+      "english": "That’s kind, but I’m choosing different words.",
+      "georgian": "კეთილია, მაგრამ სხვანაირად ვიტყვი.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475816"
+    },
+    {
+      "english": "We can agree on effort, not results.",
+      "georgian": "ძალისხმაზე შეგვიძლია შევთანხმდეთ, შედეგზე — არა.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475818"
+    },
+    {
+      "english": "I’m leaning no, because timing matters.",
+      "georgian": "მგონია არა, რადგან დრო მნიშვნელოვანია.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475821"
+    },
+    {
+      "english": "That’s motivating, but I’d adjust the plan.",
+      "georgian": "ეს მამხნევებს, მაგრამ გეგმას შევცვლი.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475824"
+    },
+    {
+      "english": "I respect you, I just see it differently.",
+      "georgian": "გაფასებ, უბრალოდ სხვანაირად ვხედავ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475827"
+    },
+    {
+      "english": "Let’s stay positive, but be realistic too.",
+      "georgian": "პოზიტიური ვიყოთ, მაგრამ რეალისტურიც.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475830"
+    },
+    {
+      "english": "I’m down for it, just not today.",
+      "georgian": "მზად ვარ, უბრალოდ დღეს არა.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475833"
+    },
+    {
+      "english": "I like the encouragement, yet I pause.",
+      "georgian": "მომწონს წახალისება, მაგრამ შევჩერდები.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475836"
+    },
+    {
+      "english": "Fair point, I’ll try again tomorrow.",
+      "georgian": "კარგი არგუმენტია, ხვალ კიდევ ვცდი.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475839"
+    },
+    {
+      "english": "I’m impressed, but I’m not convinced yet.",
+      "georgian": "გამიკვირდა, მაგრამ ჯერ ბოლომდე არ მჯერა.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475842"
+    },
+    {
+      "english": "Yes, keep your head up, you’ve got this.",
+      "georgian": "კი, თავი მაღლა გქონდეს, შენ შეგიძლია.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475846"
+    },
+    {
+      "english": "No harm in trying, but cautiously.",
+      "georgian": "ცდისას ზიანი არაა, მაგრამ ფრთხილად.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475848"
+    },
+    {
+      "english": "I’m all for progress, not shortcuts.",
+      "georgian": "მხოლოდ პროგრესს ვემხრობი, მოკლე გზებს არა.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475851"
+    },
+    {
+      "english": "I disagree, encouragement won’t replace a plan.",
+      "georgian": "არ გეთანხმები, წახალისება გეგმის ადგილს ვერ დაიკავებს.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475855"
+    },
+    {
+      "english": "You nailed it, this is the right tone.",
+      "georgian": "ზუსტად მოარტყი, სწორი ტონია.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475857"
+    },
+    {
+      "english": "I hear you, but I want stronger proof.",
+      "georgian": "მესმის შენი, მაგრამ უფრო ძლიერ მტკიცებულებას მინდა.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475860"
+    },
+    {
+      "english": "Let’s agree to learn, then decide together.",
+      "georgian": "შევთანხმდეთ სწავლაზე, მერე ერთად გადავწყვიტოთ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475863"
+    },
+    {
+      "english": "I feel seen, that matters to me.",
+      "georgian": "მე ვგრძნობ თავს დანახულად, ეს მნიშვნელოვანია ჩემთვის.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475866"
+    },
+    {
+      "english": "I’m with you emotionally, just not yet.",
+      "georgian": "ემოციურად შენთან ვარ, ჯერ არა.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475868"
+    },
+    {
+      "english": "That’s true, I just need time.",
+      "georgian": "მართალია, უბრალოდ დრო მჭირდება.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475873"
+    },
+    {
+      "english": "I get it, and I respect your pace.",
+      "georgian": "ვხვდები, და პატივს ვცემ შენს ტემპს.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475875"
+    },
+    {
+      "english": "Yes, it feels right, for real.",
+      "georgian": "კი, მართლა სწორად მეჩვენება.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475878"
+    },
+    {
+      "english": "I’m not sure, my gut is cautious.",
+      "georgian": "ვერ დავრწმუნდი, ჩემი გული ფრთხილია.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475881"
+    },
+    {
+      "english": "I appreciate you, I’m just slower.",
+      "georgian": "მიყვარხარ და მადლობას გიხდი, მე უბრალოდ ნელა.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475884"
+    },
+    {
+      "english": "I agree, and I’ll show up consistently.",
+      "georgian": "ვეთანხმები, და თანმიმდევრულად მოვალ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475887"
+    },
+    {
+      "english": "No, I’m holding back, it’s personal.",
+      "georgian": "არა, ვიკავებ თავს, პირადულია.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475892"
+    },
+    {
+      "english": "Honestly, I love the intention, though.",
+      "georgian": "სიმართლე რომ ვთქვა, განზრახვა მომწონს, მაგრამ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475895"
+    },
+    {
+      "english": "I hear you, still, I’m not ready.",
+      "georgian": "გისმენ, მაგრამ ჯერ მზად არ ვარ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475899"
+    },
+    {
+      "english": "That’s fair, I just need kinder timing.",
+      "georgian": "სამართლიანია, უბრალოდ უფრო კეთილი დრო მინდა.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475902"
+    },
+    {
+      "english": "I’m on board, but let’s keep it honest.",
+      "georgian": "მზად ვარ, მაგრამ მოდი გულწრფელად დავრჩეთ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475905"
+    },
+    {
+      "english": "I disagree, I think we’re rushing it.",
+      "georgian": "ვერ ვეთანხმები, მგონია რომ გვეჩქარება.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475908"
+    },
+    {
+      "english": "You’re right, and I’ll be patient.",
+      "georgian": "მართალი ხარ, მეც მოთმინებით მოვიქცევი.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475911"
+    },
+    {
+      "english": "I’m with you, but I need clearer words.",
+      "georgian": "შენთან ვარ, მაგრამ უფრო მკაფიო სიტყვები მინდა.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475914"
+    },
+    {
+      "english": "Totally, I can feel that trust building.",
+      "georgian": "სრულად, ვგრძნობ ნდობის ზრდას.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475916"
+    },
+    {
+      "english": "I don’t hate it, but it doesn’t fit me.",
+      "georgian": "არ მძულს, მაგრამ არ მიწდება.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475920"
+    },
+    {
+      "english": "I’m leaning yes, but I’m watching details.",
+      "georgian": "კი-სკენ ვიხრები, მაგრამ დეტალებს ვაკვირდები.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475923"
+    },
+    {
+      "english": "Nope, I’m not feeling this direction.",
+      "georgian": "არა, ამ მიმართულებას ვერ ვგრძნობ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475926"
+    },
+    {
+      "english": "I respect your view, and I’ll think.",
+      "georgian": "პატივს ვცემ შენს აზრს, და ვიფიქრებ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475929"
+    },
+    {
+      "english": "Yes, that’s my kind of calm.",
+      "georgian": "კი, ეს ჩემი სტილის სიმშვიდეა.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475932"
+    },
+    {
+      "english": "I’m disagreeing gently, because I care.",
+      "georgian": "მე ნაზად არ ვეთანხმები, რადგან მიყვარხარ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475935"
+    },
+    {
+      "english": "I’m okay with it, as long as we grow.",
+      "georgian": "კი ვთანხმდები, თუ მხოლოდ გავიზრდებით.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475938"
+    },
+    {
+      "english": "I get your point, still, I’m skeptical.",
+      "georgian": "ვხვდები რას ამბობ, მაინც სკეპტიკურად ვარ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475941"
+    },
+    {
+      "english": "I agree, but I’ll need a softer approach.",
+      "georgian": "ვეთანხმები, მაგრამ უფრო რბილი მიდგომა მჭირდება.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475943"
+    },
+    {
+      "english": "Honestly? I’m excited, but cautious too.",
+      "georgian": "სიმართლე? მახარებს, მაგრამ ფრთხილიც ვარ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475947"
+    },
+    {
+      "english": "I’m not against you, I’m protecting my peace.",
+      "georgian": "შენ წინააღმდეგი არა ვარ, უბრალოდ მშვიდობას ვიცავ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475950"
+    },
+    {
+      "english": "Yes, I’m ready, as long as it’s respectful.",
+      "georgian": "კი, მზად ვარ, თუ პატივისცემით იქნება.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475953"
+    },
+    {
+      "english": "I disagree, because I want truth over speed.",
+      "georgian": "არ ვეთანხმები, სიმართლე მინდა სისწრაფეზე მეტად.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475956"
+    },
+    {
+      "english": "Sounds good, let’s try it step by step.",
+      "georgian": "კარგად ჟღერს, მოდი, ნაბიჯ-ნაბიჯ ვცადოთ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-08T09:43:26.475959"
     }
   ],
-  "last_updated": "2026-11-07T09:26:46.841714"
+  "last_updated": "2026-11-08T09:43:26.475961"
 }
