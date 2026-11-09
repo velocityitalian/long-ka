@@ -15839,7 +15839,727 @@
       "georgian": "კარგად ჟღერს, მოდი, ნაბიჯ-ნაბიჯ ვცადოთ.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-11-08T09:43:26.475959"
+    },
+    {
+      "english": "Got a minute, want to talk hobbies?",
+      "georgian": "შენ გაქვს ერთი წუთი, გინდა ჰობებზე ვისაუბროთ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174574"
+    },
+    {
+      "english": "What do you do for fun, lately?",
+      "georgian": "ბოლოს რითი გართობთ თავს?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174588"
+    },
+    {
+      "english": "I’m usually free on weekends, what about you?",
+      "georgian": "ჩვეულებრივ შაბათ-კვირას თავისუფალი ვარ, შენ როგორ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174592"
+    },
+    {
+      "english": "Quick question, do you have a hobby?",
+      "georgian": "მოკლე კითხვა, ჰობი გაქვს?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174595"
+    },
+    {
+      "english": "Nice, I’m into that kind of stuff.",
+      "georgian": "კარგია, მაგ ტიპის საქმეებში ვარ ჩართული.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174597"
+    },
+    {
+      "english": "Wait, tell me more about your hobby.",
+      "georgian": "მომისმინე, უფრო მომიყევი ჰობის შესახებ.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174600"
+    },
+    {
+      "english": "That sounds fun, I’d try it.",
+      "georgian": "ეს ძალიან სახალისოა, მეც მოვინდომებ.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174604"
+    },
+    {
+      "english": "I’m bored, let’s do something later.",
+      "georgian": "მომბეზრდა, მოგვიანებით რამე გავაკეთოთ.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174609"
+    },
+    {
+      "english": "How often do you practice that?",
+      "georgian": "რამდენად ხშირად აკეთებ ამას?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174613"
+    },
+    {
+      "english": "I usually unwind with music, what about you?",
+      "georgian": "ჩვეულებრივ მუსიკით ვიმშვიდებ თავს, შენ როგორ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174615"
+    },
+    {
+      "english": "Do you want to join me this evening?",
+      "georgian": "ამ საღამოს შემოგიერთდები, გინდა?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174617"
+    },
+    {
+      "english": "Hold on, I’ll check my schedule.",
+      "georgian": "მოიცა, შევამოწმებ ჩემს გეგმას.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174620"
+    },
+    {
+      "english": "Sounds good, let’s meet after work.",
+      "georgian": "კარგად ჟღერს, ვნახოთ სამსახურის მერე.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174622"
+    },
+    {
+      "english": "I’m free right now, what’s up?",
+      "georgian": "ახლა თავისუფალი ვარ, რა ხდება?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174625"
+    },
+    {
+      "english": "I’m looking for a new hobby, any ideas?",
+      "georgian": "ახალ ჰობს ვეძებ, რაიმე იდეა გაქვს?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174627"
+    },
+    {
+      "english": "That’s actually my favorite pastime.",
+      "georgian": "ეს პირდაპირ ჩემი საყვარელი გართობაა.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174630"
+    },
+    {
+      "english": "Let’s keep it simple, coffee first?",
+      "georgian": "მარტივად გავაკეთოთ, ყავა ჯერ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174632"
+    },
+    {
+      "english": "I’m trying something new this weekend.",
+      "georgian": "ამ შაბათ-კვირას რაღაც ახალს ვცდი.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174634"
+    },
+    {
+      "english": "What do you usually do for relaxation?",
+      "georgian": "ჩვეულებრივ რით ისვენებ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174636"
+    },
+    {
+      "english": "Honestly, I don’t have much time.",
+      "georgian": "მართალი გითხრა, დიდად დრო არ მაქვს.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174639"
+    },
+    {
+      "english": "Really, you’re that good? Wow!",
+      "georgian": "მართლა? შენ ისეთი კარგი ხარ? ვაიმე!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174641"
+    },
+    {
+      "english": "I’ll bring my stuff, you’re welcome too.",
+      "georgian": "მე მოვიტან ყველაფერს, შენც კეთილი იყოს.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174644"
+    },
+    {
+      "english": "Let’s take a break, walk for ten minutes.",
+      "georgian": "მოდით შევისვენოთ, ათ წუთში გავისეირნოთ.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174646"
+    },
+    {
+      "english": "Do you prefer indoor or outdoor activities?",
+      "georgian": "შენ ურჩევნია შიდა თუ გარეთ აქტივობები?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174648"
+    },
+    {
+      "english": "I’m into it, tell me where to start.",
+      "georgian": "გამომდის, მითხარი სად დავიწყო.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174651"
+    },
+    {
+      "english": "Not today, maybe tomorrow, I’m wiped out.",
+      "georgian": "არა დღეს, იქნებ ხვალ, ძალა აღარ მაქვს.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174653"
+    },
+    {
+      "english": "That’s a great plan, I’m in.",
+      "georgian": "ეს კარგი გეგმაა, მეც ვერთვები.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174656"
+    },
+    {
+      "english": "We can swap ideas over lunch, sometime.",
+      "georgian": "ლანჩზე იდეებს გავცვლით, რაღაც დროს.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174658"
+    },
+    {
+      "english": "Want to hang out, nothing serious?",
+      "georgian": "გინდა გავსეირნოთ, არაფერია სერიოზული?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174668"
+    },
+    {
+      "english": "Any local classes for hobbies, nearby?",
+      "georgian": "აქვე, სად შეიძლება ჰობიზე კურსები?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174671"
+    },
+    {
+      "english": "What do you do after work, usually?",
+      "georgian": "სამუშაოს მერე ჩვეულებრივ რას აკეთებ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174673"
+    },
+    {
+      "english": "Do you have a favorite weekend routine?",
+      "georgian": "შაბათ-კვირას შენი საყვარელი რუტინა რა არის?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174675"
+    },
+    {
+      "english": "How’s your free time been lately?",
+      "georgian": "ბოლო დროს თავისუფალ დროს რას აკეთებ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174678"
+    },
+    {
+      "english": "Can you recommend something beginner-friendly?",
+      "georgian": "რაღაც ახალბედისთვის მარტივი თუ მირჩევ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174680"
+    },
+    {
+      "english": "Where do you go, to unwind in Tbilisi?",
+      "georgian": "თბილისში სად დადიხარ დასასვენებლად?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174682"
+    },
+    {
+      "english": "Do you prefer solo activities, or with friends?",
+      "georgian": "უფრო მარტო აკეთებ, თუ მეგობრებთან?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174684"
+    },
+    {
+      "english": "Which hobby is worth the money, in your view?",
+      "georgian": "რომელი ჰობია, შენს აზრით, ღირს ფულად?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174687"
+    },
+    {
+      "english": "What’s your go-to hobby on rainy days?",
+      "georgian": "წვიმიან დღეს შენი საყვარელი ჰობი რა არის?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174689"
+    },
+    {
+      "english": "Any advice for finding local groups to join?",
+      "georgian": "ადგილობრივ ჯგუფებს სად ვიპოვო, რას მირჩევ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174691"
+    },
+    {
+      "english": "Do you ever try new activities, or stay with one?",
+      "georgian": "ახალს თუ ცდი ხოლმე, ან ერთს ემყარები?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174693"
+    },
+    {
+      "english": "What time do you usually start your weekend?",
+      "georgian": "შაბათ-კვირას ჩვეულებრივ რა საათზე იწყებ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174695"
+    },
+    {
+      "english": "Is there a quiet hobby you recommend?",
+      "georgian": "მშვიდი ჰობი თუ გაქვს რეკომენდაცია?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174698"
+    },
+    {
+      "english": "How did you get into your hobby, first?",
+      "georgian": "შენი ჰობი თავიდან როგორ დაიწყე?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174700"
+    },
+    {
+      "english": "Do you practice at home, or somewhere else?",
+      "georgian": "სახლში ვარჯიშობ, თუ სხვაგან?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174702"
+    },
+    {
+      "english": "What’s the easiest hobby to start quickly?",
+      "georgian": "სწრაფად რომ დაიწყოს ყველაზე მარტივი ჰობი რომელიაო?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174704"
+    },
+    {
+      "english": "Can I ask, what’s your favorite pastime?",
+      "georgian": "მომცემ ნებას, რა არის შენი საყვარელი გართობა?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174707"
+    },
+    {
+      "english": "Do you like events, or prefer staying in?",
+      "georgian": "ღონისძიებებს ანიჭებ უპირატესობას, თუ სახლში რჩები?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174709"
+    },
+    {
+      "english": "Any must-try places for hobby shopping nearby?",
+      "georgian": "სად ვიშოვო ჰობიზე საჭიროები, ახლოს?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174711"
+    },
+    {
+      "english": "What helps you focus, when you have time?",
+      "georgian": "როდესაც დრო გაქვს, რა გეხმარება კონცენტრაციაში?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174714"
+    },
+    {
+      "english": "Would you join a casual weekend workshop?",
+      "georgian": "კი, casual შაბათ-კვირის ვორქშოპში ხომ არ მოხვალ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174717"
+    },
+    {
+      "english": "What’s your most relaxing hobby these days?",
+      "georgian": "ბოლო დროს, რა ჰობი გიწყობს ყველაზე მეტად მოდუნებას?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174720"
+    },
+    {
+      "english": "Do you set goals for hobbies, or just enjoy?",
+      "georgian": "ჰობებზე მიზნებს აწყობ, თუ უბრალოდ სიამოვნებ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174724"
+    },
+    {
+      "english": "Any Georgian phrases to ask about classes?",
+      "georgian": "როგორ ვკითხო კურსებზე, რა ფრაზები მჭირდება?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174726"
+    },
+    {
+      "english": "Is your hobby active, or more creative?",
+      "georgian": "ჰობი აქტიურია, თუ უფრო შემოქმედებითი?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174728"
+    },
+    {
+      "english": "Where do you find time for hobbies, honestly?",
+      "georgian": "სიმართლე რომ ვთქვა, სად პოულობ დროს ჰობისთვის?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174730"
+    },
+    {
+      "english": "Do you have a quiet spot to practice?",
+      "georgian": "სადმე მშვიდი ადგილი გაქვს პრაქტიკისთვის?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174732"
+    },
+    {
+      "english": "What hobby would you try next, if any?",
+      "georgian": "ახლა თუ აირჩევდი, შემდეგ რა ჰობს სცდი?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174735"
+    },
+    {
+      "english": "Can we trade ideas, what you’re into lately?",
+      "georgian": "მოდით იდეებს გავცვალოთ, რაში ხარ ახლა?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174737"
+    },
+    {
+      "english": "What’s a simple hobby that boosts your mood?",
+      "georgian": "რა მარტივი ჰობი გიუმჯობესებს ხასიათს?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174740"
+    },
+    {
+      "english": "You’ve got this, start with one small step.",
+      "georgian": "გამოგივა, დაიწყე ერთი პატარა ნაბიჯით.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174744"
+    },
+    {
+      "english": "Nice job, keep going, you’re improving fast.",
+      "georgian": "კარგია, გააგრძელე, სწრაფად უმჯობესდები.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174748"
+    },
+    {
+      "english": "Even beginners learn, just be consistent.",
+      "georgian": "მაშინაც კი, დამწყებებიც სწავლობენ, უბრალოდ თანმიმდევრული იყავი.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174750"
+    },
+    {
+      "english": "Don’t rush, let it take time.",
+      "georgian": "არ იჩქარო, მიეცი დრო.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174752"
+    },
+    {
+      "english": "Good thinking, hobbies grow when you enjoy them.",
+      "georgian": "კარგი აზრია, ჰობი იზრდება, როცა გსიამოვნებს.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174755"
+    },
+    {
+      "english": "Praise yourself, progress is still progress.",
+      "georgian": "თავი შეაქე, წინსვლა მაინც წინსვლაა.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174757"
+    },
+    {
+      "english": "Try again tomorrow, today was just practice.",
+      "georgian": "ხვალ თავიდან სცადე, დღეს უბრალოდ ვარჯიში იყო.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174759"
+    },
+    {
+      "english": "Your hobby doesn’t have to be perfect.",
+      "georgian": "ჰობი არ უნდა იყოს აუცილებლად იდეალური.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174762"
+    },
+    {
+      "english": "Small wins count, keep your motivation up.",
+      "georgian": "პატარა წარმატება ითვლება, მოტივაცია არ დაკარგო.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174764"
+    },
+    {
+      "english": "If it feels hard, that’s normal, you’re learning.",
+      "georgian": "თუ რთულად გეჩვენება, ეს ნორმალურია, სწავლობ.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174769"
+    },
+    {
+      "english": "You’re allowed to enjoy, no pressure today.",
+      "georgian": "შეგიძლია გსიამოვნო, დღეს ზეწოლა არ არის.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174772"
+    },
+    {
+      "english": "Make time for joy, hobbies refresh you.",
+      "georgian": "დრო გაანაწილე სიხარულისთვის, ჰობი გმუხტავს.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174774"
+    },
+    {
+      "english": "Trust your routine, it will pay off.",
+      "georgian": "ენდეთ შენს რეჟიმს, შედეგი მოვა.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174776"
+    },
+    {
+      "english": "Say “good enough,” and keep creating.",
+      "georgian": "თქვი „კარგია ასე“, და განაგრძე შექმნა.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174779"
+    },
+    {
+      "english": "Don’t compare, just focus on your own progress.",
+      "georgian": "არ შეადარე, უბრალოდ შენს პროგრესზე იფიქრე.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174782"
+    },
+    {
+      "english": "You’re building skills, one session at a time.",
+      "georgian": "უნარებს აგებ, ერთი სესიის მერე მეორე.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174784"
+    },
+    {
+      "english": "Let curiosity lead, ask questions as you go.",
+      "georgian": "კითხვამ გზა გაჩვენოს, წინ წადი და კითხე.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174787"
+    },
+    {
+      "english": "It’s okay to restart, growth needs resets.",
+      "georgian": "შეცვლა ნორმალურია, განვითარებისთვის საჭიროა გადატვირთვა.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174790"
+    },
+    {
+      "english": "Pick a hobby, then make it your calm.",
+      "georgian": "აირჩიე ჰობი, მერე გახადე შენი სიმშვიდე.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174792"
+    },
+    {
+      "english": "Show up, even for ten minutes, you’ll be glad.",
+      "georgian": "გამოდექი, თუნდაც ათი წუთით, მერე მადლობელი იქნები.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174795"
+    },
+    {
+      "english": "Your free time is yours, spend it wisely.",
+      "georgian": "შენი თავისუფალი დროა, გამოიყენე გონივრულად.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174797"
+    },
+    {
+      "english": "You can be both relaxed and productive.",
+      "georgian": "შეგიძლია ერთდროულად დაისვენო და იმუშაო.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174799"
+    },
+    {
+      "english": "Great effort, that’s how hobbies become yours.",
+      "georgian": "კარგი ძალისხმევაა, ასე ხდება ჰობი შენთან.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174801"
+    },
+    {
+      "english": "If you miss a day, don’t quit, recover.",
+      "georgian": "დღე გამოგრჩა? არ გაჩერდე, დაუბრუნდი.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174804"
+    },
+    {
+      "english": "Choose fun over perfect, you’ll stick with it.",
+      "georgian": "აირჩიე სიამოვნება, არა სრულყოფილება, და გაგიჭირდება.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174807"
+    },
+    {
+      "english": "You learn faster when you enjoy the process.",
+      "georgian": "სწავლა უფრო სწრაფია, როცა პროცესს გსიამოვნებს.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174809"
+    },
+    {
+      "english": "Celebrate effort, not just the final result.",
+      "georgian": "აღნიშნე ძალისხმევა, არა მხოლოდ საბოლოო შედეგი.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174811"
+    },
+    {
+      "english": "Make your hobby a habit, joy follows habits.",
+      "georgian": "ჰობი ჩვევად აქციე, სიხარული მიჰყვება ჩვევებს.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174813"
+    },
+    {
+      "english": "You don’t need permission to start something new.",
+      "georgian": "ახალი საქმის დასაწყებად ნებართვა არ გჭირდება.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174815"
+    },
+    {
+      "english": "Be proud, hobbies say who you are.",
+      "georgian": "ამაყი იყავი, ჰობი ამბობს ვინ ხარ.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174817"
+    },
+    {
+      "english": "Lately, I write things down to feel clear.",
+      "georgian": "ბოლო დროს, რაღაცებს ვიწერ, რომ თავი გამიწმინდოს.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174819"
+    },
+    {
+      "english": "I don’t force it, I just follow the mood.",
+      "georgian": "არ ვაიძულებ, უბრალოდ განწყობას მივყვები.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174822"
+    },
+    {
+      "english": "When I’m stressed, drawing calms me fast.",
+      "georgian": "როცა სტრესში ვარ, ხატვა სწრაფად მამშვიდებს.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174826"
+    },
+    {
+      "english": "I love small practice sessions, they feel honest.",
+      "georgian": "მიყვარს პატარა პრაქტიკა, ეს გულწრფელია.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174828"
+    },
+    {
+      "english": "Music helps me breathe, especially at night.",
+      "georgian": "მუსიკა მეხმარება სუნთქვაში, განსაკუთრებით ღამით.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174832"
+    },
+    {
+      "english": "I’m learning patience, even when it’s slow.",
+      "georgian": "ვსწავლობ მოთმინებას, მაშინაც კი როცა ნელია.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174835"
+    },
+    {
+      "english": "My hobby is my quiet place inside.",
+      "georgian": "ჩემი ჰობი შიგნით, ჩემი მშვიდი ადგილია.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174836"
+    },
+    {
+      "english": "Sometimes I feel silly, but I keep going.",
+      "georgian": "ზოგჯერ სისულელედაც მეჩვენება, მაგრამ ვაგრძელებ.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174838"
+    },
+    {
+      "english": "I don’t need perfection, just real effort.",
+      "georgian": "სრულყოფილება არ მჭირდება, მხოლოდ ნამდვილი ძალისხმევაა.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174841"
+    },
+    {
+      "english": "I take notes, so my thoughts stay steady.",
+      "georgian": "ვიკეთებ ჩანაწერებს, რომ ჩემი ფიქრები სტაბილური იყოს.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174843"
+    },
+    {
+      "english": "I’m proud when I show up on weekdays.",
+      "georgian": "ვამაყობ, როცა კვირის დღეებშიაც ვუჩენებ თავს.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174846"
+    },
+    {
+      "english": "Reading makes me gentler, it really does.",
+      "georgian": "კითხვა მაჯერებს, უფრო თბილს მხდის.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174850"
+    },
+    {
+      "english": "My free time is for honesty, not performance.",
+      "georgian": "ჩემი თავისუფალი დროისთვის სიმართლეა, არა წარმოდგენა.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174852"
+    },
+    {
+      "english": "If I miss a day, I forgive myself.",
+      "georgian": "თუ ერთი დღე გამომრჩა, თავს ვპატიობ.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174854"
+    },
+    {
+      "english": "I follow one tiny habit, it eases my mind.",
+      "georgian": "ერთ პატარა ჩვევას ვუბრუნდები, ამშვიდებს გულს.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174856"
+    },
+    {
+      "english": "Cooking is my way of caring for me.",
+      "georgian": "მზარეულობა ჩემი ზრუნვის გზაა ჩემთვის.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174858"
+    },
+    {
+      "english": "I’m not always inspired, but I’m consistent.",
+      "georgian": "ყოველთვის შთაგონებული არ ვარ, მაგრამ მუდმივი ვარ.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174861"
+    },
+    {
+      "english": "When I craft something, I feel grounded.",
+      "georgian": "როცა რაღაცას ვაკეთებ, ფეხზე ვდგები.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174863"
+    },
+    {
+      "english": "I let it be messy, that’s part of learning.",
+      "georgian": "მიდუღებულიც იყოს, ეგეც სწავლის ნაწილია.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174865"
+    },
+    {
+      "english": "I don’t chase vibes, I make space quietly.",
+      "georgian": "ვაიბებს არ ვედევნები, უბრალოდ ჩუმად ვქმნი ადგილს.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174868"
+    },
+    {
+      "english": "My hobby reminds me I’m still growing.",
+      "georgian": "ჩემი ჰობი მახსენებს, რომ ისევ ვიზრდები.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174870"
+    },
+    {
+      "english": "I choose calm activities when my week feels heavy.",
+      "georgian": "როცა კვირა მძიმედ მეჩვენება, მშვიდ აქტივობებს ვარჩევ.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174872"
+    },
+    {
+      "english": "Sometimes I journal, because thoughts need a home.",
+      "georgian": "ხანდახან ვწერ დღიურს, ფიქრებს ხომ ადგილი სჭირდებათ.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174875"
+    },
+    {
+      "english": "I ask myself, what did I enjoy today?",
+      "georgian": "ვეკითხები საკუთარ თავს, დღეს რა მომეწონა?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174877"
+    },
+    {
+      "english": "My goal is peace, not just better results.",
+      "georgian": "ჩემი მიზანია სიმშვიდე, არა მხოლოდ უკეთესი შედეგები.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174879"
+    },
+    {
+      "english": "I share my work only when I’m ready.",
+      "georgian": "ნამუშევარს მხოლოდ მაშინ ვუზიარებ, როცა მზად ვარ.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174881"
+    },
+    {
+      "english": "Patience grows when I stick with the process.",
+      "georgian": "მოთმინება იზრდება, როცა პროცესს ვყვები.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174883"
+    },
+    {
+      "english": "I don’t always feel confident, but I practice anyway.",
+      "georgian": "ყოველთვის თავდაჯერებული არ ვარ, მაგრამ მაინც ვვარჯიშობ.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174886"
+    },
+    {
+      "english": "That hobby brings me joy, even on rough days.",
+      "georgian": "ეს ჰობი სიხარულს მაძლევს, თუნდაც რთულ დღეებში.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174888"
+    },
+    {
+      "english": "I keep it simple, and my heart softens.",
+      "georgian": "ყველაფერი მარტივად ვაკეთებ, და გული მილბება.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174890"
+    },
+    {
+      "english": "Quick check, what hobby fits today’s mood?",
+      "georgian": "მოკლე შემოწმება, რომელი ჰობი ეწყობა დღევანდელ განწყობას?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-09T10:38:32.174892"
     }
   ],
-  "last_updated": "2026-11-08T09:43:26.475961"
+  "last_updated": "2026-11-09T10:38:32.174894"
 }
