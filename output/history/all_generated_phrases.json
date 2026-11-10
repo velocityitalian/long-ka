@@ -16559,7 +16559,727 @@
       "georgian": "მოკლე შემოწმება, რომელი ჰობი ეწყობა დღევანდელ განწყობას?",
       "category": "Hobbies & Free Time",
       "generated_at": "2026-11-09T10:38:32.174892"
+    },
+    {
+      "english": "Okay, I got it, thanks for explaining.",
+      "georgian": "კარგი, მივხვდი, მადლობა რომ ამიხსენი.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551173"
+    },
+    {
+      "english": "Wait, balance first, then we move on.",
+      "georgian": "მოიცადე, ბალანსი ჯერ, მერე ვაგრძელებთ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551187"
+    },
+    {
+      "english": "Hold on, I’m trying to stay calm.",
+      "georgian": "მოიცადე, ვცდილობ სიმშვიდე შევინარჩუნო.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551190"
+    },
+    {
+      "english": "No worries, you’ll find your balance soon.",
+      "georgian": "არ ინერვიულო, მალე იპოვი ბალანსს.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551193"
+    },
+    {
+      "english": "Really? I need a second to breathe.",
+      "georgian": "მართლა? წამით სუნთქვა მჭირდება.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551195"
+    },
+    {
+      "english": "Good call, that’s the right kind of balance.",
+      "georgian": "კარგი ხარ, ეს სწორი ბალანსია.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551198"
+    },
+    {
+      "english": "I’m good, just give me a moment.",
+      "georgian": "კარგად ვარ, უბრალოდ მომეცი ერთი წამი.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551201"
+    },
+    {
+      "english": "Are you okay, you look a bit off?",
+      "georgian": "კარგად ხარ, ცოტა არეული ხომ არ ხარ?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551205"
+    },
+    {
+      "english": "Yes, I’m fine, I just feel unsteady.",
+      "georgian": "კი, კარგად ვარ, უბრალოდ არამდგრადად ვგრძნობ თავს.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551208"
+    },
+    {
+      "english": "Keep going, but don’t overdo it.",
+      "georgian": "გააგრძელე, მაგრამ არ გადააჭარბო.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551211"
+    },
+    {
+      "english": "Let’s do this slowly, stay balanced.",
+      "georgian": "მოდით, ნელა გავაკეთოთ, ბალანსი შევინარჩუნოთ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551213"
+    },
+    {
+      "english": "I can’t, I’m out of balance right now.",
+      "georgian": "ვერ ვახერხებ, ახლა ბალანსი გამექცა.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551216"
+    },
+    {
+      "english": "That makes sense, thanks for keeping it fair.",
+      "georgian": "ლოგიკურია, მადლობა სამართლიანად რომ თქვა.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551218"
+    },
+    {
+      "english": "Hold it, you’re rushing, slow down.",
+      "georgian": "გაჩერდი, გეჩქარება, შეანელე.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551221"
+    },
+    {
+      "english": "I hear you, let’s strike a balance.",
+      "georgian": "გაგიგე, მოდი ბალანსი მოვძებნოთ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551223"
+    },
+    {
+      "english": "Sorry, I’m leaning too far, careful.",
+      "georgian": "ბოდიში, ძალიან გადავიხარე, ფრთხილად.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551227"
+    },
+    {
+      "english": "Okay then, I’ll adjust, you relax.",
+      "georgian": "კარგი, შევასწორებ, შენ დაისვენე.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551230"
+    },
+    {
+      "english": "Don’t panic, we can balance this out.",
+      "georgian": "არ დაიბნე, ამას ბალანსს მივცემთ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551232"
+    },
+    {
+      "english": "What do you mean, I’m not sure?",
+      "georgian": "რას ამბობ, დარწმუნებული არ ვარ?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551235"
+    },
+    {
+      "english": "I’ll take the lighter part, you take the rest.",
+      "georgian": "მე უფრო მსუბუქს ავიღებ, შენ დანარჩენს.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551237"
+    },
+    {
+      "english": "Wait, that’s too much, let’s even it out.",
+      "georgian": "მოიცადე, ძალიანაა, გავათანაბროთ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551240"
+    },
+    {
+      "english": "Honestly, I’m trying to keep balance.",
+      "georgian": "მართლა ვცდილობ ბალანსი შევინარჩუნო.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551243"
+    },
+    {
+      "english": "Yes, perfect, that’s exactly balanced.",
+      "georgian": "კი, ზუსტად, ესაა იდეალური ბალანსი.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551245"
+    },
+    {
+      "english": "No, I’m stuck, I can’t find equilibrium.",
+      "georgian": "არა, გავიჭედე, წონასწორობას ვერ ვპოულობ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551248"
+    },
+    {
+      "english": "Let’s pause, breathe, then decide together.",
+      "georgian": "შევჩერდეთ, ჩავისუნთქოთ, მერე ერთად გადავწყვიტოთ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551251"
+    },
+    {
+      "english": "Okay, I’ll step back, you lead.",
+      "georgian": "კარგი, უკან დავიხევ, შენ წარმართე.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551253"
+    },
+    {
+      "english": "Careful, you’re tipping, slow your movement.",
+      "georgian": "ფრთხილად, გე'ცლება, ნელა იმოძრავე.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551256"
+    },
+    {
+      "english": "It’s okay, we’ll balance time later.",
+      "georgian": "არაუშავს, დროს მერე გავაბალანსებთ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551258"
+    },
+    {
+      "english": "I respect that, you’re staying balanced.",
+      "georgian": "ვაფასებ, ბალანსს ინარჩუნებ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551260"
+    },
+    {
+      "english": "One more thing, keep it fair and calm.",
+      "georgian": "კიდევ ერთი, იყოს სამართლიანი და მშვიდი.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551263"
+    },
+    {
+      "english": "How do you keep your balance, day to day?",
+      "georgian": "როგორ ინარჩუნებ ბალანსს, ყოველდღე?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551265"
+    },
+    {
+      "english": "Can I ask you something, gently?",
+      "georgian": "შეგიძლია, გკითხო რაღაც, ნაზად?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551267"
+    },
+    {
+      "english": "Where should I focus, so I don’t wobble?",
+      "georgian": "სად უნდა შევამჩნიო, რომ არ ამომივარდეს?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551270"
+    },
+    {
+      "english": "Do you prefer slow steps, or steady pace?",
+      "georgian": "გირჩევნია ნელი ნაბიჯები, თუ სტაბილური ტემპი?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551274"
+    },
+    {
+      "english": "What’s your trick, when things feel off?",
+      "georgian": "რა არის შენი ხრიკი, როცა ყველაფერი არ არის სწორად?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551276"
+    },
+    {
+      "english": "I’m curious, are you balanced right now?",
+      "georgian": "ცნობისმოყვარე ვარ, ახლა ხომ არ ხარ ბალანსში?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551279"
+    },
+    {
+      "english": "Should I lean left, or keep it centered?",
+      "georgian": "მარცხნივ გადავიხარო, თუ ცენტრში დავრჩე?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551281"
+    },
+    {
+      "english": "Can we talk, without losing the vibe?",
+      "georgian": "შეგვიძლია ვილაპარაკოთ, სითბოს რომ არ დავკარგოთ?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551283"
+    },
+    {
+      "english": "Which feels better to you, pushing or easing?",
+      "georgian": "რომელი უფრო გიმართლებს, დაჭერა თუ შემსუბუქება?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551285"
+    },
+    {
+      "english": "What advice would you give me, honestly?",
+      "georgian": "რას მირჩევ, გულწრფელად?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551288"
+    },
+    {
+      "english": "Do you want space, or teamwork right now?",
+      "georgian": "გინდა სივრცე, თუ ახლა გუნდურად?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551295"
+    },
+    {
+      "english": "How do we share the load, fairly?",
+      "georgian": "როგორ გავნაწილოთ ტვირთი, სამართლიანად?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551343"
+    },
+    {
+      "english": "Is it okay if I adjust my speed?",
+      "georgian": "თუ შეიძლება, სიჩქარეს დავარეგულირო?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551346"
+    },
+    {
+      "english": "Tell me your comfort level, please.",
+      "georgian": "მითხარი, რა დონის კომფორტი გექნება, გთხოვ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551348"
+    },
+    {
+      "english": "Can we find a middle, between us?",
+      "georgian": "შეგვიძლია, შუაში შევხვდეთ, ორივე?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551350"
+    },
+    {
+      "english": "What if I slow down, you match me?",
+      "georgian": "თუ შევანელებ, შენც წამომყვები?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551352"
+    },
+    {
+      "english": "Are you staying steady, or getting tired?",
+      "georgian": "სტაბილურად ხარ, თუ უკვე იღლები?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551354"
+    },
+    {
+      "english": "I need your take, what seems off?",
+      "georgian": "მომეცი შენი აზრი, რა გეჩვენება უცნაური?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551356"
+    },
+    {
+      "english": "Would you rather talk first, then move?",
+      "georgian": "საუბარი გირჩევნია პირველ რიგში, მერე ვიმოძრაოთ?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551358"
+    },
+    {
+      "english": "How do you keep things calm, while juggling?",
+      "georgian": "როგორ ინარჩუნებ სიმშვიდეს, როცა ყველაფერს აბალანსებ?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551360"
+    },
+    {
+      "english": "What’s the safest way, for you and me?",
+      "georgian": "რა არის ყველაზე უსაფრთხო, ჩვენთვის?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551363"
+    },
+    {
+      "english": "Can we reset, and try again together?",
+      "georgian": "შევძლოთ თავიდან, ერთად ვცადოთ?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551365"
+    },
+    {
+      "english": "Do you feel lighter now, after adjusting?",
+      "georgian": "ახლა უფრო მსუბუქად ხომ არ გრძნობ?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551367"
+    },
+    {
+      "english": "Should we check in, before we continue?",
+      "georgian": "გავამოწმოთ ერთმანეთი, სანამ გავაგრძელებთ?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551369"
+    },
+    {
+      "english": "I’m listening, where do you want balance?",
+      "georgian": "ვუსმენ, სად გინდა ბალანსი?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551371"
+    },
+    {
+      "english": "Can you be my anchor, just for a sec?",
+      "georgian": "შენი იქნები ჩემი ლამპარი, ერთი წამით?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551373"
+    },
+    {
+      "english": "What’s your plan, so we don’t clash?",
+      "georgian": "რა გეგმა გაქვს, რომ არ დაგვეჯახოს?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551376"
+    },
+    {
+      "english": "Do you want truth, or comfort right now?",
+      "georgian": "სიმართლე გინდა, თუ კომფორტი ახლა?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551378"
+    },
+    {
+      "english": "Let me ask you, what feels fair today?",
+      "georgian": "მინდა გკითხო, დღეს რა გეჩვენება სამართლიანი?",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551380"
+    },
+    {
+      "english": "You’ve got this, slow is still progress.",
+      "georgian": "შენ შეგიძლია, ნელა სიარულიც პროგრესია.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551383"
+    },
+    {
+      "english": "Keep your mindset light, don’t overthink.",
+      "georgian": "გონება მსუბუქად გქონდეს, ზედმეტად ნუ იფიქრებ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551386"
+    },
+    {
+      "english": "I notice the good, that helps balance.",
+      "georgian": "კარგს ვამჩნევ, ეს ბალანსს მეხმარება.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551388"
+    },
+    {
+      "english": "Small steps, steady heart, you’ll level out.",
+      "georgian": "პატარა ნაბიჯები, სტაბილური გული, გათანაბრდები.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551393"
+    },
+    {
+      "english": "Focus on calm, not on perfection.",
+      "georgian": "სიმშვიდეზე კონცენტრირდი, სისწრაფეზე არა.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551395"
+    },
+    {
+      "english": "Give yourself credit, you’re doing fine.",
+      "georgian": "თავი დააფასე, კარგად გამოგდის.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551399"
+    },
+    {
+      "english": "Let it be simple, balance will follow.",
+      "georgian": "მარტივად დატოვე, ბალანსი მოვა.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551403"
+    },
+    {
+      "english": "When in doubt, breathe, then continue.",
+      "georgian": "ეჭვის დროს, ჩაისუნთქე, მერე გააგრძელე.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551405"
+    },
+    {
+      "english": "You’re not behind, you’re recalibrating.",
+      "georgian": "არ ხარ ჩამორჩენილი, უბრალოდ თვინიერებ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551408"
+    },
+    {
+      "english": "Stay flexible, life changes, you adjust.",
+      "georgian": "მოქნილი იყავი, ცხოვრება იცვლება, შენც მოერგე.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551410"
+    },
+    {
+      "english": "Trust the process, your rhythm will return.",
+      "georgian": "დაიჯერე პროცესს, შენი რიტმი დაბრუნდება.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551413"
+    },
+    {
+      "english": "Every check-in is a win, celebrate it.",
+      "georgian": "ყოველი შემოწმება გამარჯვებაა, იზეიმე.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551415"
+    },
+    {
+      "english": "Say it kindly, balance starts in your words.",
+      "georgian": "კეთილად თქვი, ბალანსი სიტყვებიდან იწყება.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551417"
+    },
+    {
+      "english": "You can reset fast, don’t panic.",
+      "georgian": "სწრაფად შეგიძლია გადატვირთვა, ნუ პანიკობ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551420"
+    },
+    {
+      "english": "Better calm than rushed, always.",
+      "georgian": "ჯობს სიმშვიდე, ვიდრე აჩქარება, ყოველთვის.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551422"
+    },
+    {
+      "english": "You’re learning, that’s the real balance.",
+      "georgian": "სწავლობ, ესაა ნამდვილი ბალანსი.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551425"
+    },
+    {
+      "english": "Pause your thoughts, come back to center.",
+      "georgian": "გაჩერდე ფიქრებს, დაბრუნდი ცენტრში.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551427"
+    },
+    {
+      "english": "Keep praising effort, not just results.",
+      "georgian": "შეაქე ძალისხმევა, მხოლოდ შედეგი კი არა.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551429"
+    },
+    {
+      "english": "If it feels shaky, that’s normal.",
+      "georgian": "თუ გრძნობ არათანაბრად, ნორმალურია.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551431"
+    },
+    {
+      "english": "Choose one thing, then make it steady.",
+      "georgian": "აირჩიე ერთი რამ, მერე გახადე სტაბილური.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551434"
+    },
+    {
+      "english": "Talk to yourself kindly, you’ll land softly.",
+      "georgian": "თავთანაც კეთილად ილაპარაკე, რბილად დაეშვები.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551436"
+    },
+    {
+      "english": "Your energy matters, protect it gently.",
+      "georgian": "შენი ენერგია მნიშვნელოვანია, ნაზად დაიცავი.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551438"
+    },
+    {
+      "english": "Balance grows when you stop fighting yourself.",
+      "georgian": "ბალანსი იზრდება, როცა საკუთარ თავს აღარ ებრძვი.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551440"
+    },
+    {
+      "english": "Make room for joy, then handle the rest.",
+      "georgian": "ადგილი დაუთმე სიხარულს, მერე გააგრძელე.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551444"
+    },
+    {
+      "english": "You’re allowed to try again, no guilt.",
+      "georgian": "შეცდომაა და არაა სირცხვილი, თავიდან სცადე.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551446"
+    },
+    {
+      "english": "Let small wins stack up, trust me.",
+      "georgian": "პატარა გამარჯვებები დააგროვე, დამიჯერე.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551448"
+    },
+    {
+      "english": "Aim for steady, not for nonstop.",
+      "georgian": "დაისახე სტაბილური, არა უწყვეტი.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551450"
+    },
+    {
+      "english": "Keep your promises to yourself, stay grounded.",
+      "georgian": "შეასრულე შენი დაპირებები, იდგე მყარად.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551453"
+    },
+    {
+      "english": "Turn stress into signals, then adjust.",
+      "georgian": "გადააქციე სტრესი სიგნალებად, მერე მოერგე.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551455"
+    },
+    {
+      "english": "You’re building balance, one choice at a time.",
+      "georgian": "ბალანსს აშენებ, ერთი არჩევანით ერთ დროს.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551457"
+    },
+    {
+      "english": "I’m finding my pace, day by day, quietly.",
+      "georgian": "ვპოულობ ჩემს ტემპს, დღე-დღე, ჩუმად.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551460"
+    },
+    {
+      "english": "Some days, honesty hurts, but it’s needed.",
+      "georgian": "ზოგჯერ გულწრფელობა სტკივა, მაგრამ საჭიროა.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551462"
+    },
+    {
+      "english": "I can’t force calm, I can practice it.",
+      "georgian": "სიმშვიდეს ვერ ვაიძულებ, ვვარჯიშობ მხოლოდ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551465"
+    },
+    {
+      "english": "Before I speak, I breathe, then decide.",
+      "georgian": "სანამ ვილაპარაკებ, ვსუნთქავ, მერე ვწყვეტ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551467"
+    },
+    {
+      "english": "I admit I’m tired, and I’ll rest.",
+      "georgian": "ვაღიარებ, რომ დაღლილი ვარ, და დავისვენებ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551469"
+    },
+    {
+      "english": "I’m not okay yet, but I’m trying.",
+      "georgian": "ჯერ კარგად არ ვარ, მაგრამ ვცდილობ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551472"
+    },
+    {
+      "english": "My feelings are real, so I respect them.",
+      "georgian": "ჩემი გრძნობები რეალურია, ამიტომ პატივს ვცემ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551474"
+    },
+    {
+      "english": "I slow down, because rushing steals meaning.",
+      "georgian": "ვანელებ ნაბიჯს, რადგან ჩქარობა აზრს გვაკარგვინებს.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551478"
+    },
+    {
+      "english": "I choose patience, even when I feel tight.",
+      "georgian": "მოვინდომებ მოთმინებას, როცა ვიგრძნობ დაძაბულობას.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551480"
+    },
+    {
+      "english": "I’m letting go, one thought at a time.",
+      "georgian": "ვუშვებ, ერთ აზრს ერთდროულად.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551482"
+    },
+    {
+      "english": "I can be honest, without being harsh.",
+      "georgian": "გულწრფელი შემიძლია, მაგრამ მკაცრი არა.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551484"
+    },
+    {
+      "english": "I don’t need perfect, I need steady.",
+      "georgian": "სრულყოფილი არ მჭირდება, სტაბილური მჭირდება.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551487"
+    },
+    {
+      "english": "I’m checking in with myself, no judgment.",
+      "georgian": "ვამოწმებ ჩემს თავს, არაფერს ვამტყუნებ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551489"
+    },
+    {
+      "english": "Sometimes I need space, to breathe again.",
+      "georgian": "ზოგჯერ მჭირდება სივრცე, რომ ისევ ვსუნთქო.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551491"
+    },
+    {
+      "english": "I’m learning to name what I feel.",
+      "georgian": "ვსწავლობ დავარქვა იმას, რასაც ვგრძნობ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551494"
+    },
+    {
+      "english": "I don’t fight my emotions, I guide them.",
+      "georgian": "ემოციებს არ ვებრძვი, ვმართავ უბრალოდ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551496"
+    },
+    {
+      "english": "Today, I’ll choose calm over being right.",
+      "georgian": "დღეს სიმშვიდეს ავარჩევ, ვიდრე მართალი ვიყო.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551499"
+    },
+    {
+      "english": "I’m allowed to change my mind gently.",
+      "georgian": "უფლება მაქვს, გრძნობით შევცვალო გადაწყვეტილება.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551501"
+    },
+    {
+      "english": "I reflect quietly, then move with care.",
+      "georgian": "ვიფიქრებ ჩუმად, მერე ფრთხილად გადავდივარ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551503"
+    },
+    {
+      "english": "I’m holding both, hope and reality, together.",
+      "georgian": "ერთად ვატარებ იმედს და რეალობას.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551506"
+    },
+    {
+      "english": "When I’m overwhelmed, I return to one thing.",
+      "georgian": "როცა გადამეტებით ვიღლები, ერთ რაღაცას ვუბრუნდები.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551508"
+    },
+    {
+      "english": "I’m not ashamed to start again slower.",
+      "georgian": "არ მრცხვენია თავიდან ისევ ნელა დავიწყო.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551510"
+    },
+    {
+      "english": "I keep my promises to my heart.",
+      "georgian": "გულს ვაძლევ პირობას, იმედს არ ვღალატობ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551513"
+    },
+    {
+      "english": "I forgive myself, then I keep going.",
+      "georgian": "ვაპატიებ ჩემს თავს, მერე გავაგრძელებ.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551514"
+    },
+    {
+      "english": "I’m choosing clarity, even if it’s messy.",
+      "georgian": "ვირჩევ სიცხადეს, თუნდაც არეული იყოს.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551517"
+    },
+    {
+      "english": "I notice patterns, and I adjust without drama.",
+      "georgian": "ვაკვირდები ნიმუშებს, და ვასწორებ დრამის გარეშე.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551519"
+    },
+    {
+      "english": "I can feel deeply, without losing control.",
+      "georgian": "ღრმად შემიძლია ვიგრძნო, მაგრამ არ დავკარგო კონტროლი.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551521"
+    },
+    {
+      "english": "I take the truth softly, like medicine.",
+      "georgian": "სიმართლეს ნაზად ვიღებ, როგორც წამალს.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551525"
+    },
+    {
+      "english": "Right now, I’m building balance from within.",
+      "georgian": "ახლა შიგნიდან ვაშენებ ბალანსს.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551528"
+    },
+    {
+      "english": "Before work, I set a simple routine.",
+      "georgian": "სამუშაომდე, მე ვამყარებ მარტივ რუტინას.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551530"
+    },
+    {
+      "english": "Take a break, then return with focus.",
+      "georgian": "დაისვენე, მერე დაბრუნდი ფოკუსით.",
+      "category": "Balance",
+      "generated_at": "2026-11-10T10:51:53.551532"
     }
   ],
-  "last_updated": "2026-11-09T10:38:32.174894"
+  "last_updated": "2026-11-10T10:51:53.551533"
 }
