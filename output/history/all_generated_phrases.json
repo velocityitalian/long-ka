@@ -17279,7 +17279,727 @@
       "georgian": "დაისვენე, მერე დაბრუნდი ფოკუსით.",
       "category": "Balance",
       "generated_at": "2026-11-10T10:51:53.551532"
+    },
+    {
+      "english": "I brought snacks, want some?",
+      "georgian": "საჭმელი მომაქვს, გინდა რამე?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670135"
+    },
+    {
+      "english": "You look great, did you dress up?",
+      "georgian": "ძალიან კარგი ხარ, ხომ არ გამზადდი?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670150"
+    },
+    {
+      "english": "Come in, the party starts soon.",
+      "georgian": "შემოდი, წვეულება მალე იწყება.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670153"
+    },
+    {
+      "english": "Wait, take a seat, we’ll begin.",
+      "georgian": "მოიცადე, დაჯექი, დავიწყებთ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670155"
+    },
+    {
+      "english": "Cheers, to good times together!",
+      "georgian": "ჯანმრთელობა, ერთად კარგ დროს!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670157"
+    },
+    {
+      "english": "Happy birthday! , make a wish.",
+      "georgian": "გილოცავ დაბადების დღეს! , ჩაიფიქრე სურვილი.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670159"
+    },
+    {
+      "english": "Is it your turn now? , go ahead!",
+      "georgian": "ახლა შენი ჯერია? , მიდი!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670161"
+    },
+    {
+      "english": "Oh wow, this looks amazing!",
+      "georgian": "ვაიმე, ეს საოცარია!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670165"
+    },
+    {
+      "english": "No way!, you really came?",
+      "georgian": "არა უშავს? , მართლა მოხვედი?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670168"
+    },
+    {
+      "english": "Let me help, what do you need?",
+      "georgian": "გამომყევი, რა გჭირდება?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670170"
+    },
+    {
+      "english": "Where should I put this?",
+      "georgian": "სად დავდებ ამას?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670172"
+    },
+    {
+      "english": "I’ll grab drinks, want one?",
+      "georgian": "დავლევებს ავიღებ, გინდა ერთი?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670174"
+    },
+    {
+      "english": "Save me a slice, please!",
+      "georgian": "ერთი ნაჭერი დამიტოვე, გთხოვ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670176"
+    },
+    {
+      "english": "How’s the music? , is it good?",
+      "georgian": "როგორია მუსიკა? , კარგად ჟღერს?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670178"
+    },
+    {
+      "english": "I’m here, what’s next?",
+      "georgian": "მე ვარ აქ, რა იქნება შემდეგ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670181"
+    },
+    {
+      "english": "This cake smells delicious!",
+      "georgian": "ეს ნამცხვარი ძალიან სურნელოვანია!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670182"
+    },
+    {
+      "english": "You’re not late, you’re perfect!",
+      "georgian": "გვიან არ ხარ, იდეალურად მოხვედი!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670184"
+    },
+    {
+      "english": "Give me five!, that’s awesome!",
+      "georgian": "ხელი გამიწიე!, მაგარია!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670186"
+    },
+    {
+      "english": "Do we do a toast now?",
+      "georgian": "ახლა სმა-ალაპარაკება გვაქ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670188"
+    },
+    {
+      "english": "Wait, let’s take a photo!",
+      "georgian": "მოიცადე, ფოტო გადავიღოთ!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670190"
+    },
+    {
+      "english": "Who’s bringing the balloons?",
+      "georgian": "ვინ მოაქვს ბუშტები?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670192"
+    },
+    {
+      "english": "Can I open it now?",
+      "georgian": "ახლა შეიძლება გავხსნა?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670196"
+    },
+    {
+      "english": "That’s thoughtful, thank you!",
+      "georgian": "რა ყურადღებიანია, გმადლობ!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670198"
+    },
+    {
+      "english": "I’m all set, let’s celebrate!",
+      "georgian": "ყველაფერი მზადაა, ვიზეიმოთ!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670200"
+    },
+    {
+      "english": "More cake?, you sure?",
+      "georgian": "კიდევ ნამცხვარი? , ნამდვილად?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670201"
+    },
+    {
+      "english": "Keep it up, this is fun!",
+      "georgian": "ასე გააგრძელე, ძალიან სახალისოა!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670203"
+    },
+    {
+      "english": "Thanks for inviting me, really!",
+      "georgian": "რომ დამპატიჟე, მადლობა, მართლა!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670205"
+    },
+    {
+      "english": "Excuse me, where’s the bathroom?",
+      "georgian": "მაპატიე, სად არის ტუალეტი?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670207"
+    },
+    {
+      "english": "One more round, please!",
+      "georgian": "კიდევ ერთი რაუნდი, გთხოვ!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670208"
+    },
+    {
+      "english": "What’s the plan for tonight, where do we start?",
+      "georgian": "რა გეგმაა ამაღამ, საიდან დავიწყოთ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670210"
+    },
+    {
+      "english": "Do you need anything before we begin?",
+      "georgian": "რაიმე ხომ არ გჭირდება, სანამ დავიწყებთ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670212"
+    },
+    {
+      "english": "Who should I ask about the schedule?",
+      "georgian": "ვის უნდა ვკითხო გრაფიკზე?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670214"
+    },
+    {
+      "english": "Are we doing gifts first, or later?",
+      "georgian": "საჩუქრები ჯერ ვხსნით, თუ მოგვიანებით?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670216"
+    },
+    {
+      "english": "Is it okay if I bring a friend?",
+      "georgian": "ხომ შეიძლება, მეგობარი მოვიყვანო?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670218"
+    },
+    {
+      "english": "Can you recommend a good place nearby?",
+      "georgian": "მომირჩიე, ახლოს კარგი ადგილი?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670219"
+    },
+    {
+      "english": "What should I wear, casual or dressy?",
+      "georgian": "რას მირჩევთ, კეჟუალად თუ ლამაზად?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670221"
+    },
+    {
+      "english": "How do people usually toast here?",
+      "georgian": "აქ როგორ ამბობენ სადღეგრძელოს?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670222"
+    },
+    {
+      "english": "Do we clap when the music changes?",
+      "georgian": "როცა მუსიკა იცვლება, ვტაშობთ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670224"
+    },
+    {
+      "english": "Where’s the best spot for photos?",
+      "georgian": "ფოტოებისთვის სად არის ყველაზე კარგი ადგილი?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670226"
+    },
+    {
+      "english": "Any rules for the games, quick question?",
+      "georgian": "თამაშებთან წესები როგორია, მოკლედ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670228"
+    },
+    {
+      "english": "What time do we start the cake part?",
+      "georgian": "რომელ საათზე ვიწყებთ ნამცხვარს?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670230"
+    },
+    {
+      "english": "Should I RSVP now, or later today?",
+      "georgian": "ახლავე უნდა დავადასტურო, თუ დღეს მოგვიანებით?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670231"
+    },
+    {
+      "english": "Is there parking nearby, by any chance?",
+      "georgian": "ახლოს პარკინგი არის, შემთხვევით?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670234"
+    },
+    {
+      "english": "What’s the vibe, chill or super energetic?",
+      "georgian": "როგორი ატმოსფეროა, მოდუნებული თუ ენერგიული?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670236"
+    },
+    {
+      "english": "Can I help set up, where do I start?",
+      "georgian": "დამეხმარებით მომზადებაში, საიდან დავიწყო?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670238"
+    },
+    {
+      "english": "Who’s hosting, do you know the host?",
+      "georgian": "ვინ მასპინძლობს, იცით მასპინძელი?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670240"
+    },
+    {
+      "english": "Any food preferences, vegetarian-friendly?",
+      "georgian": "კვების სურვილი გაქვთ, ვეგეტარიანული ხომ?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670241"
+    },
+    {
+      "english": "Where can I take my coat off, please?",
+      "georgian": "სად შეიძლება ქურთუკის ჩამოხსნა?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670243"
+    },
+    {
+      "english": "Do we have a quiet corner for breaks?",
+      "georgian": "არის აქ მშვიდი კუთხე დასასვენებლად?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670245"
+    },
+    {
+      "english": "What time should I leave, roughly?",
+      "georgian": "დაახლოებით რა საათზე უნდა წავიდე?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670247"
+    },
+    {
+      "english": "Can I ask, whose birthday is it today?",
+      "georgian": "ერთი კითხვა მაქვს, ვის დაბადების დღეა?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670248"
+    },
+    {
+      "english": "Are gifts wrapped already, or should I do it?",
+      "georgian": "საჩუქრები უკვე შეფუთულია, თუ მე უნდა?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670250"
+    },
+    {
+      "english": "How many people are coming, roughly?",
+      "georgian": "დაახლოებით რამდენი ადამიანი მოვა?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670253"
+    },
+    {
+      "english": "What do we do first, any instructions?",
+      "georgian": "პირველად რას ვაკეთებთ, რაიმე რჩევა?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670255"
+    },
+    {
+      "english": "Do you want my help with the playlist?",
+      "georgian": "პლეილისტთან დახმარება გინდა?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670256"
+    },
+    {
+      "english": "Is there a dress code tonight, just casual?",
+      "georgian": "დღეს საღამოს კოდის წესია, უბრალოდ კეჟუალი?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670258"
+    },
+    {
+      "english": "Should we switch to games now, maybe?",
+      "georgian": "ახლა გადავიდეთ თამაშებზე, ხომ არ ჯობია?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670259"
+    },
+    {
+      "english": "Can I call you tomorrow about the leftovers?",
+      "georgian": "ხვალ დაგირეკავ ნარჩენებზე, შეიძლება?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670261"
+    },
+    {
+      "english": "How was the party before I arrived?",
+      "georgian": "როგორი იყო წვეულება, სანამ მოვიდოდი?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670264"
+    },
+    {
+      "english": "You’ve got this, enjoy every moment.",
+      "georgian": "შენ შეგიძლია, უბრალოდ დატკბი ყოველ წამს.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670266"
+    },
+    {
+      "english": "Small steps today, big memories tomorrow.",
+      "georgian": "დღეს მცირე ნაბიჯები, ხვალ დიდი მოგონებები.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670269"
+    },
+    {
+      "english": "Let it be easy, have fun first.",
+      "georgian": "გაადვილე, ჯერ გართობა იყოს.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670271"
+    },
+    {
+      "english": "Smile a lot, good energy follows you.",
+      "georgian": "ბევრჯერ იღიმე, კარგი ენერგია მოდის შენთან.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670272"
+    },
+    {
+      "english": "Today is yours, celebrate like you mean it.",
+      "georgian": "დღეს შენია, ზეიმი ისე გააკეთე, როგორც გინდა.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670274"
+    },
+    {
+      "english": "Nice choice, you’re making this day brighter.",
+      "georgian": "ძალიან კარგი არჩევანია, დღეს უფრო ნათელს ხდი.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670276"
+    },
+    {
+      "english": "No stress, we’ll figure it out together.",
+      "georgian": "სტრესი არაა, ერთად გავარკვევთ ყველაფერს.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670278"
+    },
+    {
+      "english": "Say it out loud, you deserve the praise.",
+      "georgian": "ხმამაღლა თქვი, შენ ქებას იმსახურებ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670280"
+    },
+    {
+      "english": "You showed up, that’s already a win.",
+      "georgian": "მოხვედი, ეს თვითონ გამარჯვებაა.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670282"
+    },
+    {
+      "english": "Keep your heart light, dance where you stand.",
+      "georgian": "გული მსუბუქად გქონდეს, იცეკვე სადაც ხარ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670285"
+    },
+    {
+      "english": "Perfect doesn’t matter, just be present.",
+      "georgian": "იდეალური საჭირო არაა, უბრალოდ იყავი აქ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670287"
+    },
+    {
+      "english": "Good vibes only, let’s make it count.",
+      "georgian": "მხოლოდ კარგი ვაიბი, მოვახდინოთ ეს დღე.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670289"
+    },
+    {
+      "english": "You can be proud, today is for you.",
+      "georgian": "ამაყობა შეიძლება, დღეს შენთვისაა.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670291"
+    },
+    {
+      "english": "Listen to the music, you’ll feel it.",
+      "georgian": "მოუსმინე მუსიკას, იგრძნობ ყველაფერს.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670293"
+    },
+    {
+      "english": "Let’s cheer, your energy matters a lot.",
+      "georgian": "გავამხნევოთ, შენი ენერგია დიდია.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670295"
+    },
+    {
+      "english": "Make eye contact, wish them something warm.",
+      "georgian": "მოიკიდე თვალები, თბილი სურვილი თქვი.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670297"
+    },
+    {
+      "english": "Be kind first, everything else follows.",
+      "georgian": "ჯერ სიკეთე, მერე ყველაფერი თავის გზას ნახავს.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670299"
+    },
+    {
+      "english": "You’re doing great, keep going like that.",
+      "georgian": "შენ ძალიან კარგად ხარ, ასე გააგრძელე.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670301"
+    },
+    {
+      "english": "Today we celebrate wins, not perfection.",
+      "georgian": "დღეს ვზეიმობთ შედეგებს, არა სიზუსტეს.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670302"
+    },
+    {
+      "english": "One toast, one breath, then relax.",
+      "georgian": "ერთი სადღეგრძელო, ერთი ამოსუნთქვა, მერე მოდუნდი.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670304"
+    },
+    {
+      "english": "Share the joy, it grows in groups.",
+      "georgian": "გაიზიარეთ სიხარული, ჯგუფში უფრო იზრდება.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670306"
+    },
+    {
+      "english": "Whatever happens, we stay friendly.",
+      "georgian": "რაც არ უნდა მოხდეს, მეგობრულად ვიქნებით.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670307"
+    },
+    {
+      "english": "You bring good vibes, that’s your superpower.",
+      "georgian": "შენ მოაქვს კარგი ვაიბი, ეს შენი სუპერძალაა.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670309"
+    },
+    {
+      "english": "Breathe, smile, and let the night flow.",
+      "georgian": "ისუნთქე, გაიღიმე, და ღამე თავისუფლად მიდის.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670311"
+    },
+    {
+      "english": "Be the reason someone feels safe here.",
+      "georgian": "შენ იყო მიზეზი, რომ აქ ყველას თავი უსაფრთხოდ იგრძნოს.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670313"
+    },
+    {
+      "english": "Nice job, you keep things moving.",
+      "georgian": "კარგი საქმეა, ყველაფერი მიაქვს წინ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670316"
+    },
+    {
+      "english": "No arguing today, we’re here to celebrate.",
+      "georgian": "დღეს კამათი არა, ჩვენ ზეიმისთვის ვართ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670318"
+    },
+    {
+      "english": "Trust the moment, it’ll be perfect enough.",
+      "georgian": "ენდო მომენტს, საკმარისად გამოვა ყველაფერი.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670320"
+    },
+    {
+      "english": "Give praise, small words mean a lot.",
+      "georgian": "დააფასე, პატარა სიტყვები ძალიან ბევრს ნიშნავს.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670322"
+    },
+    {
+      "english": "Tonight, focus on people, not details.",
+      "georgian": "დღეს ღამით ხალხზე იფიქრე, დეტალებზე არა.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670323"
+    },
+    {
+      "english": "Honestly, I’m a little nervous, but excited too.",
+      "georgian": "მართლა, ცოტა ნერვიული ვარ, მაგრამ ძალიან მიხარია.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670326"
+    },
+    {
+      "english": "I needed this pause, thank you for it.",
+      "georgian": "ეს შესვენება მჭირდებოდა, მადლობა ამისთვის.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670327"
+    },
+    {
+      "english": "I’m thinking about the good times, right now.",
+      "georgian": "ახლა კარგ მომენტებზე ვფიქრობ, გულით.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670330"
+    },
+    {
+      "english": "Let’s keep it honest, feelings first, always.",
+      "georgian": "სიცრუე არ გვინდა, გრძნობები პირველია, ყოველთვის.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670332"
+    },
+    {
+      "english": "I’ll take my time, no rushing tonight.",
+      "georgian": "დავიცდი, არ მჭირდება ჩქარობა ამაღამ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670334"
+    },
+    {
+      "english": "If I get emotional, please be patient.",
+      "georgian": "თუ ემოციებს ამოვიღებ, მოთმინებით მომისმინეთ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670336"
+    },
+    {
+      "english": "I’m grateful we’re sharing this moment together.",
+      "georgian": "მადლობელი ვარ, რომ ერთად ვუზიარებთ ამ წამს.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670338"
+    },
+    {
+      "english": "Small talk is nice, but real stories matter.",
+      "georgian": "უბრალო საუბარი კარგია, მაგრამ ნამდვილ ამბებს აქვს ფასი.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670339"
+    },
+    {
+      "english": "I’m proud of you, and I mean it.",
+      "georgian": "გულწრფელად ვამაყობ შენით, და მართლა ვგულისხმობ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670341"
+    },
+    {
+      "english": "Today I’m letting go of old stress.",
+      "georgian": "დღეს ვუშვებ ძველ სტრესს, მშვიდად.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670343"
+    },
+    {
+      "english": "I’ll say less, feel more, enjoy more.",
+      "georgian": "ვიტყვი ნაკლებს, ვიგრძნობ მეტს, და უფრო გავერთობ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670345"
+    },
+    {
+      "english": "Even if it’s imperfect, it’s special.",
+      "georgian": "თუნდაც არასრულყოფილი იყოს, მაინც განსაკუთრებულია.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670347"
+    },
+    {
+      "english": "I don’t need perfection, just genuine warmth.",
+      "georgian": "სრულყოფილება არ მჭირდება, მხოლოდ გულწრფელი სითბო.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670349"
+    },
+    {
+      "english": "Some moments hit harder, so I pause.",
+      "georgian": "ზოგჯერ მომენტი უფრო მძიმედაც იჭრება, ამიტომ ვჩერდები.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670351"
+    },
+    {
+      "english": "I want you to know, you matter to me.",
+      "georgian": "გინდა იცოდე, შენთვის მნიშვნელობა მაქვს ჩემშიც.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670353"
+    },
+    {
+      "english": "Take a breath, we’ll be okay together.",
+      "georgian": "ერთი ამოსუნთქვა, ჩვენ ერთად კარგად ვიქნებით.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670355"
+    },
+    {
+      "english": "I’m listening, not just waiting for my turn.",
+      "georgian": "ვუსმენ, მხოლოდ ჩემი რიგის მოლოდინი არა.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670357"
+    },
+    {
+      "english": "Tonight, I’m choosing peace over being right.",
+      "georgian": "ამაღამ სიმშვიდეს ვარჩევ, მართალი ყოფნაზე წინ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670359"
+    },
+    {
+      "english": "I’m happy you’re here, that’s what counts.",
+      "georgian": "გამიხარდა, რომ აქ ხარ, ესაა მთავარი.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670361"
+    },
+    {
+      "english": "If something’s missing, we’ll talk gently.",
+      "georgian": "თუ რამე აკლია, ნაზად ვისაუბროთ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670364"
+    },
+    {
+      "english": "I feel lucky, really, to celebrate with you.",
+      "georgian": "ნამდვილი ბედნიერება მიგრძნია, რომ შენთან ერთად ვზეიმობ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670366"
+    },
+    {
+      "english": "No heavy talk, but feelings can breathe here.",
+      "georgian": "მძიმე თემები არა, მაგრამ გრძნობებს გზა აქვთ.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670368"
+    },
+    {
+      "english": "I’m proud, and I’m also kind to myself.",
+      "georgian": "ვამაყობ, და საკუთარ თავსაც ვიყო ნაზი.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670370"
+    },
+    {
+      "english": "Let’s be present, even when emotions rise.",
+      "georgian": "იყავით აქ და ახლა, თუნდაც ემოციები გაიზარდოს.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670372"
+    },
+    {
+      "english": "I’m thankful, even for the small things.",
+      "georgian": "მადლობელი ვარ, თუნდაც პატარა რაღაცებისთვის.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670373"
+    },
+    {
+      "english": "If I cry, it’s love, not sadness.",
+      "georgian": "თუ ვიტირებ, ეს სიყვარულია, არა სევდა.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670375"
+    },
+    {
+      "english": "I won’t pretend, I’ll just be real tonight.",
+      "georgian": "არაფერს მოვიტყუებ, ამაღამ უბრალოდ მართალი ვიქნები.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670379"
+    },
+    {
+      "english": "We don’t have to hurry, memories take time.",
+      "georgian": "არ გვჭირდება ჩქარობა, მოგონებებს დრო სჭირდება.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670382"
+    },
+    {
+      "english": "I’m choosing softness, even in a celebration.",
+      "georgian": "ვირჩევ სითბოს, თუნდაც დღესასწაულზე.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670384"
+    },
+    {
+      "english": "Thank you for hearing me, truly.",
+      "georgian": "მადლობა, რომ მიმისმინე, გულწრფელად.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670385"
+    },
+    {
+      "english": "Let’s bring snacks, so nobody worries.",
+      "georgian": "მოვიტანოთ საჭმელები, რომ არავინ ინერვიულოს.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-11T10:02:03.670389"
     }
   ],
-  "last_updated": "2026-11-10T10:51:53.551533"
+  "last_updated": "2026-11-11T10:02:03.670390"
 }
