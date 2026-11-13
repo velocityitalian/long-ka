@@ -17999,7 +17999,399 @@
       "georgian": "მოვიტანოთ საჭმელები, რომ არავინ ინერვიულოს.",
       "category": "Celebrations & Parties",
       "generated_at": "2026-11-11T10:02:03.670389"
+    },
+    {
+      "english": "I’ll wait, just a moment.",
+      "georgian": "მოგიცდი, ერთი წუთით.",
+      "transliteration": "mogit’di, erTi mut’it’.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Breathe, it’ll work out.",
+      "georgian": "დამშვიდდი, ყველაფერი გამოვა.",
+      "transliteration": "damshviddi, yvelaferi gamova.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "georgian": "შენც მიიღე დრო, არ იჩქარო.",
+      "transliteration": "shenc miiqe dro, ar ichqaro.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Let’s slow down, please.",
+      "georgian": "მოვილაპარაკოთ მშვიდად, ნელა.",
+      "transliteration": "movilaparakoT mshvidad, nela.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I’m patient, even if it’s slow.",
+      "georgian": "მოთმინებით ვარ, თუნდაც ნელა იყოს.",
+      "transliteration": "mot’minebit var, thundac nela iyos",
+      "category": "Patience",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Wait, I’ll check first.",
+      "georgian": "დაცადე, ჯერ გადავამოწმებ.",
+      "transliteration": "dacidve, jer gadavamots’meb.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Give me a bit more time.",
+      "georgian": "მომეცი ცოტა მეტი დრო.",
+      "transliteration": "mometsi cota met’i dro.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I feel nervous before meetings.",
+      "georgian": "შეხვედრებზე ადრე ნერვიულობა მაქვს.",
+      "transliteration": "Shekhedrebze adre NERViuloBА maqvs.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Right now, I’m really relieved.",
+      "georgian": "ახლა მართლა დამშვიდებული ვარ.",
+      "transliteration": "Akhla MARTLA damSHVIDebuli var.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I’m a bit embarrassed, sorry.",
+      "georgian": "ცოტა მრცხვენია, მაპატიე.",
+      "transliteration": "COTa mrcxveNIA, mapATiE.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I’m excited about tonight’s plan.",
+      "georgian": "დღეს საღამოს გეგმაზე ძალიან მახარებს.",
+      "transliteration": "Dges saGAmos geGmāze DZALIAN makHARbs.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I feel lonely even with people.",
+      "georgian": "ადამიანებთანაც კი მარტო ვგრძნობ თავს.",
+      "transliteration": "AdaMianebTanac ki MOLO tovgRZnov tavs.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I’m frustrated, things keep going wrong.",
+      "georgian": "ძალიან ვირიტირდი, ყველაფერი ისევ ირევა.",
+      "transliteration": "DZALIAN viRITirdI, yvelafeve ISV irEVA.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "My heart is heavy today.",
+      "georgian": "დღეს გული მძიმედ მაქვს.",
+      "transliteration": "Dges GULI MZIMed maqvs.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I love how you listen to me",
+      "georgian": "მიყვარს, როგორ მისმენ",
+      "transliteration": "miyvars, rogOR mismen",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Let’s grab coffee after work",
+      "georgian": "მოდი, სამსახურის მერე ყავა დავლიოთ",
+      "transliteration": "modi, samsaxuris MERA yava davliot",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Can I take you out tonight?",
+      "georgian": "შენთან პაემანი tonight წამოგიყვანო?",
+      "transliteration": "shenTan paemani tonight wamoGiYvano?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Your smile makes my day",
+      "georgian": "შენი ღიმილი მთელ დღეზე მყოფნის",
+      "transliteration": "sheni GHIMILI mTEl dGaze mgofnIs",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I miss you, honestly",
+      "georgian": "მომენატრე, მართლა",
+      "transliteration": "momenATRe, MARthla",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Want to come to my place?",
+      "georgian": "გინდა, ჩემთან მოვიდეთ სახლში?",
+      "transliteration": "ginda, chenTan MOVidet sakhliSHi?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I’m falling for you, slowly",
+      "georgian": "შენზე ნელა-ნელა ვიკეთებ გრძნობებს",
+      "transliteration": "shenze NELa-NEla vikETeb grZnobeBS",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "How much for these two items?",
+      "georgian": "ორივე ეს ნივთი რამდენი ღირს?",
+      "transliteration": "orive es nivTi raoden iRirs?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Is there a discount today?",
+      "georgian": "დღეს ფასდაკლება ხომ არ არის?",
+      "transliteration": "dRes fasdakleba xom ar aris?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Can I pay by card here?",
+      "georgian": "აქ ბარათით გადახდა შეიძლება?",
+      "transliteration": "aq baraTIT gadaxda sheidzleba?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Do you have this in another size?",
+      "georgian": "ეს სხვა ზომაში გაქვთ?",
+      "transliteration": "es sxva zomashi gAqvt?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "What’s the final price with tax?",
+      "georgian": "საბოლოო ფასი გადასახადით რამდენია?",
+      "transliteration": "saboloo fasi gadAmsaxadit raoden ia?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Is this on sale, or full price?",
+      "georgian": "ეს აქციაზეა, თუ სრული ფასია?",
+      "transliteration": "es aqciazea, tu sruli p’asiA?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Could I try it on, please?",
+      "georgian": "შევიცადო, გთხოვთ?",
+      "transliteration": "Sevicado, gtxovt?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Call an ambulance, please, right now.",
+      "georgian": "სასწრაფო გამოიძახეთ, გთხოვთ, ახლავე.",
+      "transliteration": "Sascrapo gamoizakh'et, gdavrot, AKhlaVE.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I think I’m having a heart attack.",
+      "georgian": "ვფიქრობ, გულის შეტევა მაქვს.",
+      "transliteration": "vfiqrob, gUlis sheT’eVa maqvs.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Please, stay with me until help arrives.",
+      "georgian": "გთხოვთ, დამელოდეთ, სანამ დახმარება მოვა.",
+      "transliteration": "gdavrot, daMELodet, sanam daXMareba MOVa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "My chest hurts, it started suddenly.",
+      "georgian": "მკერდი მტკივა, უეცრად დაიწყო.",
+      "transliteration": "mkERdi mtkiva, UEctrAD daIWyo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I can’t breathe, I feel wheezy.",
+      "georgian": "სუნთქვა მიჭირს, ჭინჭღივით ვხვრინავ.",
+      "transliteration": "sunTqva MIC'irs, CHINCHghivIt vxRinav.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I swallowed something, now I’m choking.",
+      "georgian": "რაღაც გადამაყლაპა, ახლა ვიხრჩობი.",
+      "transliteration": "ragac gadaMAyqlaPA, AKlaVe VIxch'obi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I’m dizzy, and I might faint.",
+      "georgian": "თავბრუ მეხვევა, შეიძლება გავითიშო.",
+      "transliteration": "tavbRU mexVEva, sheidzleba gaVITiSho.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I’ll try again, even today.",
+      "georgian": "დღესაც კი ისევ ვეცდები.",
+      "transliteration": "dgESatc ki isEV vECdebi",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "No panic, just keep moving.",
+      "georgian": "პანიკა არა, უბრალოდ წინ ვიაროთ.",
+      "transliteration": "panika ara, prostu win viARot",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Small steps count every day.",
+      "georgian": "პატარა ნაბიჯები ყოველდღე ითვლის.",
+      "transliteration": "pATAra nabijebi yoveldGE itvliS",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I stick with it, no matter what.",
+      "georgian": "მეც ვრჩები, როგორი ამბავიც არ უნდა იყოს.",
+      "transliteration": "mec vrčebi, rogori AMbeviC ar uDUa iqos",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "After setbacks, I regroup fast.",
+      "georgian": "დაცემის შემდეგ სწრაფად ვაწყობ გეგმას.",
+      "transliteration": "dacemIs shemdeg sqrafad vaWob qlEmas",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "One more attempt, then I rest.",
+      "georgian": "კიდევ ერთი მცდელობა და მერე დავისვენებ.",
+      "transliteration": "kiDEV erti mcdeLoba da mEre davisVENeb",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I don’t quit on hard days.",
+      "georgian": "რთულ დღეებში არ ვნებდები.",
+      "transliteration": "rtul dGEebSi ar vnebdebi",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Small wins change my whole day.",
+      "georgian": "პატარა გამარჯვებები მთელ დღეს მაცვლის.",
+      "transliteration": "p'at'ara gamarjvebebi mTel dGes macvlis.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I start mornings with gratitude.",
+      "georgian": "დილას მადლობით ვიწყებ.",
+      "transliteration": "dilas madlobtvit vits'qeb.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I choose calm, even in traffic.",
+      "georgian": "ტრასაზე მშვიდობას ვირჩევ, მაინც.",
+      "transliteration": "trasaze mshvidobas virchev, mainc.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Today, I’m letting go of worry.",
+      "georgian": "დღეს წუხილს ვუშვებ.",
+      "transliteration": "dRes tsukhils vushveb.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Friends lift me, I lift them back.",
+      "georgian": "მეგობრები მაღლა მწევენ, მეც ვუბრუნებ.",
+      "transliteration": "megobrebi magla mcheven, mec vubrune b.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I talk kindly to myself.",
+      "georgian": "ჩემს თავს გულითადად ვესაუბრები.",
+      "transliteration": "chems tavs guliti'adad vesaubreb i.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "My body moves, my mood follows.",
+      "georgian": "სხეული რომ მოძრაობს, განწყობაც მიდის.",
+      "transliteration": "sqheuli rom modzraobs, ganckhoba'c midis.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "That’s wild, for real.",
+      "georgian": "რას ამბობ, მართლა?!",
+      "transliteration": "ras AMBობ, MARTLa?!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "No way, stop kidding me.",
+      "georgian": "არა უშავს, ხო? შენ ხომ არ მაცინებ?",
+      "transliteration": "ara USHavs, ho? shen KHOM ar macineb?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I’m starving, I need food.",
+      "georgian": "მშია, საჭმელი მინდა ახლავე.",
+      "transliteration": "MShia, sachmeli MINda AKhlaVE.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "You’re always late, seriously.",
+      "georgian": "ყოველთვის აგვიანებ, მართლა.",
+      "transliteration": "yOVeltvis aGVIANeb, MARtla.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "Chill, it’s not a big deal.",
+      "georgian": "დამშვიდდი, დიდი არაფერიაო.",
+      "transliteration": "damSHVIDdi, DIDI araferi AO.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "That’s a scam, don’t fall for it.",
+      "georgian": "ეს თაღლითობაა, არ გაჩერდე.",
+      "transliteration": "es TAGhlitobaA, ar gaCHERde.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I’m broke till payday.",
+      "georgian": "ფულები არ მაქვს, ხელფასამდე მოვიცდი.",
+      "transliteration": "fuLEbi ar maqvs, KhelpASamde MOVicdi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T13:27:11.023772"
     }
   ],
-  "last_updated": "2026-11-11T10:02:03.670390"
+  "last_updated": "2026-11-13T13:27:11.023772"
 }
