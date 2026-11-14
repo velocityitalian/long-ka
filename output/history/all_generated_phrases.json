@@ -18391,7 +18391,399 @@
       "transliteration": "fuLEbi ar maqvs, KhelpASamde MOVicdi.",
       "category": "Common Native Slang",
       "generated_at": "2026-11-13T13:27:11.023772"
+    },
+    {
+      "english": "I’m ready to forgive you now.",
+      "georgian": "მზად ვარ, რომ ახლავე გაპატიო.",
+      "transliteration": "MADza var, rom AChlavE GAPAtio",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Please, tell me what happened.",
+      "georgian": "გთხოვ, მითხარი, რა მოხდა.",
+      "transliteration": "gTxov, miTxari, ra mOXda",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I’ll let go, for my peace.",
+      "georgian": "გავუშვებ, ჩემთვის სიმშვიდისთვის.",
+      "transliteration": "gavushveB, chEMistvis simSHvidisTvis",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Let’s move on, together.",
+      "georgian": "მოდით, ერთად გავაგრძელოთ წინ.",
+      "transliteration": "moDIt, erTad gavaGReZoT win",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I forgive you, but we need boundaries.",
+      "georgian": "გაპატიე, მაგრამ გვჭირდება საზღვრები.",
+      "transliteration": "gapAte, maT ra gvirCHirDeba SAzRvrebi",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I’m not keeping score anymore.",
+      "georgian": "აღარ ვინახავ ანგარიშს.",
+      "transliteration": "agar viNAxav angariSss",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "It hurt, but I choose forgiveness.",
+      "georgian": "მტკივნეული იყო, მაგრამ პატიებას ვარჩევ.",
+      "transliteration": "mTKiviN_uEli iyo, maT patieBAS vArChev",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I’m growing one habit at a time.",
+      "georgian": "მე ვიზრდები ერთი ჩვევით ნაბიჯ-ნაბიჯ.",
+      "transliteration": "me vIZRDEbi erTi CHVEvit nabij-nabij",
+      "category": "Growth",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Today I chose progress over comfort.",
+      "georgian": "დღეს კომფორტზე წინსვლა ავირჩიე.",
+      "transliteration": "dRes komFORtze pinsvla aviRCHie",
+      "category": "Growth",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "My confidence is building week by week.",
+      "georgian": "ჩემი თავდაჯერებულობა კვირა-კვირა იზრდება.",
+      "transliteration": "chemi tavdaJEREbulioba kvira-kv i ra izRdeba",
+      "category": "Growth",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Mistakes help me learn faster.",
+      "georgian": "შეცდომები მე უფრო სწრაფად მასწავლიან.",
+      "transliteration": "shecdomebi me ufro srappad mascvlian",
+      "category": "Growth",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I’m stretching beyond my usual limits.",
+      "georgian": "ჩვეულ საზღვრებს მიღმა ვიწელება.",
+      "transliteration": "chveul sazRvrebs miRma viweLeba",
+      "category": "Growth",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Small steps count, even on bad days.",
+      "georgian": "მცირე ნაბიჯებიც ითვლება, ცუდ დღეშიც.",
+      "transliteration": "mcire nabijebic itvleba, cudad dgeshi tc",
+      "category": "Growth",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I’m making room for new skills.",
+      "georgian": "ახალი უნარებისთვის ადგილს ვუჩენ.",
+      "transliteration": "axali unarebistvis adgils vuChen",
+      "category": "Growth",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Let’s plan this for tomorrow.",
+      "georgian": "მოდი, ხვალ დაგეგმოთ ეს.",
+      "transliteration": "Mdi, khval dagvanmoT ot es",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "What time should we meet?",
+      "georgian": "კიდევ, რა დროს შევხვდეთ?",
+      "transliteration": "Kidev, ra dros shevkhvdet?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I’ll send you the details tonight.",
+      "georgian": "დღეს საღამოს დეტალებს მოგწერ.",
+      "transliteration": "Dges saghamos detalebs mogtser",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "We should book tickets today.",
+      "georgian": "დღეს ბილეთები უნდა დავჯავშნოთ.",
+      "transliteration": "Dges biletebi unda davjavshnot",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Can you fit me in at 5?",
+      "georgian": "ხუთზე თუ დაგიჯდებათ, მე ჩავჯდები.",
+      "transliteration": "Khutze tu dagijdebaT, me chavadjebi",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I’m thinking Saturday morning.",
+      "georgian": "შაბათ დილით ვფიქრობ.",
+      "transliteration": "Shabat dილit vfiqrob",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Let’s keep it simple and quick.",
+      "georgian": "მარტივად და სწრაფად გავაკეთოთ.",
+      "transliteration": "Martivad da swrafad gavaketot",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I find strength in quiet mornings.",
+      "georgian": "სიმშვიდიან დილებში ძალას ვპოულობ.",
+      "transliteration": "simshvidian dilebshi ZALAS vPOVNOB",
+      "category": "Strength",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Take a breath, then act strong.",
+      "georgian": "სუნთქე, მერე ძლიერად იმოქმედე.",
+      "transliteration": "SUNtqe, mere ZLIERAD IMOQMEDE",
+      "category": "Strength",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "My strength is showing up daily.",
+      "georgian": "ჩემთვის ძალა ყოველდღე გამოჩენაა.",
+      "transliteration": "chemtvis ZALA qoveldghe GamoCHENAaa",
+      "category": "Strength",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I trust myself, that’s my strength.",
+      "georgian": "მე ჩემს თავს ვენდობი, ეს ჩემი ძალაა.",
+      "transliteration": "me chems tavs vENdobi, es chemi ZALAA",
+      "category": "Strength",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Small progress, big strength, today.",
+      "georgian": "პატარა ნაბიჯი, დიდი ძალა, დღეს.",
+      "transliteration": "pATara nabiji, didi ZALA, dRes",
+      "category": "Strength",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Strength means saying no kindly.",
+      "georgian": "ძალა ნიშნავს, რომ თავაზიანად თქვა არა.",
+      "transliteration": "ZALA niSnavs, rom tvarazianad tqma ara",
+      "category": "Strength",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I’m strong enough to start again.",
+      "georgian": "ისეთი ძალა მაქვს, რომ თავიდან დავიწყო.",
+      "transliteration": "ISETi ZALA maqvs, rom TAVIDAN davizKo",
+      "category": "Strength",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Joy is in small everyday moments.",
+      "georgian": "სიხარული პატარა, ყოველდღიურ მომენტებშია.",
+      "transliteration": "sikhari p'at'ara, q'oveldgiur moment'ebshi'aa.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I smile, and my joy shows.",
+      "georgian": "ვიღიმი და ჩემი სიხარული ჩანს.",
+      "transliteration": "vighimi da chemi sikhari ts'ans.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Today feels light, full of joy.",
+      "georgian": "დღეს მსუბუქად ვგრძნობ თავს, სიხარულით.",
+      "transliteration": "dghes msubuq'adv vgrdzob t'avs, sikhariT.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "That song always lifts my joy.",
+      "georgian": "ის სიმღერა სიხარულს ყოველთვის მაღლა მიფენს.",
+      "transliteration": "is simghera sikhariuls yoveltvis maghla mip'ens.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I share joy, and it grows.",
+      "georgian": "სიხარულს რომ ვუზიარებ, იზრდება.",
+      "transliteration": "sikhariuls rom vuziareb, izrdzeba.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Joy tastes like fresh coffee.",
+      "georgian": "სიხარული ახალ ყავას ჰგავს, გემოთი.",
+      "transliteration": "sikhari ashqal q'avas hgavs, gemoet'i.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "We celebrated, and joy stayed.",
+      "georgian": "ჩვენ ვიზეიმეთ და სიხარული დარჩა.",
+      "transliteration": "chven vizaiemet da sikhari darch'a.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I still have hope for tomorrow.",
+      "georgian": "ჯერ კიდევ იმედი მაქვს ხვალისთვის.",
+      "transliteration": "jer KIDEV IMEDI maqvs kHvalistvis",
+      "category": "Hope",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "My hope is stronger than fear.",
+      "georgian": "ჩემი იმედი შიშზე ძლიერია.",
+      "transliteration": "chemi IMEDI shishze DZAliERIA",
+      "category": "Hope",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I’m holding on to hope.",
+      "georgian": "იმედს ვიჭერ, არ ვუშვებ.",
+      "transliteration": "IMEDS vICHER, ar vUSHVeb",
+      "category": "Hope",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "There’s hope in small steps.",
+      "georgian": "მცირე ნაბიჯებშიც კი იმედია.",
+      "transliteration": "mcire NABIJEBshic ki IMEDIA",
+      "category": "Hope",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I choose hope, not panic.",
+      "georgian": "იმედს ვარჩევ, პანიკას არა.",
+      "transliteration": "IMEDS vARchev, paNIKas aRA",
+      "category": "Hope",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Hope keeps me moving forward.",
+      "georgian": "იმედი წინსვლას მიღმაკავებს.",
+      "transliteration": "IMEDI pIinSVlas migMKAVEBS",
+      "category": "Hope",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I won’t lose hope, listen.",
+      "georgian": "იმედს არ დავკარგავ, მომისმინე.",
+      "transliteration": "IMEDS ar davKARgev, moMISMiNe",
+      "category": "Hope",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I need to see a doctor today.",
+      "georgian": "ექიმთან დღეს უნდა მიმიყვანოს, გთხოვთ.",
+      "transliteration": "E-kim-than dGes unda mi-mii-yan-os, gTxo-vt",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Is there a pharmacy open now?",
+      "georgian": "აფთიაქი ახლა ღიაა, ხომ არ არის?",
+      "transliteration": "aP- ti-aqi a-klaa, xo ara- aris",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Do you have this medicine?",
+      "georgian": "ეს წამალი გაქვთ?",
+      "transliteration": "es tsa-ma-li gaqv-t",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "My prescription is in English.",
+      "georgian": "ჩემი რეცეპტი ინგლისურად არის.",
+      "transliteration": "che-mi re-cEp-ti in- gli-so-rad ar-is",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Can you recommend a pharmacist?",
+      "georgian": "აფთიაქში ვინმეს შეუძლია მირჩიოს?",
+      "transliteration": "aP- ti-aqshi vin-mes sheu-zlia mir-chios",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I feel dizzy, what should I do?",
+      "georgian": "გული მერევა და თავბრუხვევა მაქვს, რას მირჩევთ?",
+      "transliteration": "Gu-li me-re-va da tav-bru-xve-va maqvs, ras mir-chev-t",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I have a headache, please.",
+      "georgian": "თავი მაქვს ძალიან მტკივნეული, დამეხმარეთ, გთხოვთ.",
+      "transliteration": "ta-vi maqvs Zalu-ri mtki-vneu-li, da-me-xma-ret, gTxo-vt",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Right now, just feel your breath.",
+      "georgian": "ახლა უბრალოდ იგრძენი სუნთქვა.",
+      "transliteration": "AKLA, JST’ AD IG RDZI N I SUN T KVA.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I notice my thoughts, not fights.",
+      "georgian": "შენიშნე აზრებს, არა ბრძოლას.",
+      "transliteration": "SHENISN E AZ REBS, A RA B R DZOL AS.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Feet on the floor, steady.",
+      "georgian": "ფეხები იატაკზე, მშვიდად.",
+      "transliteration": "PE KH EBI I A TA KZE, MI D ZI A D.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Pause, relax your shoulders for ten breaths.",
+      "georgian": "შეისვენე, მოადუნე მხრები ათ სუნთქვამდე.",
+      "transliteration": "SHE IS VNE, MO A DU NE MKH R EBI AT SUN TKVD A MDE.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Listen to one sound, fully.",
+      "georgian": "მოუსმინე ერთ ხმას, ბოლომდე.",
+      "transliteration": "MO US M I NE ERT KHMAS, BO LOM D E.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "I can slow down, even here.",
+      "georgian": "შეიძლება ნელა შევანელო, აქაც კი.",
+      "transliteration": "SH E I ZL EBA N E L A SHE VA N ELO, A KHC KI.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T12:31:49.653314"
+    },
+    {
+      "english": "Let your mind come back gently.",
+      "georgian": "გონება ნაზად დაუბრუნე საკუთარ სხეულს.",
+      "transliteration": "GO N EBA NA Z A D DA U B RUN E SA K U T A R S KHE U LS.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T12:31:49.653314"
     }
   ],
-  "last_updated": "2026-11-13T13:27:11.023772"
+  "last_updated": "2026-11-14T12:31:49.653314"
 }
