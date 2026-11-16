@@ -19175,7 +19175,399 @@
       "transliteration": "MIN-da iS-e-ti si-yk-vaar-u-ra, aD-a-mde mi-shi-ad x-ar",
       "category": "Love",
       "generated_at": "2026-11-15T12:59:20.161648"
+    },
+    {
+      "english": "Where is the nearest bus stop?",
+      "georgian": "სად არის უახლოესი ავტობუსის გაჩერება?",
+      "transliteration": "sad aris uakhloesi avtobusis gachereba?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Is this bus going to the center?",
+      "georgian": "ეს ავტობუსი ცენტრამდე მიდის?",
+      "transliteration": "es avtobusi centramde midis?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "How much is a one way ticket?",
+      "georgian": "ერთი მგზავრობის ბილეთი რამდენია?",
+      "transliteration": "erti mgzavrobis bileti ramdenia?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Do I pay with cash or card?",
+      "georgian": "ბილეთს ნაღდით ვიხდი თუ ბარათით?",
+      "transliteration": "billets nadbit vikhdi tu baratiti?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Do I need to validate my card?",
+      "georgian": "კიდევ ერთხელ უნდა დავაკომპოსტარო ბარათი?",
+      "transliteration": "kidev ertxel unda davakompostaro barati?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "What time is the next metro train?",
+      "georgian": "მეტროს შემდეგი მატარებელი რამდენ საათზეა?",
+      "transliteration": "metros shemdegi matarebeli ramden saatezea?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Which platform do I use?",
+      "georgian": "რომელი პლატფორმიდან გავიდე?",
+      "transliteration": "romeli platpormidan gavide?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Choose kindness even when it costs.",
+      "georgian": "აირჩიე სიკეთე, მაშინაც კი როცა ძვირია.",
+      "transliteration": "aარჩი e sik'et'e, mainc ki rotsa dzviria",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Learn the lesson, not just the moment.",
+      "georgian": "ისწავლე გაკვეთილი, არა მხოლოდ მომენტი.",
+      "transliteration": "isk'evle gak'vetili, ara m'k'holod momenti",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Let curiosity guide you today.",
+      "georgian": "დღესვე გაჰყვე ცნობისმოყვარეობას.",
+      "transliteration": "dghesve gak'vye tsnobismoqvareobas",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Ask, then listen for real answers.",
+      "georgian": "ჯერ იკითხე, მერე ბოლომდე მოუსმინე.",
+      "transliteration": "jer ikhitxe, mere bolomde mousmine",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Hold your boundaries, stay warm.",
+      "georgian": "შეინარჩუნე საზღვრები, სითბოც არ დაკარგო.",
+      "transliteration": "sheinarc'khune sazghvrebi, sit'boc ar dakarg'o",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Wisdom comes after you calm down.",
+      "georgian": "სიბრძნე მოდის, როცა დამშვიდდები.",
+      "transliteration": "sibrdzne modis, rotsa damshivddeb i",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Speak less, notice more around you.",
+      "georgian": "ნაკლებად ილაპარაკე, მეტს დააკვირდი.",
+      "transliteration": "naklebad ilap'arak'e, mets daak'virde",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I wake up, stretch, breathe slowly",
+      "georgian": "ვიღვიძებ, ვიწელებ, ნელა ვსუნთქავ",
+      "transliteration": "vikvizhe, vitsvele b, nel a vsuntqav",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I drink water first, no rush",
+      "georgian": "პირველად წყალს ვსვამ, ჩქარობის გარეშე",
+      "transliteration": "p’irvelad tsq’als vsvam, chqarobis gare she",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I open the curtains for light",
+      "georgian": "ფარდებს ვხსნი, რომ შუქი შემოვიდეს",
+      "transliteration": "pardebs vkhsni, rom shuki shemovides",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I make my bed, simple start",
+      "georgian": "საწოლს ვალაგებ, მარტივი დაწყება",
+      "transliteration": "sats’ols valegeb, martivi datskeba",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I check my calendar, then move",
+      "georgian": "კალენდარს ვამოწმებ, მერე მივდივარ",
+      "transliteration": "kalendars vamotsmeb, mere mivdivar",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I eat breakfast, just what I like",
+      "georgian": "საუზმეს ვჭამ, რაც მართლა მომწონს",
+      "transliteration": "saudzmes vch’am, rac martla momts’on s",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I step outside, fresh air resets me",
+      "georgian": "გარეთ გავდივარ, სუფთა ჰაერი მაცოცხლებს",
+      "transliteration": "garet gavadivar, supta ha eri matsi’ts’ qevs",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I need cash, please.",
+      "georgian": "ფული ნაღდი მჭირდება, გთხოვთ.",
+      "transliteration": "fuli naRdi mchirdeba, gTxovt",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "What are your transfer fees?",
+      "georgian": "რა საკომისიო გაქვთ გადარიცხვაზე?",
+      "transliteration": "ra sakomisio gqvt gadaricxvaze?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Is this transaction instant?",
+      "georgian": "ეს გადარიცხვა მყისიერია?",
+      "transliteration": "es gadaricxva mqisierebia?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I’d like to open an account.",
+      "georgian": "ანგარიშის გახსნა მინდა.",
+      "transliteration": "angariSis gaxsna minda",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Do you support international transfers?",
+      "georgian": "საერთაშორისო გადარიცხვებს აკეთებთ?",
+      "transliteration": "saertashoriso gadaricxvebs akeTebt?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Can I check my balance now?",
+      "georgian": "ახლა შემიძლია ბალანსის ნახვა?",
+      "transliteration": "axla shemizlia balansi s naxva?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Please, show me the exchange rate.",
+      "georgian": "გთხოვთ, მომწერეთ კურსი.",
+      "transliteration": "gTxovt, momcereT kursi",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "What do you recommend for today?",
+      "georgian": "დღეს რას მირჩევთ, რა არის საუკეთესო?",
+      "transliteration": "dghes ras mirchevT, ra aris sauketeso?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "No onions for me, please.",
+      "georgian": "ხახვი არ მინდა, გთხოვთ.",
+      "transliteration": "xakhvi ar minda, gtxovt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Could I get this to go?",
+      "georgian": "შემიძლია წამოსაღებად, ეს რომ მომიტანოთ?",
+      "transliteration": "shemidzlia camosagkheb d, es rom momitanot?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "What’s in the vegetarian option?",
+      "georgian": "რას შეიცავს ვეგეტარიანული ვარიანტი?",
+      "transliteration": "ras sheicavs vegetari anuli var ianti?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Is the bread fresh right now?",
+      "georgian": "პური ახლახან არის გამომცხვარი?",
+      "transliteration": "puri ahalakh an aris gamomcxvari?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Can I have extra sauce, please?",
+      "georgian": "შემიძლია დამატებითი სოუსი, გთხოვთ?",
+      "transliteration": "shemidzlia damatebiTi sousi, gtxovt?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Do you have gluten-free choices?",
+      "georgian": "გლუტენის გარეშე გაქვთ რამე?",
+      "transliteration": "glutenis gare she g aqvT rame?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I loosen my shoulders, right now.",
+      "georgian": "ახლა ვუშვებ მხრებს, ნელა.",
+      "transliteration": "akla vushveb mkrebS, nEla.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I pause before I answer.",
+      "georgian": "პასუხამდე ერთი წამით ვჩერდები.",
+      "transliteration": "pasuxamde ert-i tsamit vcherdebi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I let worry pass through me.",
+      "georgian": "დარდს ვუშვებ, რომ გამატაროს.",
+      "transliteration": "dards vusheb, rom gamatariSos.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "No need to prove anything today.",
+      "georgian": "დღეს არაფრის დამტკიცება არ მჭირდება.",
+      "transliteration": "dRes arcs mershvideba ara mkvirdeba.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I choose calm over reacting.",
+      "georgian": "სიმშვიდეს ვირჩევ, რეაქციის ნაცვლად.",
+      "transliteration": "simSvides virchev, reaqciis nacvlad.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "My pace is allowed to be slow.",
+      "georgian": "ჩემი ტემპი ნელა ყოფნის უფლებას იღებს.",
+      "transliteration": "chemi temp-i nela yofnis uflebas iRebs.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I speak to myself with kindness.",
+      "georgian": "ჩემს თავს მშვიდად და თბილად ველაპარაკები.",
+      "transliteration": "chem s tavs mqvidad da tbilad velaparakebi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I love how elders share stories aloud.",
+      "georgian": "მომწონს, როგორ უყვებიან უფროსები ისტორიებს ხმამაღლა.",
+      "transliteration": "momswons, rogor uamboben uprsesebi istoriebs mkhma-mdawla",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Tonight, we drink to good wishes.",
+      "georgian": "დღეს საღამოს, ვსვამთ კარგ სურვილებზე.",
+      "transliteration": "dges saghamos, vsvamt karg survilebze",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "That dance looked so joyful and brave.",
+      "georgian": "ეს ცეკვა ისეთი მხიარული და მამაცი ჩანდა.",
+      "transliteration": "es tsqeva iseTi mkhiaruli da mamatsi chand a",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I feel the warmth in every greeting.",
+      "georgian": "ყოველ მისალმებაში სითბოს ვგრძნობ.",
+      "transliteration": "yovel misalmebshi sitbos vgrdznob",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Food rituals make me slow down.",
+      "georgian": "სასადილო წესები მაგრძნობინებს, რომ შევანელო.",
+      "transliteration": "sasadilo tsesebi magdzobinebs, rom sheanelo",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "The toast tradition feels welcoming, not formal.",
+      "georgian": "ალბათ, სადღეგრძელოს ტრადიცია უფრო სტუმართმოყვარეა, არა ოფიციალური.",
+      "transliteration": "albat, sadgegoroqlos traditsia ufro stumartmoyvareaa, ara ap’atsiciali",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I’ll remember this song for weeks.",
+      "georgian": "ეს სიმღერა კვირების მანძილზე გამახსენდება.",
+      "transliteration": "es simgera kvirebis manZilze gamakhsen deb a",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "My flight was delayed, again.",
+      "georgian": "ჩემი ფრენა გადაიდო, ისევ.",
+      "transliteration": "Chemi frena gadaydiO, EVS-is.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Do I need to fill this form?",
+      "georgian": "ეს ფორმა უნდა შევავსო?",
+      "transliteration": "es pormA unda shevavsO?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I need to charge my phone.",
+      "georgian": "ტელეფონი უნდა დავამუხტო.",
+      "transliteration": "teLEfoni unda davamUxto.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Is there Wi-Fi near the gates?",
+      "georgian": "Wi-Fi ხომ არ არის გასასვლელებთან ახლოს?",
+      "transliteration": "Wi-Fi khom ar aris gasasvleleBtan A-clos?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Which way is baggage claim?",
+      "georgian": "სად არის ბარგის მიღება?",
+      "transliteration": "sad aris barGis miGeba?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "I think my suitcase is missing.",
+      "georgian": "მგონია, ჩემი ჩემოდანი არ მოვიდა.",
+      "transliteration": "mgoNia, chemi chemoDANI ar moVida.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "How long is the line for security?",
+      "georgian": "უსაფრთხოებაზე რიგი რამდენ ხანს არის?",
+      "transliteration": "u-saFRTXO-eBze riGi ramden khans aris?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T14:01:45.452779"
     }
   ],
-  "last_updated": "2026-11-15T12:59:20.161648"
+  "last_updated": "2026-11-16T14:01:45.452779"
 }
