@@ -19567,7 +19567,399 @@
       "transliteration": "u-saFRTXO-eBze riGi ramden khans aris?",
       "category": "Travel & Airport",
       "generated_at": "2026-11-16T14:01:45.452779"
+    },
+    {
+      "english": "Say it, even if you tremble",
+      "georgian": "თქვი ეს, თუნდაც ხელები გიკანკალებდეს",
+      "transliteration": "tqvi es, thundac xelebi gikankalebodes",
+      "category": "Courage",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Ask for the truth, not comfort",
+      "georgian": "სიმართლისთვის იკითხე, ნუგეშისთვის არა",
+      "transliteration": "simartlisaTvis ikitxe, nUgeSisaTvis ara",
+      "category": "Courage",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Make one brave call right now",
+      "georgian": "ახლავე გააკეთე ერთი გაბედული ზარი",
+      "transliteration": "axlaVe gaakeTe erTi gabeduli zari",
+      "category": "Courage",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Protect your boundaries, gently and firmly",
+      "georgian": "დაიცავი შენი საზღვრები, მშვიდად და მტკიცედ",
+      "transliteration": "daicavi seni sazRvreb i, mSvidad da mtkic ed",
+      "category": "Courage",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Go anyway, even with fear",
+      "georgian": "მაშინაც წადი, როცა გეშინია",
+      "transliteration": "maSinac wadi, rodesac geSinia",
+      "category": "Courage",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Apologize first, before your pride wins",
+      "georgian": "პირველად მოიხადე ბოდიში, სანამ ამპარტავნება გაიმარჯვებს",
+      "transliteration": "pirvelad moixade bodishi, sanam ampartavneba gaimarjvebs",
+      "category": "Courage",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Choose peace, not the last word",
+      "georgian": "სიმშვიდე აირჩიე, ბოლო სიტყვას კი არა",
+      "transliteration": "simSvide aiC ie, bolo sitqvas ki ara",
+      "category": "Courage",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Thank you for your steady presence.",
+      "georgian": "მადლობა, რომ ასე მშვიდად და სტაბილურად გვერდით ხართ.",
+      "transliteration": "madloba, rom ase mŝvildad da stabiLUrad gverdit xarT",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "I’m grateful for your kind timing.",
+      "georgian": "მადლობელი ვარ თქვენი კეთილი დროის შერჩევისთვის.",
+      "transliteration": "madlobeli var tkvens keTili dros SerCeVisTvis",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Thank you for holding space for me.",
+      "georgian": "მადლობა, რომ ჩემთვის სივრცე დატოვეთ.",
+      "transliteration": "madloba, rom chemtvis siVrce daToveT",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "I feel thankful for your effort.",
+      "georgian": "მინდა მადლობა გადაგიხადოთ თქვენი ძალისხმევისთვის.",
+      "transliteration": "minda madloba gadaGihaDoT tkveni dzalisxmeviSvis",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Thank you for making room for rest.",
+      "georgian": "მადლობა, რომ დასვენებისთვის ადგილი გამინახეთ.",
+      "transliteration": "madloba, rom dasevenebisTvis adgili gaminaXeT",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "I appreciate your honest check-in.",
+      "georgian": "მადლობა, რომ გულწრფელად დამიკავშირდით.",
+      "transliteration": "madloba, rom gulwrfelad daMiKavSirdiT",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Thanks for speaking with care.",
+      "georgian": "მადლობა, რომ ამას ასე ფრთხილად ამბობთ.",
+      "transliteration": "madloba, rom amas ase ftxriLad ambobt",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Hi, nice to meet you—how are you?",
+      "georgian": "გამარჯობა, სასიამოვნოა თქვენი გაცნობა, როგორ ხართ?",
+      "transliteration": "gamardjoba, sasialovnoa tkveni gacnoba, rogor khart?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "I’m new around here, say hello!",
+      "georgian": "ახლახან მოვედი აქ, გამარჯობა!",
+      "transliteration": "akhlakhan movedi aq, gamardjoba!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "What’s your name, sorry, I forgot.",
+      "georgian": "როგორ მქვია თქვენ, ბოდიში, დამავიწყდა.",
+      "transliteration": "rogor mqvia tkven, bodishi, davavitskda.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Let’s shake hands, I’m happy to meet you.",
+      "georgian": "მოდი, ხელი ჩამოვართვათ, მიხარია თქვენი გაცნობა.",
+      "transliteration": "modi, kheli chamovartvat, mixaria tkveni gacnoba",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Thanks for stopping by, really appreciate it.",
+      "georgian": "გმადლობთ, რომ მოხვედით, ძალიან ვაფასებ.",
+      "transliteration": "gmadlobt, rom mokhvedit, dzalian vafaseb",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "You seem friendly, we should talk.",
+      "georgian": "როგორც ჩანს, მეგობრული ადამიანი ხართ, უნდა ვისაუბროთ.",
+      "transliteration": "rogorc chans, megobruli adamiani khart, unda visasubrobt",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Excuse me, are you from around here?",
+      "georgian": "მაპატიეთ, თქვენ აქედან ხართ?",
+      "transliteration": "mapatie, tkven akedan khart?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Today I choose practice over comfort.",
+      "georgian": "დღეს ვარჩევ ვარჯიშს კომფორტზე მეტად.",
+      "transliteration": "dghes varkhev varjishs komfortze METAD",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "I show up, even without energy.",
+      "georgian": "მე ვჩნდები, როცა ენერგია არ მაქვს.",
+      "transliteration": "me vchendebi, rotsa energia ar maqVS",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Small effort still counts for me.",
+      "georgian": "ჩემი პატარა ძალისხმევაც ითვლება.",
+      "transliteration": "chemi patara dzalisxmevac itvleBA",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "I keep going, because it matters.",
+      "georgian": "ვაგრძელებ, რადგან ეს მნიშვნელოვანია.",
+      "transliteration": "vagrdzEleb, radgan es mnishvnelovania",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Let progress feel personal, not perfect.",
+      "georgian": "წინსვლა პირადად ვიგრძნო, სრულყოფილებაზე არ შევჩერდე.",
+      "transliteration": "winsvla piradad vigrcno, srulqofilebaze ar shecherde",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "I study like I’m building my future.",
+      "georgian": "ვსწავლობ, როგორც მომავლის მშენებლობას.",
+      "transliteration": "vsvlob, rogorc momavlis msheneblobas",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "One sentence now, then breathe.",
+      "georgian": "ერთ წინადადებას ვამბობ ახლა, მერე ვსუნთქავ.",
+      "transliteration": "ert tsinadanebas vamBOB aKHLA, meRE VSUNtqav",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "I can handle this, right now.",
+      "georgian": "შემიძლია ეს შევძლო, ახლავე.",
+      "transliteration": "shemiZlia es shevZlo, aKHLAVE.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "My voice matters, I speak up.",
+      "georgian": "ჩემი ხმა მნიშვნელოვანია, ვლაპარაკობ.",
+      "transliteration": "chemi xma mniSvnelovania, vlaPARAKOB.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "I trust effort, not instant results.",
+      "georgian": "ვენდობ ძალისხმევას, არა მყისიერ შედეგებს.",
+      "transliteration": "vendob Zalisxmevas, ara miQsiېر Sedegebs.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "I set boundaries, calmly and clearly.",
+      "georgian": "მე საკუთარ საზღვრებს, მშვიდად და მკაფიოდ ვაყენებ.",
+      "transliteration": "me sakuTAR SAzRvRebs, miSvida da mkAFIod vayeneB.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "No apology needed for wanting more.",
+      "georgian": "არ მჭირდება ბოდიში, რომ მეტი მინდა.",
+      "transliteration": "ar mWIRdeba boDiSi, rom MEti miNda.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "I accept feedback, and stay grounded.",
+      "georgian": "ვიღებ უკუკავშირს, და მიწაზე ვდგავარ.",
+      "transliteration": "viGeb ukaKavSirs, da miwaze vdgavar.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "I’m allowed to start over.",
+      "georgian": "უფლება მაქვს თავიდან დავიწყო.",
+      "transliteration": "ufleba maqvs takidan davaizvo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "What tea pairs best with this cake?",
+      "georgian": "რომელი ჩაი უხდება ყველაზე მეტად ამ ნამცხვარს?",
+      "transliteration": "romeli chai UKhDEBA yvelaze METAD am nancxvars?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Can I get a recommendation, please?",
+      "georgian": "მირჩევნია, მირჩიოთ რამე, გთხოვთ.",
+      "transliteration": "mirchelia, mirchიოთ RAME, gtxovt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Do you bake these croissants fresh daily?",
+      "georgian": "ყოველდღე თქვენით იფქვება ეს კრასანები?",
+      "transliteration": "qoveldRe shenito IPKVEBA es krasanebi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "This cinnamon smell is incredible, wow.",
+      "georgian": "დარიჩინის სუნი საოცარია, ვაიმე.",
+      "transliteration": "darichinis SUNI SAOCEaRia, vaime.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "I’ll try something sweet with my coffee.",
+      "georgian": "ჩემს ყავასთან ერთად ტკბილს ვცდი.",
+      "transliteration": "chems qavastan ERTAD tkBILS vcdi.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Is that hazelnut flavor homemade?",
+      "georgian": "თხილის გემო ხელით მზადდება?",
+      "transliteration": "tkhilis gemo XELit MAZDDEba?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Could I taste a small sample first?",
+      "georgian": "პირველად პატარა დაგემოვნების თხოვნა შეიძლება?",
+      "transliteration": "pirvelad PATARA dagemovnebis Tkhovna SHEIZLEBA?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Do you have a free room upgrade?",
+      "georgian": "არის თუ არა შესაძლებელი უფასო განახლება?",
+      "transliteration": "aris tu ara SesaZlebeli ufaso ganaxleba?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Is breakfast included in the price?",
+      "georgian": "საუზმე შედის ფასში, ხომ არ არის?",
+      "transliteration": "sauzme sdis fasiSHI, hom ar aris?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "What time is check-in?",
+      "georgian": "ჩეკ-ინი, რა საათზე იწყება?",
+      "transliteration": "cek-ini, ra saatze ikveba?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Can I check in early, please?",
+      "georgian": "შეგიძლიათ ადრე დამსვან, გთხოვთ?",
+      "transliteration": "SegiZliaT adre damsvan, gTxovt?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Do you offer airport pickup?",
+      "georgian": "თავს მოგიწევთ აეროპორტიდან ტრანსფერი?",
+      "transliteration": "tavs mogiCiavT aeroportidan transfErI?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "How much is parking here?",
+      "georgian": "აქ ავტოსადგომი რამდენია?",
+      "transliteration": "aq avtosadgomI ramdenia?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Can I pay by card at reception?",
+      "georgian": "რეცეფციაზე ბარათით გადახდა შეიძლება?",
+      "transliteration": "recefciAze baratiT gadaxda SeiZleba?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Choose one habit, do it daily",
+      "georgian": "აირჩიე ერთი ჩვევა, გააკეთე ყოველდღე",
+      "transliteration": "aich'ie erTi ch'vევა, gaakeTe qoveldRe",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Journal one sentence, then close it",
+      "georgian": "ჩაწერე ერთი წინადადება და მერე გააჩერე",
+      "transliteration": "chaawere erTi tsinaadadeba da mere gaacher'e",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Talk to yourself like a friend",
+      "georgian": "ესაუბრე საკუთარ თავს ისე, როგორც მეგობარს",
+      "transliteration": "esaubre sakuTar tavs ise, rogorc megobrqrs",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Say no sooner, protect your energy",
+      "georgian": "უფრო ადრე თქვა უარი, დაიცავი შენი ენერგია",
+      "transliteration": "ufro adre tsqai uari, daicavi sheni energ'ia",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Plan tomorrow tonight, then breathe",
+      "georgian": "დაგეგმე ხვალე უკვე დღეს, მერე მშვიდად ისუნთქე",
+      "transliteration": "daegeME khvale ukve dghes, mere mshvidad isunT'q'e",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Learn from setbacks, not from shame",
+      "georgian": "დაეყრდენი მარცხს, არა სირცხვილს",
+      "transliteration": "daeyrd'ni mark'xs, ara sirtsxvils",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T14:54:45.350638"
+    },
+    {
+      "english": "Ask, what’s the next small win?",
+      "georgian": "იკითხე, რა არის შემდეგი პატარა გამარჯვება?",
+      "transliteration": "ik'itxe, ra aris shemdegi pat'ara gamarjveba",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T14:54:45.350638"
     }
   ],
-  "last_updated": "2026-11-16T14:01:45.452779"
+  "last_updated": "2026-11-17T14:54:45.350638"
 }
