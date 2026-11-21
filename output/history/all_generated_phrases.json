@@ -21135,7 +21135,399 @@
       "transliteration": "UPRO ZLIER ME-s vKmnI qovelDRe",
       "category": "Growth",
       "generated_at": "2026-11-20T14:22:42.217041"
+    },
+    {
+      "english": "I need a checkup today, please.",
+      "georgian": "დღეს შემოწმება მჭირდება, გთხოვთ.",
+      "transliteration": "Dghes shemotskveba mdchirdeba, gTxovt.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Where is the nearest clinic?",
+      "georgian": "სად არის უახლოესი კლინიკა?",
+      "transliteration": "Sad aris uakhloesi klinika?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Do I need an appointment?",
+      "georgian": "საჭიროა წინასწარი ჩაწერა?",
+      "transliteration": "Sachiroa winaswari chatsera?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Can you check my blood pressure?",
+      "georgian": "შეგიძლიათ ჩემი წნევა შეამოწმოთ?",
+      "transliteration": "ShegzliaT chemi tsneva sheamotsmot?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I have stomach pain since morning.",
+      "georgian": "დილიდან მუცლის ტკივილი მაქვს.",
+      "transliteration": "Dhilidan mutslis tkivilI maqvs.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "My child is sick, what do I do?",
+      "georgian": "ჩემი შვილი ავადაა, რა გავაკეთო?",
+      "transliteration": "Chemi shvili avadaa, ra gavaket’o?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I need urgent help, please.",
+      "georgian": "სასწრაფო დახმარება მჭირდება, გთხოვთ.",
+      "transliteration": "Sascrisapo daxmareba mdchirdeba, gTxovt.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Joy comes when I help someone",
+      "georgian": "სიხარული მოდის, როცა ვეხმარები სხვას",
+      "transliteration": "sიხარული модis, rodesac vexmarebi sxvas",
+      "category": "Joy",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I hear laughter, and my heart brightens",
+      "georgian": "როცა სიცილით მესმის, გული მაშინვე ინათებს",
+      "transliteration": "roca sicilit mesmis, guli MASHINVE inatebs",
+      "category": "Joy",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "This morning, I choose joy first",
+      "georgian": "დილით, პირველ რიგში სიხარულს ვარჩევ",
+      "transliteration": "dilit, pirvel rigshi sიხarulს varchev",
+      "category": "Joy",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Good news always feels like joy",
+      "georgian": "კარგი ამბავი სიხარულივით მახარებს",
+      "transliteration": "kargi ambavi sიხarulivit makharаbs",
+      "category": "Joy",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Joy shows up in my daily walk",
+      "georgian": "სიხარული ჩემს ყოველდღიურ სეირნობაში მოდის",
+      "transliteration": "sიხარული chems qoveldgiur seirnobashi modis",
+      "category": "Joy",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "A warm text can brighten everything",
+      "georgian": "თბილ მესიჯს შეუძლია ყველაფერი გაგინათოს",
+      "transliteration": "tbіl mesijს sheudzlia yvelaferi gamotinos",
+      "category": "Joy",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I feel joy when I cook",
+      "georgian": "სიხარული მაშინ მაქვს, როცა ვამზადებ",
+      "transliteration": "sიხარული mainc maqvs, roca vamszadeb",
+      "category": "Joy",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Do you need a quick hand?",
+      "georgian": "გჭირდება თუ არა ცოტა დახმარება?",
+      "transliteration": "gchirdeba tu ara cota daxmareba?",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I brought extra, you can have some.",
+      "georgian": "მე ზედმეტი მომიტანია, შეგიძლია აიღო.",
+      "transliteration": "me zedmeti momitaniiA, SHEGliASia aiGO.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "No worries, I’ve got you.",
+      "georgian": "ნუ ნერვიულობ, მე შენთან ვარ.",
+      "transliteration": "nu nErvIulOb, me SHENtan var.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "You did great, really proud of you.",
+      "georgian": "ძალიან კარგად გააკეთე, ძალიან ვამაყობ.",
+      "transliteration": "DZalian kargad gaakeTe, DZalian vamAyob.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Want me to call someone for you?",
+      "georgian": "გინდა დავრეკო ვინმეს შენთვის?",
+      "transliteration": "ginda davrEko vinmes SHENTvis?",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Here, I’ll carry that for a moment.",
+      "georgian": "მოდი, ერთი წუთით ამას მე მოვკიდებ.",
+      "transliteration": "mOdi, ertI MUTIT amAs me movkIdeb.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "That was kind of you, thank you.",
+      "georgian": "ძალიან კეთილი ხარ, მადლობა.",
+      "transliteration": "DZalian keTILI xar, madloba.",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I want a stronger core today.",
+      "georgian": "დღეს უფრო ძლიერი კორი მინდა.",
+      "transliteration": "Dghes ufro dzlieri kori minda.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "How often should I rest between workouts?",
+      "georgian": "რამდენჯერ უნდა დავისვენო ვარჯიშებს შორის?",
+      "transliteration": "Ramdenjer unda davisveno varjishebs shoris?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Can you help me choose the right weights?",
+      "georgian": "მომეხმარებით სწორი წონების არჩევაში?",
+      "transliteration": "Momekharesheit scor i tsonebis archebashi?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "My knees hurt when I squat.",
+      "georgian": "ჩემს მუხლებს სტკივა, როცა ჩაჯდომას ვაკეთებ.",
+      "transliteration": "Chems mukhlebs stqiva, rotsa chajdomas vaketeb.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Is there a beginner-friendly cardio machine?",
+      "georgian": "არის რამე კარდიოს აპარატი, დამწყებთათვის?",
+      "transliteration": "Aaris rame kardi os aparati, damwyebt-aatsvis?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Show me how to use the treadmill safely.",
+      "georgian": "მაჩვენეთ, როგორ გამოვიყენო ტრედმილი უსაფრთხოდ.",
+      "transliteration": "Machvenet, rogor gamoviyeno tredmili usaprtxod.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I need a plan for week-long training.",
+      "georgian": "მინდა გეგმა კვირის ვარჯიშისთვის.",
+      "transliteration": "Minda gegma kviris varjishistvis.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I need direction, not distractions.",
+      "georgian": "მე მიმართულება მინდა, ყურადღების გარეშე არა.",
+      "transliteration": "me mimartuleba minda, yuradghebis gareSe ara",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Today I choose what matters most.",
+      "georgian": "დღეს მე ვარჩევ ყველაზე მნიშვნელოვანს.",
+      "transliteration": "dges me varchev yvelaze mniSvnelovans",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "My purpose is to finish strong.",
+      "georgian": "ჩემი მიზანია ძლიერად დავასრულო.",
+      "transliteration": "chemi mizania dzlierad davasrulo",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I’m here to solve, not to blame.",
+      "georgian": "აქ ვარ პრობლემის გადასაჭრელად, ბრალის დასადებად არა.",
+      "transliteration": "aq var problemis gadasaWrelad, bralis dasadebad ara",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I want peace of mind, step by step.",
+      "georgian": "მშვიდობა მინდა გულში, ნაბიჯ-ნაბიჯ.",
+      "transliteration": "mSvidoba minda gulSi, nabij-nabij",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "My aim is honest progress, weekly.",
+      "georgian": "ჩემი მიზანია გულწრფელი წინსვლა, ყოველ კვირა.",
+      "transliteration": "chemi mizania gulwrfeli cinsvla, yovel kvira",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I keep my focus on outcomes.",
+      "georgian": "მე შედეგებზე მეჭირება ყურადღება.",
+      "transliteration": "me Sedegebze mečireba yuradgheba",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I need access to that folder",
+      "georgian": "მჭირდება წვდომა ამ საქაღალდეზე",
+      "transliteration": "mkirdeba tsvdoma am sak'aşaldéze",
+      "category": "Work & Office",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Who owns this project, please?",
+      "georgian": "ვინ ხელმძღვანელობს ამ პროექტს?",
+      "transliteration": "vin xelmZghvanelobs am proek'ts",
+      "category": "Work & Office",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Could you schedule me for tomorrow?",
+      "georgian": "შეგიძლიათ დამიგეგმოთ ხვალ?",
+      "transliteration": "segidzliat damigeemọt khval",
+      "category": "Work & Office",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I will call you in ten minutes",
+      "georgian": "ათი წუთში დაგირეკავთ",
+      "transliteration": "ati ts'utshi dagirek'avt",
+      "category": "Work & Office",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Can we move this to 3 pm?",
+      "georgian": "შეგვიძლია ეს გადავიტანოთ სამ საათზე?",
+      "transliteration": "segidzlia es gadavitanot sam saatze",
+      "category": "Work & Office",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I think the Wi-Fi is down",
+      "georgian": "ჰგონია, რომ ინტერნეტი არ მუშაობს",
+      "transliteration": "hgonia, rom internéti ar muşhaobs",
+      "category": "Work & Office",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Do we have any stationery left?",
+      "georgian": "გვაქვს რაიმე საკანცელარიო მარაგი?",
+      "transliteration": "gvakvs raime sakancelario maragi",
+      "category": "Work & Office",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I did the thing I feared.",
+      "georgian": "გავაკეთე ის, რაც მეშინოდა.",
+      "transliteration": "gavakeTe is, rac miSinoDA.",
+      "category": "Success",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Today, I moved the needle.",
+      "georgian": "დღეს ნემსზე წინ წავედი.",
+      "transliteration": "dRes nemse win vavedi.",
+      "category": "Success",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I kept going, even tired.",
+      "georgian": "გავაგრძელე, თუნდაც დაღლილი ვიყავი.",
+      "transliteration": "gavagrZele, tundac daRlili viyavi.",
+      "category": "Success",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "One brave decision, and it changed.",
+      "georgian": "ერთი გაბედული გადაწყვეტილება და ყველაფერი შეიცვალა.",
+      "transliteration": "erti gabeduli gadawyvetileba da yvelaferi sheicvala.",
+      "category": "Success",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I turned feedback into progress.",
+      "georgian": "უკუკავშირი პროგრესად ვაქციე.",
+      "transliteration": "ukukavSiri progresad vaaqcie.",
+      "category": "Success",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I solved it, without guessing.",
+      "georgian": "გავარკვიე, გამოცნობით არ შემიქმნია.",
+      "transliteration": "gavarkvie, gamocnobiT ar shemivknia.",
+      "category": "Success",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "My follow-up finally paid off.",
+      "georgian": "ჩემი შემდგომი ზარი საბოლოოდ შედეგი მოიტანა.",
+      "transliteration": "chemi shemdegomi zari sabolood SedeGi moitana.",
+      "category": "Success",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I love this mild weather, don’t you?",
+      "georgian": "ეს სასიამოვნო ამინდია, თქვენც ასე არ გგონიათ?",
+      "transliteration": "Es sasaSiovno amindia, tquenc ase ar ggoniate?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Feels like spring is finally here.",
+      "georgian": "ვგრძნობ, რომ გაზაფხული ბოლოს და ბოლოს მოვიდა.",
+      "transliteration": "vgrdznob, rom gazapxuli bolos da bolos movida.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "The sky is bright, isn’t it?",
+      "georgian": "ცაზე ნათელია, არა?",
+      "transliteration": "Caze natielia, ara?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Is it warm enough for a walk?",
+      "georgian": "თბილია საკმარისად, სასეირნოდ?",
+      "transliteration": "Tbilia sakmarisad, sasairnod?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "Where I’m standing, it’s actually warm.",
+      "georgian": "აქ სადაც ვდგავარ, მართლაც თბილია.",
+      "transliteration": "aq sadac vdgavar, martlac tbilia.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "How’s the humidity bothering you?",
+      "georgian": "გაწუხებთ ტენიანობა, როგორ გრძნობთ?",
+      "transliteration": "gaGwuxebT tenianoba, rogor grznobt?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "It’s sunny, but the breeze is cool.",
+      "georgian": "მზეა, მაგრამ ნიავი ცივსავითაა.",
+      "transliteration": "Mzea, magram niavi civsavitaa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-21T13:43:42.159480"
     }
   ],
-  "last_updated": "2026-11-20T14:22:42.217041"
+  "last_updated": "2026-11-21T13:43:42.159480"
 }

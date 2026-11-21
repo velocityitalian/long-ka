@@ -355,7 +355,39 @@
     {
       "category": "Growth",
       "date": "2026-11-20"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Joy",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Kindness",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Sports & Fitness",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Purpose",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Work & Office",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Success",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2026-11-21"
     }
   ],
-  "last_updated": "2026-11-20T14:22:42.235693"
+  "last_updated": "2026-11-21T13:43:42.170865"
 }
