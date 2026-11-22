@@ -387,7 +387,39 @@
     {
       "category": "Weather & Small Talk",
       "date": "2026-11-21"
+    },
+    {
+      "category": "Family & Home",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Love",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Wisdom",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Travel & Airport",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Daily Routine",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Cultural Traditions",
+      "date": "2026-11-22"
     }
   ],
-  "last_updated": "2026-11-21T13:43:42.170865"
+  "last_updated": "2026-11-22T13:38:52.219383"
 }

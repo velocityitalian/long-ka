@@ -21527,7 +21527,399 @@
       "transliteration": "Mzea, magram niavi civsavitaa.",
       "category": "Weather & Small Talk",
       "generated_at": "2026-11-21T13:43:42.159480"
+    },
+    {
+      "english": "I’ll cook while you set the table",
+      "georgian": "მე მოვამზადებ, სანამ შენ სუფრას გაშლი",
+      "transliteration": "me MOVAMZADEB, sanam SEN sufras GAShli",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Where are the keys, please?",
+      "georgian": "სად არის გასაღებები, გთხოვ?",
+      "transliteration": "sad ARIS GASaGEBI, gTxov?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "The house smells like fresh bread",
+      "georgian": "სახლი ისე სურნელოვნად ასდის ახალი პურისგან",
+      "transliteration": "saxli ise surneLOvnad ASdis axali PURISgan",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Let’s tidy up before guests arrive",
+      "georgian": "მოდით, დავალაგოთ, სანამ სტუმრები მოვლენ",
+      "transliteration": "moDit, davalagOt, sanam stumrebi MOVLEN",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Can you help me with laundry?",
+      "georgian": "შეგიძლია დამეხმარო რეცხვისას?",
+      "transliteration": "shegidzlia daMEKhmaro rexvisas?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "I’m buying groceries for the weekend",
+      "georgian": "შაბათ-კვირისთვის საყიდლებს ვყიდულობ",
+      "transliteration": "shabat-kiwrisaTvis sayidlEBs vQiidulob",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "We moved in last month, finally",
+      "georgian": "ბოლოს და ბოლოს გასულ თვეში გადმოვედით",
+      "transliteration": "bolos da bolos gasul TVeshi gadmovediT",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Love, meet me where I am.",
+      "georgian": "სიყვარულო, შემხვდი იქ, სადაც ვარ.",
+      "transliteration": "siqyvarulo, shemgvidi iq, sadats var",
+      "category": "Love",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Hold my hand, just for today.",
+      "georgian": "მომკიდე ხელი, მხოლოდ დღეს.",
+      "transliteration": "momkide xeli, mxolod dghes",
+      "category": "Love",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "I trust you with my real feelings.",
+      "georgian": "შენთან ჩემი ნამდვილი გრძნობები უსაფრთხოა.",
+      "transliteration": "shentan chemi namdvili grdznoe bi usafrtxoa",
+      "category": "Love",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "When you smile, I breathe easier.",
+      "georgian": "როცა მეღიმები, უფრო მარტივად ვსუნთქავ.",
+      "transliteration": "roca megim ebi, ufro martivad vsuntq av",
+      "category": "Love",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Stay close, even when life is loud.",
+      "georgian": "დამრჩი ახლოს, როცა ცხოვრება ხმამაღალია.",
+      "transliteration": "damrts hi axlos, rodesac cxovreba xmamaghali a",
+      "category": "Love",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "I choose us, not perfection.",
+      "georgian": "ჩვენს ვარჩევ, არა სიზუსტეს.",
+      "transliteration": "chvens archev, ara sizustes",
+      "category": "Love",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Tell me the truth, gently.",
+      "georgian": "მითხარი სიმართლე, ნაზად.",
+      "transliteration": "mitxari simartle, na zad",
+      "category": "Love",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Which bus goes to my stop?",
+      "georgian": "რომელი ავტობუსი მიდის ჩემს გაჩერებაზე?",
+      "transliteration": "romeli avtobusi midis chems gacherzebze?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Is this the correct route?",
+      "georgian": "ეს სწორი მარშრუტია, ხომ არ არის?",
+      "transliteration": "es swori marshrutia, kho ara aris?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Where do I get off?",
+      "georgian": "აქედან სად ჩამოვიდე?",
+      "transliteration": "akidan sad chmovede?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Does the trolleybus stop nearby?",
+      "georgian": "ტრამვაი აქვე ჩერდება?",
+      "transliteration": "tramvai aqve cherdeba?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "How long does this ride take?",
+      "georgian": "რამდენ ხანს გრძელდება ეს გზა?",
+      "transliteration": "ramden khans grdzeldeba es gza?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Is night service available today?",
+      "georgian": "დღეს არის ღამის ტრანსპორტი?",
+      "transliteration": "dghes aris ghames transporti?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Does the metro take me there?",
+      "georgian": "მეტრო იქამდე მიმყავს?",
+      "transliteration": "metro ikamdé mimyavs?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Before reacting, breathe and pause.",
+      "georgian": "რეაქციამდე, ჩაისუნთქე და შეჩერდი.",
+      "transliteration": "REAKciamde, CHAISUNTSQE da sheCHERdi",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Choose patience when facts lag behind.",
+      "georgian": "აირჩიე მოთმინება, როცა ფაქტები აგვიანებს.",
+      "transliteration": "AitchiE MOTMINEBA, rotsa FAQtebi agvianEbs",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Guard your attention like your time.",
+      "georgian": "დაიცავი შენი ყურადღება, როგორც დრო.",
+      "transliteration": "DAiCAVI SHENi ajURDNeba, rogorc DRO",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Learn from elders, not only books.",
+      "georgian": "მოუსმინე უფროსებსაც, არა მხოლოდ წიგნებს.",
+      "transliteration": "MOUSMINE uFROSEBSAC, ara mxolod WIGNEBS",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Seek clarity, not perfection.",
+      "georgian": "მიისწრაფე სიცხადისკენ, და არა სრულყოფისკენ.",
+      "transliteration": "mIEisrapve siCHAviSken, da ara srulqofIsken",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Honor small promises, they compound.",
+      "georgian": "დააფასე პატარა დაპირებები, ისინი გროვდება.",
+      "transliteration": "DAAPASE PATARA dapIREbebi, isini gvROvdeba",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "When stuck, change one habit.",
+      "georgian": "თუ ჩერდები, შეცვალე ერთი ჩვევა.",
+      "transliteration": "TU CHERDeBi, shecVAle ERTi CHVEva",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Where is the passport control, please?",
+      "georgian": "სად არის პასპორტის კონტროლი, გთხოვთ?",
+      "transliteration": "sad aris pasportis kontroli, gt qovth?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "I have only carry-on luggage today.",
+      "georgian": "დღეს მხოლოდ ხელბარგი მაქვს.",
+      "transliteration": "dghes mxolod khelbargi makvs",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Could you help me find my terminal?",
+      "georgian": "შეგიძლიათ დამეხმაროთ ტერმინალის პოვნაში?",
+      "transliteration": "segizliaT damekhmarot terminalis p ovnashi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Do I need to clear customs here?",
+      "georgian": "აქ ხომ არ მჭირდება საბაჟოს გავლა?",
+      "transliteration": "aq khom ar mkirdeba sabaj is gävla?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Is there a quiet place to wait?",
+      "georgian": "არის სადმე წყნარი ადგილი ლოდინისთვის?",
+      "transliteration": "aris sadme Tknari adgili lodinistvis?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "How early should I arrive for boarding?",
+      "georgian": "რამდენით ადრე უნდა მივიდე ჩასხდომამდე?",
+      "transliteration": "ramdenit adre unda mivede chasxdomamde?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "My flight number is on my phone.",
+      "georgian": "ჩემი ფრენის ნომერი ტელეფონზე მაქვს.",
+      "transliteration": "chemi frenis nomeri te leponze makvs",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Could we see the menu, please?",
+      "georgian": "შეიძლება მენიუ მოგვიტანოთ, გთხოვთ?",
+      "transliteration": "SheiZleba MENU mogitanot, gvTxovT?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "What’s your best Georgian specialty tonight?",
+      "georgian": "დღეს საღამოს თქვენი საუკეთესო ქართული კერძი რომელი იქნება?",
+      "transliteration": "dRes saRamos Tqveni sauketeso qarTuli kerZi romeli iqneba?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Do you have something less spicy?",
+      "georgian": "რამე ნაკლებად ცხარე თუ გაქვთ?",
+      "transliteration": "rame naklebad cxare Tu gqvT?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Can you make it without garlic?",
+      "georgian": "ნივრის გარეშე ხომ შეიძლება?",
+      "transliteration": "nivris gareSe xom SeiZleba?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "What comes with the dish?",
+      "georgian": "ამ კერძთან რა მოგიტანთ?",
+      "transliteration": "am kerZTan ra mogitanT?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "I’ll start with khachapuri, please.",
+      "georgian": "დავიწყებ ხაჭაპურით, გთხოვთ.",
+      "transliteration": "davitsxeb xačapurit, gvTxovT.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Is that soup served hot?",
+      "georgian": "ეს წვნიანი ცხელი ხომ იქნება?",
+      "transliteration": "es wvniani cxeli xom iqneba?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "I shower, then I feel fresh.",
+      "georgian": "ვიღებ შხაპს და მერე ვგრძნობ სიმსუბუქეს.",
+      "transliteration": "vigheb shpaps da mere vgrdzoB simsUbukves",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "I brush my teeth, slowly.",
+      "georgian": "კბილებს ვიხეხავ ნელა.",
+      "transliteration": "kbilEbs vikhEchav nEla",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "I set my clothes for today.",
+      "georgian": "ვაწყობ ტანსაცმელს დღისთვის წინასწარ.",
+      "transliteration": "vatsob tansatsmels dgisTvis tsinAsvar",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "I make coffee, then start moving.",
+      "georgian": "ყავას ვაკეთებ და მერე ვიწყებ.",
+      "transliteration": "qavas vakeTeb da mere viTSeb",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "I check the weather, just once.",
+      "georgian": "ამინდს ერთხელ ვამოწმებ.",
+      "transliteration": "aminds erTxel vamowmeB",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "I eat lunch without rushing.",
+      "georgian": "ლანჩს ვჭამ ჩქარობის გარეშე.",
+      "transliteration": "lantss vchAm chqaroBis gareshe",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "I drink tea before my first meeting.",
+      "georgian": "ჩაი დავლევ პირველ შეხვედრამდე.",
+      "transliteration": "chai davlev pirvel shexvedramde",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "I love the table blessing before eating.",
+      "georgian": "მიყვარს ლოცვა სუფრაზე, ჭამამდე.",
+      "transliteration": "Miqvars l ocva SUPRAze, CHamde.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "We thank the hosts, right after arriving.",
+      "georgian": "ჩამოსვლისთანავე ვუხდით მადლობას მასპინძლებს.",
+      "transliteration": "CHamosvlis tanave vukhd it madlobas maspindzlebs.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "In my mind, hospitality means warm welcome.",
+      "georgian": "ჩემთვის სტუმართმოყვარეობა თბილი დახვედრაა.",
+      "transliteration": "Chemtsvis st umartmov eoreoba TBILI dakhvedraa.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "The toast here feels like real connection.",
+      "georgian": "აქ სადღეგრძელო ნამდვილი კავშირივითაა.",
+      "transliteration": "Aq sadgh egrdzelo namdvili kavshi rivitaa.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "They sing softly, even before the meal.",
+      "georgian": "მღერიან მშვიდად, ჭამამდეც კი.",
+      "transliteration": "Mrge rian mshvidad, CHamamd ec ki.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "I try to greet everyone, even quietly.",
+      "georgian": "ვცდილობ ყველას მივესალმო, თუნდაც ჩუმად.",
+      "transliteration": "Vtsd ilob yvelas Mivesalmo, THUNDac Chumad.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T13:38:52.207153"
+    },
+    {
+      "english": "Do you wear traditional clothes for holidays?",
+      "georgian": "ჰolidays-ზე ტრადიციულ სამოსს ხომ არ იცვამთ?",
+      "transliteration": "Holidayse TRADICiul SAMOSS khom ar icvamT?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T13:38:52.207153"
     }
   ],
-  "last_updated": "2026-11-21T13:43:42.159480"
+  "last_updated": "2026-11-22T13:38:52.207153"
 }
