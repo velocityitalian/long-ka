@@ -22311,7 +22311,399 @@
       "transliteration": "aris samuSao magida oTaxi shi",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-11-23T16:30:37.926710"
+    },
+    {
+      "english": "Choose progress over perfect today.",
+      "georgian": "აირჩიე წინსვლა, სრულყოფილებაზე მეტად.",
+      "transliteration": "aicheMe pinsvla, srulqopilobaze metad",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Clean one corner, calm your mind.",
+      "georgian": "გაასუფთავე ერთი კუთხე, დაამშვიდე გონება.",
+      "transliteration": "gaasufTave ert i kuTxe, daamSvid e goneba",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Do the hard thing first.",
+      "georgian": "ჯერ გააკეთე რთული საქმე.",
+      "transliteration": "jer gaakeTe rTuLi saqme",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Set a tiny deadline, start now.",
+      "georgian": "დააწესე პატარა ვადა, ახლა დაიწყე.",
+      "transliteration": "daaese patiTa vada, aka now daeStart e",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Turn fear into a checklist.",
+      "georgian": "გადაქციე შიში ნაბიჯების სიად.",
+      "transliteration": "gad aqcie ShiSi nabijebis siad",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Ask for help without shame.",
+      "georgian": "დახმარება ითხოვე, უხერხულობის გარეშე.",
+      "transliteration": "daxmareba itxove, uxerkulobis gareSe",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Practice gratitude, even on busy days.",
+      "georgian": "მადლობა გამოხატე, როცა დღე სულ გეჩქარება.",
+      "transliteration": "madloba gamoxate, rodesac dge sul geCqar eba",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Hey, it’s great to meet you.",
+      "georgian": "ჰეი, ძალიან მიხარია თქვენი გაცნობა.",
+      "transliteration": "Hei, dzalian mixaria tkveni gacnoba.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Hi there, how’s your day going?",
+      "georgian": "გამარჯობა, როგორ მიდის თქვენი დღე?",
+      "transliteration": "Gamarjoba, rogor midis tkveni dge?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Thanks for saying hello, honestly.",
+      "georgian": "გმადლობთ, რომ ასე თბილად მომესალმეთ.",
+      "transliteration": "Gmadlobt, rom ase tbilad momesalmet.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I’m glad you approached me first.",
+      "georgian": "მიხარია, რომ თქვენ პირველმა გამომიწოდეთ საუბარი.",
+      "transliteration": "Mixaria, rom tkvent pirvelma gamomidet saubari.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Your kindness makes this feel easy.",
+      "georgian": "თქვენი სიკეთე ყველაფერს უფრო მარტივს ხდის.",
+      "transliteration": "Tkveni sikete yvelafers ufro martivs khdis.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I noticed you were really welcoming.",
+      "georgian": "დავინახე, რომ ძალიან გულთბილი ადამიანი ხართ.",
+      "transliteration": "Davinaxe, rom dzalian gulTbili adamiani khart.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Can we talk for a minute?",
+      "georgian": "შეგვიძლია ერთი წუთით ვისაუბროთ?",
+      "transliteration": "Shegvidzlia ert i twutit visasoubrot?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "How do I get to the airport?",
+      "georgian": "როგორ მივიდე აეროპორტამდე?",
+      "transliteration": "rogor mivadE aerop’ort’AMde?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Which way is downtown from here?",
+      "georgian": "რომელი მხარეა ქალაქის ცენტრისკენ?",
+      "transliteration": "romeli mkhArEa kalakis sent’riskEn?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Is it faster by bus?",
+      "georgian": "უფრო სწრაფია ავტობუსით?",
+      "transliteration": "upro swrafiA avtobusiT?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Where can I catch the tram?",
+      "georgian": "სად დავიჭერ ტრამვაის?",
+      "transliteration": "sad daviChEr tramvais?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Do I turn left here?",
+      "georgian": "აქ მარცხნივ უნდა გადავუხვიო?",
+      "transliteration": "ak marTsniv unda gadavuxvIo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "What landmark should I look for?",
+      "georgian": "რომელ ნიშნულს დავაკვირდე?",
+      "transliteration": "romel nishnulss davakvirDe?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Is there a staircase up nearby?",
+      "georgian": "ახლოს კიბეა ხომ, ასასვლელად?",
+      "transliteration": "akhlos kiBea khom, asasvlElad?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Yes, that feels balanced to me.",
+      "georgian": "კი, ეს ჩემთვის დაბალანსებულად ჟღერს.",
+      "transliteration": "Ki, es chemtvis dabalansebulad JRgens.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I’m in, but we need limits.",
+      "georgian": "მეც ვარ, მაგრამ ლიმიტები გვჭირდება.",
+      "transliteration": "Mets var, magram limitebi gvchirdeba.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "That works, I’ll follow your lead.",
+      "georgian": "კარგია, მე შენს ლიდერობას მივყვები.",
+      "transliteration": "Kargia, me shens liderobas mivkvebi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I’m not buying it yet.",
+      "georgian": "ჯერ ვერ ვიჯერებ.",
+      "transliteration": "Jer ver vijereb.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I agree, and here’s why.",
+      "georgian": "ვეთანხმები, და აი რატომ.",
+      "transliteration": "Vetankhmebi, da ai ratom.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Not that exactly, I see another way.",
+      "georgian": "ზუსტად ასე არა, სხვანაირად მეჩვენება.",
+      "transliteration": "Zustad ase ara, sxvanairad mecheveneba.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Let’s keep the plan simple.",
+      "georgian": "მოდით, გეგმა მარტივი იყოს.",
+      "transliteration": "Modit, gegma martivi iyos.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I like who we are together.",
+      "georgian": "მიყვარს, როგორ ვართ ერთად.",
+      "transliteration": "miyvars, rogor vart erTad",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Thanks for listening without fixing me.",
+      "georgian": "გმადლობ, რომ მისმენ, თითქოს არ მაბრკოლებ תיקით.",
+      "transliteration": "gmadlob, rom mismen, tiTqos ar makbrotseb tikit",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "You make space for me to be.",
+      "georgian": "შენ ადგილს მიტოვებ, რომ ვიყო.",
+      "transliteration": "Sen adgils miToveb, rom viyo",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Call me, I’ll pick up fast.",
+      "georgian": "დამირეკე, სწრაფად ავიღებ.",
+      "transliteration": "damireke, swraPKd avigheb",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I’m proud of your courage, truly.",
+      "georgian": "მართლა ვამაყობ შენი გამბედაობით.",
+      "transliteration": "martla vamayob sheni gambeDaobit",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Let’s keep checking on each other.",
+      "georgian": "მოდით, ერთმანეთს ხშირად დავაკვირდეთ.",
+      "transliteration": "modit, erTmaneTs xSirad davakvirdeT",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "When you need quiet, I’m here.",
+      "georgian": "როცა შენს მშვიდობას გჭირდება, აქ ვარ.",
+      "transliteration": "roca shens mshvidoBas gWirdeba, aq var",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I start, even with low energy.",
+      "georgian": "ვიწყებ მაინც, თუნდაც დაბალი ენერგიით.",
+      "transliteration": "viwyeb mainc, thundac dabali ENERGIit.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Today I choose wonder over judgment.",
+      "georgian": "დღეს შთაგონებას ვარჩევ, კრიტიკის ნაცვლად.",
+      "transliteration": "dghes SHTAGONEBAS varchev, kritikis NADVILad.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I ask questions, then I listen.",
+      "georgian": "კითხვებს ვსვამ და მერე ვუსმენ.",
+      "transliteration": "KITHVebs vsam da m're vusmen.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "Let my voice be imperfect, alive.",
+      "georgian": "ხმა დამრჩეს ცოცხალი, თუნდაც არასრულად.",
+      "transliteration": "kHma damcrdes TSKHobuli, THUNDac araserulad.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "One compliment in Georgian, right now.",
+      "georgian": "ერთი კომპლიმენტი ვთქვი ქართულად, ახლა.",
+      "transliteration": "erti KOMPLIMENTI vTqvi kartulad, AKLA.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I write it, then I say it.",
+      "georgian": "ვწერ და მერე ვთქვამ, მშვიდად.",
+      "transliteration": "vwER da m're vtqvam, midzhlyad.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "My brain warms up with practice.",
+      "georgian": "ჩემს თავს ვამზადებ პრაქტიკით.",
+      "transliteration": "chems tavs vamzadheb praqtikit.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I celebrate being here, right now.",
+      "georgian": "ვზეიმობ, რომ აქ ვარ, ახლა.",
+      "transliteration": "vzeimob, rom aq var, AKLA",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I ask, what do I really need?",
+      "georgian": "ვკითხვი საკუთარ თავს, რა მჭირდება მართლა?",
+      "transliteration": "vkityxvi sakuTar tavs, ra mχirdeba MARTLA",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "A grateful note makes my day softer.",
+      "georgian": "მადლიერების ერთი ჩანაწერი მიბრწყინავს დღეს.",
+      "transliteration": "madlierobis erTi CAnaweri mibBrwyinavs ḎGes",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I choose one kind action, today.",
+      "georgian": "ერთ კეთილ საქმეს ვარჩევ, დღეს.",
+      "transliteration": "erT KEtil saqmes vArCev, ḎGes",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I let rest be part of life.",
+      "georgian": "დასვენებას ცხოვრების ნაწილად ვუშვებ.",
+      "transliteration": "dasevenebas cxovrebis natsilad vUhvseb",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "My happiness includes healthy boundaries.",
+      "georgian": "ბედნიერება ჩემთვის ჯანსაღ საზღვრებსაც მოიცავს.",
+      "transliteration": "bednierEba CEmTvis jansaR sazRvrebsac moitavs",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I notice beauty, even in small things.",
+      "georgian": "სილამაზეს ვამჩნევ, პატარა რაღაცებშიც კი.",
+      "transliteration": "silamazes vamCnev, patara saqmeebSIC ki",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I start messy, I trust the process.",
+      "georgian": "ვიწყებ ბინძურად, პროცესს ვენდობი.",
+      "transliteration": "vikheb b'inzudrad, proces's vendobi",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I let curiosity steer my hands.",
+      "georgian": "ცნობისმოყვარეობა ხელებს მიმმართავს.",
+      "transliteration": "cnobis...mobviloba xelebs mimimartavs",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I turn a problem into a prompt.",
+      "georgian": "პრობლემას წინადადებად ვაქცევ.",
+      "transliteration": "problemas ts'inadz...ndebad vakk'ev",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I try it my way, not yours.",
+      "georgian": "ვცდი ჩემს გზას, არა შენს.",
+      "transliteration": "vts'adi chems gzas, ara shens",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I ask, what if this is enough?",
+      "georgian": "ვკითხულობ, რა თუ ეს უკვე საკმარისია?",
+      "transliteration": "vkitxulob, ra tu es ukve sakmarisia",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I steal inspiration, then make it mine.",
+      "georgian": "შთაგონებას ვიპარავ, მერე საკუთარად ვაქცევ.",
+      "transliteration": "shtagonebas vip'arav, mer'e saku...tarad vakk'ev",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T16:24:09.943508"
+    },
+    {
+      "english": "I build something simple, then improve.",
+      "georgian": "ვაგებ მარტივს და მერე ვაუმჯობესებ.",
+      "transliteration": "vageb martivs da mere vaumjobeseb",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T16:24:09.943508"
     }
   ],
-  "last_updated": "2026-11-23T16:30:37.926710"
+  "last_updated": "2026-11-24T16:24:09.943508"
 }
