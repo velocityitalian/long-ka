@@ -23487,7 +23487,399 @@
       "transliteration": "am MOMents ertad sxvanairad VAKETebt,",
       "category": "Forgiveness",
       "generated_at": "2026-11-26T15:47:48.332986"
+    },
+    {
+      "english": "I feel uneasy about this.",
+      "georgian": "ამაზე ცოტა უსიამოვნოდ ვიგრძნობ თავს.",
+      "transliteration": "amaze cota usiamovnod vigzgnob tavs",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I’m getting impatient, wait please.",
+      "georgian": "ვბრაზდები და ნერვები მეშლება, დამაცადეთ.",
+      "transliteration": "vbrazdeb i da nervebi meshleba, damacadet",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I’m hopeful about tomorrow.",
+      "georgian": "მომავალი იმედით მავსებს.",
+      "transliteration": "momavali imedit mastsvebs",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "Right now I feel tense.",
+      "georgian": "ახლა დაძაბულობა მაქვს, ვერ ვეშვები.",
+      "transliteration": "akhla dzabuloba makvs, ver veshvebi",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I’m deeply moved by this.",
+      "georgian": "ძალიან შემძრა ამ ამბავმა.",
+      "transliteration": "dzalian shemdra am ambavma",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "My mood is low today.",
+      "georgian": "დღეს ხასიათი არ მაქვს.",
+      "transliteration": "dghes khasiati ar makvs",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I feel safe with you.",
+      "georgian": "შენთან თავს უსაფრთხოდ ვგრძნობ.",
+      "transliteration": "shentan tavs usaprtxo d vgzhzob",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I speak to myself like a friend.",
+      "georgian": "მე საკუთარ თავს მეგობარივით ვესაუბრები.",
+      "transliteration": "me sakuTar Tavs megobarivit velapaRakebi",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I set one tiny goal, now.",
+      "georgian": "ერთ პატარა მიზანს ვაყენებ, ახლა.",
+      "transliteration": "ert patara mizans v ayeneb, AKLA",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I end the day with a win.",
+      "georgian": "დღეს გამარჯვებით ვამთავრებ.",
+      "transliteration": "dRes gamarjvebiT vamTavreb",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I choose curiosity over fear today.",
+      "georgian": "დღეს შიშზე ცნობისმოყვარეობას ვირჩევ.",
+      "transliteration": "dRes SiSze cnobismoyvareobas v iRceb",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I say thank you, out loud.",
+      "georgian": "მადლობას ვამბობ ხმამაღლა.",
+      "transliteration": "madlobas vambob xmamagla",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I take the next step gently.",
+      "georgian": "შემდეგ ნაბიჯს ნაზად გადავდგამ.",
+      "transliteration": "Semdeg nabijss nazad gadavdgam",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I let my shoulders drop, slowly.",
+      "georgian": "ჩამოვუშვებ მხრებს, ნელა.",
+      "transliteration": "chamovushveb mkhrebs, nela",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "Are you okay, really?",
+      "georgian": "კარგად ხარ, მართლა?",
+      "transliteration": "kargad har, martla?",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "That was thoughtful of you.",
+      "georgian": "ძალიან ყურადღებიანი იყავი.",
+      "transliteration": "dzalian yuradghebiani iqavi.",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I’m here, no pressure.",
+      "georgian": "მე აქ ვარ, ზეწოლა არ არის.",
+      "transliteration": "me aq var, zets‘ola ar aris.",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "Want me to listen for a bit?",
+      "georgian": "გინდა, ცოტათი დაგიგდო ყური?",
+      "transliteration": "ginda, tsot’at‘i dagigde kvri?",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I noticed you, and I’m glad.",
+      "georgian": "დავინახე, და გამიხარდა.",
+      "transliteration": "davinekhe, da gamikharda.",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "Can I share this with you?",
+      "georgian": "შემიძლია, გაგიზიარო ეს?",
+      "transliteration": "shemdzlia, gagiZiaRo es?",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "Take your time, I understand.",
+      "georgian": "დრო დაგჭირდება, ვიცი.",
+      "transliteration": "dro dagchirdeba, vitsi.",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "Do you have open gym hours?",
+      "georgian": "აქ არის ღია დარბაზის საათები?",
+      "transliteration": "Aq ars gãia darbazis saaTebi?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I want to try indoor climbing.",
+      "georgian": "მინდა შიდა ცოცვა ვცადო.",
+      "transliteration": "Minda shida tsocva vtsado.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "How do I adjust the bike seat?",
+      "georgian": "როგორ მოვარგო ველოსიპედის სავარძელი?",
+      "transliteration": "rogor movargo velosipedis savarzeli?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "Can you spot me during bench press?",
+      "georgian": "შეგიძლია დამაკვირდე სკამზე პრესის დროს?",
+      "transliteration": "shegidzlia damakvirde skamze presis dros?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "My form feels off, please slow down.",
+      "georgian": "ჩემი ფორმა მეშლება, გთხოვ, ნელა ვიმუშაო.",
+      "transliteration": "chemi porma meshleba, gvtxov, nela vimuShao.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "What muscles does this exercise target?",
+      "georgian": "რომელ კუნთებს ამუშავებს ეს ვარჯიში?",
+      "transliteration": "romeli kunTebs amushavebs es varjiSi?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I need a resistance band recommendation.",
+      "georgian": "რა ჯობს რეზინის ზოლი აიღო?",
+      "transliteration": "ra jobia rezinis zoli aiRo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I dance while waiting for my bus",
+      "georgian": "ავტობუსს რომ ველოდები, ვცეკვავ",
+      "transliteration": "avtobusს rom velodebi, vCEKvav",
+      "category": "Joy",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "My joy is sunlight on my hands",
+      "georgian": "ჩემს სიხარულს ხელებზე მზე მეფერება",
+      "transliteration": "chems sიხaruls xelebze mze mefereba",
+      "category": "Joy",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "A compliment makes me glow inside",
+      "georgian": "კომპლიმენტი შიგნით მიბრწყინავს",
+      "transliteration": "komplimenti SHIGnidan mibRtsqvins",
+      "category": "Joy",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I let music carry my worries away",
+      "georgian": "მუსიკა ნერვებს მიშორებს, და ვიღიმი",
+      "transliteration": "musika nervs mishores, da viGIMI",
+      "category": "Joy",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I write, and joy finds a rhythm",
+      "georgian": "ვწერ და სიხარული რიტმს პოულობს",
+      "transliteration": "vWER da sixaruli ritms p'oulobs",
+      "category": "Joy",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "Fresh flowers turn my day softer",
+      "georgian": "ახალი ყვავილები დღემს უფრო თბილს ხდის",
+      "transliteration": "akhali qvavilebi dges m’ufro TBils xdis",
+      "category": "Joy",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I step outside, and breathe easy",
+      "georgian": "გადავდივარ გარეთ, და მშვიდად ვისუნთქავ",
+      "transliteration": "gadaVdivar gareT, da miSHvidad visunsq'av",
+      "category": "Joy",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "Success feels real in my hands",
+      "georgian": "წარმატება ახლა ჩემს ხელებშია",
+      "transliteration": "pərmarteba axla cems khelSia",
+      "category": "Success",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I’m building momentum, one day at a time",
+      "georgian": "მიმდინარეობა მიყალიბდება დღე-დღეზე",
+      "transliteration": "mimdinareoba miyalibdeba dge-dGeze",
+      "category": "Success",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I owned the moment, that’s success",
+      "georgian": "მე დავეუფლე იმ წამს, ეს არის წარმატება",
+      "transliteration": "me davaეუფle im wams, es aris pərmarteba",
+      "category": "Success",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I said yes to effort, and won",
+      "georgian": "მძიმე შრომას ვუთხარი დიახ, და მოვიგე",
+      "transliteration": "mdzime shromas vუტxari diax, da movige",
+      "category": "Success",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "My plan survived the messy middle",
+      "georgian": "ჩემი გეგმა გადარჩა ქაოსიან შუაგულში",
+      "transliteration": "chemi gegma gadarC a qaosian shuagulSi",
+      "category": "Success",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I got the result, not just the try",
+      "georgian": "შედეგი მივიღე, მხოლოდ მცდელობა არა",
+      "transliteration": "shedegi mivighe, mxolod mcdeloba ara",
+      "category": "Success",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I learned fast, and it showed",
+      "georgian": "სწრაფად ვისწავლე, და ჩანდა",
+      "transliteration": "tsrafad viswavle, da candа",
+      "category": "Success",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "My purpose is steady effort, daily.",
+      "georgian": "ჩემი მიზანია სტაბილური შრომა, ყოველდღე.",
+      "transliteration": "chemi mizania stabiLOuri SHROMa, dGEYLide.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I choose growth over comfort, today.",
+      "georgian": "დღეს კომფორტზე წინ, ზრდას ვირჩევ.",
+      "transliteration": "dGEES komFORTze tsIN, zrdas virchev.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I want to make real progress, now.",
+      "georgian": "ახლა მინდა რეალური პროგრესი დავინახო.",
+      "transliteration": "akhla minda REALuri proGREsi davinAxo.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "My focus is building trust with others.",
+      "georgian": "ჩემი მიზანია სხვებთან ნდობის აგება.",
+      "transliteration": "chemi mizania SVEBtan NDObis AGEba.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I show up, even without perfect mood.",
+      "georgian": "მიზანი მაქვს, გამოჩნდე მაშინაც კი, როცა განწყობა არაა.",
+      "transliteration": "mizani makvs, gAmodchne maSinac ki, rodesac gandCYoba aRAa.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I’m here to learn, then improve.",
+      "georgian": "ჩემი მიზანია სწავლა, მერე გაუმჯობესება.",
+      "transliteration": "chemi mizania swavla, MEre gaumjobESeba.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I keep my promises, small and honest.",
+      "georgian": "ვცდილობ, შევასრულო დაპირებები, პატარა და გულწრფელი.",
+      "transliteration": "vdcilob, shevasRULo daPIREbebi, PATara da gulWRpeli.",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I need a refill, please.",
+      "georgian": "მედიკამენტი ისევ დამჭირდება, გთხოვთ.",
+      "transliteration": "medik'ament'i isev damchirdeba, gtxovt.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "Is there a generic version?",
+      "georgian": "აქ არის გენერიკი, თუ იგივე?",
+      "transliteration": "aq aris generiki, tu igive?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "Can you check the dosage?",
+      "georgian": "შეგიძლიათ დოზა შეამოწმოთ?",
+      "transliteration": "shegzlia-t d'oz'a sheamotsmot?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "How much will this cost?",
+      "georgian": "ეს დაახლოებით რამდენი ღირს?",
+      "transliteration": "es aproksimatad ramdeni ghirs?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "Do you have it in stock?",
+      "georgian": "აქვთ თუ მარაგშია?",
+      "transliteration": "aqvt tu maragdia?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I need it for allergies.",
+      "georgian": "ალერგიებისთვის მჭირდება.",
+      "transliteration": "alergiebistvis mchirdeba.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-27T15:36:14.025360"
+    },
+    {
+      "english": "I have fever since yesterday.",
+      "georgian": "გუშინვიდან სიცხე მაქვს.",
+      "transliteration": "ghushinvidan sikhe m-akvs.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-27T15:36:14.025360"
     }
   ],
-  "last_updated": "2026-11-26T15:47:48.332986"
+  "last_updated": "2026-11-27T15:36:14.025360"
 }
